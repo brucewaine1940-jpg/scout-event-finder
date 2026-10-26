@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Maryland Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:273763@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261121T180000Z
+DTEND:20261121T220000Z
+SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
+ Learn to Play
+LOCATION:Marriott Scout Service Center\, Bethesda\, Maryland
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-120846\n\nChess\n\nLearn to Play Chess\nOpen to Scouts of all ages!
+   Do you want to learn how to play chess?  We’ll teach you the rules 
+ of chess and the basic ideas behind the game.  It’s not as difficult t
+ o learn how to play as you might think.  “Every chess master was once 
+ a beginner\,” said chess master and author Irving Chernev\; and once yo
+ u know how to play\, there is a lifetime of discovery and fun ahead of yo
+ u as you learn to play better.\nIn this session we’ll cover:\nHow to Pl
+ ay Chess – the Rules of the Game\nB
+URL:https://global.scoutingevent.com/082-120846
+END:VEVENT
+BEGIN:VEVENT
+UID:273764@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270109T180000Z
+DTEND:20270109T220000Z
+SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
+ Play Better
+LOCATION:Marriott Scout Service Center\, Bethesda\, Maryland
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-120846\n\nChess\n\nLearn to Play Chess\nOpen to Scouts of all ages!
+   Do you want to learn how to play chess?  We’ll teach you the rules 
+ of chess and the basic ideas behind the game.  It’s not as difficult t
+ o learn how to play as you might think.  “Every chess master was once 
+ a beginner\,” said chess master and author Irving Chernev\; and once yo
+ u know how to play\, there is a lifetime of discovery and fun ahead of yo
+ u as you learn to play better.\nIn this session we’ll cover:\nHow to Pl
+ ay Chess – the Rules of the Game\nB
+URL:https://global.scoutingevent.com/082-120846
+END:VEVENT
+BEGIN:VEVENT
+UID:261400@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270729T170000Z
+DTEND:20270801T161500Z
+SUMMARY:Henson Summer Merit Badge College Camp – Weekend # 1
+LOCATION:Henson Scout Reservation\, Rhodesdale\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-11414
+ 6\n\nPlumbing\, Welding\, Merit Badge Counselor\n\nHSR Summer Merit Badge
+  College\n***We are still recruiting MB Counselors to offer additional b
+ adges or increase capacity. If you are willing to serve as a MB Counselor
+  for this event\, please email Donna Bruzzese at DBruzzese@dmvc.org. Coun
+ selors will receive a camping discount for the weekend.***\nThe Henson Su
+ mmer Merit Badge College is an extended merit badge college set in a Scou
+ t Camp setting with camping. Don’t worry about having to pitch a tent. 
+ We will have tents set for you with cots and t
+URL:https://global.scoutingevent.com/081-114146
+END:VEVENT
+END:VCALENDAR

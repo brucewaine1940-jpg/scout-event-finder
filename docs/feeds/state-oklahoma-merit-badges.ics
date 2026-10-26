@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Oklahoma Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:232461@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261107T150000Z
+DTEND:20261108T000000Z
+SUMMARY:Shooting Sports Extravaganza-Scouts\, BSA & Venturing
+LOCATION:Mabee Scout Reservation\, Locust Grove\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-9
+ 9960\n\nArchery\n\nWilliamson Shooting Sports Extravaganza\n9:00am - 6:00
+ pm\nRequired safety briefing at 9:00am\, stay as long as you wish.\nYou m
+ ust be a Youth or Adult member of Scouts BSA\, Venturing\, or Exploring\n
+ Cost: $12.00\nNovember 7th\, 2026\n(9:00am - 6:00pm)\nLocation:\nMabee Sc
+ out Reservation\nLocust Grove Oklahoma\nRegistration deadline is Monday\,
+  November 2nd\nThe Williamson Shooting Sports Extravaganza for Scouts BSA
+  and Venturers\, and Adults too\, will focus on qualification shooting fo
+ r the Williamson Award\, th
+URL:https://global.scoutingevent.com/488-99960
+END:VEVENT
+BEGIN:VEVENT
+UID:233107@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261113T230000Z
+DTEND:20261115T180000Z
+SUMMARY:Fall Encampment 2026 – Fall Encampment
+LOCATION:Diamond H Scout Ranch\, Cookson\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-Fa
+ llEncampment2026\n\nGeocaching\, Surveying\n\nFall Encampment is an encam
+ pment for Scouts BSA Boy and Girl Troops and Venturers to learn in-depth 
+ skills and unique opportunities. A wide variety of experiences are offere
+ d each year. Past events have included shooting sports\, fishing & fly fi
+ shing\, wilderness survival\, outdoor cooking\, geocashing and surveying.
+  Youth participants will choose their weekend program. The youth working 
+ on fly fishing\, fishing\, search and rescue\, wilderness survival\, geoc
+ aching and surveying will cover requirement
+URL:https://global.scoutingevent.com/480-FallEncampment2026
+END:VEVENT
+BEGIN:VEVENT
+UID:275334@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270416T220000Z
+DTEND:20270418T170000Z
+SUMMARY:ZBASE Backpacking Shakedown Weekend – Backpacking Shakedown Week
+ end
+LOCATION:ZBASE\, Skiatook\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 21631\n\nBackpacking\n\nBackpacking Shakedown Weekend\nApril 16 - 18\, 20
+ 27\nZink High Adventure Base\nCost: Scouts and Adults - $40.00 per person
+ \nLimited to first 40 participants (Scouts\, Scouters\, Venturers) to reg
+ ister.\nFor Scouts wanting to test their backpacking skills. Experienced 
+ backpackers recommended.\nThis event is intended for units planning to at
+ tend a high adventure trekking program. No merit badge material or requir
+ ements will be covered. This is purely a shakedown for your high adventur
+ e treks\, such as Philm
+URL:https://global.scoutingevent.com/488-121631
+END:VEVENT
+BEGIN:VEVENT
+UID:275333@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270416T230000Z
+DTEND:20270418T160000Z
+SUMMARY:ZBASE Canoeing Shakedown Weekend – Canoeing Shakedown Weekend
+LOCATION:ZBASE\, Skiatook\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 21630\n\nCanoeing\n\nCanoeing Shakedown Weekend\nApril 16 - 18\, 2027\nZB
+ ase Base Camp\nCost: Scouts and Adults - $40.00 per person\nLimited to fi
+ rst 40 participants (Scouts\, Scouters\, Venturers) to register.\nFor Sco
+ uts wanting to test their canoeing skills - shakedown weekend for prepara
+ tion for Northern Tier or Swamp Base type canoe trips. Only register for 
+ this event if you are a crew preparing for a high adventure canoeing prog
+ ram.\nIndividuals\, small groups\, and beginners should look to our Canoe
+ ing Merit Badge Weeke
+URL:https://global.scoutingevent.com/488-121630
+END:VEVENT
+BEGIN:VEVENT
+UID:277201@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271112T230000Z
+DTEND:20271114T180000Z
+SUMMARY:Fall Encampment 2027 – Fall Encampment
+LOCATION:Diamond H Scout Ranch\, Cookson\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
+ 2579\n\nGeocaching\, Surveying\n\nFall Encampment is an encampment for Sc
+ outs BSA Boy and Girl Troops and Venturers to learn in-depth skills and u
+ nique opportunities. A wide variety of experiences are offered each year.
+  Past events have included shooting sports\, fishing & fly fishing\, wild
+ erness survival\, outdoor cooking\, geocashing and surveying. Youth parti
+ cipants will choose their weekend program. The youth working on fly fishi
+ ng\, fishing\, search and rescue\, wilderness survival\, geocaching and s
+ urveying will cover requirement
+URL:https://global.scoutingevent.com/480-122579
+END:VEVENT
+END:VCALENDAR

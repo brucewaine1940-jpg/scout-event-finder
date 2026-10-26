@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – West Virginia Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:261416@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270417T120000Z
+DTEND:20270417T210000Z
+SUMMARY:Wilderness First Aid Training
+LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
+DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
+ -27Wilderness\n\nFirst Aid\, CPR / AED / First Aid\, Safeguarding Youth /
+  YPT\, Wilderness First Aid\n\nWILDERNESS FIRST AID TRAINING\n(8-hour ski
+ lls course)\nhosted by Mountaineer Area Council\nCamp Mountaineer   | 
+    April 17\, 2027\nEver want advanced training in the art of\nwildernes
+ s first aid\n? The Mountaineer Area Council will be putting on this train
+ ing following the Scouting America and ECSI Wilderness First Aid curricul
+ um and certified through ECSI.\nWHO:\nOlder youth\, adults\, those needin
+ g it for high adventure bases or National Jamboree\nWHEN:\nApril 17\, 202
+ 7  |\n8:00 AM - 5:00 PM\nWHERE:\nCamp Mou
+URL:https://global.scoutingevent.com/615-27Wilderness
+END:VEVENT
+BEGIN:VEVENT
+UID:269054@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270604T190000Z
+DTEND:20270606T160000Z
+SUMMARY:Blue & Gray Camporee
+LOCATION:Blue and Gray Reunion\, Philippi\, West Virginia
+DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
+ -27BlueGray\n\nAmerican Heritage\n\nBLUE & GRAY CAMPOREE\nPhilippi\, WV 
+   |   June 4 - 6\, 2027\nThe\nBlue and Gray Camporee\nis an annual eve
+ nt commemorating the first land battle of the Civil War in Philippi\, WV.
+  Camporee will be held in conjunction with the event where Scouts can get
+  some hands-on interaction with the re-enactors and participate in the fe
+ stival.\nSAVE THE DATE\nWHO:\nScouts BSA\, Venturing Crews\, Webelos/AOL\
+ nWebelos/AOL can attend on Saturday Only\nWHEN:\nJune 4 - 6\, 2027\nWHERE
+ :\nPhilippi\, WV\nFEES:\nTBD\nIncludes lunch and ev
+URL:https://global.scoutingevent.com/615-27BlueGray
+END:VEVENT
+END:VCALENDAR

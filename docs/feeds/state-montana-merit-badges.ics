@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Montana Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:272396@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270108T000000Z
+DTEND:20270110T000000Z
+SUMMARY:Big Sky Ski Weekend
+LOCATION:Big Sky Ski Resort\, Big Sky\, Montana
+DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-bigsky\n
+ \nSnow Sports\, CPR / AED / First Aid\, Safeguarding Youth / YPT\n\nBig S
+ ky\nSki Weekend 2027\nREGISTRATION OPENS SEPTEMBER 15TH @ 8AM\nJoin us Ja
+ nuary 7-9 as we shred the slopes of Big Sky Ski Resort during our annual 
+ Big Sky Ski Weekend.  This is an event for all levels of skiers and boar
+ ders with classes for beginners and tons of slope time for the more advan
+ ced.\nEarly registration is highly recommended!\nLunch will be provided o
+ n Saturday from 12:00pm to 1:00 pm and Snow Sports MB meeting 1:00 pm to 
+ 2:00 pm\nWe encourage scouts and leaders to sleep in tents aroun
+URL:https://global.scoutingevent.com/315-bigsky
+END:VEVENT
+END:VCALENDAR

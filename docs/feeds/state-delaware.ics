@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Delaware
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:264231@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261114T140000Z
+DTEND:20261114T210000Z
+SUMMARY:Merit Badge College
+LOCATION:Archmere Academy\, Claymont\, Delaware
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-M
+ BC\n\nPosition-Specific Leader Training\n\nChester County Council Merit B
+ adge College at Archmere Academy\nA SCOUT MUST ATTEND BOTH SESSION 1 (Nov
+  14\, 2026) AND SESSION 2 (Feb 20\, 2027)\nThe scout will register only f
+ or the first session but must attend and actively participate in both ses
+ sions to complete the selected Merit Badges. The classes you select will 
+ be worked on during Session 1 and will be completed during Session 2. The
+ re may also be additional work outside of class to finish all requirement
+ s. The break between sessions will g
+URL:https://global.scoutingevent.com/539-MBC
+END:VEVENT
+BEGIN:VEVENT
+UID:264232@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270220T140000Z
+DTEND:20270220T210000Z
+SUMMARY:Merit Badge College – Merit Badge College Con't
+LOCATION:Archmere Academy\, Claymont\, Delaware
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-M
+ BC\n\nPosition-Specific Leader Training\n\nChester County Council Merit B
+ adge College at Archmere Academy\nA SCOUT MUST ATTEND BOTH SESSION 1 (Nov
+  14\, 2026) AND SESSION 2 (Feb 20\, 2027)\nThe scout will register only f
+ or the first session but must attend and actively participate in both ses
+ sions to complete the selected Merit Badges. The classes you select will 
+ be worked on during Session 1 and will be completed during Session 2. The
+ re may also be additional work outside of class to finish all requirement
+ s. The break between sessions will g
+URL:https://global.scoutingevent.com/539-MBC
+END:VEVENT
+BEGIN:VEVENT
+UID:264125@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270306T130000Z
+DTEND:20270306T230000Z
+SUMMARY:Wilderness First Aid Training
+LOCATION:Akridge Scout Reservation\, Dover\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-WFA\n
+ \nCPR / AED / First Aid\, Wilderness First Aid\n\nECSI Wilderness First A
+ id Course\nThe 2027 ECSI Wilderness First Aid Course is a two part course
+  consisting of an 8-hour online section which must be completed prior to 
+ the practical skills course. Both the online course and in-person practic
+ al skills course must be completed in order to earn the WFA certificatio
+ n. You will receive a completion card that will be valid for two years.\n
+ Wilderness First Aid (WFA) is the assessment of and treatment given to a
+ n ill or injured person in a remote environ
+URL:https://global.scoutingevent.com/081-WFA
+END:VEVENT
+BEGIN:VEVENT
+UID:274171@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270312T230000Z
+DTEND:20270314T160000Z
+SUMMARY:Basic Adult Leader Outdoor Orientation - BALOO (C32) - Akridge Sco
+ ut Reservation
+LOCATION:Akridge Scout Reservation\, Dover\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-asrba
+ loo\n\nBALOO\n\nBASIC ADULT LEADER OUTDOOR ORIENTATION (BALOO):\nThis cou
+ rse is designed as an introduction to the Cub Scout outdoor program for t
+ hose leaders who are interested in adding a camping component to their De
+ n or Pack activities.\nWho should take BALOO?\nScouting America requires
+  that you have at least one BALOO-trained adult on every Cub Scout Den or
+  Pack overnight outdoor event.\nA BALOO-trained leader should be at any o
+ vernighter regardless of whether it is a Pack\, District or Council event
+ .\nHaving at
+URL:https://global.scoutingevent.com/081-asrbaloo
+END:VEVENT
+BEGIN:VEVENT
+UID:267168@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270614T120000Z
+DTEND:20270618T200000Z
+SUMMARY:Del-Mar-Va Council Day Camps – Blue Hen Day Camp\, North at Over
+ see Farm
+LOCATION:Oversee Farm\, Wilmington\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-DayCa
+ mp\n\n\n\nDel-Mar-Va Council Day Camps\nWelcomes Boys & Girls 1st grade -
+  5th grade – OPEN TO NON SCOUTS\n**Drop off as early as 7:45 am-pick up
+  no later than 4:15 pm**\n***Any youth who will be in the first grade in 
+ the fall MUST be accompanied by an adult (21+) partner all week.***\nNon-
+ Scout Registrations\nAn adult or youth may volunteer\, or a youth may pa
+ rticipate in Day Camp even if they are not a registered member of Scouti
+ ng America. We hope you’ll enjoy the program and consider joining after
+  your exper
+URL:https://global.scoutingevent.com/081-DayCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267165@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270621T120000Z
+DTEND:20270625T200000Z
+SUMMARY:Del-Mar-Va Council Day Camps – Chesapeake Day Camp\, North\, Elk
+ ton\, MD (formerly known as Cecil Day Camp)
+LOCATION:Oversee Farm\, Wilmington\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-DayCa
+ mp\n\n\n\nDel-Mar-Va Council Day Camps\nWelcomes Boys & Girls 1st grade -
+  5th grade – OPEN TO NON SCOUTS\n**Drop off as early as 7:45 am-pick up
+  no later than 4:15 pm**\n***Any youth who will be in the first grade in 
+ the fall MUST be accompanied by an adult (21+) partner all week.***\nNon-
+ Scout Registrations\nAn adult or youth may volunteer\, or a youth may pa
+ rticipate in Day Camp even if they are not a registered member of Scouti
+ ng America. We hope you’ll enjoy the program and consider joining after
+  your exper
+URL:https://global.scoutingevent.com/081-DayCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267162@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270621T120000Z
+DTEND:20270621T121500Z
+SUMMARY:Del-Mar-Va Council Day Camps – Coastal Day Camp\, South\, George
+ town\, DE (formerly known as Sussex Day Camp)
+LOCATION:Oversee Farm\, Wilmington\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-DayCa
+ mp\n\n\n\nDel-Mar-Va Council Day Camps\nWelcomes Boys & Girls 1st grade -
+  5th grade – OPEN TO NON SCOUTS\n**Drop off as early as 7:45 am-pick up
+  no later than 4:15 pm**\n***Any youth who will be in the first grade in 
+ the fall MUST be accompanied by an adult (21+) partner all week.***\nNon-
+ Scout Registrations\nAn adult or youth may volunteer\, or a youth may pa
+ rticipate in Day Camp even if they are not a registered member of Scouti
+ ng America. We hope you’ll enjoy the program and consider joining after
+  your exper
+URL:https://global.scoutingevent.com/081-DayCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267164@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270712T120000Z
+DTEND:20270716T200000Z
+SUMMARY:Del-Mar-Va Council Day Camps – Blue Hen Day Camp\, South\, Newar
+ k\, DE (formerly known as Iron Hill Day Camp)
+LOCATION:Oversee Farm\, Wilmington\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-DayCa
+ mp\n\n\n\nDel-Mar-Va Council Day Camps\nWelcomes Boys & Girls 1st grade -
+  5th grade – OPEN TO NON SCOUTS\n**Drop off as early as 7:45 am-pick up
+  no later than 4:15 pm**\n***Any youth who will be in the first grade in 
+ the fall MUST be accompanied by an adult (21+) partner all week.***\nNon-
+ Scout Registrations\nAn adult or youth may volunteer\, or a youth may pa
+ rticipate in Day Camp even if they are not a registered member of Scouti
+ ng America. We hope you’ll enjoy the program and consider joining after
+  your exper
+URL:https://global.scoutingevent.com/081-DayCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267163@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270726T120000Z
+DTEND:20270730T203000Z
+SUMMARY:Del-Mar-Va Council Day Camps – Akridge Scout Reservation Day Cam
+ p\, Dover DE
+LOCATION:Oversee Farm\, Wilmington\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-DayCa
+ mp\n\n\n\nDel-Mar-Va Council Day Camps\nWelcomes Boys & Girls 1st grade -
+  5th grade – OPEN TO NON SCOUTS\n**Drop off as early as 7:45 am-pick up
+  no later than 4:15 pm**\n***Any youth who will be in the first grade in 
+ the fall MUST be accompanied by an adult (21+) partner all week.***\nNon-
+ Scout Registrations\nAn adult or youth may volunteer\, or a youth may pa
+ rticipate in Day Camp even if they are not a registered member of Scouti
+ ng America. We hope you’ll enjoy the program and consider joining after
+  your exper
+URL:https://global.scoutingevent.com/081-DayCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267166@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270726T120000Z
+DTEND:20270730T200000Z
+SUMMARY:Del-Mar-Va Council Day Camps – Blue Crab Day Camp\, North\, East
+ on\, MD
+LOCATION:Oversee Farm\, Wilmington\, Delaware
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-DayCa
+ mp\n\n\n\nDel-Mar-Va Council Day Camps\nWelcomes Boys & Girls 1st grade -
+  5th grade – OPEN TO NON SCOUTS\n**Drop off as early as 7:45 am-pick up
+  no later than 4:15 pm**\n***Any youth who will be in the first grade in 
+ the fall MUST be accompanied by an adult (21+) partner all week.***\nNon-
+ Scout Registrations\nAn adult or youth may volunteer\, or a youth may pa
+ rticipate in Day Camp even if they are not a registered member of Scouti
+ ng America. We hope you’ll enjoy the program and consider joining after
+  your exper
+URL:https://global.scoutingevent.com/081-DayCamp
+END:VEVENT
+END:VCALENDAR

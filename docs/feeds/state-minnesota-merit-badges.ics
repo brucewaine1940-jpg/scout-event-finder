@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Minnesota Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:275546@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261113T010000Z
+DTEND:20261113T020000Z
+SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
+  Scoutbook/Scoutbook Plus for Merit Badge Counselors
+LOCATION:Virtual Classrooms\, Ft Snelling\, Minnesota
+DESCRIPTION:Northern Star Scouting\nhttps://global.scoutingevent.com/250-l
+ ivewebinarsOct2026Feb2027\n\nProgramming\, Merit Badge Counselor\n\nABOUT
+  THE Education Outpost LIVE webinars\nAs part of our commitment to reach 
+ the widest possible audience\, Northern Star Scouting offers a series of 
+ Instructor-led Zoom/TEAMS classes for Adult Leaders online. Webinars wil
+ l take place on a weekday evening starting at 7pm and will last around an
+  hour\, unless a different duration is specified. They will include a pre
+ sentation\, followed by Q&A time.\nThere is no cost for these sessions.\n
+ We will be updating the class listings regularly as we confirm n
+URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
+END:VEVENT
+BEGIN:VEVENT
+UID:277464@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270108T230000Z
+DTEND:20270110T200000Z
+SUMMARY:Operation Icicle (Scout Weekend) – Operation Icicle BSA 2027
+LOCATION:Gamehaven Scout Camp\, Rochester\, Minnesota
+DESCRIPTION:Gamehaven Council\nhttps://global.scoutingevent.com/299-opice2
+ 7s\n\nCitizenship in the Community\, Citizenship in the Nation\n\nOPERATI
+ ON ICICLE 2027 - SCOUTS BSA\nStranger Items: Into the Sideways\nA mysteri
+ ous rift has opened between our world and a strange alternate dimension k
+ nown as the Sideways—and it’s up to the Scouts to uncover what lies b
+ eyond!\nStep into the unknown as a brave explorer. Navigate unusual envir
+ onments\, solve mysterious puzzles\, and work together to discover the se
+ crets of the Sideways. The clock is ticking\, and the fate of our world m
+ ay depend on your courage\, teamwork\, and quick thinking!\nEvent Da
+URL:https://global.scoutingevent.com/299-opice27s
+END:VEVENT
+BEGIN:VEVENT
+UID:259236@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270620T180000Z
+DTEND:20270626T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week One
+LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
+DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
+ 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
+ \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
+ ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
+ ly recognized and fully accredited by the BSA.  Our programs have been f
+ eatured in both Boys Life and Scouting Magazines.  In operation since
+  1945\, this beautiful camp has met the needs of Scouts and leaders for o
+ ver 70 years.  We look forward to welcoming you and your troop to Camp W
+ ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+URL:https://global.scoutingevent.com/429-112960
+END:VEVENT
+BEGIN:VEVENT
+UID:259237@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270627T180000Z
+DTEND:20270703T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week Two
+LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
+DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
+ 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
+ \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
+ ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
+ ly recognized and fully accredited by the BSA.  Our programs have been f
+ eatured in both Boys Life and Scouting Magazines.  In operation since
+  1945\, this beautiful camp has met the needs of Scouts and leaders for o
+ ver 70 years.  We look forward to welcoming you and your troop to Camp W
+ ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+URL:https://global.scoutingevent.com/429-112960
+END:VEVENT
+BEGIN:VEVENT
+UID:259239@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T180000Z
+DTEND:20270717T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week Three
+LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
+DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
+ 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
+ \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
+ ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
+ ly recognized and fully accredited by the BSA.  Our programs have been f
+ eatured in both Boys Life and Scouting Magazines.  In operation since
+  1945\, this beautiful camp has met the needs of Scouts and leaders for o
+ ver 70 years.  We look forward to welcoming you and your troop to Camp W
+ ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+URL:https://global.scoutingevent.com/429-112960
+END:VEVENT
+BEGIN:VEVENT
+UID:259240@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270718T180000Z
+DTEND:20270724T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week Four
+LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
+DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
+ 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
+ \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
+ ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
+ ly recognized and fully accredited by the BSA.  Our programs have been f
+ eatured in both Boys Life and Scouting Magazines.  In operation since
+  1945\, this beautiful camp has met the needs of Scouts and leaders for o
+ ver 70 years.  We look forward to welcoming you and your troop to Camp W
+ ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+URL:https://global.scoutingevent.com/429-112960
+END:VEVENT
+BEGIN:VEVENT
+UID:259241@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270725T180000Z
+DTEND:20270731T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week Five
+LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
+DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
+ 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
+ \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
+ ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
+ ly recognized and fully accredited by the BSA.  Our programs have been f
+ eatured in both Boys Life and Scouting Magazines.  In operation since
+  1945\, this beautiful camp has met the needs of Scouts and leaders for o
+ ver 70 years.  We look forward to welcoming you and your troop to Camp W
+ ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+URL:https://global.scoutingevent.com/429-112960
+END:VEVENT
+BEGIN:VEVENT
+UID:263987@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270801T180000Z
+DTEND:20270807T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week Six
+LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
+DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
+ 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
+ \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
+ ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
+ ly recognized and fully accredited by the BSA.  Our programs have been f
+ eatured in both Boys Life and Scouting Magazines.  In operation since
+  1945\, this beautiful camp has met the needs of Scouts and leaders for o
+ ver 70 years.  We look forward to welcoming you and your troop to Camp W
+ ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+URL:https://global.scoutingevent.com/429-112960
+END:VEVENT
+END:VCALENDAR

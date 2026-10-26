@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Ontario
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:246846@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270710T170000Z
+DTEND:20270717T160000Z
+SUMMARY:Birchbark - Algonquin Week 1 – Algonquin Week 1 Crew 1
+LOCATION:Whitefish Lake Group Campground Basecamp - BBX\, Whitney\, Ontari
+ o
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1073
+ 42\n\nCanoeing\, Safety\, Aquatics (Lifeguard / Water Rescue)\, Leave No 
+ Trace\n\nBirchbark Expeditions is a Nationally Accredited week-long\, fu
+ lly-guided high adventure canoe experience in Algonquin Provincial Park\
+ , steeped in the rich Age of Exploration history of Upper Canada.  Opera
+ ted by volunteers from the Great Falls Scout Council\, the program is ope
+ n to Scouts BSA \, Venture Scouts and Sea Scouts at least 13 years old by
+  the time of deposit\, and must be a "blue swimmer" according to the Scou
+ ting America Swim Assessment. They should have also earned First Class sc
+ out ra
+URL:https://global.scoutingevent.com/375-107342
+END:VEVENT
+BEGIN:VEVENT
+UID:246854@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270717T170000Z
+DTEND:20270724T160000Z
+SUMMARY:Birchbark - Algonquin Week 2 – Algonquin Week 2 Team 1
+LOCATION:Whitefish Lake Group Campground Basecamp - BBX\, Whitney\, Ontari
+ o
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1073
+ 44\n\nCanoeing\, Safety\, Aquatics (Lifeguard / Water Rescue)\, Leave No 
+ Trace\n\nBirchbark Expeditions is a Nationally Accredited week-long\, fu
+ lly guided high adventure canoe experience in Algonquin Provincial Park\
+ , steeped in the rich Age of Exploration history of Upper Canada.  Opera
+ ted by volunteers from the Great Falls Scout Council\, the program is ope
+ n to Scouts BSA and Venture Scouts at least 13 years old and a "swimmer
+ ".  Algonquin Adventure Expeditions take place in Ontario Canada's Alg
+ onquin Provincial Park and offers world-class canoe tripping among the t
+ housands o
+URL:https://global.scoutingevent.com/375-107344
+END:VEVENT
+BEGIN:VEVENT
+UID:246861@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270724T170000Z
+DTEND:20270731T160000Z
+SUMMARY:Birchbark - Algonquin Week 3 – Algonquin Week 2 Team 1
+LOCATION:Whitefish Lake Group Campground Basecamp - BBX\, Whitney\, Ontari
+ o
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1073
+ 45\n\nCanoeing\, Safety\, Aquatics (Lifeguard / Water Rescue)\, Leave No 
+ Trace\n\nBirchbark Expeditions is a Nationally Accredited week-long\, fu
+ lly guided high adventure canoe experience in Algonquin Provincial Park\
+ , steeped in the rich Age of Exploration history of Upper Canada.  Opera
+ ted by volunteers from the Great Falls Scout Council\, the program is ope
+ n to Scouts BSA and Venture Scouts at least 13 years old and a "swimmer
+ ".  Algonquin Adventure Expeditions take place in Ontario Canada's Alg
+ onquin Provincial Park and offers world-class canoe tripping among the t
+ housands o
+URL:https://global.scoutingevent.com/375-107345
+END:VEVENT
+END:VCALENDAR

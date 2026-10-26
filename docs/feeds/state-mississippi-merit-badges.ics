@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Mississippi Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:270696@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270109T140000Z
+DTEND:20270109T230000Z
+SUMMARY:Delta Area Merit Badge College
+LOCATION:Delta Area Merit Badge College\, Cleveland\, Mississippi
+DESCRIPTION:Chickasaw Council\nhttps://global.scoutingevent.com/558-Deltaa
+ reaMBC27\n\nAviation\n\nDelta Area Merit Badge College 2027\nPlease compl
+ ete all waivers before starting registration.  You will need to upload t
+ he completed and signed waivers during the registration process for each 
+ scout.\nWhen & Where\nDelta Area Merit Badge College\nDelta Area Merit Ba
+ dge College\nDelta Area Merit Badge College\nSaturday 01-09-2027\n8:00 AM
+  CT to 5:00 PM CT\nMore Information\n$\nView Pricing\nCleveland\, Mississ
+ ippi 38732\nRegistration Closes:\n&nbsp01-05-2027 11:59 PM\nContact\nAtta
+ chments\n2027 Merit Badge Colle
+URL:https://global.scoutingevent.com/558-DeltaareaMBC27
+END:VEVENT
+END:VCALENDAR

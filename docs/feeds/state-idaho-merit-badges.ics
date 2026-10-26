@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Idaho Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:268572@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270725T200000Z
+DTEND:20270731T170000Z
+SUMMARY:2027 Camp Grizzly Summer Camp – Camp Grizzly - Session 1
+LOCATION:Camp Grizzly\, Harvard\, Idaho
+DESCRIPTION:Inland Northwest Council\nhttps://global.scoutingevent.com/611
+ -CampGrizzly2027\n\nWelding\n\nCAMP GRIZZLY\nSince 1938\, Camp Grizzly ha
+ s been the home to amazing summer adventures for many Scouts and Leaders 
+ and has helped to shape thousands of Scouts into amazing young people!  
+ Nestled on the edge of the Hoodoo Mountains\, Camp Grizzly is home to a f
+ antastic shooting sports program\, including six different ranges.  In t
+ he Eagle's Nest\, new scouts will spend two full days learning Scout thro
+ ugh First Class skills and the ins and outs of the scouting program.  Yo
+ ur scouts will return to the
+URL:https://global.scoutingevent.com/611-CampGrizzly2027
+END:VEVENT
+BEGIN:VEVENT
+UID:268573@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270801T200000Z
+DTEND:20270807T170000Z
+SUMMARY:2027 Camp Grizzly Summer Camp – Camp Grizzly - Session 2
+LOCATION:Camp Grizzly\, Harvard\, Idaho
+DESCRIPTION:Inland Northwest Council\nhttps://global.scoutingevent.com/611
+ -CampGrizzly2027\n\nWelding\n\nCAMP GRIZZLY\nSince 1938\, Camp Grizzly ha
+ s been the home to amazing summer adventures for many Scouts and Leaders 
+ and has helped to shape thousands of Scouts into amazing young people!  
+ Nestled on the edge of the Hoodoo Mountains\, Camp Grizzly is home to a f
+ antastic shooting sports program\, including six different ranges.  In t
+ he Eagle's Nest\, new scouts will spend two full days learning Scout thro
+ ugh First Class skills and the ins and outs of the scouting program.  Yo
+ ur scouts will return to the
+URL:https://global.scoutingevent.com/611-CampGrizzly2027
+END:VEVENT
+END:VCALENDAR

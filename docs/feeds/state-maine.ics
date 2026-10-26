@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Maine
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:272094@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261107T140000Z
+DTEND:20261107T210000Z
+SUMMARY:2026 Kennebec Valley Lego Derby Race – Lego Derby 2026
+LOCATION:Camp Bomazeen\, Belgrade\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2026_K
+ V_LegoPinewood\n\n\n\nCopy this link to register --> https://forms.gle/Qg
+ jrWQhdaNkA53BJA\nKennebec Valley District Lego Derby\nJoin us on November
+  7\, 2026 from 9-4 at Camp Bomazeen to create your own Legos Derby ride. 
+ Open to all unit levels and families. Bring a friend!\nFill out either th
+ e Google\nregistration form\nto hold your place. On race day you will bui
+ ld your vehicle Legos creation then race it all in one day. Come with som
+ e creative ideas. Bring your own Legos\, if you want. We have plenty to s
+ earch through.\nPay
+URL:https://global.scoutingevent.com/218-2026_KV_LegoPinewood
+END:VEVENT
+BEGIN:VEVENT
+UID:270084@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270206T130000Z
+DTEND:20270206T190000Z
+SUMMARY:2027 Cub Scout Winter Fun Day
+LOCATION:Camp Roosevelt\, Clifton\, Maine
+DESCRIPTION:Katahdin Area Council\nhttps://global.scoutingevent.com/216-Cu
+ bWinter2027\n\n\n\nWe can’t wait to see you for a day full of snow\, sm
+ iles\, and Scouting fun!  Grab your winter gear\, bring the whole family
+ \, and get ready for games\, good food\, and great memories at Camp Roose
+ velt!  Don’t forget to bring a can of chicken noodle soup to add to ou
+ r hearty camp lunch — it’s part of the fun and fellowship that makes
+  Winter Fun Day special!\nWhen & Where\nClick here to register\nCamp Roos
+ evelt\nSaturday 02-06-2027\n8:00 AM ET to 2:00 PM ET\nMore Information\nM
+ ap of Event\n$\nView Pricing\nCoord
+URL:https://global.scoutingevent.com/216-CubWinter2027
+END:VEVENT
+BEGIN:VEVENT
+UID:270085@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270507T200000Z
+DTEND:20270509T140000Z
+SUMMARY:2027 Cub Scout Spring Fling
+LOCATION:Camp Roosevelt\, Clifton\, Maine
+DESCRIPTION:Katahdin Area Council\nhttps://global.scoutingevent.com/216-Sp
+ ringFling27\n\n\n\nCalling all Cub Scout friends and families! Blast off 
+ for an unforgettable\, fun-filled weekend at Camp Roosevelt as we embark 
+ on an exciting Outer Space Explorers adventure! Join us for a family camp
+ ing experience packed with space-themed games\, hands-on activities\, out
+ door adventures\, creative crafts\, and campfire fun. Whether you're a se
+ asoned camper or preparing for your very first mission\, Spring Fling is 
+ the perfect opportunity to unplug\, explore\, and make lasting memories t
+ ogether. Pack yo
+URL:https://global.scoutingevent.com/216-SpringFling27
+END:VEVENT
+BEGIN:VEVENT
+UID:272062@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270521T220000Z
+DTEND:20270522T220000Z
+SUMMARY:2027 Kennebec Valley SPRING BALOO & IOLS Training – 2026 BALOO/I
+ OLS Training
+LOCATION:Camp Bomazeen\, Belgrade\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2027_K
+ V_BALOO\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\nBALOO\n&\n
+ IOLS\nTraining\nMay 21st 6pm - May 23rd 6pm\nCamp Bomazeen\nCost: $20 to 
+ cover cost of food and supplies- which can be paid at the door but regist
+ ration must be done online.\nPick either training for your required posit
+ ion.\nBasic Adult Leader Outdoor Orientation Training (BALOO)\nBALOO\nis
+  the Cub Scout leader training required for any Cub Scout den or pack cam
+ pout\, including pack camping overnighters and Webelos den overnighters. 
+ Packs are required to have at least 1\nBALOO\ntrained leader in at
+URL:https://global.scoutingevent.com/218-2027_KV_BALOO
+END:VEVENT
+BEGIN:VEVENT
+UID:258482@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270801T170000Z
+DTEND:20270806T140000Z
+SUMMARY:2027 Cub Scout Resident Camp
+LOCATION:Camp Roosevelt\, Clifton\, Maine
+DESCRIPTION:Katahdin Area Council\nhttps://global.scoutingevent.com/216-20
+ 27CSResidentCamp\n\n\n\nDive into an unforgettable week of fun and discov
+ ery at Cub Scout Resident Camp at Camp Roosevelt! Cub Scouts will enjoy h
+ ands-on activities\, outdoor adventures\, and classic camp experiences de
+ signed just for them. From trying new skills and exploring the outdoors t
+ o making new friends and building confidence\, every day is filled with e
+ xcitement and growth.\nScouts will participate in age-appropriate program
+ s that encourage teamwork\, imagination\, and a love for the outdoors—a
+ ll in a safe\, support
+URL:https://global.scoutingevent.com/216-2027CSResidentCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:272090@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271015T210000Z
+DTEND:20271016T210000Z
+SUMMARY:2027 Casco Bay Fall BALOO/IOLS Training – 2027 BALOO/IOLS Traini
+ ng
+LOCATION:Camp William Hinds\, Raymond\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-119968
+ \n\nBALOO\, IOLS\, Position-Specific Leader Training\n\nBALOO\n&\nIOLS\nT
+ raining\nSeptember 14-15\, 2024\nCAMP HINDS- RAYMOND\, MAINE\nCost: $20 t
+ o cover cost of food and supplies\nBasic Adult Leader Outdoor Orientation
+  Training (BALOO)\nBALOO is the Cub Scout leader training required for a
+ ny Cub Scout den or pack campout\, including pack camping overnighters an
+ d Webelos den overnighters. Packs are required to have at least 1 BALOO t
+ rained leader in attendance at every campout.\nBALOO training is comprise
+ d of\ntwo\ncomponents—\nan online component\nand a practical\, 
+URL:https://global.scoutingevent.com/218-119968
+END:VEVENT
+BEGIN:VEVENT
+UID:272088@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271015T220000Z
+DTEND:20271017T160000Z
+SUMMARY:2027 KV Fall Camporee – 2026 Fall Camporee
+LOCATION:TBD\, TBD\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2027_K
+ V_Fall_Camporee\n\n\n\nKV Fall Camporee\nWhen & Where\nSave the Date\n202
+ 6 Fall Camporee\nTBD\nFriday 10-15-2027 6:00 PM ET to\nSunday 10-17-2027 
+ 12:00 PM ET\nMore Information\nMap of Event\nCoords: 30.4794441\, -97.817
+ 2151\nTBD\nTBD\, Maine\nRegistration Closes:\n&nbsp10-15-2027 11:59 PM\nC
+ ontact\nAttachments\nMed Forms-A&B only-2019 Version
+URL:https://global.scoutingevent.com/218-2027_KV_Fall_Camporee
+END:VEVENT
+END:VCALENDAR

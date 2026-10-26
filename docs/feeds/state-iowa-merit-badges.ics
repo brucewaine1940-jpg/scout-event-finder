@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Iowa Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:274429@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261114T150000Z
+DTEND:20261114T220000Z
+SUMMARY:Merit Badge University
+LOCATION:Beckman Catholic High School\, Dyersville\, Iowa
+DESCRIPTION:Northeast Iowa Council\nhttps://global.scoutingevent.com/178-M
+ BU26\n\nCitizenship in the Community\, Citizenship in the Nation\, Citize
+ nship in the World\, Law\, Robotics\n\nEagle Required Merit Badge Univer
+ sity with Catholic Emblems\nWhen\n: Saturday\, November 14\, 2026\nTimefr
+ ame\n: 9am-4pm\; *Lunch break from 12pm-1pm\nWhere\n: Beckman Catholic Hi
+ gh School\, Dyersville\nCost\n: $5 per class (unless noted)\n*Several opt
+ ions are available close to Beckman Catholic High School or bring a sack 
+ lunch. Food will not be avaialable for purchase.\nCub Scout Catholic Embl
+ ems\nMorning Classes\nLight of Christ - Must purchase handbook ahead of 
+ time. *Will not complete in one day.*\nParvuli 
+URL:https://global.scoutingevent.com/178-MBU26
+END:VEVENT
+BEGIN:VEVENT
+UID:275263@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270417T220000Z
+DTEND:20270418T210000Z
+SUMMARY:Iowa- Illinois Challenge Training Consortium – COPE & Climbing F
+ oundation Training
+LOCATION:Mitigwa Scout Reservation\, Woodward\, Iowa
+DESCRIPTION:Mid-Iowa Council\nhttps://global.scoutingevent.com/177-Challen
+ getraining\n\nClimbing\, Climbing Instructor\n\nBecome a COPE/Climbing Fa
+ cilitator in your local BSA Councils!\nMid-Iowa - Hawkeye Area - Northeas
+ t Iowa - Winnebago - Blackhawk - Mitigwa - Howard H Cherry - CS Klaus - I
+ ngawanis - Canyon - Lowden\n3 Training Modules:\nCOPE & Climbing Founatio
+ n Training\nFunndamentals of COPE & Climbing\nInitiative Games\nSfety Mea
+ sures\nLife Safety Systems\nEmergency Procedures\nClimbing Tower & Zip Li
+ ne Operations\nApril 17-18\, 2027 at Mitigwa Scout Reservation\nCOPE Ins
+ tructor Training\nPrerequisite: COPE & Climbing Fou
+URL:https://global.scoutingevent.com/177-Challengetraining
+END:VEVENT
+BEGIN:VEVENT
+UID:275265@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270430T220000Z
+DTEND:20270502T210000Z
+SUMMARY:Iowa- Illinois Challenge Training Consortium – COPE Instructor T
+ raining
+LOCATION:Mitigwa Scout Reservation\, Woodward\, Iowa
+DESCRIPTION:Mid-Iowa Council\nhttps://global.scoutingevent.com/177-Challen
+ getraining\n\nClimbing\, Climbing Instructor\n\nBecome a COPE/Climbing Fa
+ cilitator in your local BSA Councils!\nMid-Iowa - Hawkeye Area - Northeas
+ t Iowa - Winnebago - Blackhawk - Mitigwa - Howard H Cherry - CS Klaus - I
+ ngawanis - Canyon - Lowden\n3 Training Modules:\nCOPE & Climbing Founatio
+ n Training\nFunndamentals of COPE & Climbing\nInitiative Games\nSfety Mea
+ sures\nLife Safety Systems\nEmergency Procedures\nClimbing Tower & Zip Li
+ ne Operations\nApril 17-18\, 2027 at Mitigwa Scout Reservation\nCOPE Ins
+ tructor Training\nPrerequisite: COPE & Climbing Fou
+URL:https://global.scoutingevent.com/177-Challengetraining
+END:VEVENT
+BEGIN:VEVENT
+UID:275266@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271001T220000Z
+DTEND:20271002T210000Z
+SUMMARY:Iowa- Illinois Challenge Training Consortium – Natural Rock Clim
+ bing Instructor Training
+LOCATION:Mitigwa Scout Reservation\, Woodward\, Iowa
+DESCRIPTION:Mid-Iowa Council\nhttps://global.scoutingevent.com/177-Challen
+ getraining\n\nClimbing\, Climbing Instructor\n\nBecome a COPE/Climbing Fa
+ cilitator in your local BSA Councils!\nMid-Iowa - Hawkeye Area - Northeas
+ t Iowa - Winnebago - Blackhawk - Mitigwa - Howard H Cherry - CS Klaus - I
+ ngawanis - Canyon - Lowden\n3 Training Modules:\nCOPE & Climbing Founatio
+ n Training\nFunndamentals of COPE & Climbing\nInitiative Games\nSfety Mea
+ sures\nLife Safety Systems\nEmergency Procedures\nClimbing Tower & Zip Li
+ ne Operations\nApril 17-18\, 2027 at Mitigwa Scout Reservation\nCOPE Ins
+ tructor Training\nPrerequisite: COPE & Climbing Fou
+URL:https://global.scoutingevent.com/177-Challengetraining
+END:VEVENT
+END:VCALENDAR

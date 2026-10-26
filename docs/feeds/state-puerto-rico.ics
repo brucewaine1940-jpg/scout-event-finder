@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Puerto Rico
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:276085@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261108T120000Z
+DTEND:20261108T163000Z
+SUMMARY:2do. Colegio de Ciencias de Comisionados 2026-27 – Morning
+LOCATION:Online\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1219
+ 68\n\n\n\nColegio de Ciencias de Comisionados\nEl Colegio de Ciencias de 
+ Comisionados es un evento organizado por el Concilio de Puerto Rico de S
+ couting of America (BSA).\nUna característica dinámica de la sociedad 
+ actual es la necesidad de aprender como una actividad para toda la vida. 
+ Como comisionados\, debemos ajustar continuamente nuestras habilidades pa
+ ra brindar un servicio más valioso a nuestras unidades. Por lo tanto\, l
+ os comisionados deben ver el aprendizaje como una parte importante de tod
+ a su vid
+URL:https://global.scoutingevent.com/661-121968
+END:VEVENT
+BEGIN:VEVENT
+UID:276086@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261108T170000Z
+DTEND:20261108T203000Z
+SUMMARY:2do. Colegio de Ciencias de Comisionados 2026-27 – Afternoon
+LOCATION:Online\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1219
+ 68\n\n\n\nColegio de Ciencias de Comisionados\nEl Colegio de Ciencias de 
+ Comisionados es un evento organizado por el Concilio de Puerto Rico de S
+ couting of America (BSA).\nUna característica dinámica de la sociedad 
+ actual es la necesidad de aprender como una actividad para toda la vida. 
+ Como comisionados\, debemos ajustar continuamente nuestras habilidades pa
+ ra brindar un servicio más valioso a nuestras unidades. Por lo tanto\, l
+ os comisionados deben ver el aprendizaje como una parte importante de tod
+ a su vid
+URL:https://global.scoutingevent.com/661-121968
+END:VEVENT
+BEGIN:VEVENT
+UID:276956@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270704T150000Z
+DTEND:20270710T150000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – P
+ rimera Semana / First Week - Scouts
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276961@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270707T110000Z
+DTEND:20270708T000000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
+ ia de Visitantes / Visitors Day
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276957@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T150000Z
+DTEND:20270717T150000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – S
+ egunda Semana / Second Week - Scouts BSA
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276962@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270714T110000Z
+DTEND:20270715T000000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
+ ia de Visitantes / Visitors Day
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276958@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270718T150000Z
+DTEND:20270724T150000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – T
+ ercera Semana / Third Week - BSA Scouts
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276963@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270721T110000Z
+DTEND:20270722T000000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
+ ia de Visitantes / Visitors Day
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276959@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270725T150000Z
+DTEND:20270731T150000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – C
+ uarta Semana / Fourth Week - BSA Scouts
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+BEGIN:VEVENT
+UID:276964@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270728T110000Z
+DTEND:20270729T000000Z
+SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
+ ia de Visitantes / Visitors Day
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1224
+ 42\n\n\n\nEl Concilio de Puerto Rico y Guajataka Scout Reservation se enc
+ uentran listos para ofrecer su tradicional campamento de verano. Los espe
+ ramos con un programa variado y lleno de experiencias memorables para ni
+ ños\, jóvenes y líderes adultos. Crearemos un entorno de aventura\, he
+ rmandad y desarrollo para todos los acampadores\, dentro de las hermosas 
+ y actualizadas facilidades. Con una nueva imagen y actitud\, buscamos hor
+ rar los 87 años de historia de nuestro Santuario de amistad\, pero atemp
+ erándonos
+URL:https://global.scoutingevent.com/661-122442
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – South Dakota Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:265933@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270613T170000Z
+DTEND:20270619T140000Z
+SUMMARY:2027 Medicine Mountain Summer Camp – Week 1
+LOCATION:Medicine Mountain Scout Ranch\, Custer\, South Dakota
+DESCRIPTION:Sioux Council\nhttps://global.scoutingevent.com/695-MMSR2027Su
+ mmerCamp\n\nCamping\, Health Care Professions\n\nMedicine Mountain Scout 
+ Ranch (MMSR) and the Medicine Mountain Adventure Base (MMAB) is 160 acres
+  of Scouting paradise surrounded by 1.3 million acres of National Forest 
+ Service land. Our camp rests like a jewel in the beautiful Black Hills of
+  South Dakota. We boast a private fresh water lake stocked with trout\, c
+ ountless miles of local trails for mountain biking and hiking\, breathtak
+ ing views\, rustic serenity\, access to local natural-face rock for climb
+ ing\, and access to both public and non-pub
+URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:265934@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270620T170000Z
+DTEND:20270626T140000Z
+SUMMARY:2027 Medicine Mountain Summer Camp – Week 2
+LOCATION:Medicine Mountain Scout Ranch\, Custer\, South Dakota
+DESCRIPTION:Sioux Council\nhttps://global.scoutingevent.com/695-MMSR2027Su
+ mmerCamp\n\nCamping\, Health Care Professions\n\nMedicine Mountain Scout 
+ Ranch (MMSR) and the Medicine Mountain Adventure Base (MMAB) is 160 acres
+  of Scouting paradise surrounded by 1.3 million acres of National Forest 
+ Service land. Our camp rests like a jewel in the beautiful Black Hills of
+  South Dakota. We boast a private fresh water lake stocked with trout\, c
+ ountless miles of local trails for mountain biking and hiking\, breathtak
+ ing views\, rustic serenity\, access to local natural-face rock for climb
+ ing\, and access to both public and non-pub
+URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:265935@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270627T170000Z
+DTEND:20270703T140000Z
+SUMMARY:2027 Medicine Mountain Summer Camp – Week 3
+LOCATION:Medicine Mountain Scout Ranch\, Custer\, South Dakota
+DESCRIPTION:Sioux Council\nhttps://global.scoutingevent.com/695-MMSR2027Su
+ mmerCamp\n\nCamping\, Health Care Professions\n\nMedicine Mountain Scout 
+ Ranch (MMSR) and the Medicine Mountain Adventure Base (MMAB) is 160 acres
+  of Scouting paradise surrounded by 1.3 million acres of National Forest 
+ Service land. Our camp rests like a jewel in the beautiful Black Hills of
+  South Dakota. We boast a private fresh water lake stocked with trout\, c
+ ountless miles of local trails for mountain biking and hiking\, breathtak
+ ing views\, rustic serenity\, access to local natural-face rock for climb
+ ing\, and access to both public and non-pub
+URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:265936@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:2027 Medicine Mountain Summer Camp – Week 4
+LOCATION:Medicine Mountain Scout Ranch\, Custer\, South Dakota
+DESCRIPTION:Sioux Council\nhttps://global.scoutingevent.com/695-MMSR2027Su
+ mmerCamp\n\nCamping\, Health Care Professions\n\nMedicine Mountain Scout 
+ Ranch (MMSR) and the Medicine Mountain Adventure Base (MMAB) is 160 acres
+  of Scouting paradise surrounded by 1.3 million acres of National Forest 
+ Service land. Our camp rests like a jewel in the beautiful Black Hills of
+  South Dakota. We boast a private fresh water lake stocked with trout\, c
+ ountless miles of local trails for mountain biking and hiking\, breathtak
+ ing views\, rustic serenity\, access to local natural-face rock for climb
+ ing\, and access to both public and non-pub
+URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
+END:VEVENT
+END:VCALENDAR

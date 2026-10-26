@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Oregon Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:267884@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270704T210000Z
+DTEND:20270707T160000Z
+SUMMARY:Camp Pioneer - Summer Camp – Eagle Camp Session 1
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:267889@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270707T210000Z
+DTEND:20270710T160000Z
+SUMMARY:Camp Pioneer - Summer Camp – Eagle Camp Session 2
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:270768@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T183000Z
+DTEND:20270717T163000Z
+SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 1
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:270905@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T190000Z
+DTEND:20270717T173000Z
+SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 1
+LOCATION:Camp Baldwin\, Dufur\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ baldwin27\n\nWhitewater\n\nCamp Baldwin\nBuilt on Grit. Defined by Advent
+ ure.\nRenowned as the pride of the CPC\, Camp Baldwin is the ultimate hig
+ h-adventure destination for Scouts. Tucked deep in the Mt. Hood National 
+ Forest\, this rugged camp delivers non-stop outdoor action — from horse
+ back riding\, mountain biking\, and rock climbing to whitewater rafting\,
+  and more. Surrounded by towering evergreens and roaming wildlife\, Baldw
+ in is where you push limits\, build skills\, and create stories worth tel
+ ling.\nLearn More on Our Webs
+URL:https://global.scoutingevent.com/492-baldwin27
+END:VEVENT
+BEGIN:VEVENT
+UID:270774@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270718T183000Z
+DTEND:20270724T163000Z
+SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 2
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:270906@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270718T190000Z
+DTEND:20270724T173000Z
+SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 2
+LOCATION:Camp Baldwin\, Dufur\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ baldwin27\n\nWhitewater\n\nCamp Baldwin\nBuilt on Grit. Defined by Advent
+ ure.\nRenowned as the pride of the CPC\, Camp Baldwin is the ultimate hig
+ h-adventure destination for Scouts. Tucked deep in the Mt. Hood National 
+ Forest\, this rugged camp delivers non-stop outdoor action — from horse
+ back riding\, mountain biking\, and rock climbing to whitewater rafting\,
+  and more. Surrounded by towering evergreens and roaming wildlife\, Baldw
+ in is where you push limits\, build skills\, and create stories worth tel
+ ling.\nLearn More on Our Webs
+URL:https://global.scoutingevent.com/492-baldwin27
+END:VEVENT
+BEGIN:VEVENT
+UID:270775@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270725T183000Z
+DTEND:20270731T163000Z
+SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 3
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:270907@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270725T190000Z
+DTEND:20270731T173000Z
+SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 3
+LOCATION:Camp Baldwin\, Dufur\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ baldwin27\n\nWhitewater\n\nCamp Baldwin\nBuilt on Grit. Defined by Advent
+ ure.\nRenowned as the pride of the CPC\, Camp Baldwin is the ultimate hig
+ h-adventure destination for Scouts. Tucked deep in the Mt. Hood National 
+ Forest\, this rugged camp delivers non-stop outdoor action — from horse
+ back riding\, mountain biking\, and rock climbing to whitewater rafting\,
+  and more. Surrounded by towering evergreens and roaming wildlife\, Baldw
+ in is where you push limits\, build skills\, and create stories worth tel
+ ling.\nLearn More on Our Webs
+URL:https://global.scoutingevent.com/492-baldwin27
+END:VEVENT
+BEGIN:VEVENT
+UID:270776@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270801T183000Z
+DTEND:20270807T163000Z
+SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 4
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:267883@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270809T180000Z
+DTEND:20270813T163000Z
+SUMMARY:Camp Pioneer - Summer Camp – Cascade Chronicles - Forsaken Kingd
+ om
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ pioneer27\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scou
+ ts. By Scouts.\nPioneer is where the ordinary ends and the epic begins. W
+ hether you’re questing through immersive roleplay or trekking across vo
+ lcanic ridgelines\, every path leads to personal growth. It’s a place w
+ here you’ll crawl through frigid ice caves\, summit mountain peaks\, 
+ or spend hours strategizing around a tabletop—and somehow\, it all bui
+ lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
+ p Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+END:VCALENDAR

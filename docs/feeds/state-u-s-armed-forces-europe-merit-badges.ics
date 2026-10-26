@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – U.S. Armed Forces – Europe Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:257994@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261227T230000Z
+DTEND:20270104T225900Z
+SUMMARY:Camp Kenya '26 – Camp Kenya '26 Staff
+LOCATION:Savage Wilderness \, Nairobi\, U.S. Armed Forces – Europe
+DESCRIPTION:Transatlantic Council\nhttps://global.scoutingevent.com/802-Ca
+ mpKenya26\n\nProgramming\, Whitewater\n\nThank you for your interest in C
+ amp Kenya '26! Camp will be held at the Savage Wilderness Adventure Camp\
+ , three hours outside of Nairobi\, Kenya. Savage Wilderness leads the way
+  in Kenyan adventure opportunities providing unique\, breathtaking experi
+ ences in one of nature's most beautiful environments. Led by an internati
+ onal team of outdoor experts fully trained to provide the highest safety 
+ standards\; you will cross rivers\, plains and plateaus in an extraordina
+ ry and unforgettable adventure.\nCam
+URL:https://global.scoutingevent.com/802-CampKenya26
+END:VEVENT
+BEGIN:VEVENT
+UID:257993@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261228T230000Z
+DTEND:20270104T225900Z
+SUMMARY:Camp Kenya '26 – Camp Kenya
+LOCATION:Savage Wilderness \, Nairobi\, U.S. Armed Forces – Europe
+DESCRIPTION:Transatlantic Council\nhttps://global.scoutingevent.com/802-Ca
+ mpKenya26\n\nProgramming\, Whitewater\n\nThank you for your interest in C
+ amp Kenya '26! Camp will be held at the Savage Wilderness Adventure Camp\
+ , three hours outside of Nairobi\, Kenya. Savage Wilderness leads the way
+  in Kenyan adventure opportunities providing unique\, breathtaking experi
+ ences in one of nature's most beautiful environments. Led by an internati
+ onal team of outdoor experts fully trained to provide the highest safety 
+ standards\; you will cross rivers\, plains and plateaus in an extraordina
+ ry and unforgettable adventure.\nCam
+URL:https://global.scoutingevent.com/802-CampKenya26
+END:VEVENT
+END:VCALENDAR

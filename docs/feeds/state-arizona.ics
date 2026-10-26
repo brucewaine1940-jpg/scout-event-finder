@@ -1,0 +1,298 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Arizona
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:273741@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261231T160000Z
+DTEND:20261231T200000Z
+SUMMARY:Celebrate the USA's 250th – Drop in Start time
+LOCATION:Chuck Ford Lakeside Park\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-120825\
+ n\n\n\nCelebrate the USA's 250th year!\nWHEN: December 31\, 2026\nWHERE: 
+ Chuck Ford Lakeside Park\, 8201 E Stella Rd\, Tucson\, AZ 85730\nWHAT TI
+ ME: This event is an open timed event.  Feel free to come and go as you
+  please between 9am & 1pm.  Check in upon arrival to get your wristband.
+ \nEnd the year on a bright note with a morning of Cub Scouts and celebrat
+ ing America's past!\nBurn off some holiday break energy while you reflect
+  on the history of the USA with exciting and fun activities:\nNantucket W
+ haler's ca
+URL:https://global.scoutingevent.com/011-120825
+END:VEVENT
+BEGIN:VEVENT
+UID:272770@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270502T000000Z
+DTEND:20270502T230000Z
+SUMMARY:Introduction to Outdoor Leadership Skills (IOLS) – IOLS
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-120362\
+ n\nIOLS\, Position-Specific Leader Training\n\nReady to complete your out
+ door training for Scouts BSA being a Scout Master or Assistant Scout Mast
+ er? Join us for Introduction to Outdoor Leader Skills (IOLS)\, a hands-on
+  weekend designed to teach the outdoor skills every leader needs to deliv
+ er a successful troop program.\nCheck-in is Friday at 5:00 PM - 5:30 PM\n
+ Participants will learn and practice:\n•  Camping skills\n•  Fire b
+ uilding and cooking\n•  Knots and lashings\n•  Map and compass\n•
+   Hiking and outdoor ethics\n•  First aid and more\nImportan
+URL:https://global.scoutingevent.com/011-120362
+END:VEVENT
+BEGIN:VEVENT
+UID:275295@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270604T200000Z
+DTEND:20270606T170000Z
+SUMMARY:Cub Scout Adventure Camp 2027
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-CubCamp
+ 2027\n\n\n\nThe Catalina Council invites you to join us for a weekend of 
+ fun and adventure. Whether it's your first night under the stars or you'r
+ e a seasoned camper\, Cub Scout Summer Adventure Weekend will create last
+ ing memories for all. Don't miss out on this annual outdoor experience!\n
+ $200 per Cub Scout and Adult Pair\n$125 per additional Cub Scout\nAll Lio
+ ns and Tigers must be accompanied by a parent/guardian\nFor all other ran
+ ks\, each adult can bring one (1) additional Cub Scout (sibling)\n$75 per
+  additio
+URL:https://global.scoutingevent.com/011-CubCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265316@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270606T200000Z
+DTEND:20270612T170000Z
+SUMMARY:2027 Camp Geronimo Summer Camp – Session 1
+LOCATION:Camp Geronimo\, Payson\, Arizona
+DESCRIPTION:Grand Canyon Council\nhttps://global.scoutingevent.com/010-ger
+ onimo2027\n\n\n\nCamp Geronimo is located north of Payson in the shadows 
+ of the magnificent Mogollon Rim on nearly 500 acres of forest and meadows
+ . Surrounded by over 5\,000 acres of ponderosa pine forest\, trails lea
+ d from camp to the top of the rim where Scouts can stand at the very ed
+ ge of the Colorado Plateau.\nPlease reach out with\nany\nquestions\, comm
+ ents\, or concerns. (602) 955-7747 | gcc.program@scoutingaz.org\nContact\
+ nWhen & Where\nSave A Spot Registration\nSession 1\nCamp Geronimo\nSunday
+  06-06-2027 1:00 PM MST
+URL:https://global.scoutingevent.com/010-geronimo2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272748@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270606T210000Z
+DTEND:20270612T170000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Summer Camp Week 1
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-ScoutCa
+ mp2027\n\nCamping\n\nCamp Lawton Scout Camp 2027\nJoin us at Camp Lawton 
+ for Summer Camp 2027!  Enjoy an unforgettable week of adventure\, learni
+ ng\, and leadership development! Scouts will have the opportunity to earn
+  a wide variety of merit badges and participate in other scouting activit
+ ies while enjoying the great outdoors. Registration is open to Provisiona
+ l Scouts and Adults (individuals or units with fewer than 2 adult leaders
+ )\, as well as Units (2 or more adults required).\nWeek 1:\nJune 6 - 12\,
+  2027 (session lim
+URL:https://global.scoutingevent.com/011-ScoutCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265317@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270613T200000Z
+DTEND:20270619T170000Z
+SUMMARY:2027 Camp Geronimo Summer Camp – Session 2
+LOCATION:Camp Geronimo\, Payson\, Arizona
+DESCRIPTION:Grand Canyon Council\nhttps://global.scoutingevent.com/010-ger
+ onimo2027\n\n\n\nCamp Geronimo is located north of Payson in the shadows 
+ of the magnificent Mogollon Rim on nearly 500 acres of forest and meadows
+ . Surrounded by over 5\,000 acres of ponderosa pine forest\, trails lea
+ d from camp to the top of the rim where Scouts can stand at the very ed
+ ge of the Colorado Plateau.\nPlease reach out with\nany\nquestions\, comm
+ ents\, or concerns. (602) 955-7747 | gcc.program@scoutingaz.org\nContact\
+ nWhen & Where\nSave A Spot Registration\nSession 1\nCamp Geronimo\nSunday
+  06-06-2027 1:00 PM MST
+URL:https://global.scoutingevent.com/010-geronimo2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272749@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270613T210000Z
+DTEND:20270619T170000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Summer Camp Week 2
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-ScoutCa
+ mp2027\n\nCamping\n\nCamp Lawton Scout Camp 2027\nJoin us at Camp Lawton 
+ for Summer Camp 2027!  Enjoy an unforgettable week of adventure\, learni
+ ng\, and leadership development! Scouts will have the opportunity to earn
+  a wide variety of merit badges and participate in other scouting activit
+ ies while enjoying the great outdoors. Registration is open to Provisiona
+ l Scouts and Adults (individuals or units with fewer than 2 adult leaders
+ )\, as well as Units (2 or more adults required).\nWeek 1:\nJune 6 - 12\,
+  2027 (session lim
+URL:https://global.scoutingevent.com/011-ScoutCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265318@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270620T200000Z
+DTEND:20270626T170000Z
+SUMMARY:2027 Camp Geronimo Summer Camp – Session 3
+LOCATION:Camp Geronimo\, Payson\, Arizona
+DESCRIPTION:Grand Canyon Council\nhttps://global.scoutingevent.com/010-ger
+ onimo2027\n\n\n\nCamp Geronimo is located north of Payson in the shadows 
+ of the magnificent Mogollon Rim on nearly 500 acres of forest and meadows
+ . Surrounded by over 5\,000 acres of ponderosa pine forest\, trails lea
+ d from camp to the top of the rim where Scouts can stand at the very ed
+ ge of the Colorado Plateau.\nPlease reach out with\nany\nquestions\, comm
+ ents\, or concerns. (602) 955-7747 | gcc.program@scoutingaz.org\nContact\
+ nWhen & Where\nSave A Spot Registration\nSession 1\nCamp Geronimo\nSunday
+  06-06-2027 1:00 PM MST
+URL:https://global.scoutingevent.com/010-geronimo2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272773@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270627T190000Z
+DTEND:20270704T010000Z
+SUMMARY:2027 National Youth Leadership Training (NYLT) – Staff Registrat
+ ion
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-NYLT202
+ 7\n\nNYLT\n\nNational Youth Leadership Training (NYLT)\nis an exciting\, 
+ action-packed\, week-long course designed to give youth members the leade
+ rship skills and experiences they can use in their home troops\, crews\, 
+ ships\, and throughout their lives.Participants learn practical methods a
+ nd skills that will help them become more confident and effective leaders
+ . The course centers on the concepts of what a leader must BE\, what a le
+ ader must\nKNOW\n\, and what a leader must\nDO\n\, with a clear focus on 
+ putting those s
+URL:https://global.scoutingevent.com/011-NYLT2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265319@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270627T200000Z
+DTEND:20270703T170000Z
+SUMMARY:2027 Camp Geronimo Summer Camp – Session 4
+LOCATION:Camp Geronimo\, Payson\, Arizona
+DESCRIPTION:Grand Canyon Council\nhttps://global.scoutingevent.com/010-ger
+ onimo2027\n\n\n\nCamp Geronimo is located north of Payson in the shadows 
+ of the magnificent Mogollon Rim on nearly 500 acres of forest and meadows
+ . Surrounded by over 5\,000 acres of ponderosa pine forest\, trails lea
+ d from camp to the top of the rim where Scouts can stand at the very ed
+ ge of the Colorado Plateau.\nPlease reach out with\nany\nquestions\, comm
+ ents\, or concerns. (602) 955-7747 | gcc.program@scoutingaz.org\nContact\
+ nWhen & Where\nSave A Spot Registration\nSession 1\nCamp Geronimo\nSunday
+  06-06-2027 1:00 PM MST
+URL:https://global.scoutingevent.com/010-geronimo2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272772@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270628T190000Z
+DTEND:20270703T230000Z
+SUMMARY:2027 National Youth Leadership Training (NYLT) – Participant Reg
+ istration
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-NYLT202
+ 7\n\nNYLT\n\nNational Youth Leadership Training (NYLT)\nis an exciting\, 
+ action-packed\, week-long course designed to give youth members the leade
+ rship skills and experiences they can use in their home troops\, crews\, 
+ ships\, and throughout their lives.Participants learn practical methods a
+ nd skills that will help them become more confident and effective leaders
+ . The course centers on the concepts of what a leader must BE\, what a le
+ ader must\nKNOW\n\, and what a leader must\nDO\n\, with a clear focus on 
+ putting those s
+URL:https://global.scoutingevent.com/011-NYLT2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265320@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270704T200000Z
+DTEND:20270710T170000Z
+SUMMARY:2027 Camp Geronimo Summer Camp – Session 5
+LOCATION:Camp Geronimo\, Payson\, Arizona
+DESCRIPTION:Grand Canyon Council\nhttps://global.scoutingevent.com/010-ger
+ onimo2027\n\n\n\nCamp Geronimo is located north of Payson in the shadows 
+ of the magnificent Mogollon Rim on nearly 500 acres of forest and meadows
+ . Surrounded by over 5\,000 acres of ponderosa pine forest\, trails lea
+ d from camp to the top of the rim where Scouts can stand at the very ed
+ ge of the Colorado Plateau.\nPlease reach out with\nany\nquestions\, comm
+ ents\, or concerns. (602) 955-7747 | gcc.program@scoutingaz.org\nContact\
+ nWhen & Where\nSave A Spot Registration\nSession 1\nCamp Geronimo\nSunday
+  06-06-2027 1:00 PM MST
+URL:https://global.scoutingevent.com/010-geronimo2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265321@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T200000Z
+DTEND:20270717T170000Z
+SUMMARY:2027 Camp Geronimo Summer Camp – Session 6
+LOCATION:Camp Geronimo\, Payson\, Arizona
+DESCRIPTION:Grand Canyon Council\nhttps://global.scoutingevent.com/010-ger
+ onimo2027\n\n\n\nCamp Geronimo is located north of Payson in the shadows 
+ of the magnificent Mogollon Rim on nearly 500 acres of forest and meadows
+ . Surrounded by over 5\,000 acres of ponderosa pine forest\, trails lea
+ d from camp to the top of the rim where Scouts can stand at the very ed
+ ge of the Colorado Plateau.\nPlease reach out with\nany\nquestions\, comm
+ ents\, or concerns. (602) 955-7747 | gcc.program@scoutingaz.org\nContact\
+ nWhen & Where\nSave A Spot Registration\nSession 1\nCamp Geronimo\nSunday
+  06-06-2027 1:00 PM MST
+URL:https://global.scoutingevent.com/010-geronimo2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272780@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270905T000000Z
+DTEND:20270905T230000Z
+SUMMARY:Introduction to Outdoor Leadership Skills (IOLS) – IOLS
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-120367\
+ n\nIOLS\, Position-Specific Leader Training\n\nReady to complete your out
+ door training for Scouts BSA being a Scout Master or Assistant Scout Mast
+ er? Join us for Introduction to Outdoor Leader Skills (IOLS)\, a hands-on
+  weekend designed to teach the outdoor skills every leader needs to deliv
+ er a successful troop program.\nCheck-in is Friday at 5:00 PM - 5:30 PM\n
+ Participants will learn and practice:\n•  Camping skills\n•  Fire b
+ uilding and cooking\n•  Knots and lashings\n•  Map and compass\n•
+   Hiking and outdoor ethics\n•  First aid and more\nImportan
+URL:https://global.scoutingevent.com/011-120367
+END:VEVENT
+BEGIN:VEVENT
+UID:272782@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20280507T000000Z
+DTEND:20280507T230000Z
+SUMMARY:Introduction to Outdoor Leadership Skills (IOLS) – IOLS
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-120369\
+ n\nIOLS\, Position-Specific Leader Training\n\nReady to complete your out
+ door training for Scouts BSA being a Scout Master or Assistant Scout Mast
+ er? Join us for Introduction to Outdoor Leader Skills (IOLS)\, a hands-on
+  weekend designed to teach the outdoor skills every leader needs to deliv
+ er a successful troop program.\nCheck-in is Friday at 5:00 PM - 5:30 PM\n
+ Participants will learn and practice:\n•  Camping skills\n•  Fire b
+ uilding and cooking\n•  Knots and lashings\n•  Map and compass\n•
+   Hiking and outdoor ethics\n•  First aid and more\nImportan
+URL:https://global.scoutingevent.com/011-120369
+END:VEVENT
+BEGIN:VEVENT
+UID:272788@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20280910T000000Z
+DTEND:20280910T230000Z
+SUMMARY:Introduction to Outdoor Leadership Skills (IOLS) – IOLS
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-120373\
+ n\nIOLS\, Position-Specific Leader Training\n\nReady to complete your out
+ door training for Scouts BSA being a Scout Master or Assistant Scout Mast
+ er? Join us for Introduction to Outdoor Leader Skills (IOLS)\, a hands-on
+  weekend designed to teach the outdoor skills every leader needs to deliv
+ er a successful troop program.\nCheck-in is Friday at 5:00 PM - 5:30 PM\n
+ Participants will learn and practice:\n•  Camping skills\n•  Fire b
+ uilding and cooking\n•  Knots and lashings\n•  Map and compass\n•
+   Hiking and outdoor ethics\n•  First aid and more\nImportan
+URL:https://global.scoutingevent.com/011-120373
+END:VEVENT
+END:VCALENDAR

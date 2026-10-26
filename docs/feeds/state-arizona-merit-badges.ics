@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Arizona Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:272748@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270606T210000Z
+DTEND:20270612T170000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Summer Camp Week 1
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-ScoutCa
+ mp2027\n\nCamping\n\nCamp Lawton Scout Camp 2027\nJoin us at Camp Lawton 
+ for Summer Camp 2027!  Enjoy an unforgettable week of adventure\, learni
+ ng\, and leadership development! Scouts will have the opportunity to earn
+  a wide variety of merit badges and participate in other scouting activit
+ ies while enjoying the great outdoors. Registration is open to Provisiona
+ l Scouts and Adults (individuals or units with fewer than 2 adult leaders
+ )\, as well as Units (2 or more adults required).\nWeek 1:\nJune 6 - 12\,
+  2027 (session lim
+URL:https://global.scoutingevent.com/011-ScoutCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272749@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270613T210000Z
+DTEND:20270619T170000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Summer Camp Week 2
+LOCATION:Camp Lawton\, Tucson\, Arizona
+DESCRIPTION:Catalina Council\nhttps://global.scoutingevent.com/011-ScoutCa
+ mp2027\n\nCamping\n\nCamp Lawton Scout Camp 2027\nJoin us at Camp Lawton 
+ for Summer Camp 2027!  Enjoy an unforgettable week of adventure\, learni
+ ng\, and leadership development! Scouts will have the opportunity to earn
+  a wide variety of merit badges and participate in other scouting activit
+ ies while enjoying the great outdoors. Registration is open to Provisiona
+ l Scouts and Adults (individuals or units with fewer than 2 adult leaders
+ )\, as well as Units (2 or more adults required).\nWeek 1:\nJune 6 - 12\,
+  2027 (session lim
+URL:https://global.scoutingevent.com/011-ScoutCamp2027
+END:VEVENT
+END:VCALENDAR

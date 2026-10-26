@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Washington Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:249111@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261121T160000Z
+DTEND:20261121T233000Z
+SUMMARY:2026 EWU Fall Merit Badge University – Day 1 - Saturday November
+  21\, 2026
+LOCATION:Eastern Washington University\, Cheney\, Washington
+DESCRIPTION:Inland Northwest Council\nhttps://global.scoutingevent.com/611
+ -Fall_EWU_MBU\n\nEngineering\n\nMerit Badge University at Eastern Washing
+ ton University Computing and Engineering Building (Cheney Campus)\nNovemb
+ er 21st and December 19th *****\n(Unless otherwise stated) All Classes wi
+ ll take both weeks to achieve\, they will be the same period\, both weeks
+ ****(2 sessions - both days 11/21 & 12/19)\nClass Fee -$10\nLUNCH- Pizza
+  is being provided by EWU College of STEM for scouts and their parents.\
+ nMobile Trading Post option- We offer an array of items from the Scout Sh
+ op. Be sure to bring extra mon
+URL:https://global.scoutingevent.com/611-Fall_EWU_MBU
+END:VEVENT
+BEGIN:VEVENT
+UID:266103@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261206T170000Z
+DTEND:20261207T000000Z
+SUMMARY:Camp Thunderbird Heritage Day & Trade-O-Ree
+LOCATION:Camp Thunderbird\, Olympia\, Washington
+DESCRIPTION:Pacific Harbors Council\nhttps://global.scoutingevent.com/612-
+ 26HeritageDay\n\nScouting Heritage\, Merit Badge Counselor\n\nCamp Thunde
+ rbird Heritage Day & Trade-O-Ree\nSunday\, December 6\, 2026 | 9 a.m.–4
+  p.m. | Camp Thunderbird\nEvery patch has a story. Every Scout has a memo
+ ry. Come discover—and share—yours!\nThe Pacific Harbors Council Key 3
+  invites Scouts\, families\, alumni\, and friends of all ages to Camp Thu
+ nderbird for a day of discovery\, connection\, and hands-on fun. Whether 
+ you’re exploring Scouting history\, making your first patch trade\, wor
+ king on a merit badge\, or returning to a camp you love\, there’s somet
+ hi
+URL:https://global.scoutingevent.com/612-26HeritageDay
+END:VEVENT
+BEGIN:VEVENT
+UID:249112@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261219T160000Z
+DTEND:20261219T230000Z
+SUMMARY:2026 EWU Fall Merit Badge University – Day 2 - Saturday December
+  19\, 2025
+LOCATION:Eastern Washington University\, Cheney\, Washington
+DESCRIPTION:Inland Northwest Council\nhttps://global.scoutingevent.com/611
+ -Fall_EWU_MBU\n\nEngineering\n\nMerit Badge University at Eastern Washing
+ ton University Computing and Engineering Building (Cheney Campus)\nNovemb
+ er 21st and December 19th *****\n(Unless otherwise stated) All Classes wi
+ ll take both weeks to achieve\, they will be the same period\, both weeks
+ ****(2 sessions - both days 11/21 & 12/19)\nClass Fee -$10\nLUNCH- Pizza
+  is being provided by EWU College of STEM for scouts and their parents.\
+ nMobile Trading Post option- We offer an array of items from the Scout Sh
+ op. Be sure to bring extra mon
+URL:https://global.scoutingevent.com/611-Fall_EWU_MBU
+END:VEVENT
+BEGIN:VEVENT
+UID:265558@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270109T164500Z
+DTEND:20270109T200000Z
+SUMMARY:Peninsulas Merit Badge Events – Merit Badge Clinic Day 1/3
+LOCATION:Harper Church\, Port Orchard\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Pe
+ ninsulaMBC\n\nCommunication\n\nPeninsula Territory Merit Badge Clinic Reg
+ istration\nWelcome to the Peninsula Territory Merit Badge Clinic!\nRegist
+ ration Deadline:\nJanuary 4th\, or sooner if all classes are filled.\nCli
+ nic Dates:\nJanuary 9\nJanuary 23\nFebruary 6\nEach merit badge class spa
+ ns three sessions on the dates above. Attendance at all three sessions is
+  required.\nImportant Details\nCounselor Communication:\nCounselors will 
+ contact registered Scouts up to two weeks before the first session to dis
+ cuss preparation and initial req
+URL:https://global.scoutingevent.com/609-PeninsulaMBC
+END:VEVENT
+BEGIN:VEVENT
+UID:265559@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270123T164500Z
+DTEND:20270123T200000Z
+SUMMARY:Peninsulas Merit Badge Events – Merit Badge Clinic Day 2/3
+LOCATION:Harper Church\, Port Orchard\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Pe
+ ninsulaMBC\n\nCommunication\n\nPeninsula Territory Merit Badge Clinic Reg
+ istration\nWelcome to the Peninsula Territory Merit Badge Clinic!\nRegist
+ ration Deadline:\nJanuary 4th\, or sooner if all classes are filled.\nCli
+ nic Dates:\nJanuary 9\nJanuary 23\nFebruary 6\nEach merit badge class spa
+ ns three sessions on the dates above. Attendance at all three sessions is
+  required.\nImportant Details\nCounselor Communication:\nCounselors will 
+ contact registered Scouts up to two weeks before the first session to dis
+ cuss preparation and initial req
+URL:https://global.scoutingevent.com/609-PeninsulaMBC
+END:VEVENT
+BEGIN:VEVENT
+UID:265560@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270206T164500Z
+DTEND:20270206T200000Z
+SUMMARY:Peninsulas Merit Badge Events – Merit Badge Clinic Day 3/3
+LOCATION:Harper Church\, Port Orchard\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Pe
+ ninsulaMBC\n\nCommunication\n\nPeninsula Territory Merit Badge Clinic Reg
+ istration\nWelcome to the Peninsula Territory Merit Badge Clinic!\nRegist
+ ration Deadline:\nJanuary 4th\, or sooner if all classes are filled.\nCli
+ nic Dates:\nJanuary 9\nJanuary 23\nFebruary 6\nEach merit badge class spa
+ ns three sessions on the dates above. Attendance at all three sessions is
+  required.\nImportant Details\nCounselor Communication:\nCounselors will 
+ contact registered Scouts up to two weeks before the first session to dis
+ cuss preparation and initial req
+URL:https://global.scoutingevent.com/609-PeninsulaMBC
+END:VEVENT
+BEGIN:VEVENT
+UID:264973@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270417T143000Z
+DTEND:20270417T200000Z
+SUMMARY:Grand Columbia Merit Badge Expos – Oroville Merit Badge Expo - T
+ imes are approx
+LOCATION:The Church of Jesus Christ of Latter-day Saints\, Orroville\, Was
+ hington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-11
+ 1448\n\nArt\, Aviation\, Disabilities Awareness\, Family Life\, First Aid
+ \, Insect Study\, Nuclear Science\, Photography\, Stamp Collecting\n\nJoi
+ n us for a one day merit badge expo! Broaden your horizons with an eclect
+ ic collection of Merit Badges and Skills to start you on a hobby\, a care
+ er possibility\,interest\, build empathy\, or just for fun- try out somet
+ hing new.\nYou can choose from the full day badges of Aviation\, Nuclear 
+ Science\, or Insect Study. Or the halfday Art\, Cit. in Society\, Disabil
+ ities Awareness\, Family Life\, Photography\, and Stamp Collecting.\nTwo 
+ trail to first class skill sessions:\nKnots and Lashing and first aid.\nS
+ o
+URL:https://global.scoutingevent.com/609-111448
+END:VEVENT
+BEGIN:VEVENT
+UID:264836@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270704T200000Z
+DTEND:20270710T180000Z
+SUMMARY:Camp Parsons Summer Camp 2027 – Session 1
+LOCATION:Camp Parsons\, Brinnon\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Ca
+ mpParsons2027\n\nArchery\, Canoeing\n\nCamp Parsons is situated on the Ol
+ ympic Peninsula “where the mountains meet the sea”. This beautiful se
+ tting offers the rare experience of canoeing on glassy salt water while v
+ iewing densely forested shoreline. Operating since 1919\, this venerable 
+ Scout camp features swimming\, canoeing and sailing\, climbing tower\, ri
+ fle and archery ranges\, climbing tower and other popular activities.\nCa
+ mpsite Matrix\nCopper City A\n(capacity: 1 unit\, 20 attendees)\nSession 
+ 1\nSession 2\nSession 3\nSession 4\nSession 5\n
+URL:https://global.scoutingevent.com/609-CampParsons2027
+END:VEVENT
+BEGIN:VEVENT
+UID:264831@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270711T200000Z
+DTEND:20270717T180000Z
+SUMMARY:Camp Parsons Summer Camp 2027 – Session 2
+LOCATION:Camp Parsons\, Brinnon\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Ca
+ mpParsons2027\n\nArchery\, Canoeing\n\nCamp Parsons is situated on the Ol
+ ympic Peninsula “where the mountains meet the sea”. This beautiful se
+ tting offers the rare experience of canoeing on glassy salt water while v
+ iewing densely forested shoreline. Operating since 1919\, this venerable 
+ Scout camp features swimming\, canoeing and sailing\, climbing tower\, ri
+ fle and archery ranges\, climbing tower and other popular activities.\nCa
+ mpsite Matrix\nCopper City A\n(capacity: 1 unit\, 20 attendees)\nSession 
+ 1\nSession 2\nSession 3\nSession 4\nSession 5\n
+URL:https://global.scoutingevent.com/609-CampParsons2027
+END:VEVENT
+BEGIN:VEVENT
+UID:264832@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270718T200000Z
+DTEND:20270724T180000Z
+SUMMARY:Camp Parsons Summer Camp 2027 – Session 3
+LOCATION:Camp Parsons\, Brinnon\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Ca
+ mpParsons2027\n\nArchery\, Canoeing\n\nCamp Parsons is situated on the Ol
+ ympic Peninsula “where the mountains meet the sea”. This beautiful se
+ tting offers the rare experience of canoeing on glassy salt water while v
+ iewing densely forested shoreline. Operating since 1919\, this venerable 
+ Scout camp features swimming\, canoeing and sailing\, climbing tower\, ri
+ fle and archery ranges\, climbing tower and other popular activities.\nCa
+ mpsite Matrix\nCopper City A\n(capacity: 1 unit\, 20 attendees)\nSession 
+ 1\nSession 2\nSession 3\nSession 4\nSession 5\n
+URL:https://global.scoutingevent.com/609-CampParsons2027
+END:VEVENT
+BEGIN:VEVENT
+UID:264833@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270725T200000Z
+DTEND:20270731T180000Z
+SUMMARY:Camp Parsons Summer Camp 2027 – Session 4
+LOCATION:Camp Parsons\, Brinnon\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Ca
+ mpParsons2027\n\nArchery\, Canoeing\n\nCamp Parsons is situated on the Ol
+ ympic Peninsula “where the mountains meet the sea”. This beautiful se
+ tting offers the rare experience of canoeing on glassy salt water while v
+ iewing densely forested shoreline. Operating since 1919\, this venerable 
+ Scout camp features swimming\, canoeing and sailing\, climbing tower\, ri
+ fle and archery ranges\, climbing tower and other popular activities.\nCa
+ mpsite Matrix\nCopper City A\n(capacity: 1 unit\, 20 attendees)\nSession 
+ 1\nSession 2\nSession 3\nSession 4\nSession 5\n
+URL:https://global.scoutingevent.com/609-CampParsons2027
+END:VEVENT
+BEGIN:VEVENT
+UID:264834@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270801T200000Z
+DTEND:20270807T180000Z
+SUMMARY:Camp Parsons Summer Camp 2027 – Session 5
+LOCATION:Camp Parsons\, Brinnon\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Ca
+ mpParsons2027\n\nArchery\, Canoeing\n\nCamp Parsons is situated on the Ol
+ ympic Peninsula “where the mountains meet the sea”. This beautiful se
+ tting offers the rare experience of canoeing on glassy salt water while v
+ iewing densely forested shoreline. Operating since 1919\, this venerable 
+ Scout camp features swimming\, canoeing and sailing\, climbing tower\, ri
+ fle and archery ranges\, climbing tower and other popular activities.\nCa
+ mpsite Matrix\nCopper City A\n(capacity: 1 unit\, 20 attendees)\nSession 
+ 1\nSession 2\nSession 3\nSession 4\nSession 5\n
+URL:https://global.scoutingevent.com/609-CampParsons2027
+END:VEVENT
+BEGIN:VEVENT
+UID:264835@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270808T200000Z
+DTEND:20270814T180000Z
+SUMMARY:Camp Parsons Summer Camp 2027 – Session 6
+LOCATION:Camp Parsons\, Brinnon\, Washington
+DESCRIPTION:Chief Seattle Council\nhttps://global.scoutingevent.com/609-Ca
+ mpParsons2027\n\nArchery\, Canoeing\n\nCamp Parsons is situated on the Ol
+ ympic Peninsula “where the mountains meet the sea”. This beautiful se
+ tting offers the rare experience of canoeing on glassy salt water while v
+ iewing densely forested shoreline. Operating since 1919\, this venerable 
+ Scout camp features swimming\, canoeing and sailing\, climbing tower\, ri
+ fle and archery ranges\, climbing tower and other popular activities.\nCa
+ mpsite Matrix\nCopper City A\n(capacity: 1 unit\, 20 attendees)\nSession 
+ 1\nSession 2\nSession 3\nSession 4\nSession 5\n
+URL:https://global.scoutingevent.com/609-CampParsons2027
+END:VEVENT
+BEGIN:VEVENT
+UID:271834@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271120T160000Z
+DTEND:20271121T000000Z
+SUMMARY:2027 EWU Fall Merit Badge University – Day 1 - Saturday November
+  20\, 2027
+LOCATION:Eastern Washington University Computing and Engineering Building 
+ \, Cheney \, Washington
+DESCRIPTION:Inland Northwest Council\nhttps://global.scoutingevent.com/611
+ -EWUMBU\n\nEngineering\n\nMerit Badge University at Eastern Washington Un
+ iversity Computing and Engineering Building (Cheney Campus)\n*****\nAll C
+ lasses will take both weeks to achieve\, they will be the same period\, b
+ oth weeks****(2 sessions - both days TBD)\nClass Fee -$10\nLUNCH- Pizza 
+ is being provided by EWU College of STEM for scouts and their parents.\n
+ Mobile Trading Post option- We offer an array of items from the Scout Sho
+ p. Be sure to bring extra money to get things you may need!\nYou can also
+  contact Marcia Hunt befo
+URL:https://global.scoutingevent.com/611-EWUMBU
+END:VEVENT
+BEGIN:VEVENT
+UID:271835@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271218T160000Z
+DTEND:20271218T230000Z
+SUMMARY:2027 EWU Fall Merit Badge University – Day 2 - Saturday December
+  18\, 2027
+LOCATION:Eastern Washington University Computing and Engineering Building 
+ \, Cheney \, Washington
+DESCRIPTION:Inland Northwest Council\nhttps://global.scoutingevent.com/611
+ -EWUMBU\n\nEngineering\n\nMerit Badge University at Eastern Washington Un
+ iversity Computing and Engineering Building (Cheney Campus)\n*****\nAll C
+ lasses will take both weeks to achieve\, they will be the same period\, b
+ oth weeks****(2 sessions - both days TBD)\nClass Fee -$10\nLUNCH- Pizza 
+ is being provided by EWU College of STEM for scouts and their parents.\n
+ Mobile Trading Post option- We offer an array of items from the Scout Sho
+ p. Be sure to bring extra money to get things you may need!\nYou can also
+  contact Marcia Hunt befo
+URL:https://global.scoutingevent.com/611-EWUMBU
+END:VEVENT
+END:VCALENDAR

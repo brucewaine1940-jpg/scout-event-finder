@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Nebraska Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:274566@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270627T190000Z
+DTEND:20270703T140000Z
+SUMMARY:Camp Cornhusker Brownsea Wilderness Camp
+LOCATION:Camp Cornhusker\, Du Bois\, Nebraska
+DESCRIPTION:Cornhusker Council\nhttps://global.scoutingevent.com/324-Brown
+ sea27\n\nFirst Aid\, Orienteering\, Pioneering\, Scouting Heritage\, Wild
+ erness Survival\n\nDiscover the Adventure of Camp Cornhusker Brownsea Wil
+ derness Camp!\nStep into the heart of Scouting at\nCamp Cornhusker Browns
+ ea Wilderness Camp\n\, where new Scouts begin their journey and experienc
+ ed Scouts sharpen their skills—all in an unforgettable outdoor setting.
+ \nWhat Makes Brownsea Wilderness Camp Special\nA true\nwilderness-style c
+ amp\nfocused on outdoor living and Scout skills\nHands-on learning in cam
+ ping\, pioneering\, orienteering\, American Indian Cultures\, Scouting he
+ ritage\, nature\, wildern
+URL:https://global.scoutingevent.com/324-Brownsea27
+END:VEVENT
+BEGIN:VEVENT
+UID:277097@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270828T130000Z
+DTEND:20270828T210000Z
+SUMMARY:Merit Badge College at Camp Cedars
+LOCATION:Camp Cedars\, Cedar Bluffs\, Nebraska
+DESCRIPTION:Mid-America Council\nhttps://global.scoutingevent.com/326-1225
+ 10\n\nBird Study\, Citizenship in the World\, Exploration\, Farm Mechanic
+ s\, First Aid\, Geocaching\, Radio\n\n*expect classes to be open for regi
+ stration one month in advance*\nJoin us for the Camp Cedars Merit Badge C
+ ollege!\nWe have a variety of classes available.\nProgram materials will 
+ be provided. Please note that not every class will be completed at the ev
+ ent. Learning to execute follow-up is an important life skill for our sco
+ uts to learn. It is not necessary for scouts to finish a badge with the s
+ ame instructor they began it with.\nElectronic blue cards will be availab
+ le through the registration sys
+URL:https://global.scoutingevent.com/326-122510
+END:VEVENT
+END:VCALENDAR

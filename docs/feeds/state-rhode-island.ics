@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Rhode Island
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:271164@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270109T130000Z
+DTEND:20270109T210000Z
+SUMMARY:Merit Badge College 2027 – Merit Badge College
+LOCATION:Rhode Island College\, Providence\, Rhode Island
+DESCRIPTION:Narragansett Council\nhttps://global.scoutingevent.com/546-119
+ 459\n\nLaw\, Scholarship\n\nWho:\nMerit Badge College is for registered S
+ couts BSA members.\nWhat:\nThe 23rd Merit Badge College at Rhode Island C
+ ollege is a one-day event where Scouts can explore a variety of merit bad
+ ges through hands-on workshops led by experienced counselors. The goal is
+  to encourage learning\, skill-building\, and personal growth\, while hel
+ ping Scouts advance in their Scouting journey.\nWhere:\nRhode Island Coll
+ ege\, North Providence\, RI 600 Mt. Pleasant Ave. Providence\, RI 02908\n
+ Parking: Parking\, Drop Off\, a
+URL:https://global.scoutingevent.com/546-119459
+END:VEVENT
+BEGIN:VEVENT
+UID:228342@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270620T040000Z
+DTEND:20270627T035900Z
+SUMMARY:Police Explorer Academy 2027 – Police Explorer Academy
+LOCATION:Camp Varnum\, Narragansett\, Rhode Island
+DESCRIPTION:Narragansett Council\nhttps://global.scoutingevent.com/546-973
+ 87\n\n\n\nPolice Explorer Academy\nWhen & Where\nRegistration Opens 05-06
+ -2027 12:00 AM\nPolice Explorer Academy\nCamp Varnum\nSunday 06-20-2027 1
+ 2:00 AM ET to\nSaturday 06-26-2027 11:59 PM ET\nMore Information\nMap of 
+ Event\n$\nView Pricing\nCoords: 41.4459566\, -71.4352561\n100 Cormorant R
+ oad\nNarragansett\, Rhode Island 02882\nRegistration Closes:\n&nbsp06-13-
+ 2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/546-97387
+END:VEVENT
+BEGIN:VEVENT
+UID:230250@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270816T160000Z
+DTEND:20270821T200000Z
+SUMMARY:NYLT Course at Camp Yawgoog – NYLT # at Camp Yawgoog
+LOCATION:Camp Yawgoog\, Rockville\, Rhode Island
+DESCRIPTION:Narragansett Council\nhttps://global.scoutingevent.com/546-985
+ 95\n\nNYLT\n\nNYLT Course\nWHAT - NYLT is an exciting\, action-packed p
+ rogram designed to provide youth members with leadership skills and exper
+ iences they can use in their home troops\, crews\, personal lives\, and i
+ n other situations demanding leadership of self and others.\nThe NYLT cou
+ rse simulates a month in the life of a troop over one week (Monday Aftern
+ oon to Saturday Afternoon).\nCost of Course will be $450.00. This cost wi
+ ll cover one Class B (T-Shirt)\, Hat\, Supplies and Meals.\nEarly Registr
+ ation discount 
+URL:https://global.scoutingevent.com/546-98595
+END:VEVENT
+END:VCALENDAR

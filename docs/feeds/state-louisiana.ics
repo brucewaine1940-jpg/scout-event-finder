@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Louisiana
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:276331@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261114T133000Z
+DTEND:20261114T180000Z
+SUMMARY:Cubmobile 2026
+LOCATION:First Presbyterian Church\, Shreveport\, Louisiana
+DESCRIPTION:Norwela Council\nhttps://global.scoutingevent.com/215-Cubmobil
+ e2026\n\n\n\nWhen & Where\nCubmobile 2026\nFirst Presbyterian Church\nSat
+ urday 11-14-2026\n7:30 AM CT to 12:00 PM CT\nMore Information\nMap of Eve
+ nt\n$\nView Pricing\nCoords: 32.4987739\, -93.7490635\n900 Jordan St\nShr
+ eveport\, Louisiana 71101\nRegistration Closes:\n&nbsp11-13-2026 12:00 PM
+ \nContact
+URL:https://global.scoutingevent.com/215-Cubmobile2026
+END:VEVENT
+BEGIN:VEVENT
+UID:266993@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261121T000000Z
+DTEND:20261125T180000Z
+SUMMARY:Winter Camp 2026 @ Avondale
+LOCATION:Avondale Scout Reservation\, Clinton\, Louisiana
+DESCRIPTION:South Louisiana Council\nhttps://global.scoutingevent.com/211-
+ WinterCampAvondale\n\nAviation\, Merit Badge Counselor\, Safeguarding You
+ th / YPT\n\nWelcome to 2026 Winter Camp\nWe are excited about your Troop
+  attending our 2026 Winter Camp at\nCamp Avondale\non the Avondale Scou
+ t Reservation!\nWinter Camp is a five (5) full-day camp of merit badge cl
+ asses before the Thanksgiving holiday starting on November 20 (Friday)\, 
+ with classes starting at 9:00 a.m. on November 21  and ends at 12:00 p.
+ m. on November 25. This allows units to camp together using the Troop and
+  Patrol method to accomplish their goals under their own leadership. An e
+ xcellent Ca
+URL:https://global.scoutingevent.com/211-WinterCampAvondale
+END:VEVENT
+BEGIN:VEVENT
+UID:268776@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261121T000000Z
+DTEND:20261123T220000Z
+SUMMARY:Winter Camp 2026 @ Edgewood
+LOCATION:Camp Edgewood\, Dequincy\, Louisiana
+DESCRIPTION:South Louisiana Council\nhttps://global.scoutingevent.com/211-
+ WinterCampEdgewood\n\nMerit Badge Counselor\, Safeguarding Youth / YPT\n\
+ nWelcome to 2026 Winter Camp\nWe are excited about your Troop attending 
+ our 2026 Winter Camp at\nCamp Edgewood\n!\nWinter Camp is a three (3) fu
+ ll-day camp of merit badge classes before the Thanksgiving holiday starti
+ ng on November 20 (Friday)\, with classes starting at 9:00 a.m. on Novemb
+ er 21  and ends on November 23. This allows units to camp together usin
+ g the Troop and Patrol method to accomplish their goals under their own l
+ eadership. An excellent Camp Staff provides program help\, guidance\, and
+  
+URL:https://global.scoutingevent.com/211-WinterCampEdgewood
+END:VEVENT
+BEGIN:VEVENT
+UID:275272@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270410T130000Z
+DTEND:20270410T210000Z
+SUMMARY:Youth Sporting Clays Classic
+LOCATION:Avondale Scout Reservation\, Clinton\, Louisiana
+DESCRIPTION:South Louisiana Council\nhttps://global.scoutingevent.com/211-
+ YSC_27\n\nRange Officer / Shooting Instructor\n\nThe South Louisiana Coun
+ cil’s annual Youth Sporting Clays Classic will be held on Saturday\, Ap
+ ril 10\, 2027.\nThe Avondale Scout Reservation will host the event again 
+ this year\, but we have a new course location. Perkins Lodge is this year
+ ’s choice of location\, which means an all-new course design. This even
+ t is open to all registered Scouts\, BSA\, Venturers\, and Explorers. The
+  course will consist of multiple sporting clay shooting stations set thro
+ ughout the Camp Tigator/Perkins Lodge area. NRA-ce
+URL:https://global.scoutingevent.com/211-YSC_27
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Louisiana Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:266993@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261121T000000Z
+DTEND:20261125T180000Z
+SUMMARY:Winter Camp 2026 @ Avondale
+LOCATION:Avondale Scout Reservation\, Clinton\, Louisiana
+DESCRIPTION:South Louisiana Council\nhttps://global.scoutingevent.com/211-
+ WinterCampAvondale\n\nAviation\, Merit Badge Counselor\, Safeguarding You
+ th / YPT\n\nWelcome to 2026 Winter Camp\nWe are excited about your Troop
+  attending our 2026 Winter Camp at\nCamp Avondale\non the Avondale Scou
+ t Reservation!\nWinter Camp is a five (5) full-day camp of merit badge cl
+ asses before the Thanksgiving holiday starting on November 20 (Friday)\, 
+ with classes starting at 9:00 a.m. on November 21  and ends at 12:00 p.
+ m. on November 25. This allows units to camp together using the Troop and
+  Patrol method to accomplish their goals under their own leadership. An e
+ xcellent Ca
+URL:https://global.scoutingevent.com/211-WinterCampAvondale
+END:VEVENT
+END:VCALENDAR

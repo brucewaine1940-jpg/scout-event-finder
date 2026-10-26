@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Alabama Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:276476@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270102T140000Z
+DTEND:20270104T220000Z
+SUMMARY:2027 Winter Camp – Winter Camp
+LOCATION:Camp Horne\, Cottondale\, Alabama
+DESCRIPTION:Black Warrior Council\nhttps://global.scoutingevent.com/006-wi
+ ntercamp\n\nProgramming\n\nWINTER CAMP\nJANUARY 2-4\, 2027\nCAMP HORNE\nT
+ he staff of Winter Camp 2027 welcomes you to Camp Horne. We look forward 
+ to another successful year where your Scouts can continue to grow in thei
+ r life journey through Scouting.\nWinter Camp is a wonderful place to dis
+ cover new friends\, enjoy good food\, and build lifelong skills through b
+ oth Scouting and Venturing program opportunities. This year’s Winter Ca
+ mp will offer some different activities and schedule from previous years!
+  We will offer merit badg
+URL:https://global.scoutingevent.com/006-wintercamp
+END:VEVENT
+END:VCALENDAR

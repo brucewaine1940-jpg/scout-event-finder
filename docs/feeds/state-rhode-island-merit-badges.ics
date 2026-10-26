@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Rhode Island Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:271164@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270109T130000Z
+DTEND:20270109T210000Z
+SUMMARY:Merit Badge College 2027 – Merit Badge College
+LOCATION:Rhode Island College\, Providence\, Rhode Island
+DESCRIPTION:Narragansett Council\nhttps://global.scoutingevent.com/546-119
+ 459\n\nLaw\, Scholarship\n\nWho:\nMerit Badge College is for registered S
+ couts BSA members.\nWhat:\nThe 23rd Merit Badge College at Rhode Island C
+ ollege is a one-day event where Scouts can explore a variety of merit bad
+ ges through hands-on workshops led by experienced counselors. The goal is
+  to encourage learning\, skill-building\, and personal growth\, while hel
+ ping Scouts advance in their Scouting journey.\nWhere:\nRhode Island Coll
+ ege\, North Providence\, RI 600 Mt. Pleasant Ave. Providence\, RI 02908\n
+ Parking: Parking\, Drop Off\, a
+URL:https://global.scoutingevent.com/546-119459
+END:VEVENT
+END:VCALENDAR

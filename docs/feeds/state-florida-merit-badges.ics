@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – Florida Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:267692@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261120T210000Z
+DTEND:20261122T160000Z
+SUMMARY:Eagle Empire District Fall Camporee
+LOCATION:Camp La No Che\, Paisley\, Florida
+DESCRIPTION:Central Florida Council\nhttps://global.scoutingevent.com/083-
+ EagleEmpireDistrictFallCamporee\n\nCanoeing\n\nThe Fall Camporee is theme
+ d to celebrate the 250th Annniversary of the US. Please join us for a wee
+ kend of scout skills and fellowship! See below for details on the events.
+ \nCrossing the Delaware: Canoe skills. Patrols will compete using a varie
+ ty of skills from Canoeing Merit Badge including a figure 8 course\, swap
+ ping positions\, and capsizing. Scoring by time trials.\nScout Spirit: Ov
+ erall competition. The patrol who best exemplifies Scout Spirit through t
+ heir yells\, cheers\, costuming\, and sport
+URL:https://global.scoutingevent.com/083-EagleEmpireDistrictFallCamporee
+END:VEVENT
+BEGIN:VEVENT
+UID:264427@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261120T220000Z
+DTEND:20261122T160000Z
+SUMMARY:Scouting Advancement Weekend (SAW)
+LOCATION:Camp Tanah Keeta\, Jupiter\, Florida
+DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-saw2
+ 6\n\nCooking\, Aquatics (Lifeguard / Water Rescue)\, Merit Badge Counselo
+ r\, Safeguarding Youth / YPT\, Wilderness First Aid\n\nSCOUTING ADVANCEME
+ NT WEEKEND (SAW) 2026 - Scouts BSA get a hands-on experience while earnin
+ g Merit Badges. We will offer over **40 plus Merit badge classes to choos
+ e from\, Scouts could take an all-day class or two half day classes…The
+  Merit Badge Counselors for all the classes are either employed in their 
+ field or are hobbyists in the class they teach. SAW gives each scout the 
+ opportunity to learn from the best and perhaps think of a career choice i
+ n the future.\nAOL Cub Scouts also join the olde
+URL:https://global.scoutingevent.com/085-saw26
+END:VEVENT
+BEGIN:VEVENT
+UID:255890@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261227T154500Z
+DTEND:20261230T220000Z
+SUMMARY:2026 Winter Camp – Winter Camp
+LOCATION:Flaming Arrow Scout Reservation\, Lake Wales\, Florida
+DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
+ om/089-111522\n\nClimbing\n\nWinter Camp 2026 – Adventure Doesn't Hiber
+ nate!\nTrade mosquito bites for crisp winter air and set out on an unforg
+ ettable cold-weather adventure at Flaming Arrow Scout Reservation! This h
+ oliday break\, gather with Scouts from across the region for a week packe
+ d with exciting merit badges\, roaring campfires\, outdoor challenges\, a
+ nd unexpected surprises around every corner.\nDiscover hidden adventures\
+ , tackle new skills\, enjoy special evening programs\, and experience the
+  magic of camp under cool win
+URL:https://global.scoutingevent.com/089-111522
+END:VEVENT
+BEGIN:VEVENT
+UID:271176@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20261227T190000Z
+DTEND:20261231T160000Z
+SUMMARY:2026 Scouts BSA Winter Camp
+LOCATION:Camp Euchee\, Defuniak Springs\, Florida
+DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-winte
+ rcamp26\n\nAviation\n\n2026 STSR Scouts BSA Winter Camp Presents...\nWild
+  West Winterfest!!\nDecember 27–31\, 2026\nEarly Bird discount ends on 
+ Oct 15th.\nMerit Badge registration goes live on\nSeptember 30th\nAnd as 
+ always\, if there are specific merit badges that are must-haves\, please
+  reach out!\nYou’re not just a number out here on the frontier you’re
+  family. Settle in and enjoy great staff\, great food\, and that unbeatab
+ le Florida winter weather. Every campsite features hotwater showers\, our
+  campers consistently give STSR 
+URL:https://global.scoutingevent.com/773-wintercamp26
+END:VEVENT
+BEGIN:VEVENT
+UID:274988@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270116T150000Z
+DTEND:20270116T173000Z
+SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
+ – Option 1
+LOCATION:Vero Beach Community Center\, Vero Beach\, Florida
+DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-IRMB
+ OTMCC\n\nCoin Collecting\n\nPrerequisite\n: None\nHow many spots availabl
+ e:\n20 per day\nOption 1: January 16th 2027 Saturday 10:00am-12:30pm\nOpt
+ ion 2: January 17th 2027 Sunday 10:00am-12:30pm\nThis workshop\, sponsore
+ d by the Treasure Coast Coin Club\, is open to all Scouts and offers the 
+ opportunity to earn the Coin Collecting Merit Badge while exploring the f
+ ascinating history and art of coins.\nScouts should wear their Class A un
+ iform and come prepared to dive into this unique and enriching topic.\nTh
+ e last day to register is J
+URL:https://global.scoutingevent.com/085-IRMBOTMCC
+END:VEVENT
+BEGIN:VEVENT
+UID:274989@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270117T150000Z
+DTEND:20270117T173000Z
+SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
+ – Option 2
+LOCATION:Vero Beach Community Center\, Vero Beach\, Florida
+DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-IRMB
+ OTMCC\n\nCoin Collecting\n\nPrerequisite\n: None\nHow many spots availabl
+ e:\n20 per day\nOption 1: January 16th 2027 Saturday 10:00am-12:30pm\nOpt
+ ion 2: January 17th 2027 Sunday 10:00am-12:30pm\nThis workshop\, sponsore
+ d by the Treasure Coast Coin Club\, is open to all Scouts and offers the 
+ opportunity to earn the Coin Collecting Merit Badge while exploring the f
+ ascinating history and art of coins.\nScouts should wear their Class A un
+ iform and come prepared to dive into this unique and enriching topic.\nTh
+ e last day to register is J
+URL:https://global.scoutingevent.com/085-IRMBOTMCC
+END:VEVENT
+BEGIN:VEVENT
+UID:272858@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270220T143000Z
+DTEND:20270220T183000Z
+SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
+LOCATION:Hampton Inn and Suites\, Oldsmar\, Florida
+DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
+ om/089-120401\n\nStamp Collecting\, Merit Badge Counselor\n\nSTAMP COLLEC
+ TING MERIT BADGE\nPresented by the Clearwater Stamp Club\nFebruary 20\, 
+ 2027\nHampton Inn and Suites\n4017 Tampa Rd\, Oldsmar\nMerit Badge Worksh
+ op from 9:30 to 3:30\nFree Admission to workshop and show / Free lunch du
+ ring workshop\nScouts are welcomed to invite friends\, neighbors\, and sc
+ hoolmates who are stamp collectors or are interested in stamp collecting.
+ \nAll materials and instruction will be provided by certified merit badge
+  counselors.\nFREE stamps and accessories will be available to m
+URL:https://global.scoutingevent.com/089-120401
+END:VEVENT
+BEGIN:VEVENT
+UID:276578@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270403T130000Z
+DTEND:20270403T200000Z
+SUMMARY:Youth Law Day
+LOCATION:Palm Beach County Courthouse\, West Palm Beach\, Florida
+DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-Yout
+ hLawDay\n\nLaw\n\n**Register through the link provided below**\nYouth Law
+  Day\nPresented by the 15th Judicial Circuit Court Administration and the
+  Palm Beach County Bar Association\nSaturday\, April 3\, 2027\nPalm Beach
+  County Courthouse\n205 N. Dixie Highway\, West Palm Beach\nOpen to all P
+ alm Beach County youths\nRecommended age 11 – 18 years old\nEvent from 
+ 9am to 4pm teaches civics\, our legal system\, and more\nLearn from Palm 
+ Beach County judges and attorneys\nSatisfies Boy Scout Law Merit Badge an
+ d Girl Scout Junior or C
+URL:https://global.scoutingevent.com/085-YouthLawDay
+END:VEVENT
+BEGIN:VEVENT
+UID:257836@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270606T180000Z
+DTEND:20270612T140000Z
+SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
+LOCATION:Camp Euchee\, Defuniak Springs\, Florida
+DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-SC202
+ 7\n\nAviation\n\nSave The Date!\nContact\nWhen & Where\nSave the Date\nSc
+ outs BSA Week 1\nCamp Euchee\nSunday 06-06-2027 1:00 PM CT to\nSaturday 0
+ 6-12-2027 9:00 AM CT\nLimit One Registration Per Unit\nMore Information\n
+ Map of Session\nCoords: 30.7318897\, -86.2090237\n315 Pat Covell Rd\nDefu
+ niak Springs\, Florida 32435\nRegistration Closes:\n&nbsp05-24-2027 11:59
+  PM\nSave the Date\nScouts BSA Week 2\nCamp Euchee\nSunday 06-13-2027 1:0
+ 0 PM CT to\nSaturday 06-19-2027 9:00 AM CT\nLimit One Registration Per Un
+ it\nMore Information\nMap of Se
+URL:https://global.scoutingevent.com/773-SC2027
+END:VEVENT
+BEGIN:VEVENT
+UID:257837@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20270613T180000Z
+DTEND:20270619T140000Z
+SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
+LOCATION:Camp Euchee\, Defuniak Springs\, Florida
+DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-SC202
+ 7\n\nAviation\n\nSave The Date!\nContact\nWhen & Where\nSave the Date\nSc
+ outs BSA Week 1\nCamp Euchee\nSunday 06-06-2027 1:00 PM CT to\nSaturday 0
+ 6-12-2027 9:00 AM CT\nLimit One Registration Per Unit\nMore Information\n
+ Map of Session\nCoords: 30.7318897\, -86.2090237\n315 Pat Covell Rd\nDefu
+ niak Springs\, Florida 32435\nRegistration Closes:\n&nbsp05-24-2027 11:59
+  PM\nSave the Date\nScouts BSA Week 2\nCamp Euchee\nSunday 06-13-2027 1:0
+ 0 PM CT to\nSaturday 06-19-2027 9:00 AM CT\nLimit One Registration Per Un
+ it\nMore Information\nMap of Se
+URL:https://global.scoutingevent.com/773-SC2027
+END:VEVENT
+BEGIN:VEVENT
+UID:257857@scout-event-finder
+DTSTAMP:20261026T081418Z
+DTSTART:20271227T180000Z
+DTEND:20271231T153000Z
+SUMMARY:2027 Scouts BSA Winter Camp
+LOCATION:Camp Euchee\, Defuniak Springs\, Florida
+DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-WC202
+ 7\n\nAviation\n\nSave The Date!\nWhen & Where\nSave the Date\nCamp Euchee
+ \nMonday 12-27-2027 12:00 PM CT to\nFriday 12-31-2027 9:30 AM CT\nMore In
+ formation\nMap of Event\nCoords: 30.7318897\, -86.2090237\n315 Pat Covell
+  Rd\nDefuniak Springs\, Florida 32435\nRegistration Closes:\n&nbsp12-20-2
+ 027 11:59 PM\nContact\nAttachments\n2025 Winter Camp Flyer\n2025 Winter C
+ amp Schedule\n2025 Winter Camp Class Catalog\n2025 Winter Camp MB Grid\nW
+ inter Camp Menu 2025.xlsx - Google Sheets\nATV GCC Waiver\nATV-ASI-RiderC
+ ourse-Waiver-2025\nAviation Me
+URL:https://global.scoutingevent.com/773-WC2027
+END:VEVENT
+END:VCALENDAR
