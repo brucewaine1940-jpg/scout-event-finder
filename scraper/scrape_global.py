@@ -213,7 +213,7 @@ def main():
                 if "Online / Virtual" in e["topics"]:
                     e["topics"].remove("Online / Virtual")
     keep = {e["id"] for e in events}
-    seen = {k: v for k, v in seen.items() if k in keep or k.startswith("x-")}  # x- = extra feeds
+    seen = {k: v for k, v in seen.items() if k in keep or not k.isdigit()}  # non-numeric = other sources
     events.sort(key=lambda e: (e["startUtc"] or "", e["title"]))
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
