@@ -1,7 +1,10 @@
 [
   {
     "name": "International Printing Museum",
-    "badges": ["Graphic Arts", "Pulp and Paper"],
+    "badges": [
+      "Graphic Arts",
+      "Pulp and Paper"
+    ],
     "format": "In person",
     "address": "315 W Torrance Blvd, Carson, CA 90745",
     "zip": "90745",
@@ -9,12 +12,23 @@
     "cost": "$65 per Scout",
     "schedule": "Saturday Merit Badge Days, 9 AM - 3 PM, several times a year. Both badges in one day.",
     "notes": "Advance registration required (via Eventbrite). Troops paying for 5+ Scouts can contact the museum to avoid the Eventbrite fee.",
-    "auto_events": {"title": "BSA Merit Badge Day: Graphic Arts + Pulp and Paper", "start": "09:00", "end": "15:00",
-                    "skip_if_listed": "printing museum"}
+    "auto_events": {
+      "title": "BSA Merit Badge Day: Graphic Arts + Pulp and Paper",
+      "start": "09:00",
+      "end": "15:00",
+      "skip_if_listed": "printing museum"
+    }
   },
   {
     "name": "Southern California Railway Museum",
-    "badges": ["Railroading", "Exploration", "Collections", "Search and Rescue", "Emergency Preparedness", "Citizenship in the Nation"],
+    "badges": [
+      "Railroading",
+      "Exploration",
+      "Collections",
+      "Search and Rescue",
+      "Emergency Preparedness",
+      "Citizenship in the Nation"
+    ],
     "format": "In person",
     "address": "2201 S. A Street, Perris, CA 92570",
     "zip": "92570",
@@ -23,13 +37,23 @@
     "schedule": "Railroading: 4th Saturday of each month, 9 AM - 1 PM (not Jul-Sep, Nov, Dec). Other badges: odd months at 1 PM.",
     "notes": "Led by certified merit badge counselors; lunch or snack included. Contact scouting@socalrailway.org.",
     "recurring": [
-      {"title": "Railroading Merit Badge Program", "rrule": "FREQ=MONTHLY;BYDAY=4SA;BYMONTH=1,2,3,4,5,6,10",
-       "start": "09:00", "end": "13:00", "badges": ["Railroading"]}
+      {
+        "title": "Railroading Merit Badge Program",
+        "rrule": "FREQ=MONTHLY;BYDAY=4SA;BYMONTH=1,2,3,4,5,6,10",
+        "start": "09:00",
+        "end": "13:00",
+        "badges": [
+          "Railroading"
+        ]
+      }
     ]
   },
   {
     "name": "USS Midway Museum",
-    "badges": ["Aviation", "Radio"],
+    "badges": [
+      "Aviation",
+      "Radio"
+    ],
     "format": "In person",
     "address": "910 N Harbor Dr, San Diego, CA 92101",
     "zip": "92101",
@@ -39,8 +63,24 @@
     "notes": "Prerequisites required. Aviation: 10-30 Scouts; Radio: 5-16 Scouts. Email youthprograms@midway.org."
   },
   {
+    "name": "Jason & the Dragonauts - STEM merit badges at the Disney parks",
+    "badges": [
+      "Game Design",
+      "Citizenship in the Community"
+    ],
+    "format": "In person",
+    "address": "Anaheim, CA 92802",
+    "zip": "92802",
+    "url": "https://www.eventbrite.com/o/115699560051",
+    "cost": "See Eventbrite listing",
+    "schedule": "Occasional multi-badge days at the Disneyland Resort (e.g. Game Design + Community with the physics of the parks).",
+    "notes": "Independent program listed on Eventbrite. Dated sessions show on the Events tab once the Eventbrite connection is turned on."
+  },
+  {
     "name": "Legal Eagles Law Merit Badge Day (Loyola Law School)",
-    "badges": ["Law"],
+    "badges": [
+      "Law"
+    ],
     "format": "In person",
     "address": "Loyola Law School, 919 Albany St, Los Angeles, CA 90015",
     "zip": "90015",
@@ -51,7 +91,10 @@
   },
   {
     "name": "Richard Nixon Presidential Library",
-    "badges": ["Citizenship in the Nation", "Public Speaking"],
+    "badges": [
+      "Citizenship in the Nation",
+      "Public Speaking"
+    ],
     "format": "In person",
     "address": "18001 Yorba Linda Blvd, Yorba Linda, CA 92886",
     "zip": "92886",
@@ -62,7 +105,9 @@
   },
   {
     "name": "Aquarium of the Pacific",
-    "badges": ["Oceanography"],
+    "badges": [
+      "Oceanography"
+    ],
     "format": "Online",
     "address": "100 Aquarium Way, Long Beach, CA 90802",
     "zip": "90802",
@@ -73,7 +118,9 @@
   },
   {
     "name": "Pacific Southwest Railway Museum",
-    "badges": ["Railroading"],
+    "badges": [
+      "Railroading"
+    ],
     "format": "In person",
     "address": "750 Sheridan Rd, Campo, CA 91906",
     "zip": "91906",
@@ -95,7 +142,9 @@
   },
   {
     "name": "EPIC Badges Academy",
-    "badges": ["*"],
+    "badges": [
+      "*"
+    ],
     "format": "Online, on demand",
     "address": "",
     "zip": "",
