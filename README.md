@@ -11,6 +11,8 @@ A free, nightly-updated search engine for Scouting America council events: merit
 | `scraper/scrape_global.py` | Every night, reads all public events on global.scoutingevent.com (every Black Pug / 247Scouting council): dates, council, location, map coordinates, site categories, description, fees |
 | `scraper/tagging.py` | Tags each event with merit badges, trainings (WFA, Wood Badge, NYLT, RSO, Lifeguard…), event type and audience (Cub / Scouts BSA / Venturing / Adults). Edit the keyword lists here to improve tagging |
 | `scraper/extra_feeds.py` | Adds councils that are NOT on Black Pug, from `data/extra_sources.json`: any ICS feed, or a web page with an embedded Google Calendar (e.g. Western LA County Council). Recurring events are expanded |
+| `scraper/eventbrite.py` | Scouting events on Eventbrite (museums, independent counselors, online classes) from a few public search pages; edit `SEARCHES` to add places or keywords |
+| `scraper/providers.py` | The **merit badge provider directory** in `data/providers.json`: re-checks each provider's page nightly, pulls out dates it mentions, turns recurring schedules into events, and powers the Providers tab |
 | `scraper/build_feeds.py` | Builds subscribable calendar feeds in `docs/feeds/` (all merit badge events, all trainings, and one feed per state) |
 | `.github/workflows/update-events.yml` | Runs the above nightly (~3:17 AM Pacific) on GitHub Actions and saves the results. Can also be run by hand from the Actions tab |
 | `docs/` | The search website (GitHub Pages). All filtering happens in the browser |
@@ -30,6 +32,12 @@ or, for a council calendar page that embeds a Google Calendar:
 ```
 `lat`/`lng` is a fallback map point (usually the council office) for events without a ZIP code in their address.
 
+## Add a merit badge provider
+Edit `data/providers.json` and copy an existing entry. Useful fields:
+- `badges` (official names), `format` ("In person", "Online, live", "Online, on demand"), `address`, `zip`, `url`, `cost`, `schedule`, `notes`
+- `recurring`: a repeating schedule, e.g. `{"title": "Railroading Merit Badge Program", "rrule": "FREQ=MONTHLY;BYDAY=4SA", "start": "09:00", "end": "13:00"}`
+- `auto_events`: turn dates written on the provider's page into events, e.g. `{"title": "Merit Badge Day", "start": "09:00", "end": "15:00"}`
+
 ## Cost
 $0. Public GitHub repo + GitHub Actions + GitHub Pages.
 
@@ -42,5 +50,7 @@ The collector identifies itself, waits ~1 second between requests, and only fetc
 - [x] Subscribable .ics feeds (merit badges, trainings, per state)
 - [ ] Long Beach Area Council (Teamup ICS link needed), Ventura County Council
 - [ ] Doubleknot councils
-- [ ] Independent sources: college Merit Badge Universities, OA lodges, high-adventure bases
+- [x] Eventbrite listings (museums, independent counselors, online classes)
+- [x] Merit badge provider directory with nightly page checks
+- [ ] More providers (college Merit Badge Universities, OA lodges, high-adventure bases)
 - [ ] Link to the troop Trailbook and award tracker
