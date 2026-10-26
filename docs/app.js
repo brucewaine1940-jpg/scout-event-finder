@@ -19,7 +19,7 @@
   const PAGE = 40;
   const PROGRAMS = ["Cub Scouts", "Scouts BSA", "Venturing", "Sea Scouts", "Exploring", "Adults / Leaders"];
   const DAY = 86400000;
-  let ALL = [], ZIPS = null, origin = null, shown = PAGE;
+  let ALL = [], ZIPS = null, origin = null, shown = PAGE, FIRST_RUN = "";
 
   const S = {  // filter state
     q: "", zip: "", radius: "150", state: "", from: "", to: "", preset: "all",
@@ -148,7 +148,7 @@
     if (en < wa || s > wb) return false;
     if (S.hideLong && en - s > 21 * DAY) return false;
     if (S.hideFund && (e.topics.includes("Fundraising / Dinners") || e.categories.includes("Fundraising")) && !e.badges.length && !e.trainings.length) return false;
-    if (S.newOnly && (now - Date.parse(e.firstSeen)) > 7 * DAY) return false;
+    if (S.newOnly && (e.firstSeen <= FIRST_RUN || (now - Date.parse(e.firstSeen)) > 7 * DAY)) return false;
     if (S.council && e.council !== S.council) return false;
     if (S.state && stateOf(e.location) !== S.state) return false;
     if (S.programs.length && !S.programs.some((p) => e.programs.includes(p))) return false;
@@ -212,7 +212,7 @@
 
   function card(g) {
     const e = g.first, a = local(e.start);
-    const now = Date.now(), isNew = now - Date.parse(e.firstSeen) <= 7 * DAY;
+    const now = Date.now(), isNew = e.firstSeen > FIRST_RUN && now - Date.parse(e.firstSeen) <= 7 * DAY;
     const allBadges = [...new Set(g.items.flatMap((x) => x.badges))];
     const allTrain = [...new Set(g.items.flatMap((x) => x.trainings))];
     const tags = [
@@ -223,7 +223,8 @@
       ...e.programs.map((p) => el("span", { class: "tag", text: p })),
       ...e.topics.filter((t) => t !== "Merit Badge Program" && t !== "Training").slice(0, 3).map((t) => el("span", { class: "tag", text: t })),
     ];
-    const sessions = g.items.length > 1 || e.session
+    const GENERIC_SESSION = /^(event|registration|participants?|attendees?|youth|adults?|session ?1?|general|scouts?)$/i;
+    const sessions = g.items.length > 1
       ? el("ul", { class: "sessions" }, g.items.slice(0, 8).map((x) => el("li", {}, `${when(x)}${x.session ? " — " + x.session : ""}`)),
           g.items.length > 8 ? el("li", {}, `+ ${g.items.length - 8} more sessions`) : null)
       : null;
@@ -235,6 +236,7 @@
         el("div", { class: "w", text: a ? a.toLocaleDateString([], { weekday: "short" }) : "" })),
       el("div", {},
         el("h3", {}, el("a", { href: e.url, target: "_blank", rel: "noopener", text: e.title })),
+        g.items.length === 1 && e.session && !GENERIC_SESSION.test(e.session.trim()) ? el("div", { class: "sess", text: e.session }) : null,
         el("div", { class: "meta" },
           el("span", { text: when(e) }),
           el("span", { text: e.council }),
@@ -292,11 +294,40 @@
     on("closeFilters", "click", () => $("#filters").classList.remove("open"));
   }
 
+  async function loadFeeds() {
+    const box = $("#feedLinks");
+    let idx = [];
+    try { idx = await fetch("feeds/index.json", { cache: "no-cache" }).then((r) => r.json()); } catch { /* not built yet */ }
+    const base = new URL("feeds/", location.href).href;
+    const row = (name, file) => {
+      const url = base + file;
+      const inp = el("input", { type: "text", readonly: "", value: url, "aria-label": name + " feed URL" });
+      inp.addEventListener("focus", () => inp.select());
+      return el("div", { class: "feed" }, el("span", { class: "name", text: name }), inp,
+        el("button", { type: "button", onclick: (e) => { navigator.clipboard?.writeText(url); e.target.textContent = "Copied"; } }, "Copy"));
+    };
+    const draw = () => {
+      const rows = [row("All merit badge events (US)", "merit-badges.ics"), row("All trainings (US)", "trainings.ics")];
+      const pick = idx.filter((x) => !S.state || x.state === S.state);
+      for (const x of (S.state ? pick : [])) {
+        rows.push(row(`${x.state} – everything`, x.file));
+        if (x.mb) rows.push(row(`${x.state} – merit badges`, x.mb));
+      }
+      if (!S.state) rows.push(el("p", { text: "Pick a state in the filters to get feeds for just that state." }));
+      box.replaceChildren(...rows);
+    };
+    $("#subscribe").addEventListener("toggle", draw);
+    $("#state").addEventListener("change", draw);
+    draw();
+  }
+
   async function init() {
-    fromHash(); bind();
+    fromHash(); bind(); syncInputs();
+    $("#list").replaceChildren(el("div", { class: "empty" }, "Loading events…"));
     try {
       const data = await fetch("data/events.json", { cache: "no-cache" }).then((r) => r.json());
       ALL = data.events;
+      FIRST_RUN = ALL.reduce((m, e) => (!m || e.firstSeen < m ? e.firstSeen : m), "");
       const u = new Date(data.updated);
       $("#updated").textContent = `${data.count.toLocaleString()} sessions · updated ${u.toLocaleDateString([], { month: "short", day: "numeric" })} ${fmtTime(u)}`;
     } catch {
@@ -304,7 +335,7 @@
       $("#list").replaceChildren(el("div", { class: "empty" }, "Event data isn't available yet. It appears after the first nightly update runs."));
       return;
     }
-    buildUI(); await setOrigin(); update();
+    buildUI(); await setOrigin(); update(); loadFeeds();
   }
   init();
 })();

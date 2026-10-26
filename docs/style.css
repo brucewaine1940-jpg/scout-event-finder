@@ -100,3 +100,13 @@ button.link { background: none; border: 0; color: var(--accent); cursor: pointer
   .date .d { font-size: 20px; }
 }
 .row2 > *, .row2 input { min-width: 0; }
+
+.subscribe { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin-bottom: 12px; font-size: 13.5px; }
+.subscribe summary { cursor: pointer; font-weight: 600; }
+.subscribe p { color: var(--muted); margin: 8px 0; }
+.feed { display: flex; gap: 8px; align-items: center; margin: 6px 0; flex-wrap: wrap; }
+.feed .name { min-width: 180px; font-weight: 600; }
+.feed input { flex: 1; min-width: 200px; font-size: 12px; padding: 5px 7px; }
+.feed button { font: inherit; font-size: 12px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 6px; padding: 4px 10px; cursor: pointer; }
+.more[hidden] { display: none; }
+.sess { font-size: 14px; font-weight: 600; color: var(--muted); margin-top: 2px; }
