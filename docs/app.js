@@ -24,7 +24,7 @@
   const S = {  // filter state
     q: "", zip: "", radius: "150", state: "", from: "", to: "", preset: "all",
     programs: [], badges: [], anyBadge: false, topics: [], trainings: [], council: "",
-    hideLong: true, hideFund: true, newOnly: false, sort: "date",
+    hideLong: true, hideFund: true, hideAdmin: true, newOnly: false, sort: "date",
   };
 
   /* ---------- helpers ---------- */
@@ -50,7 +50,7 @@
   const stateOf = (loc) => { const p = (loc || "").split(",").map((x) => x.trim()).filter(Boolean); return p.length > 1 ? p[p.length - 1] : ""; };
 
   /* ---------- URL <-> state ---------- */
-  const LISTS = ["programs", "badges", "topics", "trainings"], BOOLS = ["anyBadge", "hideLong", "hideFund", "newOnly"];
+  const LISTS = ["programs", "badges", "topics", "trainings"], BOOLS = ["anyBadge", "hideLong", "hideFund", "hideAdmin", "newOnly"];
   function toHash() {
     const p = new URLSearchParams();
     for (const [k, v] of Object.entries(S)) {
@@ -148,6 +148,7 @@
     if (en < wa || s > wb) return false;
     if (S.hideLong && en - s > 21 * DAY) return false;
     if (S.hideFund && (e.topics.includes("Fundraising / Dinners") || e.categories.includes("Fundraising")) && !e.badges.length && !e.trainings.length) return false;
+    if (S.hideAdmin && e.topics.includes("Meetings & Admin") && !S.topics.includes("Meetings & Admin")) return false;
     if (S.newOnly && (e.firstSeen <= FIRST_RUN || (now - Date.parse(e.firstSeen)) > 7 * DAY)) return false;
     if (S.council && e.council !== S.council) return false;
     if (S.state && stateOf(e.location) !== S.state) return false;
@@ -287,7 +288,7 @@
     on("more", "click", () => { shown += PAGE; update(); });
     on("reset", "click", () => {
       Object.assign(S, { q: "", radius: "150", state: "", from: "", to: "", preset: "all", programs: [], badges: [], anyBadge: false,
-        topics: [], trainings: [], council: "", hideLong: true, hideFund: true, newOnly: false, sort: "date" });
+        topics: [], trainings: [], council: "", hideLong: true, hideFund: true, hideAdmin: true, newOnly: false, sort: "date" });
       shown = PAGE; update();
     });
     on("openFilters", "click", () => $("#filters").classList.add("open"));
