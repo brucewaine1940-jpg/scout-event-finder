@@ -24,7 +24,7 @@
   const S = {  // filter state
     q: "", zip: "", radius: "150", state: "", from: "", to: "", preset: "all",
     programs: [], badges: [], anyBadge: false, topics: [], trainings: [], council: "",
-    hideLong: true, hideFund: true, hideAdmin: true, newOnly: false, sort: "date",
+    hideLong: true, hideFund: true, hideAdmin: true, includeOnline: true, newOnly: false, sort: "date",
   };
 
   /* ---------- helpers ---------- */
@@ -50,7 +50,7 @@
   const stateOf = (loc) => { const p = (loc || "").split(",").map((x) => x.trim()).filter(Boolean); return p.length > 1 ? p[p.length - 1] : ""; };
 
   /* ---------- URL <-> state ---------- */
-  const LISTS = ["programs", "badges", "topics", "trainings"], BOOLS = ["anyBadge", "hideLong", "hideFund", "hideAdmin", "newOnly"];
+  const LISTS = ["programs", "badges", "topics", "trainings"], BOOLS = ["anyBadge", "hideLong", "hideFund", "hideAdmin", "includeOnline", "newOnly"];
   function toHash() {
     const p = new URLSearchParams();
     for (const [k, v] of Object.entries(S)) {
@@ -153,13 +153,15 @@
     if (S.hideAdmin && e.topics.includes("Meetings & Admin") && !S.topics.includes("Meetings & Admin")) return false;
     if (S.newOnly && (e.firstSeen <= FIRST_RUN || (now - Date.parse(e.firstSeen)) > 7 * DAY)) return false;
     if (S.council && e.council !== S.council) return false;
-    if (S.state && stateOf(e.location) !== S.state) return false;
+    // Online events can be joined from anywhere, so distance and state don't apply to them.
+    const anywhere = e.online && S.includeOnline;
+    if (S.state && !anywhere && stateOf(e.location) !== S.state) return false;
     if (S.programs.length && !S.programs.some((p) => e.programs.includes(p))) return false;
     if (S.topics.length && !S.topics.some((p) => e.topics.includes(p))) return false;
     if (S.trainings.length && !S.trainings.some((p) => e.trainings.includes(p))) return false;
     if (S.anyBadge && !e.badges.length) return false;
     if (S.badges.length && !S.badges.some((b) => e.badges.includes(b))) return false;
-    if (origin && Number(S.radius) && (e.lat == null || e._d > Number(S.radius))) return false;
+    if (origin && Number(S.radius) && !anywhere && (e.lat == null || e._d > Number(S.radius))) return false;
     if (S.q) {
       const hay = e._hay || (e._hay = [e.title, e.session, e.council, e.location, e.desc, ...e.badges, ...e.trainings, ...e.topics].join(" ").toLowerCase());
       if (!S.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
@@ -197,7 +199,7 @@
       (nSessions !== list.length ? ` · ${nSessions.toLocaleString()} sessions` : "");
     const act = [];
     if (S.q) act.push(`“${S.q}”`);
-    if (origin && Number(S.radius)) act.push(`within ${S.radius} mi of ${S.zip}`);
+    if (origin && Number(S.radius)) act.push(`within ${S.radius} mi of ${S.zip}${S.includeOnline ? " + online" : ""}`);
     [...S.programs, ...S.badges, ...S.topics, ...S.trainings].forEach((x) => act.push(x));
     if (S.anyBadge) act.push("Any merit badge");
     if (S.council) act.push(S.council);
@@ -220,11 +222,12 @@
     const allTrain = [...new Set(g.items.flatMap((x) => x.trainings))];
     const tags = [
       isNew ? el("span", { class: "tag new", text: "New" }) : null,
+      e.online ? el("span", { class: "tag online", text: "Online" }) : null,
       ...allBadges.slice(0, 12).map((b) => el("span", { class: "tag b", text: b })),
       allBadges.length > 12 ? el("span", { class: "tag b", text: `+${allBadges.length - 12} more` }) : null,
       ...allTrain.map((t) => el("span", { class: "tag t", text: t })),
       ...e.programs.map((p) => el("span", { class: "tag", text: p })),
-      ...e.topics.filter((t) => t !== "Merit Badge Program" && t !== "Training").slice(0, 3).map((t) => el("span", { class: "tag", text: t })),
+      ...e.topics.filter((t) => t !== "Merit Badge Program" && t !== "Training" && t !== "Online / Virtual").slice(0, 3).map((t) => el("span", { class: "tag", text: t })),
     ];
     const GENERIC_SESSION = /^(event|registration|participants?|attendees?|youth|adults?|session ?1?|general|scouts?)$/i;
     const sessions = g.items.length > 1
@@ -244,6 +247,7 @@
           el("span", { text: when(e) }),
           el("span", { text: e.council }),
           e.location ? el("span", { text: e.location }) : null,
+          e.online ? el("span", { class: "dist", text: "Online" }) :
           g.d !== Infinity && origin ? el("span", { class: "dist", title: e.approx ? "Approximate: measured to the council office (no address listed)" : "",
             text: e.approx ? `~${Math.round(g.d)} mi (council area)` : `${Math.round(g.d)} mi` }) : null,
           e.fees && e.fees.length ? el("span", { text: e.fees.length > 1 ? `${e.fees[0]}–${e.fees[e.fees.length - 1]}` : e.fees[0] }) : null),
@@ -291,7 +295,7 @@
     on("more", "click", () => { shown += PAGE; update(); });
     on("reset", "click", () => {
       Object.assign(S, { q: "", radius: "150", state: "", from: "", to: "", preset: "all", programs: [], badges: [], anyBadge: false,
-        topics: [], trainings: [], council: "", hideLong: true, hideFund: true, hideAdmin: true, newOnly: false, sort: "date" });
+        topics: [], trainings: [], council: "", hideLong: true, hideFund: true, hideAdmin: true, includeOnline: true, newOnly: false, sort: "date" });
       shown = PAGE; update();
     });
     window.addEventListener("hashchange", async () => { fromHash(); await setOrigin(); shown = PAGE; update(); });
@@ -312,7 +316,8 @@
         el("button", { type: "button", onclick: (e) => { navigator.clipboard?.writeText(url); e.target.textContent = "Copied"; } }, "Copy"));
     };
     const draw = () => {
-      const rows = [row("All merit badge events (US)", "merit-badges.ics"), row("All trainings (US)", "trainings.ics")];
+      const rows = [row("All merit badge events (US)", "merit-badges.ics"), row("Online merit badges & classes", "online.ics"),
+        row("All trainings (US)", "trainings.ics")];
       const pick = idx.filter((x) => !S.state || x.state === S.state);
       for (const x of (S.state ? pick : [])) {
         rows.push(row(`${x.state} – everything`, x.file));

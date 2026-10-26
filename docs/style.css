@@ -110,3 +110,5 @@ button.link { background: none; border: 0; color: var(--accent); cursor: pointer
 .feed button { font: inherit; font-size: 12px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 6px; padding: 4px 10px; cursor: pointer; }
 .more[hidden] { display: none; }
 .sess { font-size: 14px; font-weight: 600; color: var(--muted); margin-top: 2px; }
+.tag.online { background: var(--train); color: var(--train-ink); font-weight: 600; }
+.filters .hint + .check { margin: 0 0 8px; }
