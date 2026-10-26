@@ -156,33 +156,53 @@ for name, alts in MERIT_BADGES.items():
     pat = "|".join(r"\b" + re.escape(f).replace(r"\ ", r"[\s-]+") + r"\b" for f in forms)
     _BADGE[name] = re.compile(pat, re.I)
 
-# "First Aid" inside "Wilderness First Aid" is a training, not the badge.
-_BADGE_EXCLUDE = {
-    "First Aid": re.compile(r"wilderness first aid|first aid (?:course|class|certification|training)", re.I),
-    "Swimming": re.compile(r"swimming (?:and|&) water rescue", re.I),
-    "Climbing": re.compile(r"climb(?:ing)? on safely", re.I),
-    "Fishing": re.compile(r"fly fishing", re.I),
-}
+# Phrases that contain a badge word but are NOT that badge.
+_NOT_BADGE = re.compile(
+    r"wilderness first aid|first aid (?:course|class|certification|training|kit)|swimming (?:and|&) water rescue|"
+    r"climb(?:ing)? on safely|climbing (?:tower|wall|instructor|director)|cold[- ]weather(?: camping)?|winter camping|hazardous weather|"
+    r"weather permitting|inclement weather|shooting sports|safety afloat|range safety|safety officer|"
+    r"youth (?:protection|safety)|safe swim|camping (?:trip|weekend|season)|family camping|"
+    r"campership|scholarships? (?:available|fund|application)|eagle scholarship|sports? (?:complex|field|center)", re.I)
+# Longest names first so "Fire Safety" is consumed before "Safety", "Fly Fishing" before "Fishing".
+_BADGE_ORDER = sorted(_BADGE, key=len, reverse=True)
+_MB_NEAR = re.compile(r"merit[\s-]*badges?|\bMBs?\b", re.I)
+
+
+def _find_badges(text, near_only):
+    """Badge names in text. near_only: the name must sit within ~60 chars of 'merit badge'/'MB'."""
+    scan = _NOT_BADGE.sub(lambda m: " " * len(m.group()), text)
+    found = []
+    for name in _BADGE_ORDER:
+        for m in _BADGE[name].finditer(scan):
+            if near_only and not _MB_NEAR.search(scan[max(0, m.start() - 60): m.end() + 60]):
+                continue
+            found.append(name)
+            scan = _BADGE[name].sub(lambda mm: " " * len(mm.group()), scan)  # consume
+            break
+    return found
+
+
+GENERIC = ("Art", "Safety", "Sports", "Reading", "Nature", "Energy", "Law", "Music", "Communication",
+           "Pets", "Radio", "Collections", "Scholarship", "Exploration", "Camping", "Weather", "Hiking", "Cooking",
+           "Swimming", "Climbing", "Fishing", "Painting", "Theater", "Golf", "Signs, Signals, and Codes")
 
 
 def tag(title, desc, site_cats):
     """Return dict of tag lists for one event."""
     text = f"{title}\n{desc or ''}"
     badges = []
-    is_badge_event = bool(BADGE_CONTEXT.search(text)) or 12 in site_cats
-    if is_badge_event:
-        for name, rx in _BADGE.items():
-            ex = _BADGE_EXCLUDE.get(name)
-            scan = ex.sub(" ", text) if ex else text
-            if rx.search(scan):
-                badges.append(name)
-        # Very generic words only count if they appear in the title.
-        for generic in ("Art", "Safety", "Sports", "Reading", "Nature", "Energy", "Law", "Music",
-                        "Communication", "Pets", "Radio", "Collections", "Scholarship", "Exploration"):
-            # keep it if it's in the title, or written Capitalized in the description (badge lists)
-            if generic in badges and not _BADGE[generic].search(title) and \
-                    not re.search(r"\b" + re.escape(generic) + r"\b", desc or ""):
-                badges.remove(generic)
+    title_is_badge_event = bool(BADGE_CONTEXT.search(title)) or 12 in site_cats
+    if title_is_badge_event:
+        # A merit badge program (MBU, badge day...): any badge named anywhere counts,
+        # but very generic words must be in the title or Capitalized in the description.
+        badges = _find_badges(text, near_only=False)
+        badges = [b for b in badges if b not in GENERIC or _BADGE[b].search(title) or
+                  re.search(r"\b" + re.escape(b).replace(r"\ ", r"[\s-]+") + r"\b", desc or "")]
+    elif BADGE_CONTEXT.search(text):
+        # Something else (summer camp, NYLT...) that mentions merit badges: only names right next to "merit badge".
+        badges = _find_badges(text, near_only=True)
+        badges = [b for b in badges if b not in GENERIC or _BADGE[b].search(title) or
+                  re.search(r"\b" + re.escape(b).replace(r"\ ", r"[\s-]+") + r"\b", desc or "")]
     trainings = [k for k, rx in _TRAIN.items() if rx.search(text)]
     topics = [k for k, rx in _TOPIC.items() if rx.search(text)]
     if badges and "Merit Badge Program" not in topics:

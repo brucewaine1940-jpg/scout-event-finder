@@ -30,7 +30,7 @@ CACHE = os.path.join(ROOT, "data", "details_cache.json")
 SEEN = os.path.join(ROOT, "data", "first_seen.json")
 
 DELAY = float(os.environ.get("SCRAPE_DELAY", "1.0"))          # seconds between requests (be polite)
-MAX_DETAILS = int(os.environ.get("MAX_DETAIL_FETCHES", "500"))  # new event pages per run
+MAX_DETAILS = int(os.environ.get("MAX_DETAIL_FETCHES", "1200"))  # new event pages per run
 COMMON = {"filter-country": "232", "filter-state": "0", "filter-distance": "", "filter-zipcode": "",
           "searchterm": "", "printCalendar": "0", "printCalendarMonths": "1"}
 
@@ -192,8 +192,8 @@ def main():
             "council": council, "title": ev_name, "session": sess,
             "start": s_local, "end": e_local, "tz": tzl, "startUtc": s_utc, "endUtc": e_utc,
             "lat": round(float(lat), 4) if lat else None, "lng": round(float(lng), 4) if lng else None,
-            "location": li.get("location", ""), "image": li.get("image", ""),
-            "desc": desc[:900], "fees": d.get("fees", []),
+            "location": li.get("location", ""),
+            "desc": desc[:600], "fees": d.get("fees", []),
             "url": BASE + path, "firstSeen": seen[session_id],
             **tags,
         })
