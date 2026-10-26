@@ -131,7 +131,7 @@ def main():
         latlng = zips.get(prov.get("zip", ""))
         w = watch.get(prov.get("url", ""), {})
         dates, ok = [], None
-        if prov.get("url"):
+        if prov.get("url") and "eventbrite.com" not in prov["url"]:  # Eventbrite blocks automated reads
             try:
                 r = requests.get(prov["url"], headers=HDR, timeout=60)
                 ok = r.ok
