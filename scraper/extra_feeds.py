@@ -130,7 +130,8 @@ def main():
                 if loc and st_name and not loc.endswith(st_name):
                     loc = f"{loc}, {st_name}"
                 z = re.search(r"\b(\d{5})(?:-\d{4})?\b", loc)
-                lat, lng = (zips.get(z.group(1)) if z else None) or (s.get("lat"), s.get("lng"))
+                zl = zips.get(z.group(1)) if z else None
+                lat, lng = zl or (s.get("lat"), s.get("lng"))
                 uid = str(v.get("UID", title)) + st.isoformat()
                 sid = "x-" + hashlib.md5((uid + url).encode()).hexdigest()[:12]
                 seen.setdefault(sid, today)
@@ -144,7 +145,7 @@ def main():
                     "end": en.strftime("%Y-%m-%dT%H:%M"), "tz": tzl,
                     "startUtc": st.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
                     "endUtc": en.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
-                    "lat": lat, "lng": lng, "location": loc or st_name,
+                    "lat": lat, "lng": lng, "approx": not zl, "location": loc or st_name,
                     "desc": desc[:600], "fees": sorted(set(re.findall(r"\$\s?\d[\d,]*(?:\.\d\d)?", desc)))[:6],
                     "url": link, "firstSeen": seen[sid], "source": calname or s["name"],
                     **tag(title, desc, set()),
