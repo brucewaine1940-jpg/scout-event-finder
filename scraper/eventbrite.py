@@ -65,6 +65,8 @@ def get(url):
     try:
         r = session.get(url, timeout=60)
         time.sleep(DELAY)
+        if "/d/" in url:
+            print(f"    {r.status_code} {len(r.text):>7} bytes {url.replace(BASE, '')}")
         return r.text if r.ok else ""
     except requests.RequestException as ex:
         print(f"  ! {url}: {ex}")
