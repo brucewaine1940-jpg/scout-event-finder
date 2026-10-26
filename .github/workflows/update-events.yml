@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install
-        run: pip install requests beautifulsoup4 icalendar recurring-ical-events
+        run: pip install requests beautifulsoup4 icalendar recurring-ical-events python-dateutil
 
       - name: ZIP code table (first run only)
         run: python scraper/build_zips.py
@@ -34,6 +34,12 @@ jobs:
 
       - name: Extra council feeds (optional)
         run: python scraper/extra_feeds.py || echo "extra feeds skipped"
+
+      - name: Eventbrite listings
+        run: python scraper/eventbrite.py || echo "eventbrite skipped"
+
+      - name: Merit badge providers
+        run: python scraper/providers.py || echo "providers skipped"
 
       - name: Calendar feeds
         run: python scraper/build_feeds.py
