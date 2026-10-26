@@ -197,7 +197,8 @@ def main():
             "url": BASE + path, "firstSeen": seen[session_id],
             **tags,
         })
-    seen = {k: v for k, v in seen.items() if k in {e["id"] for e in events}}
+    keep = {e["id"] for e in events}
+    seen = {k: v for k, v in seen.items() if k in keep or k.startswith("x-")}  # x- = extra feeds
     events.sort(key=lambda e: (e["startUtc"] or "", e["title"]))
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
