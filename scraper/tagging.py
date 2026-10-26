@@ -190,22 +190,32 @@ GENERIC = ("Art", "Safety", "Sports", "Reading", "Nature", "Energy", "Law", "Mus
            "Swimming", "Climbing", "Fishing", "Painting", "Theater", "Golf", "Signs, Signals, and Codes")
 
 
-# Online / virtual events. "Register online" is everywhere, so the rules are strict:
-# a strong word in the title, or a clear "held online / via Zoom" phrase in the text.
-_ONLINE_TITLE = re.compile(r"\bonline\b|\bvirtual(?:ly)?\b|\bzoom\b|\bwebinars?\b|\bwebex\b|\bremote\b|\blive ?stream", re.I)
+# Online / virtual events. "Register online" and "complete the online training first" are everywhere,
+# so the rules are strict: a clear word in the title, or a clear "held online / via Zoom" statement.
+_ONLINE_TITLE = re.compile(r"\bonline\b|\bvirtual(?:ly)?\b|\bzoom\b|\bwebinars?\b|\bwebex\b|\blive ?stream", re.I)
 _ONLINE_TEXT = re.compile(
-    r"zoom\.us/|teams\.microsoft\.com|meet\.google\.com|webex\.com|"
-    r"\b(?:held|offered|conducted|taught|hosted|meets?|meeting|class(?:es)?|sessions?|course|merit badges?)\s+"
-    r"(?:will be\s+)?(?:held\s+)?(?:entirely\s+|completely\s+|100% )?(?:online|virtually|via zoom|on zoom|over zoom|via (?:microsoft )?teams)|"
-    r"\b(?:online|virtual)\s+(?:merit badge|class|classes|session|sessions|course|program|event|workshop|training|meeting)", re.I)
-_ONLINE_NOT = re.compile(r"(?:register|registration|sign[- ]?up|pay|payment|forms?|submit\w*)\s+(?:is\s+|are\s+)?online|"
-                         r"online (?:registration|payment|forms?|store|shop)", re.I)
+    r"\b(?:held|offered|conducted|taught|hosted)\s+(?:entirely\s+|completely\s+|100% |exclusively\s+)?"
+    r"(?:online|virtually|via zoom|on zoom|over zoom|via (?:microsoft )?teams|via google meet)|"
+    r"\b(?:online|virtual) merit badges?|\bvirtual (?:class|classes|session|sessions|event|program)\b", re.I)
+_ZOOM_LINK = re.compile(r"zoom\.us/|teams\.microsoft\.com|meet\.google\.com|webex\.com", re.I)
+_IN_PERSON = re.compile(r"in[- ]person|on[- ]site|hands[- ]on|campout|overnight|bring your|what to bring|packing list|tent", re.I)
+_NOT_ONLINE_TITLE = re.compile(r"remote first aid|wilderness (?:and|&) remote|online (?:dues|store|sales?|shop|auction)|"
+                               r"virtual (?:hike|hiking|run|5k|race|challenge|fundrais\w*)", re.I)
 
 
 def is_online(title, desc, location=""):
+    title = _NOT_ONLINE_TITLE.sub(" ", title)
+    if re.search(r"store|shop", location or "", re.I):
+        return False
     if _ONLINE_TITLE.search(title) or re.search(r"\bonline\b|\bvirtual\b|\bzoom\b|\bwebinar\b", location or "", re.I):
         return True
-    return bool(_ONLINE_TEXT.search(_ONLINE_NOT.sub(" ", desc or "")))
+    desc = desc or ""
+    if _IN_PERSON.search(title) or _IN_PERSON.search(desc):
+        return False  # hybrid courses (online prerequisites + in-person days) are in-person events
+    if _ONLINE_TEXT.search(desc):
+        return True
+    # A meeting link in a short listing is the event itself; in a long write-up it's usually just an info session.
+    return bool(_ZOOM_LINK.search(desc)) and len(desc) < 400
 
 
 def tag(title, desc, site_cats, location=""):

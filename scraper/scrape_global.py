@@ -174,6 +174,9 @@ def main():
     print(f"   fetched {fetched} new event pages; cache {len(cache)}", flush=True)
 
     seen = load(SEEN, {})
+    n_sessions = {}
+    for r in rows:
+        n_sessions[unescape(r[7])] = n_sessions.get(unescape(r[7]), 0) + 1
     events = []
     for r in rows:
         org, lat, lng, event_id, session_id, council, title, path, start, end = map(unescape, r)
@@ -185,7 +188,9 @@ def main():
         d = cache.get(path, {})
         desc = d.get("desc") or li.get("snippet", "")
         site_cats = cats.get(session_id, set())
-        tags = tag(f"{ev_name} {sess}", desc, site_cats, li.get("location", ""))
+        # the list-view location belongs to the event, not each session, so only trust it for one-session events
+        one_session = n_sessions.get(path, 0) == 1
+        tags = tag(f"{ev_name} {sess}", desc, site_cats, li.get("location", "") if one_session else "")
         seen.setdefault(session_id, today)
         events.append({
             "id": session_id, "eid": event_id, "org": org,
@@ -197,6 +202,16 @@ def main():
             "url": path if path.startswith("http") else BASE + path, "firstSeen": seen[session_id],
             **tags,
         })
+    # Hybrid events (e.g. a Zoom orientation + in-person weekends) count as in-person.
+    by_event = {}
+    for e in events:
+        by_event.setdefault(e["eid"], []).append(e)
+    for group in by_event.values():
+        if any(e["online"] for e in group) and not all(e["online"] for e in group):
+            for e in group:
+                e["online"] = False
+                if "Online / Virtual" in e["topics"]:
+                    e["topics"].remove("Online / Virtual")
     keep = {e["id"] for e in events}
     seen = {k: v for k, v in seen.items() if k in keep or k.startswith("x-")}  # x- = extra feeds
     events.sort(key=lambda e: (e["startUtc"] or "", e["title"]))
