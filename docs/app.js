@@ -60,7 +60,9 @@
     }
     history.replaceState(null, "", "#" + p.toString());
   }
+  const DEFAULTS = JSON.parse(JSON.stringify(S));
   function fromHash() {
+    Object.assign(S, JSON.parse(JSON.stringify(DEFAULTS)));  // anything not in the link goes back to default
     const p = new URLSearchParams(location.hash.slice(1));
     for (const k of Object.keys(S)) {
       if (!p.has(k)) continue;
