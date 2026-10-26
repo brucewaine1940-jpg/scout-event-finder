@@ -1,0 +1,140 @@
+[
+  {
+    "name": "International Printing Museum",
+    "badges": ["Graphic Arts", "Pulp and Paper"],
+    "format": "In person",
+    "address": "315 W Torrance Blvd, Carson, CA 90745",
+    "zip": "90745",
+    "url": "https://www.printmuseum.org/meritbadge",
+    "cost": "$65 per Scout",
+    "schedule": "Saturday Merit Badge Days, 9 AM - 3 PM, several times a year. Both badges in one day.",
+    "notes": "Advance registration required (via Eventbrite). Troops paying for 5+ Scouts can contact the museum to avoid the Eventbrite fee.",
+    "auto_events": {"title": "BSA Merit Badge Day: Graphic Arts + Pulp and Paper", "start": "09:00", "end": "15:00",
+                    "skip_if_listed": "printing museum"}
+  },
+  {
+    "name": "Southern California Railway Museum",
+    "badges": ["Railroading", "Exploration", "Collections", "Search and Rescue", "Emergency Preparedness", "Citizenship in the Nation"],
+    "format": "In person",
+    "address": "2201 S. A Street, Perris, CA 92570",
+    "zip": "92570",
+    "url": "https://socalrailway.org/scrm-events/merit-badge-program/",
+    "cost": "$45 + fees per program (discounts for multiple programs by phone)",
+    "schedule": "Railroading: 4th Saturday of each month, 9 AM - 1 PM (not Jul-Sep, Nov, Dec). Other badges: odd months at 1 PM.",
+    "notes": "Led by certified merit badge counselors; lunch or snack included. Contact scouting@socalrailway.org.",
+    "recurring": [
+      {"title": "Railroading Merit Badge Program", "rrule": "FREQ=MONTHLY;BYDAY=4SA;BYMONTH=1,2,3,4,5,6,10",
+       "start": "09:00", "end": "13:00", "badges": ["Railroading"]}
+    ]
+  },
+  {
+    "name": "USS Midway Museum",
+    "badges": ["Aviation", "Radio"],
+    "format": "In person",
+    "address": "910 N Harbor Dr, San Diego, CA 92101",
+    "zip": "92101",
+    "url": "https://www.midway.org/education/youth-programs/boy-scouts-of-america-programs",
+    "cost": "$25 per Scout (includes museum access)",
+    "schedule": "Scheduled sessions, 3.5-4 hours. Aviation can be combined with the Overnight Adventure program.",
+    "notes": "Prerequisites required. Aviation: 10-30 Scouts; Radio: 5-16 Scouts. Email youthprograms@midway.org."
+  },
+  {
+    "name": "Legal Eagles Law Merit Badge Day (Loyola Law School)",
+    "badges": ["Law"],
+    "format": "In person",
+    "address": "Loyola Law School, 919 Albany St, Los Angeles, CA 90015",
+    "zip": "90015",
+    "url": "https://scoutingevent.com/033-LawDay",
+    "cost": "See registration page",
+    "schedule": "Annual, usually in November. Registration through Greater Los Angeles Area Council.",
+    "notes": "Taught by attorneys and judges. Also appears in the event search when registration is open."
+  },
+  {
+    "name": "Richard Nixon Presidential Library",
+    "badges": ["Citizenship in the Nation", "Public Speaking"],
+    "format": "In person",
+    "address": "18001 Yorba Linda Blvd, Yorba Linda, CA 92886",
+    "zip": "92886",
+    "url": "https://www.nixonlibrary.gov/index.php/education/scouting-earn-badges",
+    "cost": "Varies",
+    "schedule": "Merit badge events on an ongoing basis, usually registered through Orange County Council.",
+    "notes": "Email NixonEducation@nara.gov or call 714-983-9120."
+  },
+  {
+    "name": "Aquarium of the Pacific",
+    "badges": ["Oceanography"],
+    "format": "Online",
+    "address": "100 Aquarium Way, Long Beach, CA 90802",
+    "zip": "90802",
+    "url": "https://www.aquariumofpacific.org/events/info/boy_scout_oceanography_merit_badge/",
+    "cost": "$40 ($35 members) when offered",
+    "schedule": "Two-part virtual series offered periodically.",
+    "notes": "The Aquarium provides a certificate of requirements completed; a counselor signs off the badge."
+  },
+  {
+    "name": "Pacific Southwest Railway Museum",
+    "badges": ["Railroading"],
+    "format": "In person",
+    "address": "750 Sheridan Rd, Campo, CA 91906",
+    "zip": "91906",
+    "url": "https://psrm.org/scouting-programs/",
+    "cost": "See website",
+    "schedule": "Scouting programs by arrangement.",
+    "notes": ""
+  },
+  {
+    "name": "WLACC Merit Badge Midway",
+    "badges": [],
+    "format": "In person",
+    "address": "Western Los Angeles County Council",
+    "zip": "91406",
+    "url": "https://scouting-la.org/merit-badge-midway/",
+    "cost": "See website",
+    "schedule": "Council merit badge day with many badges.",
+    "notes": "Your council's own merit badge event - this entry watches the page for new dates."
+  },
+  {
+    "name": "EPIC Badges Academy",
+    "badges": ["*"],
+    "format": "Online, on demand",
+    "address": "",
+    "zip": "",
+    "url": "https://epicbadges.com/badges",
+    "cost": "$20 per badge",
+    "schedule": "Self-paced any time; 140+ badges.",
+    "notes": "Video lessons and workbook with a counselor who reviews the Scout's work. Check that your unit and council accept online counselors before enrolling."
+  },
+  {
+    "name": "Greater Finger Lakes Council - Adventures in Virtual Merit Badges",
+    "badges": [],
+    "format": "Online, live",
+    "address": "",
+    "zip": "",
+    "url": "https://scoutingevent.com/397-MBonline",
+    "cost": "See registration page",
+    "schedule": "Live online classes in sessions through the year.",
+    "notes": "Open to Scouts from any council."
+  },
+  {
+    "name": "Pathway to Adventure Council - Online/Virtual Merit Badge Classes",
+    "badges": [],
+    "format": "Online, live",
+    "address": "",
+    "zip": "",
+    "url": "https://scoutingevent.com/456-scoutingonline",
+    "cost": "See registration page",
+    "schedule": "Live online classes.",
+    "notes": ""
+  },
+  {
+    "name": "Atlanta Area Council - Online Merit Badge University",
+    "badges": [],
+    "format": "Online, live",
+    "address": "",
+    "zip": "",
+    "url": "https://www.scoutingatl.org/onlinembu",
+    "cost": "See website",
+    "schedule": "Periodic online merit badge university.",
+    "notes": ""
+  }
+]
