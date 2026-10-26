@@ -24,7 +24,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install
-        run: pip install requests beautifulsoup4 icalendar
+        run: pip install requests beautifulsoup4 icalendar recurring-ical-events
 
       - name: ZIP code table (first run only)
         run: python scraper/build_zips.py
