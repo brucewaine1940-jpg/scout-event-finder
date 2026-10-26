@@ -11,7 +11,7 @@ A free, nightly-updated search engine for Scouting America council events: merit
 | `scraper/scrape_global.py` | Every night, reads all public events on global.scoutingevent.com (every Black Pug / 247Scouting council): dates, council, location, map coordinates, site categories, description, fees |
 | `scraper/tagging.py` | Tags each event with merit badges, trainings (WFA, Wood Badge, NYLT, RSO, Lifeguard…), event type and audience (Cub / Scouts BSA / Venturing / Adults). Edit the keyword lists here to improve tagging |
 | `scraper/extra_feeds.py` | Adds councils that are NOT on Black Pug, from `data/extra_sources.json`: any ICS feed, or a web page with an embedded Google Calendar (e.g. Western LA County Council). Recurring events are expanded |
-| `scraper/eventbrite.py` | Scouting events on Eventbrite (museums, independent counselors, online classes) from a few public search pages; edit `SEARCHES` to add places or keywords |
+| `scraper/eventbrite.py` | Scouting events from the Eventbrite organizers in `data/eventbrite_organizers.json` (museums, independent counselors, online classes), through Eventbrite's official API. Needs the `EVENTBRITE_TOKEN` secret (below) |
 | `scraper/providers.py` | The **merit badge provider directory** in `data/providers.json`: re-checks each provider's page nightly, pulls out dates it mentions, turns recurring schedules into events, and powers the Providers tab |
 | `scraper/build_feeds.py` | Builds subscribable calendar feeds in `docs/feeds/` (all merit badge events, all trainings, and one feed per state) |
 | `.github/workflows/update-events.yml` | Runs the above nightly (~3:17 AM Pacific) on GitHub Actions and saves the results. Can also be run by hand from the Actions tab |
@@ -37,6 +37,13 @@ Edit `data/providers.json` and copy an existing entry. Useful fields:
 - `badges` (official names), `format` ("In person", "Online, live", "Online, on demand"), `address`, `zip`, `url`, `cost`, `schedule`, `notes`
 - `recurring`: a repeating schedule, e.g. `{"title": "Railroading Merit Badge Program", "rrule": "FREQ=MONTHLY;BYDAY=4SA", "start": "09:00", "end": "13:00"}`
 - `auto_events`: turn dates written on the provider's page into events, e.g. `{"title": "Merit Badge Day", "start": "09:00", "end": "15:00"}`
+
+## Turn on Eventbrite (free, one-time)
+Eventbrite blocks automated page reads, so this uses their official API:
+1. Sign in at eventbrite.com, open **Account Settings → Developer Links → API Keys**, and create a key (any app name/URL).
+2. Copy the **Private token**.
+3. In this repo: **Settings → Secrets and variables → Actions → New repository secret**. Name it `EVENTBRITE_TOKEN` and paste the token.
+4. To follow another organizer, add the number at the end of their `eventbrite.com/o/...` link to `data/eventbrite_organizers.json`.
 
 ## Cost
 $0. Public GitHub repo + GitHub Actions + GitHub Pages.
