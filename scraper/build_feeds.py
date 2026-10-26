@@ -76,7 +76,8 @@ def main():
 
     def keep(e):
         fund = "Fundraising / Dinners" in e["topics"] and not e["badges"] and not e["trainings"]
-        return short(e) and not fund
+        admin = "Meetings & Admin" in e["topics"]
+        return short(e) and not fund and not admin
 
     ev = [e for e in data["events"] if keep(e)]
     write("merit-badges.ics", "Scout Events – Merit Badges (US)", [e for e in ev if e["badges"]])

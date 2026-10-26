@@ -85,7 +85,6 @@ TRAININGS = {
     "Powder Horn": [r"powder ?horn"],
     "Cold Weather (OKPIK)": [r"\bokpik\b", r"cold weather (?:camping|training)"],
     "Commissioner / University of Scouting": [r"commissioner (?:college|training|conference)", r"university of scouting"],
-    "Roundtable": [r"roundtable"],
     "Position-Specific Leader Training": [r"position[- ]specific", r"scoutmaster (?:specific|training)",
                                           r"cub (?:leader|master) training", r"den leader training", r"leader training"],
     "Safeguarding Youth / YPT": [r"safeguarding youth", r"youth protection"],
@@ -115,6 +114,10 @@ TOPICS = {
     "Order of the Arrow": [r"order of the arrow", r"\bOA\b", r"\blodge\b", r"ordeal", r"conclave", r"fellowship"],
     "Fundraising / Dinners": [r"fundrais", r"popcorn", r"dinner", r"luncheon", r"golf (?:classic|outing|tournament)",
                               r"sporting clays", r"gala", r"breakfast", r"\bdues\b", r"donat", r"challenge coin", r"auction"],
+    "Meetings & Admin": [r"committee meeting", r"commissioners?(?:'s)? (?:monthly )?meeting", r"board(?:s)? of review", r"\bBOR\b",
+                         r"roundtable", r"chapter meeting", r"monthly meeting", r"staff meeting", r"executive board",
+                         r"key ?3", r"\bLEC\b", r"lodge executive", r"planning meeting", r"district meeting",
+                         r"annual (?:business )?meeting", r"\bdues\b", r"recharter", r"membership (?:chair|meeting)"],
     "Fun / Family Events": [r"halloween", r"haunted", r"trunk or treat", r"family", r"festival", r"fun day", r"carnival", r"movie night"],
 }
 

@@ -161,7 +161,7 @@ def main():
 
     print("4/4 event pages (new only)...", flush=True)
     cache = load(CACHE, {})
-    paths = sorted({unescape(r[7]) for r in rows})
+    paths = sorted({unescape(r[7]) for r in rows if not unescape(r[7]).startswith("http")})
     fetched = 0
     for p in paths:
         if p in cache or fetched >= MAX_DETAILS:
@@ -194,7 +194,7 @@ def main():
             "lat": round(float(lat), 4) if lat else None, "lng": round(float(lng), 4) if lng else None,
             "location": li.get("location", ""),
             "desc": desc[:600], "fees": d.get("fees", []),
-            "url": BASE + path, "firstSeen": seen[session_id],
+            "url": path if path.startswith("http") else BASE + path, "firstSeen": seen[session_id],
             **tags,
         })
     keep = {e["id"] for e in events}

@@ -151,6 +151,14 @@ def main():
                 })
                 n += 1
         print(f"  {s['name']}: {n} events from {len(urls)} calendar(s)")
+    # the same event often appears on both a district and a council calendar
+    out, keys = [], set()
+    for e in events:
+        k = (re.sub(r"\W+", "", e["title"].lower()), e["startUtc"]) if e["id"].startswith("x-") else e["id"]
+        if k not in keys:
+            keys.add(k)
+            out.append(e)
+    events = out
     events.sort(key=lambda e: (e["startUtc"] or "", e["title"]))
     data.update(events=events, count=len(events))
     json.dump(data, open(OUT, "w"), separators=(",", ":"), ensure_ascii=False)
