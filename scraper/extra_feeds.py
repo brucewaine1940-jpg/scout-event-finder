@@ -148,7 +148,7 @@ def main():
                     "lat": lat, "lng": lng, "approx": not zl, "location": loc or st_name,
                     "desc": desc[:600], "fees": sorted(set(re.findall(r"\$\s?\d[\d,]*(?:\.\d\d)?", desc)))[:6],
                     "url": link, "firstSeen": seen[sid], "source": calname or s["name"],
-                    **tag(title, desc, set()),
+                    **tag(title, desc, set(), str(v.get("LOCATION", ""))),
                 })
                 n += 1
         print(f"  {s['name']}: {n} events from {len(urls)} calendar(s)")

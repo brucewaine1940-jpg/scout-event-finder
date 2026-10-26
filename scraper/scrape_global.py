@@ -185,7 +185,7 @@ def main():
         d = cache.get(path, {})
         desc = d.get("desc") or li.get("snippet", "")
         site_cats = cats.get(session_id, set())
-        tags = tag(f"{ev_name} {sess}", desc, site_cats)
+        tags = tag(f"{ev_name} {sess}", desc, site_cats, li.get("location", ""))
         seen.setdefault(session_id, today)
         events.append({
             "id": session_id, "eid": event_id, "org": org,

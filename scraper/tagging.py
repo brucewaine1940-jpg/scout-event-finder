@@ -190,7 +190,25 @@ GENERIC = ("Art", "Safety", "Sports", "Reading", "Nature", "Energy", "Law", "Mus
            "Swimming", "Climbing", "Fishing", "Painting", "Theater", "Golf", "Signs, Signals, and Codes")
 
 
-def tag(title, desc, site_cats):
+# Online / virtual events. "Register online" is everywhere, so the rules are strict:
+# a strong word in the title, or a clear "held online / via Zoom" phrase in the text.
+_ONLINE_TITLE = re.compile(r"\bonline\b|\bvirtual(?:ly)?\b|\bzoom\b|\bwebinars?\b|\bwebex\b|\bremote\b|\blive ?stream", re.I)
+_ONLINE_TEXT = re.compile(
+    r"zoom\.us/|teams\.microsoft\.com|meet\.google\.com|webex\.com|"
+    r"\b(?:held|offered|conducted|taught|hosted|meets?|meeting|class(?:es)?|sessions?|course|merit badges?)\s+"
+    r"(?:will be\s+)?(?:held\s+)?(?:entirely\s+|completely\s+|100% )?(?:online|virtually|via zoom|on zoom|over zoom|via (?:microsoft )?teams)|"
+    r"\b(?:online|virtual)\s+(?:merit badge|class|classes|session|sessions|course|program|event|workshop|training|meeting)", re.I)
+_ONLINE_NOT = re.compile(r"(?:register|registration|sign[- ]?up|pay|payment|forms?|submit\w*)\s+(?:is\s+|are\s+)?online|"
+                         r"online (?:registration|payment|forms?|store|shop)", re.I)
+
+
+def is_online(title, desc, location=""):
+    if _ONLINE_TITLE.search(title) or re.search(r"\bonline\b|\bvirtual\b|\bzoom\b|\bwebinar\b", location or "", re.I):
+        return True
+    return bool(_ONLINE_TEXT.search(_ONLINE_NOT.sub(" ", desc or "")))
+
+
+def tag(title, desc, site_cats, location=""):
     """Return dict of tag lists for one event."""
     text = f"{title}\n{desc or ''}"
     badges = []
@@ -212,6 +230,9 @@ def tag(title, desc, site_cats):
         topics.insert(0, "Merit Badge Program")
     if trainings:
         topics.append("Training")
+    online = is_online(title, desc, location)
+    if online:
+        topics.append("Online / Virtual")
     programs = {SITE_CATEGORY_TO_PROGRAM[c] for c in site_cats if c in SITE_CATEGORY_TO_PROGRAM}
     # Title is the strongest signal for audience; use description only if title says nothing.
     title_prog = {k for k, rx in _PROG.items() if rx.search(title)}
@@ -224,4 +245,5 @@ def tag(title, desc, site_cats):
         "topics": topics,
         "programs": sorted(programs),
         "categories": sorted(SITE_CATEGORIES[c] for c in site_cats if c in SITE_CATEGORIES),
+        "online": online,
     }

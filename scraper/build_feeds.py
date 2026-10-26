@@ -82,6 +82,7 @@ def main():
     ev = [e for e in data["events"] if keep(e)]
     write("merit-badges.ics", "Scout Events – Merit Badges (US)", [e for e in ev if e["badges"]])
     write("trainings.ics", "Scout Events – Trainings (US)", [e for e in ev if e["trainings"]])
+    write("online.ics", "Scout Events – Online", [e for e in ev if e.get("online")])
     states = {}
     for e in ev:
         parts = [p.strip() for p in (e.get("location") or "").split(",") if p.strip()]
