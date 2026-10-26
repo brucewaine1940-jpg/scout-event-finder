@@ -19,12 +19,13 @@
   const PAGE = 40;
   const PROGRAMS = ["Cub Scouts", "Scouts BSA", "Venturing", "Sea Scouts", "Exploring", "Adults / Leaders"];
   const DAY = 86400000;
+  let PROV = null;
   let ALL = [], ZIPS = null, origin = null, shown = PAGE, FIRST_RUN = "";
 
   const S = {  // filter state
     q: "", zip: "", radius: "150", state: "", from: "", to: "", preset: "all",
     programs: [], badges: [], anyBadge: false, topics: [], trainings: [], council: "",
-    hideLong: true, hideFund: true, hideAdmin: true, includeOnline: true, newOnly: false, sort: "date",
+    hideLong: true, hideFund: true, hideAdmin: true, includeOnline: true, newOnly: false, sort: "date", view: "events",
   };
 
   /* ---------- helpers ---------- */
@@ -171,6 +172,13 @@
 
   function update() {
     toHash(); syncInputs();
+    $("#tabEvents").classList.toggle("on", S.view !== "providers");
+    $("#tabProviders").classList.toggle("on", S.view === "providers");
+    $("#tabEvents").setAttribute("aria-selected", String(S.view !== "providers"));
+    $("#tabProviders").setAttribute("aria-selected", String(S.view === "providers"));
+    $("#subscribe").hidden = S.view === "providers";
+    $("#sort").closest("label").hidden = S.view === "providers";
+    if (S.view === "providers") { renderProviders(); return; }
     const now = Date.now(), win = dateWindow();
     for (const e of ALL) e._d = origin && e.lat != null ? miles(origin, [e.lat, e.lng]) : null;
     const hits = ALL.filter((e) => matches(e, now, win));
@@ -191,6 +199,65 @@
     list.sort(S.sort === "dist" && origin ? (a, b) => a.d - b.d || byDate(a, b)
       : S.sort === "new" ? (a, b) => b.seen.localeCompare(a.seen) || byDate(a, b) : byDate);
     render(list, hits.length);
+  }
+
+  /* ---------- provider directory ---------- */
+  async function loadProviders() {
+    if (PROV) return PROV;
+    try { PROV = (await fetch("data/providers.json", { cache: "no-cache" }).then((r) => r.json())).providers || []; }
+    catch { PROV = []; }
+    const known = new Set([...$("#badgeList").options].map((o) => o.value));
+    const extra = [...new Set(PROV.flatMap((p) => p.badges))].filter((b) => b !== "*" && !known.has(b));
+    $("#badgeList").append(...extra.map((b) => el("option", { value: b })));
+    return PROV;
+  }
+  async function renderProviders() {
+    const list = await loadProviders();
+    if (S.view !== "providers") return;
+    const fmtDate = (d) => new Date(d + "T12:00").toLocaleDateString([], { weekday: "short", month: "short", day: "numeric" });
+    const rows = list.map((p) => ({ ...p, online: /online/i.test(p.format),
+      d: origin && p.lat != null ? miles(origin, [p.lat, p.lng]) : null }))
+      .filter((p) => {
+        if (S.badges.length && !p.badges.includes("*") && !S.badges.some((b) => p.badges.includes(b))) return false;
+        if (!p.online && origin && Number(S.radius) && (p.d == null || p.d > Number(S.radius))) return false;
+        if (p.online && !S.includeOnline) return false;
+        if (S.q) {
+          const hay = [p.name, p.address, p.schedule, p.notes, p.format, ...p.badges].join(" ").toLowerCase();
+          if (!S.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
+        }
+        return true;
+      })
+      .sort((a, b) => (a.online - b.online) || ((a.d ?? 1e9) - (b.d ?? 1e9)) || a.name.localeCompare(b.name));
+    $("#count").textContent = `${rows.length} provider${rows.length === 1 ? "" : "s"}`;
+    const act = [];
+    if (origin && Number(S.radius)) act.push(`within ${S.radius} mi of ${S.zip}${S.includeOnline ? " + online" : ""}`);
+    S.badges.forEach((b) => act.push(b));
+    if (S.q) act.push(`“${S.q}”`);
+    $("#activeFilters").replaceChildren(...act.map((a) => el("span", { text: a })));
+    $("#more").hidden = true;
+    if (!rows.length) {
+      $("#list").replaceChildren(el("div", { class: "empty" }, "No providers match. Try a wider distance or another badge."));
+      return;
+    }
+    const recent = (d) => d && (Date.now() - Date.parse(d)) < 14 * DAY;
+    $("#list").replaceChildren(
+      el("p", { class: "ev-note", text: "Museums, businesses and online programs that teach merit badges. Dated sessions also appear on the Events tab. Each page is re-checked nightly." }),
+      ...rows.map((p) => el("article", { class: "card prov" },
+        el("h3", {}, el("a", { href: p.url, target: "_blank", rel: "noopener", text: p.name }),
+          el("span", { class: "fmt" + (p.online ? " online" : ""), text: p.format })),
+        el("div", { class: "meta" },
+          p.address ? el("span", { text: p.address }) : null,
+          p.d != null && !p.online ? el("span", { class: "dist", text: `${Math.round(p.d)} mi` }) : null),
+        el("div", { class: "tags" }, p.badges.includes("*")
+          ? el("span", { class: "tag b", text: "Most merit badges" })
+          : p.badges.map((b) => el("span", { class: "tag b", text: b }))),
+        el("dl", {},
+          p.schedule ? [el("dt", { text: "Schedule" }), el("dd", { text: p.schedule })] : null,
+          p.cost ? [el("dt", { text: "Cost" }), el("dd", { text: p.cost })] : null,
+          p.dates.length ? [el("dt", { text: "Dates on their page" }), el("dd", { class: "dates", text: p.dates.map(fmtDate).join(" · ") })] : null,
+          p.notes ? [el("dt", { text: "Notes" }), el("dd", { text: p.notes })] : null,
+          recent(p.pageChanged) ? [el("dt", { text: "Updated" }), el("dd", { class: "dates", text: `Their page changed ${fmtDate(p.pageChanged)} - check for new dates` })] : null),
+        el("div", { class: "actions" }, el("a", { href: p.url, target: "_blank", rel: "noopener", text: "Visit website" })))));
   }
 
   /* ---------- rendering ---------- */
@@ -252,6 +319,7 @@
             text: e.approx ? `~${Math.round(g.d)} mi (council area)` : `${Math.round(g.d)} mi` }) : null,
           e.fees && e.fees.length ? el("span", { text: e.fees.length > 1 ? `${e.fees[0]}–${e.fees[e.fees.length - 1]}` : e.fees[0] }) : null),
         el("div", { class: "tags" }, tags),
+        e.provider ? el("p", { class: "ev-note", text: "From the provider's published schedule - confirm the date on their page before you go." }) :
         desc ? el("p", { class: "desc", text: desc.length > 260 ? desc.slice(0, 260) + "…" : desc }) : null,
         sessions,
         el("div", { class: "actions" },
@@ -299,6 +367,8 @@
       shown = PAGE; update();
     });
     window.addEventListener("hashchange", async () => { fromHash(); await setOrigin(); shown = PAGE; update(); });
+    on("tabEvents", "click", () => { S.view = "events"; shown = PAGE; update(); });
+    on("tabProviders", "click", () => { S.view = "providers"; update(); });
     on("openFilters", "click", () => $("#filters").classList.add("open"));
     on("closeFilters", "click", () => $("#filters").classList.remove("open"));
   }

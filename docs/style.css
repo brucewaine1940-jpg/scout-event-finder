@@ -112,3 +112,17 @@ button.link { background: none; border: 0; color: var(--accent); cursor: pointer
 .sess { font-size: 14px; font-weight: 600; color: var(--muted); margin-top: 2px; }
 .tag.online { background: var(--train); color: var(--train-ink); font-weight: 600; }
 .filters .hint + .check { margin: 0 0 8px; }
+
+.tabs { display: flex; gap: 6px; margin-bottom: 12px; border-bottom: 1px solid var(--line); }
+.tabs button { font: inherit; font-weight: 600; background: none; border: 0; border-bottom: 3px solid transparent;
+  color: var(--muted); padding: 8px 12px; cursor: pointer; margin-bottom: -1px; }
+.tabs button.on { color: var(--ink); border-bottom-color: var(--accent); }
+.prov { display: block; }
+.prov .fmt { font-size: 12px; font-weight: 600; border-radius: 999px; padding: 2px 8px; background: var(--chip); color: var(--chip-ink); margin-left: 6px; vertical-align: middle; }
+.prov .fmt.online { background: var(--train); color: var(--train-ink); }
+.prov dl { display: grid; grid-template-columns: max-content 1fr; gap: 3px 12px; font-size: 13.5px; margin: 8px 0; }
+.prov dt { color: var(--muted); }
+.prov dd { margin: 0; }
+.prov .dates { color: var(--green); font-weight: 600; }
+.ev-note { font-size: 12.5px; color: var(--muted); font-style: italic; }
+[hidden] { display: none !important; }
