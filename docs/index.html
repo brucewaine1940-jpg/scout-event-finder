@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scout Event Finder</title>
+<meta name="description" content="Search Scouting America council events nationwide by merit badge, training, distance, date and program.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23b4532a'/%3E%3Cpath d='M16 6l3 8h-6z M16 26l-3-8h6z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div>
+      <h1>Scout Event Finder</h1>
+      <p class="sub">Council events nationwide: merit badges, camps, trainings and more. Updated nightly.</p>
+    </div>
+    <div class="updated" id="updated">Loading…</div>
+  </div>
+</header>
+
+<main class="wrap layout">
+  <aside class="filters" id="filters" aria-label="Filters">
+    <div class="filters-head">
+      <h2>Filters</h2>
+      <button type="button" class="link" id="reset">Reset all</button>
+      <button type="button" class="close-filters" id="closeFilters" aria-label="Close filters">✕</button>
+    </div>
+
+    <section>
+      <label class="lbl" for="q">Keyword</label>
+      <input id="q" type="search" placeholder="e.g. kayaking, Philmont, Webelos">
+    </section>
+
+    <section>
+      <div class="lbl">Where</div>
+      <div class="row2">
+        <input id="zip" inputmode="numeric" maxlength="5" placeholder="ZIP" aria-label="ZIP code">
+        <select id="radius" aria-label="Distance">
+          <option value="25">25 mi</option><option value="50">50 mi</option>
+          <option value="100">100 mi</option><option value="150" selected>150 mi</option>
+          <option value="250">250 mi</option><option value="500">500 mi</option>
+          <option value="0">Any distance</option>
+        </select>
+      </div>
+      <div class="hint" id="zipHint"></div>
+      <select id="state" aria-label="State"><option value="">All states</option></select>
+    </section>
+
+    <section>
+      <div class="lbl">When</div>
+      <div class="chips" id="datePresets">
+        <button type="button" data-days="7">7 days</button>
+        <button type="button" data-days="30">30 days</button>
+        <button type="button" data-days="90">90 days</button>
+        <button type="button" data-days="weekend">This weekend</button>
+        <button type="button" data-days="all" class="on">All upcoming</button>
+      </div>
+      <div class="row2">
+        <label class="mini">From<input id="from" type="date"></label>
+        <label class="mini">To<input id="to" type="date"></label>
+      </div>
+    </section>
+
+    <section>
+      <div class="lbl">Who it's for</div>
+      <div class="checks" id="programs"></div>
+    </section>
+
+    <section>
+      <label class="lbl" for="badgeInput">Merit badges</label>
+      <input id="badgeInput" list="badgeList" placeholder="Type a badge name…">
+      <datalist id="badgeList"></datalist>
+      <div class="picked" id="badgePicked"></div>
+      <label class="check"><input type="checkbox" id="anyBadge"> Any merit badge event</label>
+    </section>
+
+    <section>
+      <div class="lbl">Event type</div>
+      <div class="checks" id="topics"></div>
+    </section>
+
+    <section>
+      <div class="lbl">Training &amp; certifications</div>
+      <div class="checks scroll" id="trainings"></div>
+    </section>
+
+    <section>
+      <label class="lbl" for="council">Council</label>
+      <select id="council"><option value="">All councils</option></select>
+    </section>
+
+    <section>
+      <div class="lbl">Clean-up</div>
+      <label class="check"><input type="checkbox" id="hideLong" checked> Hide long-running listings (over 3 weeks, e.g. dues, sales)</label>
+      <label class="check"><input type="checkbox" id="hideFund" checked> Hide fundraisers &amp; dinners</label>
+      <label class="check"><input type="checkbox" id="newOnly"> Only events added in the last 7 days</label>
+    </section>
+  </aside>
+
+  <section class="results" aria-live="polite">
+    <div class="toolbar">
+      <button type="button" class="open-filters" id="openFilters">Filters</button>
+      <div class="count" id="count"></div>
+      <label class="sort">Sort
+        <select id="sort">
+          <option value="date">Soonest</option>
+          <option value="dist">Closest</option>
+          <option value="new">Newly added</option>
+        </select>
+      </label>
+    </div>
+    <div class="active" id="activeFilters"></div>
+    <div id="list"></div>
+    <button type="button" class="more" id="more" hidden>Show more</button>
+    <p class="foot">Data comes from public council calendars on
+      <a href="https://global.scoutingevent.com/" target="_blank" rel="noopener">global.scoutingevent.com</a>.
+      Always confirm details and register on the council's event page. Not affiliated with Scouting America.
+      ZIP data © <a href="https://www.geonames.org/" target="_blank" rel="noopener">GeoNames</a> (CC BY 4.0).</p>
+  </section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
