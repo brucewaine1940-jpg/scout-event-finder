@@ -35,8 +35,10 @@ jobs:
       - name: Extra council feeds (optional)
         run: python scraper/extra_feeds.py || echo "extra feeds skipped"
 
-      - name: Eventbrite listings
+      - name: Eventbrite organizers (needs EVENTBRITE_TOKEN secret)
         run: python scraper/eventbrite.py || echo "eventbrite skipped"
+        env:
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
 
       - name: Merit badge providers
         run: python scraper/providers.py || echo "providers skipped"
