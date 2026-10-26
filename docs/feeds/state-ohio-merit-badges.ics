@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:230631@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261106T230000Z
 DTEND:20261108T170000Z
 SUMMARY:Wilderness First Aid - Fall 2026 – Beaumont Scout Reservation
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/440-98828
 END:VEVENT
 BEGIN:VEVENT
 UID:271426@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261108T140000Z
 DTEND:20261108T200000Z
 SUMMARY:Railroading Merit Badge Class
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/444-RailroadingMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:241084@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261114T133000Z
 DTEND:20261114T220000Z
 SUMMARY:Skilled Trades Day – November 2026 Skilled Trades Day
@@ -61,7 +61,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:241085@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261212T133000Z
 DTEND:20261212T220000Z
 SUMMARY:Skilled Trades Day – December 2026 Skilled Trades Day
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:257428@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261212T140000Z
 DTEND:20261212T210000Z
 SUMMARY:Game On!
@@ -97,7 +97,7 @@ URL:https://global.scoutingevent.com/438-GameOn
 END:VEVENT
 BEGIN:VEVENT
 UID:269339@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270109T140000Z
 DTEND:20270109T210000Z
 SUMMARY:Merit Badges at Miakonda 2027
@@ -120,7 +120,7 @@ URL:https://global.scoutingevent.com/460-MBCM
 END:VEVENT
 BEGIN:VEVENT
 UID:258351@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270123T133000Z
 DTEND:20270123T220000Z
 SUMMARY:Skilled Trades Day – January 2027 Skilled Trades Day
@@ -138,7 +138,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:258361@scout-event-finder
-DTSTAMP:20261026T082203Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Skilled Trades Day – February 2027 Skilled Trades Day
@@ -153,185 +153,5 @@ DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-skille
  hey offer.\nJoin us for a fun and hands-on workshop dedicated to explorin
  g the world of trade skills. This event will provide an opportunity to l
 URL:https://global.scoutingevent.com/438-skilledtradesday
-END:VEVENT
-BEGIN:VEVENT
-UID:266144@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270620T170000Z
-DTEND:20270626T140000Z
-SUMMARY:Camp Friedlander Summer Camp 2027 – Week 1
-LOCATION:Camp Friedlander\, Loveland\, Ohio
-DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-summer
- camp27\n\nAstronomy\n\nCamp Friedlander is the premier Scouts BSA Summer 
- Camp program with a wide variety of merit badge options\, activities for 
- younger and older Scouts\, training opportunities for adult leaders\, and
-  some of the best camping facilities in the country. Each summer\, thousa
- nds of Scouts from across the nation (and the world!) make Camp Friedla
- nder their summer camp home for a fun week of learning\, achievement\, le
- adership\, and Scouting at its best.\nRegistration Timeline:\nRegistratio
- n is now open!\n10/1/202
-URL:https://global.scoutingevent.com/438-summercamp27
-END:VEVENT
-BEGIN:VEVENT
-UID:266289@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270620T170000Z
-DTEND:20270626T140000Z
-SUMMARY:Summer Camp at Camp Manatoc 2027 (Scouts BSA) – Session 1
-LOCATION:Camp Manatoc\, Peninsula\, Ohio
-DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-mana
- toc2027\n\nKayaking\n\nWhy Your Scout Troop Must Experience Camp Manato
- c in Peninsula\, Ohio\nPicture your Scout troop immersed in the heart of 
- Cuyahoga Valley National Park\, surrounded by 400 acres of pristine fores
- ts\, rolling hills\, and sparkling lakes! We are a camp with history star
- ting in 1923! it’s a transformative adventure that will ignite your Sco
- uts’ passion for exploration\, leadership\, and camaraderie. If you wan
- t your troop to grow stronger\, bolder\, and closer than ever\, here’s 
- why Camp Manatoc is the ultima
-URL:https://global.scoutingevent.com/433-manatoc2027
-END:VEVENT
-BEGIN:VEVENT
-UID:266145@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270627T170000Z
-DTEND:20270703T140000Z
-SUMMARY:Camp Friedlander Summer Camp 2027 – Week 2
-LOCATION:Camp Friedlander\, Loveland\, Ohio
-DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-summer
- camp27\n\nAstronomy\n\nCamp Friedlander is the premier Scouts BSA Summer 
- Camp program with a wide variety of merit badge options\, activities for 
- younger and older Scouts\, training opportunities for adult leaders\, and
-  some of the best camping facilities in the country. Each summer\, thousa
- nds of Scouts from across the nation (and the world!) make Camp Friedla
- nder their summer camp home for a fun week of learning\, achievement\, le
- adership\, and Scouting at its best.\nRegistration Timeline:\nRegistratio
- n is now open!\n10/1/202
-URL:https://global.scoutingevent.com/438-summercamp27
-END:VEVENT
-BEGIN:VEVENT
-UID:266290@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270627T170000Z
-DTEND:20270703T140000Z
-SUMMARY:Summer Camp at Camp Manatoc 2027 (Scouts BSA) – Session 2
-LOCATION:Camp Manatoc\, Peninsula\, Ohio
-DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-mana
- toc2027\n\nKayaking\n\nWhy Your Scout Troop Must Experience Camp Manato
- c in Peninsula\, Ohio\nPicture your Scout troop immersed in the heart of 
- Cuyahoga Valley National Park\, surrounded by 400 acres of pristine fores
- ts\, rolling hills\, and sparkling lakes! We are a camp with history star
- ting in 1923! it’s a transformative adventure that will ignite your Sco
- uts’ passion for exploration\, leadership\, and camaraderie. If you wan
- t your troop to grow stronger\, bolder\, and closer than ever\, here’s 
- why Camp Manatoc is the ultima
-URL:https://global.scoutingevent.com/433-manatoc2027
-END:VEVENT
-BEGIN:VEVENT
-UID:266146@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270704T170000Z
-DTEND:20270710T140000Z
-SUMMARY:Camp Friedlander Summer Camp 2027 – Week 3
-LOCATION:Camp Friedlander\, Loveland\, Ohio
-DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-summer
- camp27\n\nAstronomy\n\nCamp Friedlander is the premier Scouts BSA Summer 
- Camp program with a wide variety of merit badge options\, activities for 
- younger and older Scouts\, training opportunities for adult leaders\, and
-  some of the best camping facilities in the country. Each summer\, thousa
- nds of Scouts from across the nation (and the world!) make Camp Friedla
- nder their summer camp home for a fun week of learning\, achievement\, le
- adership\, and Scouting at its best.\nRegistration Timeline:\nRegistratio
- n is now open!\n10/1/202
-URL:https://global.scoutingevent.com/438-summercamp27
-END:VEVENT
-BEGIN:VEVENT
-UID:266291@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270704T170000Z
-DTEND:20270710T140000Z
-SUMMARY:Summer Camp at Camp Manatoc 2027 (Scouts BSA) – Session 3
-LOCATION:Camp Manatoc\, Peninsula\, Ohio
-DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-mana
- toc2027\n\nKayaking\n\nWhy Your Scout Troop Must Experience Camp Manato
- c in Peninsula\, Ohio\nPicture your Scout troop immersed in the heart of 
- Cuyahoga Valley National Park\, surrounded by 400 acres of pristine fores
- ts\, rolling hills\, and sparkling lakes! We are a camp with history star
- ting in 1923! it’s a transformative adventure that will ignite your Sco
- uts’ passion for exploration\, leadership\, and camaraderie. If you wan
- t your troop to grow stronger\, bolder\, and closer than ever\, here’s 
- why Camp Manatoc is the ultima
-URL:https://global.scoutingevent.com/433-manatoc2027
-END:VEVENT
-BEGIN:VEVENT
-UID:266147@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270711T170000Z
-DTEND:20270717T140000Z
-SUMMARY:Camp Friedlander Summer Camp 2027 – Week 4
-LOCATION:Camp Friedlander\, Loveland\, Ohio
-DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-summer
- camp27\n\nAstronomy\n\nCamp Friedlander is the premier Scouts BSA Summer 
- Camp program with a wide variety of merit badge options\, activities for 
- younger and older Scouts\, training opportunities for adult leaders\, and
-  some of the best camping facilities in the country. Each summer\, thousa
- nds of Scouts from across the nation (and the world!) make Camp Friedla
- nder their summer camp home for a fun week of learning\, achievement\, le
- adership\, and Scouting at its best.\nRegistration Timeline:\nRegistratio
- n is now open!\n10/1/202
-URL:https://global.scoutingevent.com/438-summercamp27
-END:VEVENT
-BEGIN:VEVENT
-UID:266292@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270711T170000Z
-DTEND:20270717T140000Z
-SUMMARY:Summer Camp at Camp Manatoc 2027 (Scouts BSA) – Session 4
-LOCATION:Camp Manatoc\, Peninsula\, Ohio
-DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-mana
- toc2027\n\nKayaking\n\nWhy Your Scout Troop Must Experience Camp Manato
- c in Peninsula\, Ohio\nPicture your Scout troop immersed in the heart of 
- Cuyahoga Valley National Park\, surrounded by 400 acres of pristine fores
- ts\, rolling hills\, and sparkling lakes! We are a camp with history star
- ting in 1923! it’s a transformative adventure that will ignite your Sco
- uts’ passion for exploration\, leadership\, and camaraderie. If you wan
- t your troop to grow stronger\, bolder\, and closer than ever\, here’s 
- why Camp Manatoc is the ultima
-URL:https://global.scoutingevent.com/433-manatoc2027
-END:VEVENT
-BEGIN:VEVENT
-UID:266148@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270718T170000Z
-DTEND:20270724T140000Z
-SUMMARY:Camp Friedlander Summer Camp 2027 – Week 5
-LOCATION:Camp Friedlander\, Loveland\, Ohio
-DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-summer
- camp27\n\nAstronomy\n\nCamp Friedlander is the premier Scouts BSA Summer 
- Camp program with a wide variety of merit badge options\, activities for 
- younger and older Scouts\, training opportunities for adult leaders\, and
-  some of the best camping facilities in the country. Each summer\, thousa
- nds of Scouts from across the nation (and the world!) make Camp Friedla
- nder their summer camp home for a fun week of learning\, achievement\, le
- adership\, and Scouting at its best.\nRegistration Timeline:\nRegistratio
- n is now open!\n10/1/202
-URL:https://global.scoutingevent.com/438-summercamp27
-END:VEVENT
-BEGIN:VEVENT
-UID:266293@scout-event-finder
-DTSTAMP:20261026T082203Z
-DTSTART:20270718T170000Z
-DTEND:20270724T140000Z
-SUMMARY:Summer Camp at Camp Manatoc 2027 (Scouts BSA) – Session 5
-LOCATION:Camp Manatoc\, Peninsula\, Ohio
-DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-mana
- toc2027\n\nKayaking\n\nWhy Your Scout Troop Must Experience Camp Manato
- c in Peninsula\, Ohio\nPicture your Scout troop immersed in the heart of 
- Cuyahoga Valley National Park\, surrounded by 400 acres of pristine fores
- ts\, rolling hills\, and sparkling lakes! We are a camp with history star
- ting in 1923! it’s a transformative adventure that will ignite your Sco
- uts’ passion for exploration\, leadership\, and camaraderie. If you wan
- t your troop to grow stronger\, bolder\, and closer than ever\, here’s 
- why Camp Manatoc is the ultima
-URL:https://global.scoutingevent.com/433-manatoc2027
 END:VEVENT
 END:VCALENDAR

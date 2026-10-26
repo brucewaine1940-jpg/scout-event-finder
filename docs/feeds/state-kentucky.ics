@@ -6,28 +6,8 @@ X-WR-CALNAME:Scout Events – Kentucky
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:270393@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261107T133000Z
-DTEND:20261107T210000Z
-SUMMARY:2026 LHC Commissioner College – Commissioner College
-LOCATION:Elizabethtown Community & Technical College\, Elizabethtown\, Ken
- tucky
-DESCRIPTION:Lincoln Heritage Council\nhttps://global.scoutingevent.com/205
- -2026CommissionerCollege\n\nCommissioner / University of Scouting\, Posit
- ion-Specific Leader Training\, Roundtable\n\n2026 College of Commissioner
-  Science\nHosted by Lincoln Heritage Council\nSaturday\, November 7\, 202
- 6 - 8:30 AM to 4:00 PM\nElizabethtown Community and Technical College\n60
- 0 College Street - Elizabethtown KY  42701\nJoin us for a full day of le
- arning\, growth\, and connection at the 2026 Commissioner College!  This
-  event is designed for registered Scouting leaders who are looking to str
- engthen their skills\, expand their knowledge\, and better support units 
- across the council.\nParticipants will have the 
-URL:https://global.scoutingevent.com/205-2026CommissionerCollege
-END:VEVENT
-BEGIN:VEVENT
 UID:258353@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270130T180000Z
 DTEND:20270130T210000Z
 SUMMARY:Council Eagle Court of Honor – Eagle Scout Court of Honor
@@ -43,7 +23,7 @@ URL:https://global.scoutingevent.com/438-ECOH
 END:VEVENT
 BEGIN:VEVENT
 UID:275413@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270306T133000Z
 DTEND:20270306T200000Z
 SUMMARY:Merit Badge Challenge - NKY – 1st Saturday of the event
@@ -61,7 +41,7 @@ URL:https://global.scoutingevent.com/438-mbc_nky
 END:VEVENT
 BEGIN:VEVENT
 UID:275414@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270327T123000Z
 DTEND:20270327T190000Z
 SUMMARY:Merit Badge Challenge - NKY – 2nd Saturday of the event
@@ -79,7 +59,7 @@ URL:https://global.scoutingevent.com/438-mbc_nky
 END:VEVENT
 BEGIN:VEVENT
 UID:266035@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T040000Z
 DTEND:20270620T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -98,7 +78,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:262951@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T180000Z
 DTEND:20270619T130000Z
 SUMMARY:Camp Crooked Creek Summer Camp – Week 1
@@ -116,7 +96,7 @@ URL:https://global.scoutingevent.com/205-115063
 END:VEVENT
 BEGIN:VEVENT
 UID:265899@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Pfeffer Scout Reservation Summer Camp – Week 1
@@ -134,7 +114,7 @@ URL:https://global.scoutingevent.com/205-116666
 END:VEVENT
 BEGIN:VEVENT
 UID:266036@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T040000Z
 DTEND:20270627T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -153,7 +133,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:262952@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T180000Z
 DTEND:20270626T130000Z
 SUMMARY:Camp Crooked Creek Summer Camp – Week 2
@@ -171,7 +151,7 @@ URL:https://global.scoutingevent.com/205-115063
 END:VEVENT
 BEGIN:VEVENT
 UID:265900@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T180000Z
 DTEND:20270626T140000Z
 SUMMARY:Pfeffer Scout Reservation Summer Camp – Week 2
@@ -189,7 +169,7 @@ URL:https://global.scoutingevent.com/205-116666
 END:VEVENT
 BEGIN:VEVENT
 UID:266037@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T040000Z
 DTEND:20270704T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -208,7 +188,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:262953@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T180000Z
 DTEND:20270703T130000Z
 SUMMARY:Camp Crooked Creek Summer Camp – Week 3
@@ -226,7 +206,7 @@ URL:https://global.scoutingevent.com/205-115063
 END:VEVENT
 BEGIN:VEVENT
 UID:265901@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T180000Z
 DTEND:20270703T140000Z
 SUMMARY:Pfeffer Scout Reservation Summer Camp – Week 3
@@ -244,7 +224,7 @@ URL:https://global.scoutingevent.com/205-116666
 END:VEVENT
 BEGIN:VEVENT
 UID:266038@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T040000Z
 DTEND:20270711T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -263,7 +243,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:262954@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T180000Z
 DTEND:20270710T130000Z
 SUMMARY:Camp Crooked Creek Summer Camp – Week 4
@@ -281,7 +261,7 @@ URL:https://global.scoutingevent.com/205-115063
 END:VEVENT
 BEGIN:VEVENT
 UID:266039@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T040000Z
 DTEND:20270718T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -300,7 +280,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:265885@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T180000Z
 DTEND:20270717T130000Z
 SUMMARY:Camp Crooked Creek Summer Camp – Week 5
@@ -318,7 +298,7 @@ URL:https://global.scoutingevent.com/205-115063
 END:VEVENT
 BEGIN:VEVENT
 UID:266040@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T040000Z
 DTEND:20270725T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -337,7 +317,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:270667@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270910T110000Z
 DTEND:20270912T220000Z
 SUMMARY:Wood Badge – First Weekend
@@ -355,7 +335,7 @@ URL:https://global.scoutingevent.com/438-WoodBadge
 END:VEVENT
 BEGIN:VEVENT
 UID:270668@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270925T110000Z
 DTEND:20270926T220000Z
 SUMMARY:Wood Badge – Second Weekend

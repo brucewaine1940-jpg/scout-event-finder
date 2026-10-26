@@ -6,46 +6,8 @@ X-WR-CALNAME:Scout Events – California
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:x-42296684458b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261027T013000Z
-DTEND:20261027T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-42296684458b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261027T013000Z
-DTEND:20261027T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:276451@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261027T023000Z
 DTEND:20261027T053000Z
 SUMMARY:HAT - Wilderness Woman Training For Men
@@ -63,7 +25,7 @@ URL:https://global.scoutingevent.com/033-WildernessWomanTrainingForMen
 END:VEVENT
 BEGIN:VEVENT
 UID:264569@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261030T010000Z
 DTEND:20261030T030000Z
 SUMMARY:Salute to Scouting 2026
@@ -81,18 +43,7 @@ URL:https://global.scoutingevent.com/053-116001
 END:VEVENT
 BEGIN:VEVENT
 UID:x-26bb3c660f81@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261101T000000Z
-DTEND:20261101T235900Z
-SUMMARY:BH T2B Webelos Day
-LOCATION:Castaic Lake\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-26bb3c660f81@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261101T000000Z
 DTEND:20261101T235900Z
 SUMMARY:BH T2B Webelos Day
@@ -103,7 +54,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:247468@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261101T180000Z
 DTEND:20261102T000000Z
 SUMMARY:Celebrate the 60th year of Camp Trask! – Event
@@ -121,7 +72,7 @@ URL:https://global.scoutingevent.com/033-60years
 END:VEVENT
 BEGIN:VEVENT
 UID:x-11abad13667d@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261104T030000Z
 DTEND:20261104T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -131,75 +82,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-11abad13667d@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261104T030000Z
-DTEND:20261104T040000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-a6ff919f778f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261104T030000Z
-DTEND:20261104T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-a6ff919f778f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261104T030000Z
-DTEND:20261104T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-23b39c2de767@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261106T033000Z
-DTEND:20261106T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-23b39c2de767@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261106T033000Z
-DTEND:20261106T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:259714@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261107T003000Z
 DTEND:20261109T020000Z
 SUMMARY:National Youth Leadership Training Fall (NYLT) – Paticipants mus
@@ -218,7 +105,7 @@ URL:https://global.scoutingevent.com/039-FALLNYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:251670@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261107T150000Z
 DTEND:20261108T010000Z
 SUMMARY:Pacifica District 10 Mile Hike
@@ -236,7 +123,7 @@ URL:https://global.scoutingevent.com/033-10MileHike
 END:VEVENT
 BEGIN:VEVENT
 UID:277140@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261107T160000Z
 DTEND:20261108T020000Z
 SUMMARY:HAT - Winter Camping and Travel Training
@@ -254,7 +141,7 @@ URL:https://global.scoutingevent.com/033-WinterCampingandTravelTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:274797@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261107T160000Z
 DTEND:20261107T213000Z
 SUMMARY:So. Sierra - Leave No Trace Basic Training
@@ -272,7 +159,7 @@ URL:https://global.scoutingevent.com/047-LNT26
 END:VEVENT
 BEGIN:VEVENT
 UID:275733@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:So. Sierra - Safeguarding Youth Training
@@ -290,7 +177,7 @@ URL:https://global.scoutingevent.com/047-SYT26
 END:VEVENT
 BEGIN:VEVENT
 UID:246558@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261107T180000Z
 DTEND:20261108T190000Z
 SUMMARY:IOLS & BALOO Trainings – BALOO
@@ -309,7 +196,7 @@ URL:https://global.scoutingevent.com/053-Nov2026IOLSBALOO
 END:VEVENT
 BEGIN:VEVENT
 UID:277147@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261108T020000Z
 DTEND:20261108T043000Z
 SUMMARY:HAT - Snow and Ice Travel Training
@@ -326,60 +213,8 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-SnowandIceTravelTraining
 END:VEVENT
 BEGIN:VEVENT
-UID:x-d71c0876cb24@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261113T030000Z
-DTEND:20261113T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d71c0876cb24@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261113T030000Z
-DTEND:20261113T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4c2b8ae6714a@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261113T030000Z
-DTEND:20261113T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:Zoom\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4c2b8ae6714a@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261113T030000Z
-DTEND:20261113T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:Zoom\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:264893@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261114T000000Z
 DTEND:20261115T180000Z
 SUMMARY:Firestone's Pumpkin Smash Extravaganza
@@ -397,7 +232,7 @@ URL:https://global.scoutingevent.com/033-PumpkinSmash
 END:VEVENT
 BEGIN:VEVENT
 UID:277150@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261114T160000Z
 DTEND:20261115T000000Z
 SUMMARY:HAT - Navigation & Orienteering Training
@@ -415,7 +250,7 @@ URL:https://global.scoutingevent.com/033-NavigationOrienteeringTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:271036@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261114T160000Z
 DTEND:20261114T233000Z
 SUMMARY:Nov 14 2026 University of Scouting
@@ -432,32 +267,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-119377
 END:VEVENT
 BEGIN:VEVENT
-UID:x-43842cfb8b17@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261114T170000Z
-DTEND:20261114T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-43842cfb8b17@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261114T170000Z
-DTEND:20261114T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:267033@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261114T170000Z
 DTEND:20261114T220000Z
 SUMMARY:CPR/AED Registration 2026 – Nov - CPR/AED & First Aid
@@ -475,7 +286,7 @@ URL:https://global.scoutingevent.com/055-CPR2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276874@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261114T170000Z
 DTEND:20261115T010000Z
 SUMMARY:Rangemaster Training 2026 Fall – November Rangemaster Training C
@@ -495,26 +306,7 @@ URL:https://global.scoutingevent.com/055-RangemasterTrainingFall
 END:VEVENT
 BEGIN:VEVENT
 UID:x-10307795f404@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261120T030000Z
-DTEND:20261120T040000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-10307795f404@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261120T030000Z
 DTEND:20261120T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -533,7 +325,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:273008@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Friday Semin
@@ -553,7 +345,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:273009@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261121T160000Z
 DTEND:20261122T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Saturday Sem
@@ -573,7 +365,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:267030@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261121T160000Z
 DTEND:20261123T000000Z
 SUMMARY:Wilderness First Aid (WFA) Training 2026 – Nov - Wilderness Firs
@@ -592,7 +384,7 @@ URL:https://global.scoutingevent.com/055-WFA2026
 END:VEVENT
 BEGIN:VEVENT
 UID:272350@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261121T170000Z
 DTEND:20261122T003000Z
 SUMMARY:The 14th Annual Law Merit Badge Day
@@ -610,7 +402,7 @@ URL:https://global.scoutingevent.com/033-LawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:273010@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261122T150000Z
 DTEND:20261123T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Sunday Field
@@ -629,70 +421,8 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
-UID:x-9f73769eb349@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261124T023000Z
-DTEND:20261124T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9f73769eb349@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261124T023000Z
-DTEND:20261124T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-b7e7ba548eb9@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261127T030000Z
-DTEND:20261127T043000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-b7e7ba548eb9@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261127T030000Z
-DTEND:20261127T043000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-650253f9ffa2@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -702,75 +432,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-650253f9ffa2@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261202T030000Z
-DTEND:20261202T040000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4fa99dcd93aa@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261202T030000Z
-DTEND:20261202T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4fa99dcd93aa@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261202T030000Z
-DTEND:20261202T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-db0eb977df0b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261204T033000Z
-DTEND:20261204T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-db0eb977df0b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261204T033000Z
-DTEND:20261204T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:270962@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261205T143000Z
 DTEND:20261206T010000Z
 SUMMARY:The University of Scouting – Classes (8:00am - 3:00pm)
@@ -788,7 +454,7 @@ URL:https://global.scoutingevent.com/033-UofS
 END:VEVENT
 BEGIN:VEVENT
 UID:251669@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261205T150000Z
 DTEND:20261206T030000Z
 SUMMARY:Pacifica District 20 Mile Hike
@@ -805,64 +471,8 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-20MileHike
 END:VEVENT
 BEGIN:VEVENT
-UID:x-142110241721@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261211T030000Z
-DTEND:20261211T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-142110241721@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261211T030000Z
-DTEND:20261211T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-006987c5e096@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261211T030000Z
-DTEND:20261211T043000Z
-SUMMARY:CC: Roundtable & District Business-Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nThis is the monthly meeting of the District 
- Committee. Although especially important for all District Committee Membe
- rs\, including Members at Large\, to attend\, this meeting is open to any
- one in Scouting interested in the affairs of the Campo De Cahuenga Distri
- ct.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-006987c5e096@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261211T030000Z
-DTEND:20261211T043000Z
-SUMMARY:CC: Roundtable & District Business-Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nThis is the monthly meeting of the District 
- Committee. Although especially important for all District Committee Membe
- rs\, including Members at Large\, to attend\, this meeting is open to any
- one in Scouting interested in the affairs of the Campo De Cahuenga Distri
- ct.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-0a74c1ea0019@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261212T170000Z
 DTEND:20261212T200000Z
 SUMMARY:AV - Christmas Parade-Palmdale
@@ -876,66 +486,8 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:x-0a74c1ea0019@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261212T170000Z
-DTEND:20261212T200000Z
-SUMMARY:AV - Christmas Parade-Palmdale
-LOCATION:Palmdale\, CA\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nWe decorate a district float to match the theme chosen
-  by the Chambers of Commerce.  We encourage packs\, troops\, crews\, and
-  adult Scouters to participate either by riding on\, or walking with\, th
- e float.  This is a wonderful opportunity to provide Scouting visibility
-  in the AV.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-49c6233ce5e8@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261212T170000Z
-DTEND:20261212T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-49c6233ce5e8@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261212T170000Z
-DTEND:20261212T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-17c1afecd37b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261218T030000Z
-DTEND:20261218T040000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-17c1afecd37b@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261218T030000Z
 DTEND:20261218T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -954,7 +506,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:248818@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261219T000000Z
 DTEND:20261221T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session One
@@ -972,7 +524,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:274098@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter Merit Badge Camp Dec. 2026 - Scouts – Winter Merit Badge 
@@ -994,7 +546,7 @@ URL:https://global.scoutingevent.com/032-wintermeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:274094@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter S.T.E.M Camp  2026 - Cubs – Winter STEM Camp - Cubs
@@ -1011,46 +563,8 @@ DESCRIPTION:Long Beach Area Council\nhttps://global.scoutingevent.com/032-
 URL:https://global.scoutingevent.com/032-winterstemcubs
 END:VEVENT
 BEGIN:VEVENT
-UID:x-8e076f991fea@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261229T023000Z
-DTEND:20261229T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-8e076f991fea@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20261229T023000Z
-DTEND:20261229T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-c6ae24c5b72f@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270106T030000Z
 DTEND:20270106T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -1060,75 +574,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-c6ae24c5b72f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270106T030000Z
-DTEND:20270106T040000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-6870100fc6a2@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270106T030000Z
-DTEND:20270106T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-6870100fc6a2@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270106T030000Z
-DTEND:20270106T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ba557e9c43b6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270108T033000Z
-DTEND:20270108T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ba557e9c43b6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270108T033000Z
-DTEND:20270108T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:248819@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270109T000000Z
 DTEND:20270111T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session Two
@@ -1145,105 +595,8 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
-UID:x-6f2a8fecde30@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270109T170000Z
-DTEND:20270109T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-6f2a8fecde30@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270109T170000Z
-DTEND:20270109T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-419dc5e18993@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270115T030000Z
-DTEND:20270115T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-419dc5e18993@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270115T030000Z
-DTEND:20270115T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d209442d64e6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270115T030000Z
-DTEND:20270115T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d209442d64e6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270115T030000Z
-DTEND:20270115T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-e7d22a23e191@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270115T030000Z
-DTEND:20270115T040000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-e7d22a23e191@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270115T030000Z
 DTEND:20270115T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -1262,7 +615,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:265016@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270123T160000Z
 DTEND:20270124T010000Z
 SUMMARY:LEAD 2027 (aka University of Scouting)
@@ -1281,7 +634,7 @@ URL:https://global.scoutingevent.com/023-LEAD2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270514@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270123T170000Z
 DTEND:20270124T000000Z
 SUMMARY:Cub Leader Basic Training - SAVE THE DATE – Cub Leader Specific 
@@ -1299,46 +652,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-119041
 END:VEVENT
 BEGIN:VEVENT
-UID:x-e19cd8ab1013@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270126T023000Z
-DTEND:20270126T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-e19cd8ab1013@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270126T023000Z
-DTEND:20270126T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-e9871f9b3cf8@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270203T030000Z
 DTEND:20270203T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -1351,145 +666,8 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:x-e9871f9b3cf8@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270203T030000Z
-DTEND:20270203T040000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5e175966fe5c@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270203T030000Z
-DTEND:20270203T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5e175966fe5c@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270203T030000Z
-DTEND:20270203T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ff121ac3171c@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270205T033000Z
-DTEND:20270205T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ff121ac3171c@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270205T033000Z
-DTEND:20270205T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-2b4bacc95cb6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270212T030000Z
-DTEND:20270212T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-2b4bacc95cb6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270212T030000Z
-DTEND:20270212T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5e3bc373c4e4@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270212T030000Z
-DTEND:20270212T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5e3bc373c4e4@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270212T030000Z
-DTEND:20270212T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-ad4c1de2069d@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270212T030000Z
-DTEND:20270212T040000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ad4c1de2069d@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270212T030000Z
 DTEND:20270212T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -1508,7 +686,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:274271@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270213T160000Z
 DTEND:20270222T000000Z
 SUMMARY:NYLT 2027 – Winter NYLT - For Boys
@@ -1525,32 +703,8 @@ DESCRIPTION:Golden Gate Area Council\nhttps://global.scoutingevent.com/023
 URL:https://global.scoutingevent.com/023-NYLT2027
 END:VEVENT
 BEGIN:VEVENT
-UID:x-8aca71a05abd@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270213T170000Z
-DTEND:20270213T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-8aca71a05abd@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270213T170000Z
-DTEND:20270213T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:267043@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270219T200000Z
 DTEND:20270221T190000Z
 SUMMARY:Bearpaw Winter Camping Training\, 36th Annual – Bearpaw #1
@@ -1567,70 +721,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-BearPaw27
 END:VEVENT
 BEGIN:VEVENT
-UID:x-e0243d75fc3b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270223T023000Z
-DTEND:20270223T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-e0243d75fc3b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270223T023000Z
-DTEND:20270223T040000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ee426e439fcf@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270226T030000Z
-DTEND:20270226T043000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-ee426e439fcf@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270226T030000Z
-DTEND:20270226T043000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:267415@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270227T160000Z
 DTEND:20270228T000000Z
 SUMMARY:So. Sierra - Fundamentals of Training I & II
@@ -1648,7 +740,7 @@ URL:https://global.scoutingevent.com/047-fund27
 END:VEVENT
 BEGIN:VEVENT
 UID:x-da68d3e20b0e@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270303T030000Z
 DTEND:20270303T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -1658,75 +750,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-da68d3e20b0e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270303T030000Z
-DTEND:20270303T040000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-44f7657fd4a1@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270303T030000Z
-DTEND:20270303T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-44f7657fd4a1@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270303T030000Z
-DTEND:20270303T040000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-b654b217289e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270305T033000Z
-DTEND:20270305T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-b654b217289e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270305T033000Z
-DTEND:20270305T053000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:267044@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270305T200000Z
 DTEND:20270307T190000Z
 SUMMARY:Bearpaw Winter Camping Training\, 36th Annual – Bearpaw #2
@@ -1744,7 +772,7 @@ URL:https://global.scoutingevent.com/055-BearPaw27
 END:VEVENT
 BEGIN:VEVENT
 UID:264902@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270306T000000Z
 DTEND:20270307T180000Z
 SUMMARY:Firestone Cub Scout Rocket Academy
@@ -1762,7 +790,7 @@ URL:https://global.scoutingevent.com/033-RocketAcademy
 END:VEVENT
 BEGIN:VEVENT
 UID:268778@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270306T160000Z
 DTEND:20270307T010000Z
 SUMMARY:2027 University of Scouting – University of Scouting 2027
@@ -1780,7 +808,7 @@ URL:https://global.scoutingevent.com/055-118154
 END:VEVENT
 BEGIN:VEVENT
 UID:275637@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270306T170000Z
 DTEND:20270307T230000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 1
@@ -1797,81 +825,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
-UID:x-1cc2e93d2bec@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270312T030000Z
-DTEND:20270312T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-1cc2e93d2bec@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270312T030000Z
-DTEND:20270312T040000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9b5b2d71f448@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270312T030000Z
-DTEND:20270312T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9b5b2d71f448@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270312T030000Z
-DTEND:20270312T043000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-2bcbd476a72e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270312T030000Z
-DTEND:20270312T040000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-2bcbd476a72e@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270312T030000Z
 DTEND:20270312T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -1890,7 +845,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:268781@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270313T020000Z
 DTEND:20270314T200000Z
 SUMMARY:Introduction to Outdoor Leader Skills (iOLS) (S11) – iOLS
@@ -1908,7 +863,7 @@ URL:https://global.scoutingevent.com/055-118157
 END:VEVENT
 BEGIN:VEVENT
 UID:266998@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270313T150000Z
 DTEND:20270314T190000Z
 SUMMARY:So. Sierra - BALOO & IOLS - Ridgecrest - Adult Leader Skills
@@ -1926,7 +881,7 @@ URL:https://global.scoutingevent.com/047-IOLSBALOO_Ridgecrest_0327
 END:VEVENT
 BEGIN:VEVENT
 UID:268779@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270313T160000Z
 DTEND:20270314T190000Z
 SUMMARY:2027-03 Leave No Trace Level 1 Instructor Course/Skill Course
@@ -1943,32 +898,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-LNT20273
 END:VEVENT
 BEGIN:VEVENT
-UID:x-cf0696f61a54@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270313T170000Z
-DTEND:20270313T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-cf0696f61a54@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270313T170000Z
-DTEND:20270313T200000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:275638@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270313T170000Z
 DTEND:20270314T220000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 2
@@ -1985,70 +916,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
-UID:x-1da8ae2083d6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270323T013000Z
-DTEND:20270323T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-1da8ae2083d6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270323T013000Z
-DTEND:20270323T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-7dc10c31ef72@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270402T023000Z
-DTEND:20270402T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-7dc10c31ef72@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270402T023000Z
-DTEND:20270402T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:273746@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270402T140000Z
 DTEND:20270405T000000Z
 SUMMARY:2027 Spring Wood Badge – Wood Badge Weekend 1
@@ -2066,7 +935,7 @@ URL:https://global.scoutingevent.com/055-wbspring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266999@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270403T140000Z
 DTEND:20270404T190000Z
 SUMMARY:So. Sierra - BALOO & IOLS - Bakersfield - Adult Leader Skills
@@ -2084,7 +953,7 @@ URL:https://global.scoutingevent.com/047-117229
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a6a5dc29acb1@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270407T020000Z
 DTEND:20270407T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -2097,121 +966,8 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:x-a6a5dc29acb1@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270407T020000Z
-DTEND:20270407T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-972ccd226666@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270407T020000Z
-DTEND:20270407T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-972ccd226666@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270407T020000Z
-DTEND:20270407T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-498694c786e1@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270409T020000Z
-DTEND:20270409T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-498694c786e1@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270409T020000Z
-DTEND:20270409T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0a0069904516@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270409T020000Z
-DTEND:20270409T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0a0069904516@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270409T020000Z
-DTEND:20270409T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-046cc5688532@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270409T020000Z
-DTEND:20270409T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-046cc5688532@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270409T020000Z
 DTEND:20270409T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -2230,7 +986,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:268777@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270410T150000Z
 DTEND:20270410T200000Z
 SUMMARY:BLT - Basic Leader Training Day - Spring 2027 – Basic Leader Tra
@@ -2251,32 +1007,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-118153
 END:VEVENT
 BEGIN:VEVENT
-UID:x-8f67b6798dda@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270410T160000Z
-DTEND:20270410T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-8f67b6798dda@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270410T160000Z
-DTEND:20270410T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:273747@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270417T140000Z
 DTEND:20270419T000000Z
 SUMMARY:2027 Spring Wood Badge – Wood Badge Weekend 2
@@ -2294,7 +1026,7 @@ URL:https://global.scoutingevent.com/055-wbspring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270508@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270417T180000Z
 DTEND:20270418T220000Z
 SUMMARY:IOLS and BALOO April 17-18 2027 SAVE THE DATE – IOLS
@@ -2313,7 +1045,7 @@ URL:https://global.scoutingevent.com/047-119037
 END:VEVENT
 BEGIN:VEVENT
 UID:274246@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270423T230000Z
 DTEND:20270425T173000Z
 SUMMARY:Placer District Camporee
@@ -2329,7 +1061,7 @@ URL:https://global.scoutingevent.com/047-121097
 END:VEVENT
 BEGIN:VEVENT
 UID:270513@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270424T160000Z
 DTEND:20270424T230000Z
 SUMMARY:Cub Leader Basic Training - SAVE THE DATE – Cub Leader Specific 
@@ -2347,46 +1079,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-119040
 END:VEVENT
 BEGIN:VEVENT
-UID:x-9be126feb5f6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270427T013000Z
-DTEND:20270427T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9be126feb5f6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270427T013000Z
-DTEND:20270427T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-196187f1419f@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270505T020000Z
 DTEND:20270505T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -2396,153 +1090,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-196187f1419f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270505T020000Z
-DTEND:20270505T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5afe9c90ab70@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270505T020000Z
-DTEND:20270505T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5afe9c90ab70@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270505T020000Z
-DTEND:20270505T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-05d9d38bba0e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270507T023000Z
-DTEND:20270507T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-05d9d38bba0e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270507T023000Z
-DTEND:20270507T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-8cf0f3a2394a@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270508T160000Z
-DTEND:20270508T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-8cf0f3a2394a@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270508T160000Z
-DTEND:20270508T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0166200ea997@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270514T020000Z
-DTEND:20270514T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0166200ea997@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270514T020000Z
-DTEND:20270514T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-20724eb979d3@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270514T020000Z
-DTEND:20270514T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-20724eb979d3@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270514T020000Z
-DTEND:20270514T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1ad6d8dbae55@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270514T020000Z
 DTEND:20270514T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -2560,89 +1112,8 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
 URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
-UID:x-1ad6d8dbae55@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270514T020000Z
-DTEND:20270514T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-960c46a3a81c@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270525T013000Z
-DTEND:20270525T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-960c46a3a81c@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270525T013000Z
-DTEND:20270525T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-2d7c5800e90e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270528T020000Z
-DTEND:20270528T033000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-2d7c5800e90e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270528T020000Z
-DTEND:20270528T033000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-03a424bf507f@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270602T020000Z
 DTEND:20270602T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -2652,75 +1123,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-03a424bf507f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270602T020000Z
-DTEND:20270602T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9cb0d14ac894@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270602T020000Z
-DTEND:20270602T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9cb0d14ac894@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270602T020000Z
-DTEND:20270602T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0100586a4058@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270604T023000Z
-DTEND:20270604T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0100586a4058@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270604T023000Z
-DTEND:20270604T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:274270@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270606T170000Z
 DTEND:20270612T190000Z
 SUMMARY:NYLT 2027 – Summer @ RLM - For Boys
@@ -2737,62 +1144,8 @@ DESCRIPTION:Golden Gate Area Council\nhttps://global.scoutingevent.com/023
 URL:https://global.scoutingevent.com/023-NYLT2027
 END:VEVENT
 BEGIN:VEVENT
-UID:x-0f2e7a4eeba7@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270611T020000Z
-DTEND:20270611T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-0f2e7a4eeba7@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270611T020000Z
-DTEND:20270611T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-904fe1373afe@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270611T020000Z
-DTEND:20270611T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-904fe1373afe@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270611T020000Z
-DTEND:20270611T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-e5600849a61f@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270611T020000Z
 DTEND:20270611T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -2808,53 +1161,10 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
   are known for maintaining camping traditions and spirit\, promoting year
  -round and long-term resi
 URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-e5600849a61f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270611T020000Z
-DTEND:20270611T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-998147effc94@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270612T160000Z
-DTEND:20270612T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-998147effc94@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270612T160000Z
-DTEND:20270612T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:270511@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T183000Z
 DTEND:20270619T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Joint GYC Host 2027 - SA
@@ -2873,7 +1183,7 @@ URL:https://global.scoutingevent.com/047-119038
 END:VEVENT
 BEGIN:VEVENT
 UID:266905@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T190000Z
 DTEND:20270619T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 1
@@ -2891,7 +1201,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266924@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T190000Z
 DTEND:20270619T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 1
@@ -2909,7 +1219,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275820@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270613T200000Z
 DTEND:20270619T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 1
@@ -2928,7 +1238,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:277218@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T190000Z
 DTEND:20270626T033000Z
 SUMMARY:2027 NYLT Registration – NYLT 1
@@ -2946,7 +1256,7 @@ URL:https://global.scoutingevent.com/055-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:266906@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 2
@@ -2964,7 +1274,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266936@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 1
@@ -2982,7 +1292,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:241549@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T190000Z
 DTEND:20270626T160000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 1
@@ -3001,7 +1311,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266925@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 2
@@ -3019,7 +1329,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275821@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 2
@@ -3038,7 +1348,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276101@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T200000Z
 DTEND:20270623T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 1
@@ -3056,7 +1366,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263792@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 1
@@ -3074,7 +1384,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:276102@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270623T200000Z
 DTEND:20270626T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 2
@@ -3092,7 +1402,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266907@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 3
@@ -3110,7 +1420,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266937@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 2
@@ -3128,7 +1438,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:241552@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T190000Z
 DTEND:20270704T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 2
@@ -3147,7 +1457,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266926@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 3
@@ -3165,7 +1475,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:268230@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T200000Z
 DTEND:20270703T160000Z
 SUMMARY:2027 Adventure Week Camp Hi-Sierra
@@ -3183,7 +1493,7 @@ URL:https://global.scoutingevent.com/055-Venturing27CHS
 END:VEVENT
 BEGIN:VEVENT
 UID:275822@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T200000Z
 DTEND:20270703T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 3
@@ -3202,7 +1512,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:265841@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T200000Z
 DTEND:20270701T180000Z
 SUMMARY:2027 Eagle Achievement Camp
@@ -3226,7 +1536,7 @@ URL:https://global.scoutingevent.com/055-2027CHSEagle
 END:VEVENT
 BEGIN:VEVENT
 UID:276106@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270627T200000Z
 DTEND:20270630T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 3
@@ -3244,7 +1554,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:268892@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270628T150000Z
 DTEND:20270702T230000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 1: June 28th - July 2nd
@@ -3262,7 +1572,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268881@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270628T150000Z
 DTEND:20270702T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 1: June 28th - July
@@ -3280,46 +1590,8 @@ DESCRIPTION:Orange County Council\nhttps://global.scoutingevent.com/039-11
 URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
-UID:x-4864741066ec@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270629T013000Z
-DTEND:20270629T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4864741066ec@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270629T013000Z
-DTEND:20270629T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:276103@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270630T200000Z
 DTEND:20270703T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – AOL and Webelos Camp
@@ -3336,32 +1608,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
-UID:x-8bfd23639087@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270702T023000Z
-DTEND:20270702T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-8bfd23639087@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270702T023000Z
-DTEND:20270702T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:266908@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 4
@@ -3379,7 +1627,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266938@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 3
@@ -3397,7 +1645,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:241551@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T190000Z
 DTEND:20270711T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 3 - Save $45 Per Particpant
@@ -3416,7 +1664,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266927@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 4
@@ -3434,7 +1682,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275823@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 4
@@ -3453,7 +1701,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273327@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T200000Z
 DTEND:20270710T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 1
@@ -3471,7 +1719,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263793@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 3
@@ -3489,7 +1737,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:268893@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270705T150000Z
 DTEND:20270709T230000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 2 July 5th - 9th
@@ -3507,7 +1755,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268878@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270705T150000Z
 DTEND:20270709T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 2: July 5th - 9th
@@ -3525,7 +1773,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d1b5f3fcb5c8@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270707T020000Z
 DTEND:20270707T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -3535,105 +1783,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d1b5f3fcb5c8@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270707T020000Z
-DTEND:20270707T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d1262a28a721@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270707T020000Z
-DTEND:20270707T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d1262a28a721@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270707T020000Z
-DTEND:20270707T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-c3ce1407be64@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270709T020000Z
-DTEND:20270709T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-c3ce1407be64@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270709T020000Z
-DTEND:20270709T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-6d330314d08b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270709T020000Z
-DTEND:20270709T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-6d330314d08b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270709T020000Z
-DTEND:20270709T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9068081b7d72@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270709T020000Z
 DTEND:20270709T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -3649,53 +1803,10 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
   are known for maintaining camping traditions and spirit\, promoting year
  -round and long-term resi
 URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9068081b7d72@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270709T020000Z
-DTEND:20270709T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-df4c3cc52619@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270710T160000Z
-DTEND:20270710T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-df4c3cc52619@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270710T160000Z
-DTEND:20270710T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:266909@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 5
@@ -3713,7 +1824,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266939@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 4
@@ -3731,7 +1842,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:241550@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T190000Z
 DTEND:20270718T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 4
@@ -3750,7 +1861,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266928@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 5
@@ -3768,7 +1879,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275824@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 5
@@ -3787,7 +1898,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273328@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T200000Z
 DTEND:20270717T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 2
@@ -3805,7 +1916,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263794@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 4
@@ -3823,7 +1934,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:268889@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270712T150000Z
 DTEND:20270716T233000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 3: July 12th - 16th
@@ -3841,7 +1952,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268879@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270712T150000Z
 DTEND:20270716T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 3:  July 12th - Jul
@@ -3860,7 +1971,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:277219@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T190000Z
 DTEND:20270724T033000Z
 SUMMARY:2027 NYLT Registration – NYLT 2
@@ -3878,7 +1989,7 @@ URL:https://global.scoutingevent.com/055-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:266910@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 6
@@ -3896,7 +2007,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266940@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 5
@@ -3914,7 +2025,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:245247@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T190000Z
 DTEND:20270725T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 5
@@ -3933,7 +2044,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266929@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 6
@@ -3951,7 +2062,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275825@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 6
@@ -3970,7 +2081,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273331@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T200000Z
 DTEND:20270724T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 3
@@ -3988,7 +2099,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263795@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 5
@@ -4006,7 +2117,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:268890@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270719T150000Z
 DTEND:20270723T233000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 4:  July 19th - July 23rd
@@ -4024,7 +2135,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268880@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270719T150000Z
 DTEND:20270723T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 4: July 19th - July
@@ -4043,7 +2154,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:277488@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270719T190000Z
 DTEND:20270724T230000Z
 SUMMARY:NYLT 2027 – NYLT
@@ -4061,7 +2172,7 @@ URL:https://global.scoutingevent.com/053-2027NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:266941@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270725T190000Z
 DTEND:20270731T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 6
@@ -4079,7 +2190,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275826@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 7
@@ -4098,7 +2209,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:263796@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 6
@@ -4116,7 +2227,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:268895@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270726T150000Z
 DTEND:20270730T233000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 5: July 26th - July 30th
@@ -4134,7 +2245,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268882@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270726T150000Z
 DTEND:20270730T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 5: July 26th - July
@@ -4152,46 +2263,8 @@ DESCRIPTION:Orange County Council\nhttps://global.scoutingevent.com/039-11
 URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
-UID:x-f71e3d636a91@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270727T013000Z
-DTEND:20270727T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-f71e3d636a91@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270727T013000Z
-DTEND:20270727T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-192dc7652506@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270804T020000Z
 DTEND:20270804T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -4201,75 +2274,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-192dc7652506@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270804T020000Z
-DTEND:20270804T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-1b20bd1697a7@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270804T020000Z
-DTEND:20270804T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-1b20bd1697a7@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270804T020000Z
-DTEND:20270804T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-cdb24ceb1195@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270806T023000Z
-DTEND:20270806T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-cdb24ceb1195@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270806T023000Z
-DTEND:20270806T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:270516@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270807T160000Z
 DTEND:20270807T230000Z
 SUMMARY:Cub Leader Basic Training - SAVE THE DATE – Cub Leader Specific 
@@ -4287,62 +2296,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-119043
 END:VEVENT
 BEGIN:VEVENT
-UID:x-64f840c831e6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270813T020000Z
-DTEND:20270813T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-64f840c831e6@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270813T020000Z
-DTEND:20270813T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4f4493522f4f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270813T020000Z
-DTEND:20270813T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-4f4493522f4f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270813T020000Z
-DTEND:20270813T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-1ccfea02fa32@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270813T020000Z
 DTEND:20270813T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -4358,115 +2313,10 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
   are known for maintaining camping traditions and spirit\, promoting year
  -round and long-term resi
 URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-1ccfea02fa32@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270813T020000Z
-DTEND:20270813T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5055bd3c6ed4@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270814T160000Z
-DTEND:20270814T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5055bd3c6ed4@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270814T160000Z
-DTEND:20270814T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d4295cc0892f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270824T013000Z
-DTEND:20270824T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-d4295cc0892f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270824T013000Z
-DTEND:20270824T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-38099dc62813@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270827T020000Z
-DTEND:20270827T033000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-38099dc62813@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270827T020000Z
-DTEND:20270827T033000Z
-SUMMARY:ROUNDTABLE
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:268782@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270828T010000Z
 DTEND:20270829T200000Z
 SUMMARY:Introduction to Outdoor Leader Skills (iOLS) (S11) – iOLS
@@ -4483,32 +2333,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-118158
 END:VEVENT
 BEGIN:VEVENT
-UID:x-db3e9fbabdb8@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270903T023000Z
-DTEND:20270903T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-db3e9fbabdb8@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270903T023000Z
-DTEND:20270903T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:270499@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270904T010000Z
 DTEND:20270906T230000Z
 SUMMARY:National Youth Leadership Training (NYLT) GCC Fall 2027 - SAVE the
@@ -4527,7 +2353,7 @@ URL:https://global.scoutingevent.com/047-119034
 END:VEVENT
 BEGIN:VEVENT
 UID:x-547e2a913e0b@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270908T020000Z
 DTEND:20270908T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -4540,121 +2366,8 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
-UID:x-547e2a913e0b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270908T020000Z
-DTEND:20270908T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-375c2e679423@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270908T020000Z
-DTEND:20270908T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-375c2e679423@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270908T020000Z
-DTEND:20270908T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-522d2c5c9010@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270910T020000Z
-DTEND:20270910T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-522d2c5c9010@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270910T020000Z
-DTEND:20270910T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5ea84be0841f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270910T020000Z
-DTEND:20270910T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5ea84be0841f@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270910T020000Z
-DTEND:20270910T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-6e16107d5184@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270910T020000Z
-DTEND:20270910T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-6e16107d5184@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270910T020000Z
 DTEND:20270910T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -4673,7 +2386,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:270500@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270911T010000Z
 DTEND:20270912T223000Z
 SUMMARY:National Youth Leadership Training (NYLT) GCC Fall 2027 - SAVE the
@@ -4691,32 +2404,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-119034
 END:VEVENT
 BEGIN:VEVENT
-UID:x-c0a2ce2d16df@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270911T160000Z
-DTEND:20270911T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-c0a2ce2d16df@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270911T160000Z
-DTEND:20270911T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:270502@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270918T180000Z
 DTEND:20270919T220000Z
 SUMMARY:IOLS and BALOO Sept 18-19\, 2027 SAVE THE DATE – IOLS
@@ -4735,7 +2424,7 @@ URL:https://global.scoutingevent.com/047-119035
 END:VEVENT
 BEGIN:VEVENT
 UID:270505@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270924T143000Z
 DTEND:20270927T003000Z
 SUMMARY:2027 Fall Wood Badge - SAVE THE DATE – Fall Wood Badge
@@ -4753,7 +2442,7 @@ URL:https://global.scoutingevent.com/047-119036
 END:VEVENT
 BEGIN:VEVENT
 UID:266206@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20270925T000000Z
 DTEND:20270926T190000Z
 SUMMARY:Fort Chesebrough Mountain Rendezvous 2027 – Mountain Rendezvous
@@ -4770,46 +2459,8 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-MountainRendezvous2027
 END:VEVENT
 BEGIN:VEVENT
-UID:x-816fdb0a1a8a@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270928T013000Z
-DTEND:20270928T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-816fdb0a1a8a@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20270928T013000Z
-DTEND:20270928T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-19c03a3494ba@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20271006T020000Z
 DTEND:20271006T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -4819,75 +2470,11 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
  g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
  feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
  tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-19c03a3494ba@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271006T020000Z
-DTEND:20271006T030000Z
-SUMMARY:AV Life to Eagle Seminar
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThe Life To Eagle Seminar will be held in person when 
- feasible or Via Zoom if needed.\nSee details and requirements here\n\nCon
- tact:  Craig Stephens   lcstephens@verizon.net
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-a9b0b6dd35cc@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271006T020000Z
-DTEND:20271006T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-a9b0b6dd35cc@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271006T020000Z
-DTEND:20271006T030000Z
-SUMMARY:AV Roundtable
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\nContact:  Jennifer Hudson   Jennifer.Huds
- on@scouting.org
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-cbab97bcbca7@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271008T023000Z
-DTEND:20271008T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-cbab97bcbca7@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271008T023000Z
-DTEND:20271008T043000Z
-SUMMARY:BH District Roundtable
-LOCATION:First Christian Church of Canyon Country - 27471 Homyr Pl\, Canyo
- n Country\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\nRoundtable\n\n
 URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:270506@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20271009T070000Z
 DTEND:20271011T065900Z
 SUMMARY:2027 Fall Wood Badge - SAVE THE DATE – Fall Wood Badge Wknd #2
@@ -4904,86 +2491,8 @@ DESCRIPTION:Greater California Council\nhttps://global.scoutingevent.com/0
 URL:https://global.scoutingevent.com/047-119036
 END:VEVENT
 BEGIN:VEVENT
-UID:x-25cebe7fc3f9@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271009T160000Z
-DTEND:20271009T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-25cebe7fc3f9@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271009T160000Z
-DTEND:20271009T190000Z
-SUMMARY:CB Eagle Boards of Review
-LOCATION:Brentwood Presbyterian Church\, 12000 San Vicente Boulevard  Los 
- Angeles\, CA 90049\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9d716500174b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271015T020000Z
-DTEND:20271015T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-9d716500174b@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271015T020000Z
-DTEND:20271015T030000Z
-SUMMARY:AV Order of the Arrow Chapter Meeting
-LOCATION:Palmdale United Methodist Church\, 39055 10th St W\, Palmdale\, C
- A 93551\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\n
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5c3a5622ae4e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271015T020000Z
-DTEND:20271015T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-5c3a5622ae4e@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271015T020000Z
-DTEND:20271015T033000Z
-SUMMARY:CC: District Committee Meeting
-LOCATION:First United Methodist Church\n4832 Tujunga Ave\, North Hollywood
- \, CA  91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting-la.or
- g/calendar/\n\n\n\nThis is the monthly meeting of the District Committee.
-  Although especially important for all District Committee Members\, inclu
- ding Members at Large\, to attend\, this meeting is open to anyone in Sco
- uting interested in the affairs of the Campo De Cahuenga District.
-URL:https://www.scouting-la.org/calendar/
-END:VEVENT
-BEGIN:VEVENT
 UID:x-01c544c125ee@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20271015T020000Z
 DTEND:20271015T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -4999,67 +2508,10 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
   are known for maintaining camping traditions and spirit\, promoting year
  -round and long-term resi
 URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-01c544c125ee@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271015T020000Z
-DTEND:20271015T030000Z
-SUMMARY:CC: Order of the Arrow
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
- roups/AlliklikChapter/\n\n\n\nThe Xaxaamonga Chapter of the Order of th
- e Arrow (OA) usually meets the second Thursday of every month. The OA rec
- ognizes Scouts and Scouters who best exemplify the Scout Oath and Law in 
- their daily lives. The OA can help strengthen troops by providing leaders
- hip training and opportunities for OA members and by assisting in summer 
- camp promotion\, camporees\, Scout shows\, and other activities. Arrowmen
-  are known for maintaining camping traditions and spirit\, promoting year
- -round and long-term resi
-URL:https://www.facebook.com/groups/AlliklikChapter/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-afd29cb12b10@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271026T013000Z
-DTEND:20271026T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
-END:VEVENT
-BEGIN:VEVENT
-UID:x-afd29cb12b10@scout-event-finder
-DTSTAMP:20261026T082202Z
-DTSTART:20271026T013000Z
-DTEND:20271026T030000Z
-SUMMARY:CC: Eagle Board of Review
-LOCATION:First United Methodist Church of North Hollywood\, 4832 Tujunga A
- ve\, North Hollywood\, CA 91601\, California
-DESCRIPTION:Western Los Angeles County Council\nhttps://www.scouting.org/r
- esources/guide-to-advancement/boards-of-review/\n\n\n\nThe Board of Revie
- w for an Eagle candidate is composed of at least three but not more than 
- six members\, all at least 21 years of age. These members do not have to 
- be registered in Scouting\, but they must have an understanding of the im
- portance and purpose of the Eagle Board of Review. For more information\,
-  CLICK HERE: https://www.scouting.org/resources/guide-to-advancement/boar
- ds-of-review/
-URL:https://www.scouting.org/resources/guide-to-advancement/boards-of-revi
- ew/
 END:VEVENT
 BEGIN:VEVENT
 UID:270517@scout-event-finder
-DTSTAMP:20261026T082202Z
+DTSTAMP:20261026T083048Z
 DTSTART:20271106T160000Z
 DTEND:20271106T230000Z
 SUMMARY:Cub Leader Basic Training - SAVE THE DATE – Cub Leader Specific 
