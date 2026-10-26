@@ -242,7 +242,8 @@
           el("span", { text: when(e) }),
           el("span", { text: e.council }),
           e.location ? el("span", { text: e.location }) : null,
-          g.d !== Infinity && origin ? el("span", { class: "dist", text: `${Math.round(g.d)} mi` }) : null,
+          g.d !== Infinity && origin ? el("span", { class: "dist", title: e.approx ? "Approximate: measured to the council office (no address listed)" : "",
+            text: e.approx ? `~${Math.round(g.d)} mi (council area)` : `${Math.round(g.d)} mi` }) : null,
           e.fees && e.fees.length ? el("span", { text: e.fees.length > 1 ? `${e.fees[0]}–${e.fees[e.fees.length - 1]}` : e.fees[0] }) : null),
         el("div", { class: "tags" }, tags),
         desc ? el("p", { class: "desc", text: desc.length > 260 ? desc.slice(0, 260) + "…" : desc }) : null,
@@ -291,6 +292,7 @@
         topics: [], trainings: [], council: "", hideLong: true, hideFund: true, hideAdmin: true, newOnly: false, sort: "date" });
       shown = PAGE; update();
     });
+    window.addEventListener("hashchange", async () => { fromHash(); await setOrigin(); shown = PAGE; update(); });
     on("openFilters", "click", () => $("#filters").classList.add("open"));
     on("closeFilters", "click", () => $("#filters").classList.remove("open"));
   }
