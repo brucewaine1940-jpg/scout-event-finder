@@ -1,0 +1,15 @@
+{
+ "updated": "2026-10-27",
+ "parks": {
+  "samo": "Santa Monica Mountains",
+  "chis": "Channel Islands",
+  "cabr": "Cabrillo",
+  "jotr": "Joshua Tree",
+  "moja": "Mojave Preserve",
+  "manz": "Manzanar",
+  "deva": "Death Valley",
+  "seki": "Sequoia & Kings Canyon",
+  "pinn": "Pinnacles"
+ },
+ "alerts": []
+}

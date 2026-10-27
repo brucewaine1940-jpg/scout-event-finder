@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:275282@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261105T223000Z
 DTEND:20261106T003000Z
 SUMMARY:Personal Management Merit Badge with South Shore Bank – Personal
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/251-PersonalManagement11052026
 END:VEVENT
 BEGIN:VEVENT
 UID:276399@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261107T140000Z
 DTEND:20261107T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 1
@@ -44,7 +44,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276400@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261114T140000Z
 DTEND:20261114T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 2
@@ -62,7 +62,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:272648@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261115T150000Z
 DTEND:20261115T163000Z
 SUMMARY:Environmental Science Merit Badge at the South Shore YMCA Nature C
@@ -82,7 +82,7 @@ URL:https://global.scoutingevent.com/251-EnvSciMBYMCA111526
 END:VEVENT
 BEGIN:VEVENT
 UID:272718@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261115T170000Z
 DTEND:20261115T183000Z
 SUMMARY:Citizenship in the World Merit Badge at the South Shore YMCA Natur
@@ -102,7 +102,7 @@ URL:https://global.scoutingevent.com/251-CitizenshipintheWorldMB111506
 END:VEVENT
 BEGIN:VEVENT
 UID:272853@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261121T140000Z
 DTEND:20261121T180000Z
 SUMMARY:Geocaching with Hull Lifesaving museum
@@ -121,7 +121,7 @@ URL:https://global.scoutingevent.com/251-GeocachingMB101026
 END:VEVENT
 BEGIN:VEVENT
 UID:276401@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261121T140000Z
 DTEND:20261121T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 3
@@ -139,7 +139,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276403@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261205T140000Z
 DTEND:20261205T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 4
@@ -156,8 +156,48 @@ DESCRIPTION:Mayflower Council\nhttps://global.scoutingevent.com/251-RadioM
 URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
+UID:277651@scout-event-finder
+DTSTAMP:20261027T165634Z
+DTSTART:20261206T150000Z
+DTEND:20261206T163000Z
+SUMMARY:Reptile and Amphibian Study Merit Badge at the South Shore YMCA Na
+ ture Center – Reptile and Amphibian Study Merit Badge Class
+LOCATION:South Shore YMCA Nature Center\, Nowell\, Massachusetts
+DESCRIPTION:Mayflower Council\nhttps://global.scoutingevent.com/251-Reptil
+ eAmphibianMB120626\n\nNature\, Reptile and Amphibian Study\, Sustainabili
+ ty\, Merit Badge Counselor\n\nReptile and Amphibian Study Merit Badge at 
+ the South Shore YMCA Nature Center\nDate:\nSunday\, December 6\, 2026\nT
+ ime:\n10:00-11:30am\nWhere:\nSouth Shore YMCA Nature Center\, 48 Jacobs L
+ ane\, Norwell\, MA 02061\nCapacity:\n26 Scouts\nRequirements to complete 
+ BEFORE session: Requirement #1. Please bring your\nsketches or photograph
+ s with you.\nJoin Merit Badge Counselors at the South Shore YMCA Nature C
+ enter for an exciting\nopportunity to earn your Reptile and Amphibian Stu
+ dy Merit Badge!\nThis program is desig
+URL:https://global.scoutingevent.com/251-ReptileAmphibianMB120626
+END:VEVENT
+BEGIN:VEVENT
+UID:277653@scout-event-finder
+DTSTAMP:20261027T165634Z
+DTSTART:20261206T170000Z
+DTEND:20261206T183000Z
+SUMMARY:Sustainability Merit Badge at the South Shore YMCA Nature Center 
+ – Sustainability Merit Badge Class
+LOCATION:South Shore YMCA Nature Center\, Nowell\, Massachusetts
+DESCRIPTION:Mayflower Council\nhttps://global.scoutingevent.com/251-Sustai
+ nabilityMB2026\n\nNature\, Reptile and Amphibian Study\, Sustainability\,
+  Merit Badge Counselor\n\nSustainability Merit Badge at South Shore YMCA 
+ Nature Center\nDate:\nSunday\, December 6th\, 2026\nTime:\n12:00 – 1:30
+  pm\nWhere:\nSouth Shore YMCA Nature Center\, 48 Jacobs Lane\, Norwell\, 
+ MA 02061\nCapacity:\n26 Scouts\nRequirements to complete BEFORE session: 
+ #1\, #4A\, #8 B OR C and #9\nJoin Merit Badge Counselors at South Shore Y
+ MCA Nature Center for an opportunity to\nearn your Sustainability Badge\,
+  an essential requirement for achieving Eagle Scout\nrank!\nThis program 
+ is designed to help you understand the
+URL:https://global.scoutingevent.com/251-SustainabilityMB2026
+END:VEVENT
+BEGIN:VEVENT
 UID:276404@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261212T140000Z
 DTEND:20261212T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 5
@@ -175,7 +215,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276409@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261219T140000Z
 DTEND:20261219T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 6
@@ -193,7 +233,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:237628@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20261227T210000Z
 DTEND:20261230T170000Z
 SUMMARY:Winter Camp – Winter Camp 2026
@@ -213,7 +253,7 @@ URL:https://global.scoutingevent.com/251-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:260904@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20270711T150000Z
 DTEND:20270717T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 1
@@ -231,7 +271,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261197@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20270718T150000Z
 DTEND:20270724T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 2
@@ -249,7 +289,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261198@scout-event-finder
-DTSTAMP:20261027T160436Z
+DTSTAMP:20261027T165634Z
 DTSTART:20270725T150000Z
 DTEND:20270731T140000Z
 SUMMARY:Scout BSA Camp 2027 – Specialty Week
