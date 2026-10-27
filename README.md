@@ -13,6 +13,7 @@ A free, nightly-updated search engine for Scouting America council events: merit
 | `scraper/extra_feeds.py` | Adds councils that are NOT on Black Pug, from `data/extra_sources.json`: any ICS feed, or a web page with an embedded Google Calendar (e.g. Western LA County Council). Recurring events are expanded |
 | `scraper/eventbrite.py` | Scouting events from the Eventbrite organizers in `data/eventbrite_organizers.json` (museums, independent counselors, online classes), through Eventbrite's official API. Needs the `EVENTBRITE_TOKEN` secret (below) |
 | `scraper/providers.py` | The **merit badge provider directory** in `data/providers.json`: re-checks each provider's page nightly, pulls out dates it mentions, turns recurring schedules into events, and powers the Providers tab |
+| `scraper/nps.py` | Ranger programs and park events from the National Park Service API for Southern California parks. Needs the `NPS_API_KEY` secret (below) |
 | `scraper/build_feeds.py` | Builds subscribable calendar feeds in `docs/feeds/` (all merit badge events, all trainings, and one feed per state) |
 | `.github/workflows/update-events.yml` | Runs the above nightly (~3:17 AM Pacific) on GitHub Actions and saves the results. Can also be run by hand from the Actions tab |
 | `docs/` | The search website (GitHub Pages). All filtering happens in the browser |
@@ -25,6 +26,10 @@ Keyword · distance from any ZIP · state · date presets (this weekend, 7/30/90
 Edit `data/extra_sources.json` on GitHub (pencil icon) and add an entry, then run the workflow from the Actions tab:
 ```json
 {"name": "Long Beach Area Council", "ics": "https://teamup.com/.../events.ics", "state": "California", "lat": 33.80, "lng": -118.17}
+```
+or, for a council website built on **Councilware** (WordPress; e.g. Ventura County Council):
+```json
+{"name": "Some Council", "councilware": "https://www.example-council.org", "calendar_ids": [1], "state": "California", "lat": 34.2, "lng": -119.0}
 ```
 or, for a council calendar page that embeds a Google Calendar:
 ```json
@@ -45,6 +50,11 @@ Eventbrite blocks automated page reads, so this uses their official API:
 3. In this repo: **Settings → Secrets and variables → Actions → New repository secret**. Name it `EVENTBRITE_TOKEN` and paste the token.
 4. To follow another organizer, add the number at the end of their `eventbrite.com/o/...` link to `data/eventbrite_organizers.json`.
 
+## Turn on National Park Service ranger programs (free, one-time)
+1. Request a free key at https://www.nps.gov/subjects/developer/get-started.htm (it arrives by email).
+2. Add it as a repository secret named `NPS_API_KEY` (Settings → Secrets and variables → Actions).
+3. Edit `PARKS` in `scraper/nps.py` to change which parks are included.
+
 ## Cost
 $0. Public GitHub repo + GitHub Actions + GitHub Pages.
 
@@ -55,7 +65,9 @@ The collector identifies itself, waits ~1 second between requests, and only fetc
 - [x] Black Pug councils nationwide (global.scoutingevent.com)
 - [x] Western Los Angeles County Council (Google Calendar embed)
 - [x] Subscribable .ics feeds (merit badges, trainings, per state)
-- [ ] Long Beach Area Council (Teamup ICS link needed), Ventura County Council
+- [x] Ventura County Council (Councilware), Wiatava Lodge (OC Order of the Arrow)
+- [x] Service projects (Santa Monica Mountains trail work days), NPS ranger programs (with key)
+- [x] Quick picks: merit badges, summer camp, high adventure, NYLT/NAYLE, OA, service, ranger programs, online
 - [ ] Doubleknot councils
 - [x] Eventbrite listings (museums, independent counselors, online classes)
 - [x] Merit badge provider directory with nightly page checks
