@@ -30,9 +30,10 @@
     const msg = $("zipMsg");
     if (!/^\d{5}$/.test(z)) { if (!quiet) msg.textContent = "Enter a 5-digit ZIP."; return; }
     if (!zips) {
-      try { zips = await (await fetch("data/zips-ca.json")).json(); } catch (e) { zips = {}; }
+      try { const r = await fetch("data/zips-ca.json"); if (r.ok) zips = await r.json(); } catch (e) { /* try again next time */ }
     }
-    const pt = zips[z] || (z === HOME_ZIP && data ? [data.home.lat, data.home.lng] : null);
+    if (!zips && z !== HOME_ZIP) { msg.textContent = "Couldn't load the ZIP list. Please try again in a moment."; return; }
+    const pt = (zips && zips[z]) || (z === HOME_ZIP && data ? [data.home.lat, data.home.lng] : null);
     if (!pt) { msg.textContent = "That ZIP isn't in Southern/Central California. This page covers about 200 miles around Los Angeles."; return; }
     state.zip = z; state.origin = pt; msg.textContent = "";
     $("zip").value = z; store.set("wk-zip", z);
