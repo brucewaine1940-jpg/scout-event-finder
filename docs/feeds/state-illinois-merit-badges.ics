@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:275917@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261031T180000Z
 DTEND:20261031T220000Z
 SUMMARY:USAA Archery Level 1 Training – BSA/USAA Archery Level 1 Trainin
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/312-121836
 END:VEVENT
 BEGIN:VEVENT
 UID:245394@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261101T180000Z
 DTEND:20261101T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:259404@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261107T133000Z
 DTEND:20261107T223000Z
 SUMMARY:2026 Southern Illinois Merit Badge University
@@ -64,7 +64,7 @@ URL:https://global.scoutingevent.com/312-2026SOILMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:256979@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261107T133000Z
 DTEND:20261107T220000Z
 SUMMARY:Scouting University – Leader Training Day
@@ -84,7 +84,7 @@ URL:https://global.scoutingevent.com/129-2026ScoutingUniversity
 END:VEVENT
 BEGIN:VEVENT
 UID:274927@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261107T143000Z
 DTEND:20261107T200000Z
 SUMMARY:Nuclear Science Merit Badge Clinic
@@ -103,7 +103,7 @@ URL:https://global.scoutingevent.com/133-nuclearsciencembc
 END:VEVENT
 BEGIN:VEVENT
 UID:273180@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261114T133000Z
 DTEND:20261114T200000Z
 SUMMARY:2026 University of Scouting PARTNER Registration
@@ -120,8 +120,22 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-PART
 URL:https://global.scoutingevent.com/127-PARTNER26
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-1992515815441@scout-event-finder
+DTSTAMP:20261027T030457Z
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
+SUMMARY:Burpee Museum BSA: Geology Merit Badge - In Person
+LOCATION:Burpee Museum of Natural History\, Rockford\, Illinois
+DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
+ geology-merit-badge-in-person-tickets-1992515815441\n\nGeology\n\nGeology
+  is the study of Earth. It includes the study of materials that make up E
+ arth\, the processes that change it.
+URL:https://www.eventbrite.com/e/burpee-museum-bsa-geology-merit-badge-in-
+ person-tickets-1992515815441
+END:VEVENT
+BEGIN:VEVENT
 UID:245395@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261115T180000Z
 DTEND:20261115T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -140,7 +154,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:253222@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261121T150000Z
 DTEND:20261121T200000Z
 SUMMARY:Ultimate First Aid Competition 2026
@@ -159,7 +173,7 @@ URL:https://global.scoutingevent.com/702-ultimatefirstaid
 END:VEVENT
 BEGIN:VEVENT
 UID:267306@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261121T160000Z
 DTEND:20261121T220000Z
 SUMMARY:Stamp Collecting Merit Badge at ChicagoPex
@@ -176,8 +190,22 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-Stam
 URL:https://global.scoutingevent.com/127-Stamps26
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-1992516713126@scout-event-finder
+DTSTAMP:20261027T030457Z
+DTSTART:20261206T160000Z
+DTEND:20261206T180000Z
+SUMMARY:Burpee Museum BSA: Environmental Science Merit Badge- In Person
+LOCATION:Burpee Museum of Natural History\, Rockford\, Illinois
+DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
+ environmental-science-merit-badge-in-person-tickets-1992516713126\n\nEnvi
+ ronmental Science\n\nScouts will get a taste of what it is like to be an 
+ environmental scientist.
+URL:https://www.eventbrite.com/e/burpee-museum-bsa-environmental-science-m
+ erit-badge-in-person-tickets-1992516713126
+END:VEVENT
+BEGIN:VEVENT
 UID:245396@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20261206T180000Z
 DTEND:20261206T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -196,7 +224,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:245397@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20270109T133000Z
 DTEND:20270110T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
@@ -214,8 +242,22 @@ DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
 URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
+UID:eb-1992519616811@scout-event-finder
+DTSTAMP:20261027T030457Z
+DTSTART:20270117T160000Z
+DTEND:20270117T170000Z
+SUMMARY:Burpee Museum BSA: Mammal Study Merit Badge - In Person
+LOCATION:Burpee Museum of Natural History\, Rockford\, Illinois
+DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
+ mammal-study-merit-badge-in-person-tickets-1992519616811\n\nMammal Study\
+ n\nAll about mammals. There are many features that make mammals different
+  from anything else on Earth and features that make them unique.
+URL:https://www.eventbrite.com/e/burpee-museum-bsa-mammal-study-merit-badg
+ e-in-person-tickets-1992519616811
+END:VEVENT
+BEGIN:VEVENT
 UID:276691@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20270227T003000Z
 DTEND:20270227T040000Z
 SUMMARY:Gathering of 2026 Eagles
@@ -233,7 +275,7 @@ URL:https://global.scoutingevent.com/127-Eagle
 END:VEVENT
 BEGIN:VEVENT
 UID:252772@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20270423T113000Z
 DTEND:20270425T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend One
@@ -251,7 +293,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:252773@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20270515T113000Z
 DTEND:20270516T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend Two
@@ -269,7 +311,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:273340@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20270821T130000Z
 DTEND:20270821T213000Z
 SUMMARY:2027 NESA Advancement Day- Camp Warren Levis\, Godfrey\, Illinois 
@@ -288,7 +330,7 @@ URL:https://global.scoutingevent.com/312-120613
 END:VEVENT
 BEGIN:VEVENT
 UID:273341@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20270925T130000Z
 DTEND:20270925T213000Z
 SUMMARY:2027 NESA Advancement Day- Marissa Park\, Marissa\, Illinois – N
@@ -309,7 +351,7 @@ URL:https://global.scoutingevent.com/312-120614
 END:VEVENT
 BEGIN:VEVENT
 UID:268625@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20271107T180000Z
 DTEND:20271107T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
@@ -328,7 +370,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268626@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20271121T180000Z
 DTEND:20271121T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -347,7 +389,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268627@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20271205T180000Z
 DTEND:20271205T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -366,7 +408,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268628@scout-event-finder
-DTSTAMP:20261027T025613Z
+DTSTAMP:20261027T030457Z
 DTSTART:20280108T133000Z
 DTEND:20280109T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
