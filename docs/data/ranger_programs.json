@@ -261,6 +261,33 @@
    "about": "Join Death Valley Rangers and the Las Vegas Astronomical Society for a Star Party ! Drop by anytime 6pm-9pm to explore the night sky by telescope. To help you eyes adjust to the night sky, please limit white light use at event. Parking is located at the Furnace Creek Visitor Center with a short walk to Fiddlers' Campgound."
   },
   {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Climber Coffee",
+   "where": "The program is set up in between the intersection Rock parking area and Hidden Valley Campground.",
+   "time": "08:00 AM - 10:00 AM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-12-05",
+    "2026-12-06"
+   ],
+   "count": 44,
+   "free": true,
+   "lat": 34.016073,
+   "lng": -116.162846,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "Enjoy some from free coffee, tea, or hot coco while chatting with fellow climbers about best climbing routes, shady or sunny crags, or learn about the park's resources. Meet the Climber Stewards, play some trivia, and meet up with your friends and community. Bring your own mug!"
+  },
+  {
    "park": "Pinnacles National Park",
    "parkCode": "pinn",
    "title": "Prewett Point Guided Hike",
