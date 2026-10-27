@@ -17,15 +17,15 @@ D = os.path.join(ROOT, "docs", "data")
 OUT = os.path.join(D, "weekend.json")
 LA = ZoneInfo("America/Los_Angeles")
 HOME = {"zip": "91401", "lat": 34.1714, "lng": -118.4440}
-MAX_MILES = 120          # Scout events; the pages let people narrow this
+MAX_MILES = 200          # Scout events (covers Southern California); pages narrow this from the viewer's ZIP
 MAX_PUBLIC_MILES = 300   # ranger programs at farther parks are still worth a weekend trip
-DAYS = 17
+DAYS = 17                # covers this weekend and next
 # visitor-center points for parks whose programs come without a map point
 PARK_POINT = {"Channel Islands National Park": (34.2483, -119.2668), "Santa Monica Mountains National Recreation Area": (34.0997, -118.7176),
               "Cabrillo National Monument": (32.6735, -117.2425), "Joshua Tree National Park": (34.1349, -116.3131),
               "Death Valley National Park": (36.4617, -116.8669), "Sequoia & Kings Canyon National Parks": (36.4864, -118.5658),
               "Pinnacles National Park": (36.4934, -121.1462), "Mojave National Preserve": (35.1406, -115.5103),
-              "Manzanar National Historic Site": (36.7280, -118.1546)}                # covers this weekend and next
+              "Manzanar National Historic Site": (36.7280, -118.1546)}
 
 
 def load(name, default):
@@ -44,6 +44,10 @@ def miles(lat, lng):
     return round(3958.8 * 2 * math.asin(math.sqrt(h)))
 
 
+def rnd(v):
+    return None if v is None else round(float(v), 4)
+
+
 def in_window(start, end, lo, hi):
     return start[:10] <= hi and (end or start)[:10] >= lo
 
@@ -53,6 +57,7 @@ def slim(e, kind):
         "kind": kind, "title": e["title"], "session": e.get("session", ""),
         "start": e["start"], "end": e.get("end", ""), "tz": e.get("tz", ""),
         "location": e.get("location", ""), "miles": e.get("_mi"), "approx": bool(e.get("approx")),
+        "lat": rnd(e.get("lat")), "lng": rnd(e.get("lng")),
         "online": bool(e.get("online")), "programs": e.get("programs", []), "badges": e.get("badges", [])[:6],
         "topics": [t for t in e.get("topics", []) if t not in ("Online / Virtual",)][:4],
         "council": e.get("council", ""), "url": e.get("url", ""), "fees": e.get("fees", [])[:2],
@@ -88,6 +93,7 @@ def main():
             park_mi[p["park"]] = min(m, park_mi.get(p["park"]) or m)
     for p in progs:
         mi = miles(p.get("lat"), p.get("lng"))
+        pt = (p.get("lat"), p.get("lng")) if mi is not None else PARK_POINT.get(p["park"], (None, None))
         mi = park_mi.get(p["park"]) if mi is None else mi
         if mi is not None and mi > MAX_PUBLIC_MILES:
             continue
@@ -96,7 +102,8 @@ def main():
                 public.append({
                     "kind": "ranger", "title": p["title"], "session": "", "start": d + "T00:00", "end": "",
                     "time": p.get("time", ""), "tz": "PT", "location": ", ".join(x for x in [p.get("where"), p["park"]] if x),
-                    "miles": mi, "approx": False, "online": False, "programs": ["Cub Scouts", "Scouts BSA"],
+                    "miles": mi, "lat": rnd(pt[0]), "lng": rnd(pt[1]), "approx": False, "online": False,
+                    "programs": ["Cub Scouts", "Scouts BSA"],
                     "badges": [], "topics": ["Ranger / Park Program"], "council": p["park"], "url": p["url"],
                     "fees": ["Free"] if p.get("free") else [], "trailbook": "", "parkCode": p.get("parkCode", ""),
                 })
@@ -107,6 +114,10 @@ def main():
         "scout": sorted(scout, key=key), "public": sorted(public, key=key),
         "alerts": alerts.get("alerts", []), "parks": alerts.get("parks", {}),
     }, open(OUT, "w"), separators=(",", ":"), ensure_ascii=False)
+    # California ZIP points (about 60 KB) so the pages can measure from any viewer's ZIP
+    z = load("zips.json", {})
+    json.dump({k: v for k, v in z.items() if "90000" <= k <= "96199"}, open(os.path.join(D, "zips-ca.json"), "w"),
+              separators=(",", ":"))
     print(f"  weekend.json: {len(scout)} Scout events, {len(public)} public programs, {len(alerts.get('alerts', []))} alerts")
 
 
