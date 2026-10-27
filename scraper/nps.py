@@ -20,13 +20,16 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "docs", "data", "events.json")
 SEEN = os.path.join(ROOT, "data", "first_seen.json")
 PROGRAMS = os.path.join(ROOT, "docs", "data", "ranger_programs.json")
+ALERTS = os.path.join(ROOT, "docs", "data", "park_alerts.json")
 API = "https://developer.nps.gov/api/v1/events"
 HDR = {"User-Agent": "ScoutEventFinder/1.0 (volunteer Scout leader project)"}
 
 # Southern California and nearby: Santa Monica Mountains, Channel Islands, Cabrillo, Joshua Tree, Mojave,
 # Manzanar, Death Valley, Sequoia & Kings Canyon, Pinnacles
 PARKS = ["samo", "chis", "cabr", "jotr", "moja", "manz", "deva", "seki", "pinn"]
-PARK_TZ = {"default": "America/Los_Angeles"}
+PARK_NAMES = {"samo": "Santa Monica Mountains", "chis": "Channel Islands", "cabr": "Cabrillo", "jotr": "Joshua Tree",
+              "moja": "Mojave Preserve", "manz": "Manzanar", "deva": "Death Valley", "seki": "Sequoia & Kings Canyon",
+              "pinn": "Pinnacles"}
 
 
 def parse_time(t):
@@ -38,11 +41,43 @@ def parse_time(t):
     return None
 
 
+def num(v):
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
+
+
+def alerts(key):
+    """Current park alerts (closures, danger, caution, information) for the same parks."""
+    try:
+        r = requests.get("https://developer.nps.gov/api/v1/alerts", params={"parkCode": ",".join(PARKS), "limit": 200},
+                         headers={"X-Api-Key": key, **HDR}, timeout=60)
+        r.raise_for_status()
+    except requests.RequestException as ex:
+        print(f"  ! NPS alerts: {ex}")
+        return
+    out = []
+    for a in r.json().get("data", []):
+        out.append({
+            "parkCode": (a.get("parkCode") or "").lower(), "title": html.unescape(a.get("title", "")).strip(),
+            "category": a.get("category", ""), "description": html.unescape(re.sub(r"<[^>]+>", " ", a.get("description", "")))[:500].strip(),
+            "url": a.get("url") or f"https://www.nps.gov/{(a.get('parkCode') or '').lower()}/planyourvisit/conditions.htm",
+            "updated": (a.get("lastIndexedDate") or "")[:10],
+        })
+    order = {"Park Closure": 0, "Danger": 1, "Caution": 2}
+    out.sort(key=lambda a: (order.get(a["category"], 3), a["parkCode"]))
+    json.dump({"updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"), "parks": PARK_NAMES, "alerts": out},
+              open(ALERTS, "w"), indent=1, ensure_ascii=False)
+    print(f"  NPS: {len(out)} park alerts")
+
+
 def main():
     key = os.environ.get("NPS_API_KEY", "").strip()
     if not key:
         print("  NPS: no NPS_API_KEY secret set - skipping (see README)")
         return
+    alerts(key)
     data = json.load(open(OUT))
     now = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
@@ -84,6 +119,7 @@ def main():
             "time": " - ".join(x for x in [times[0].get("timestart", ""), times[0].get("timeend", "")] if x),
             "nextDates": dates[:12], "count": len(dates),
             "free": str(it.get("isfree", "")).lower() == "true",
+            "lat": num(it.get("latitude")), "lng": num(it.get("longitude")),
             "url": it.get("infourl") or f"https://www.nps.gov/{(it.get('sitecode') or '').lower()}/planyourvisit/calendar.htm",
             "about": desc[:400],
         })

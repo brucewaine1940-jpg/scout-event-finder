@@ -6,6 +6,10 @@ Nightly, for every provider:
   * optionally ("auto_events") turns dates found on the page into events
 Writes docs/data/providers.json for the website's Providers tab and adds the events to events.json.
 To add a provider, copy an entry in data/providers.json - no code changes needed.
+
+  python providers.py --public   reads data/public_programs.json instead: public (non-Scout) programs such as
+                                 star parties, kids' workshops and trail work days. Their dates go to
+                                 docs/data/public_events.json for the weekend pages, never into events.json.
 """
 import hashlib
 import json
@@ -30,6 +34,10 @@ SEEN = os.path.join(ROOT, "data", "first_seen.json")
 ZIPS = os.path.join(ROOT, "docs", "data", "zips.json")
 EVENTS = os.path.join(ROOT, "docs", "data", "events.json")
 OUT = os.path.join(ROOT, "docs", "data", "providers.json")
+PUBLIC = "--public" in sys.argv
+if PUBLIC:
+    SRC = os.path.join(ROOT, "data", "public_programs.json")
+    EVENTS = os.path.join(ROOT, "docs", "data", "public_events.json")
 HDR = {"User-Agent": "ScoutEventFinder/1.0 (volunteer Scout leader project; nightly, rate-limited)"}
 LA = ZoneInfo("America/Los_Angeles")
 
@@ -90,7 +98,7 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
     sid = f"p-{pid}-{d.isoformat()}-{hashlib.md5(title.encode()).hexdigest()[:4]}"
     seen.setdefault(sid, today_s)
     online = prov.get("format", "").lower().startswith("online")
-    desc = f"{prov.get('schedule', '')} {prov.get('notes', '')} ({kind} - confirm on the provider's page before you go.)"
+    desc = f"{prov.get('schedule', '')} {prov.get('notes', '')} ({kind} - confirm on the organizer's page before you go.)"
     is_mb = prov.get("kind", "Merit badges") == "Merit badges"
     t = tag(title + (" merit badge" if is_mb else ""), desc, set(), "Online" if online else prov.get("address", ""))
     t["trainings"] = []  # provider notes mention "counselors"; these are classes or projects, not trainings
@@ -128,7 +136,7 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
 def main():
     providers = load(SRC, [])
     watch, seen, zips = load(WATCH, {}), load(SEEN, {}), load(ZIPS, {})
-    data = load(EVENTS, None)
+    data = {"events": []} if PUBLIC else load(EVENTS, None)
     if data is None:
         sys.exit("events.json missing")
     now = datetime.now(LA)
@@ -224,12 +232,17 @@ def main():
             "notes": prov.get("notes", ""), "dates": [d.isoformat() for d in dates[:10]],
             "pageChanged": w.get("changed", ""), "checked": today_s, "ok": ok, "events": n_ev,
         })
+        if PUBLIC:
+            for e in events[len(events) - n_ev:]:
+                e["source"], e["provider"] = "Public program", False
+                e["trailbook"] = prov.get("trailbook", "")
         print(f"  {prov['name']}: {len(dates)} dates on page, {n_ev} events")
     events.sort(key=lambda e: (e["startUtc"] or "", e["title"]))
     data.update(events=events, count=len(events))
     json.dump(data, open(EVENTS, "w"), separators=(",", ":"), ensure_ascii=False)
-    json.dump({"updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ"), "providers": out},
-              open(OUT, "w"), ensure_ascii=False)
+    if not PUBLIC:
+        json.dump({"updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ"), "providers": out},
+                  open(OUT, "w"), ensure_ascii=False)
     json.dump(watch, open(WATCH, "w"))
     json.dump(seen, open(SEEN, "w"))
 
