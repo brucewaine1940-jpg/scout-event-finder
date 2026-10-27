@@ -48,7 +48,7 @@ def write(name, title, events):
     for e in events:
         if not e.get("startUtc"):
             continue
-        desc = f"{e['council']}\n{e['url']}\n\n" + ", ".join(e["badges"] + e["trainings"]) + "\n\n" + (e.get("desc") or "")[:500]
+        desc = (f"NOTE: {e['status']}\n\n" if e.get("delisted") else "") + f"{e['council']}\n{e['url']}\n\n" + ", ".join(e["badges"] + e["trainings"]) + "\n\n" + (e.get("desc") or "")[:500]
         lines += ["BEGIN:VEVENT", f"UID:{e['id']}@scout-event-finder", f"DTSTAMP:{stamp}",
                   f"DTSTART:{dt(e['startUtc'])}", f"DTEND:{dt(e.get('endUtc') or e['startUtc'])}",
                   fold("SUMMARY:" + esc(e["title"] + (f" – {e['session']}" if e.get("session") else ""))),

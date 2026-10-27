@@ -61,7 +61,7 @@ def slim(e, kind):
         "online": bool(e.get("online")), "programs": e.get("programs", []), "badges": e.get("badges", [])[:6],
         "topics": [t for t in e.get("topics", []) if t not in ("Online / Virtual",)][:4],
         "council": e.get("council", ""), "url": e.get("url", ""), "fees": e.get("fees", [])[:2],
-        "trailbook": e.get("trailbook", ""),
+        "trailbook": e.get("trailbook", ""), "delisted": e.get("delisted", ""), "status": e.get("status", ""),
     }
 
 

@@ -134,6 +134,58 @@ def detail(path):
     return {"desc": text[:4000], "fees": fees[:6]}
 
 
+CANCELLED = re.compile(r"\b(?:cancell?ed|postponed|has been canceled)\b", re.I)
+DELISTED_NOTE = "No longer listed on scoutingevent.com - registration may be closed. Confirm with the organizer."
+MAX_STATUS_CHECKS = int(os.environ.get("MAX_STATUS_CHECKS", "150"))
+
+
+def page_status(url):
+    """'gone' if the event page was removed or says cancelled, 'ok' if it still exists, 'unknown' on errors."""
+    try:
+        r = session.get(url, timeout=60, allow_redirects=True)
+        time.sleep(DELAY)
+    except requests.RequestException:
+        return "unknown"
+    if r.status_code in (404, 410):
+        return "gone"
+    if not r.ok:
+        return "unknown"
+    soup = BeautifulSoup(r.text, "html.parser")
+    box = soup.select_one("#eventdescription")
+    if box is None:
+        return "gone"  # redirected to the calendar or an error page: the event page no longer exists
+    head = " ".join(x.get_text(" ", strip=True) for x in soup.select("title, h1, h2"))
+    if CANCELLED.search(head):  # only the title/headings: descriptions often say "if cancelled due to weather..."
+        return "gone"
+    return "ok"
+
+
+def carry_forward(prev_events, current_ids, today):
+    """Keep sessions that dropped off the calendar but haven't ended (often: registration closed), so people who
+    subscribed to a feed don't lose an event they signed up for. Removed or cancelled events still come off."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+    missing = [e for e in prev_events if e["id"].isdigit() and e["id"] not in current_ids
+               and (e.get("endUtc") or e.get("startUtc") or "") > now]
+    status, checks, kept, dropped = {}, 0, [], 0
+    for e in missing:
+        url = e["url"]
+        since = e.get("delisted") or today
+        recheck = since == today or (datetime.fromisoformat(today) - datetime.fromisoformat(since)).days % 7 == 0
+        if url not in status:
+            if url.startswith(BASE) and recheck and checks < MAX_STATUS_CHECKS:
+                status[url] = page_status(url)
+                checks += 1
+            else:
+                status[url] = "unchecked"
+        if status[url] == "gone":
+            dropped += 1
+            continue
+        kept.append({**e, "delisted": since, "status": DELISTED_NOTE})
+    print(f"   carried forward {len(kept)} delisted sessions, dropped {dropped} removed/cancelled ({checks} pages checked)",
+          flush=True)
+    return kept
+
+
 def load(p, default):
     try:
         with open(p) as f:
@@ -212,6 +264,8 @@ def main():
                 e["online"] = False
                 if "Online / Virtual" in e["topics"]:
                     e["topics"].remove("Online / Virtual")
+    prev = load(OUT, {"events": []}).get("events", [])
+    events += carry_forward(prev, {e["id"] for e in events}, today)
     keep = {e["id"] for e in events}
     seen = {k: v for k, v in seen.items() if k in keep or not k.isdigit()}  # non-numeric = other sources
     events.sort(key=lambda e: (e["startUtc"] or "", e["title"]))
