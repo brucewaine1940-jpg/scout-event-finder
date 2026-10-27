@@ -57,8 +57,10 @@ def alerts(key):
     except requests.RequestException as ex:
         print(f"  ! NPS alerts: {ex}")
         return
+    j = r.json()
+    print(f"  NPS alerts API: total={j.get('total')!r}, returned={len(j.get('data') or [])}")  # diagnostic
     out = []
-    for a in r.json().get("data", []):
+    for a in j.get("data") or []:
         out.append({
             "parkCode": (a.get("parkCode") or "").lower(), "title": html.unescape(a.get("title", "")).strip(),
             "category": a.get("category", ""), "description": html.unescape(re.sub(r"<[^>]+>", " ", a.get("description", "")))[:500].strip(),

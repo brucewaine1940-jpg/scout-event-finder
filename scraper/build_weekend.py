@@ -19,7 +19,13 @@ LA = ZoneInfo("America/Los_Angeles")
 HOME = {"zip": "91401", "lat": 34.1714, "lng": -118.4440}
 MAX_MILES = 120          # Scout events; the pages let people narrow this
 MAX_PUBLIC_MILES = 300   # ranger programs at farther parks are still worth a weekend trip
-DAYS = 17                # covers this weekend and next
+DAYS = 17
+# visitor-center points for parks whose programs come without a map point
+PARK_POINT = {"Channel Islands National Park": (34.2483, -119.2668), "Santa Monica Mountains National Recreation Area": (34.0997, -118.7176),
+              "Cabrillo National Monument": (32.6735, -117.2425), "Joshua Tree National Park": (34.1349, -116.3131),
+              "Death Valley National Park": (36.4617, -116.8669), "Sequoia & Kings Canyon National Parks": (36.4864, -118.5658),
+              "Pinnacles National Park": (36.4934, -121.1462), "Mojave National Preserve": (35.1406, -115.5103),
+              "Manzanar National Historic Site": (36.7280, -118.1546)}                # covers this weekend and next
 
 
 def load(name, default):
@@ -74,8 +80,15 @@ def main():
         if in_window(e["start"], e.get("end"), lo, hi):
             e["_mi"] = miles(e.get("lat"), e.get("lng"))
             public.append(slim(e, "public"))
-    for p in load("ranger_programs.json", {"programs": []})["programs"]:
+    progs = load("ranger_programs.json", {"programs": []})["programs"]
+    park_mi = {k: miles(*v) for k, v in PARK_POINT.items()}
+    for p in progs:  # some programs have no map point; use the nearest known point in the same park
+        m = miles(p.get("lat"), p.get("lng"))
+        if m is not None:
+            park_mi[p["park"]] = min(m, park_mi.get(p["park"]) or m)
+    for p in progs:
         mi = miles(p.get("lat"), p.get("lng"))
+        mi = park_mi.get(p["park"]) if mi is None else mi
         if mi is not None and mi > MAX_PUBLIC_MILES:
             continue
         for d in p["nextDates"]:
