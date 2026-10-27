@@ -5,8 +5,40 @@
   const DAY = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
   const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   const TROOP = ["Scouts BSA", "Venturing", "Sea Scouts", "Exploring"];
-  const state = { wk: 0, mi: 50, online: true };
-  let data = null;
+  const HOME_ZIP = "91401";
+  const store = { get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* private mode */ } } };
+  const state = { wk: 0, mi: 25, online: true, zip: HOME_ZIP, origin: null };
+  let data = null, zips = null;
+
+  // ---------- distance from the viewer's ZIP ----------
+  function hav(a, b) {
+    const r = (x) => (x * Math.PI) / 180;
+    const h = Math.sin(r(b[0] - a[0]) / 2) ** 2 + Math.cos(r(a[0])) * Math.cos(r(b[0])) * Math.sin(r(b[1] - a[1]) / 2) ** 2;
+    return Math.round(3958.8 * 2 * Math.asin(Math.sqrt(h)));
+  }
+  function measure() {
+    [...data.scout, ...data.public].forEach((e) => {
+      if (e.m0 === undefined) e.m0 = e.miles; // distance from 91401, worked out nightly
+      if (e.online) e.miles = null;
+      else if (state.origin && e.lat != null) e.miles = hav(state.origin, [e.lat, e.lng]);
+      else e.miles = state.zip === HOME_ZIP ? e.m0 : null;
+    });
+  }
+  async function setZip(z, quiet) {
+    z = (z || "").trim();
+    const msg = $("zipMsg");
+    if (!/^\d{5}$/.test(z)) { if (!quiet) msg.textContent = "Enter a 5-digit ZIP."; return; }
+    if (!zips) {
+      try { zips = await (await fetch("data/zips-ca.json")).json(); } catch (e) { zips = {}; }
+    }
+    const pt = zips[z] || (z === HOME_ZIP && data ? [data.home.lat, data.home.lng] : null);
+    if (!pt) { msg.textContent = "That ZIP isn't in Southern/Central California. This page covers about 200 miles around Los Angeles."; return; }
+    state.zip = z; state.origin = pt; msg.textContent = "";
+    $("zip").value = z; store.set("wk-zip", z);
+    $("fromZip").textContent = z;
+    if (data) { measure(); render(); }
+  }
 
   const iso = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
   const parse = (s) => new Date(+s.slice(0, 4), +s.slice(5, 7) - 1, +s.slice(8, 10));
@@ -118,14 +150,22 @@
   document.querySelectorAll("[data-mi]").forEach((b) => b.addEventListener("click", () => {
     state.mi = +b.dataset.mi;
     document.querySelectorAll("[data-mi]").forEach((x) => x.classList.toggle("on", x === b));
+    store.set("wk-mi", String(state.mi));
     render();
   }));
   $("online").addEventListener("change", (e) => { state.online = e.target.checked; render(); });
+  $("zipForm").addEventListener("submit", (e) => { e.preventDefault(); setZip($("zip").value); });
+  const savedMi = +store.get("wk-mi");
+  if ([5, 10, 25, 50, 120].includes(savedMi)) state.mi = savedMi;
+  document.querySelectorAll("[data-mi]").forEach((x) => x.classList.toggle("on", +x.dataset.mi === state.mi));
 
   fetch("data/weekend.json", { cache: "no-cache" }).then((r) => r.json()).then((j) => {
     data = j;
     const u = new Date(j.updated);
     $("updated").textContent = `Updated ${MON[u.getMonth()]} ${u.getDate()}`;
-    render();
+    const z = new URLSearchParams(location.search).get("zip") || store.get("wk-zip") || HOME_ZIP;
+    $("zip").value = z;
+    measure(); render();
+    if (z !== HOME_ZIP) setZip(z, true);
   }).catch(() => { $("updated").textContent = "Could not load this weekend's list."; });
 })();
