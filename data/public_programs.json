@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Home Depot Kids Workshop",
+    "trailbook": "homedepot",
+    "kind": "Public program",
+    "topics": ["Fun / Family Events"],
+    "programs": ["Cub Scouts"],
+    "badges": [],
+    "format": "In person",
+    "address": "Most Home Depot stores (Van Nuys area)",
+    "zip": "91401",
+    "url": "https://passionatepennypincher.com/home-depot-kids-workshop/",
+    "cost": "Free",
+    "schedule": "First Saturday of each month, 9 AM - noon. Kids build a free wood kit.",
+    "notes": "Best for ages 5-12. Register online to guarantee a kit.",
+    "recurring": [
+      {"title": "Home Depot Kids Workshop (free build-it kit)", "rrule": "FREQ=MONTHLY;BYDAY=1SA", "start": "09:00", "end": "12:00"}
+    ]
+  },
+  {
+    "name": "Griffith Observatory Public Star Party",
+    "trailbook": "laas",
+    "kind": "Public program",
+    "topics": ["Fun / Family Events"],
+    "programs": ["Cub Scouts", "Scouts BSA"],
+    "badges": [],
+    "format": "In person",
+    "address": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
+    "zip": "90027",
+    "url": "https://griffithobservatory.lacity.gov/event/public-star-party-april-25-2026/",
+    "cost": "Free",
+    "schedule": "Monthly on a Saturday, 2 - 9:45 PM. Volunteer astronomers set up telescopes on the lawn.",
+    "notes": "Free, no reservation listed. Good for Astronomy merit badge and Cub space adventures.",
+    "events": [
+      {"title": "Griffith Observatory Public Star Party", "date": "2026-11-14", "start": "14:00", "end": "21:45"},
+      {"title": "Griffith Observatory Public Star Party", "date": "2026-12-19", "start": "14:00", "end": "21:45"}
+    ]
+  },
+  {
+    "name": "Santa Monica Mountains Trails Council - Trail Work Days",
+    "trailbook": "trailwork",
+    "kind": "Public program",
+    "topics": ["Service", "Hiking & Backpacking"],
+    "programs": ["Scouts BSA", "Venturing", "Adults / Leaders"],
+    "badges": [],
+    "format": "In person",
+    "address": "Santa Monica Mountains (Malibu Creek, Point Mugu and other parks)",
+    "zip": "91302",
+    "url": "https://smmtc.org/trailwork/",
+    "cost": "Free",
+    "schedule": "Trail maintenance most Saturdays and some weekdays, about 8 AM - 2 PM. Tools and training provided.",
+    "notes": "Public volunteer day. Check the youth age and supervision rules before bringing a group.",
+    "list_regex": {
+      "pattern": "(?P<date>(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day, [A-Z][a-z]+ \\d{1,2}, \\d{4}) (?P<title>[^—](?:(?!day, [A-Z][a-z]+ \\d).){2,90}?) Leader:",
+      "prefix": "Trail work: ",
+      "start": "08:00",
+      "end": "14:00"
+    }
+  }
+]
