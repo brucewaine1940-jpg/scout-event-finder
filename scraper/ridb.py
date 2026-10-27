@@ -123,6 +123,7 @@ def main():
             "url": f"https://www.recreation.gov/camping/campgrounds/{f['FacilityID']}",
             "about": clean(f.get("FacilityDescription"))[:400],
         })
+    out = list({r["id"]: r for r in out}.values())  # the state list can repeat a facility
     out.sort(key=lambda r: r["miles"])
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump({"updated": time.strftime("%Y-%m-%d"), "home": "91401", "radiusMiles": RADIUS_MI,
