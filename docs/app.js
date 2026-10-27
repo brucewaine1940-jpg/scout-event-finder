@@ -317,6 +317,7 @@
     const allTrain = [...new Set(g.items.flatMap((x) => x.trainings))];
     const tags = [
       isNew ? el("span", { class: "tag new", text: "New" }) : null,
+      e.delisted ? el("span", { class: "tag closed", text: "Registration may be closed" }) : null,
       e.online ? el("span", { class: "tag online", text: "Online" }) : null,
       ...allBadges.slice(0, 12).map((b) => el("span", { class: "tag b", text: b })),
       allBadges.length > 12 ? el("span", { class: "tag b", text: `+${allBadges.length - 12} more` }) : null,
@@ -347,6 +348,7 @@
             text: e.approx ? `~${Math.round(g.d)} mi (council area)` : `${Math.round(g.d)} mi` }) : null,
           e.fees && e.fees.length ? el("span", { text: e.fees.length > 1 ? `${e.fees[0]}–${e.fees[e.fees.length - 1]}` : e.fees[0] }) : null),
         el("div", { class: "tags" }, tags),
+        e.delisted ? el("p", { class: "ev-note", text: e.status }) : null,
         e.provider ? el("p", { class: "ev-note", text: "From the provider's published schedule - confirm the date on their page before you go." }) :
         desc ? el("p", { class: "desc", text: desc.length > 260 ? desc.slice(0, 260) + "…" : desc }) : null,
         sessions,

@@ -84,6 +84,7 @@
       <div class="wk-when">${esc(when(e))}</div>
       <h4><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>${e.session ? ` <span class="muted">${esc(e.session)}</span>` : ""}</h4>
       <div class="meta">${where(e)}${e.council && !e.online && e.kind === "scout" ? ` · ${esc(e.council)}` : ""}</div>
+      ${e.delisted ? `<div class="ev-note">${esc(e.status)}</div>` : ""}
       ${tags ? `<div class="tags">${tags}</div>` : ""}
     </article>`;
   }

@@ -161,3 +161,4 @@ button.link { background: none; border: 0; color: var(--accent); cursor: pointer
 .zipf { display: inline-flex; align-items: center; gap: 6px; font-size: 13.5px; }
 .zipf input { width: 76px; padding: 5px 8px; }
 .zipf button { font: inherit; font-size: 13px; border: 1px solid var(--green); background: var(--green); color: #fff; border-radius: 7px; padding: 5px 12px; cursor: pointer; }
+.tag.closed { background: var(--badge); color: var(--badge-ink); font-weight: 600; }
