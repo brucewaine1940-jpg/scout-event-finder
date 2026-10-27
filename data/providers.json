@@ -17,7 +17,8 @@
       "start": "09:00",
       "end": "15:00",
       "skip_if_listed": "printing museum"
-    }
+    },
+    "kind": "Merit badges"
   },
   {
     "name": "Southern California Railway Museum",
@@ -46,7 +47,8 @@
           "Railroading"
         ]
       }
-    ]
+    ],
+    "kind": "Merit badges"
   },
   {
     "name": "USS Midway Museum",
@@ -60,7 +62,8 @@
     "url": "https://www.midway.org/education/youth-programs/boy-scouts-of-america-programs",
     "cost": "$25 per Scout (includes museum access)",
     "schedule": "Scheduled sessions, 3.5-4 hours. Aviation can be combined with the Overnight Adventure program.",
-    "notes": "Prerequisites required. Aviation: 10-30 Scouts; Radio: 5-16 Scouts. Email youthprograms@midway.org."
+    "notes": "Prerequisites required. Aviation: 10-30 Scouts; Radio: 5-16 Scouts. Email youthprograms@midway.org.",
+    "kind": "Merit badges"
   },
   {
     "name": "Jason & the Dragonauts - STEM merit badges at the Disney parks",
@@ -74,7 +77,8 @@
     "url": "https://www.eventbrite.com/o/115699560051",
     "cost": "See Eventbrite listing",
     "schedule": "Occasional multi-badge days at the Disneyland Resort (e.g. Game Design + Community with the physics of the parks).",
-    "notes": "Independent program listed on Eventbrite. Dated sessions show on the Events tab once the Eventbrite connection is turned on."
+    "notes": "Independent program listed on Eventbrite. Dated sessions show on the Events tab once the Eventbrite connection is turned on.",
+    "kind": "Merit badges"
   },
   {
     "name": "Legal Eagles Law Merit Badge Day (Loyola Law School)",
@@ -87,7 +91,8 @@
     "url": "https://scoutingevent.com/033-LawDay",
     "cost": "See registration page",
     "schedule": "Annual, usually in November. Registration through Greater Los Angeles Area Council.",
-    "notes": "Taught by attorneys and judges. Also appears in the event search when registration is open."
+    "notes": "Taught by attorneys and judges. Also appears in the event search when registration is open.",
+    "kind": "Merit badges"
   },
   {
     "name": "Richard Nixon Presidential Library",
@@ -101,7 +106,8 @@
     "url": "https://www.nixonlibrary.gov/index.php/education/scouting-earn-badges",
     "cost": "Varies",
     "schedule": "Merit badge events on an ongoing basis, usually registered through Orange County Council.",
-    "notes": "Email NixonEducation@nara.gov or call 714-983-9120."
+    "notes": "Email NixonEducation@nara.gov or call 714-983-9120.",
+    "kind": "Merit badges"
   },
   {
     "name": "Aquarium of the Pacific",
@@ -114,7 +120,8 @@
     "url": "https://www.aquariumofpacific.org/events/info/boy_scout_oceanography_merit_badge/",
     "cost": "$40 ($35 members) when offered",
     "schedule": "Two-part virtual series offered periodically.",
-    "notes": "The Aquarium provides a certificate of requirements completed; a counselor signs off the badge."
+    "notes": "The Aquarium provides a certificate of requirements completed; a counselor signs off the badge.",
+    "kind": "Merit badges"
   },
   {
     "name": "Pacific Southwest Railway Museum",
@@ -127,7 +134,8 @@
     "url": "https://psrm.org/scouting-programs/",
     "cost": "See website",
     "schedule": "Scouting programs by arrangement.",
-    "notes": ""
+    "notes": "",
+    "kind": "Merit badges"
   },
   {
     "name": "WLACC Merit Badge Midway",
@@ -138,7 +146,8 @@
     "url": "https://scouting-la.org/merit-badge-midway/",
     "cost": "See website",
     "schedule": "Council merit badge day with many badges.",
-    "notes": "Your council's own merit badge event - this entry watches the page for new dates."
+    "notes": "Your council's own merit badge event - this entry watches the page for new dates.",
+    "kind": "Merit badges"
   },
   {
     "name": "EPIC Badges Academy",
@@ -151,7 +160,8 @@
     "url": "https://epicbadges.com/badges",
     "cost": "$20 per badge",
     "schedule": "Self-paced any time; 140+ badges.",
-    "notes": "Video lessons and workbook with a counselor who reviews the Scout's work. Check that your unit and council accept online counselors before enrolling."
+    "notes": "Video lessons and workbook with a counselor who reviews the Scout's work. Check that your unit and council accept online counselors before enrolling.",
+    "kind": "Merit badges"
   },
   {
     "name": "Greater Finger Lakes Council - Adventures in Virtual Merit Badges",
@@ -162,7 +172,8 @@
     "url": "https://scoutingevent.com/397-MBonline",
     "cost": "See registration page",
     "schedule": "Live online classes in sessions through the year.",
-    "notes": "Open to Scouts from any council."
+    "notes": "Open to Scouts from any council.",
+    "kind": "Merit badges"
   },
   {
     "name": "Pathway to Adventure Council - Online/Virtual Merit Badge Classes",
@@ -173,7 +184,8 @@
     "url": "https://scoutingevent.com/456-scoutingonline",
     "cost": "See registration page",
     "schedule": "Live online classes.",
-    "notes": ""
+    "notes": "",
+    "kind": "Merit badges"
   },
   {
     "name": "Atlanta Area Council - Online Merit Badge University",
@@ -184,6 +196,34 @@
     "url": "https://www.scoutingatl.org/onlinembu",
     "cost": "See website",
     "schedule": "Periodic online merit badge university.",
-    "notes": ""
+    "notes": "",
+    "kind": "Merit badges"
+  },
+  {
+    "name": "Santa Monica Mountains Trails Council - Trail Work Days",
+    "kind": "Service projects",
+    "topics": [
+      "Service",
+      "Hiking & Backpacking"
+    ],
+    "badges": [],
+    "format": "In person",
+    "address": "Santa Monica Mountains (Malibu Creek, Point Mugu and other parks)",
+    "zip": "91302",
+    "url": "https://smmtc.org/trailwork/",
+    "cost": "Free",
+    "schedule": "Trail maintenance days most Saturdays and some weekdays, about 8 AM - 2 PM. Tools and training provided.",
+    "notes": "Conservation service hours that can support the National Outdoor Award conservation segment, PVSA and Eagle/rank service (check the award rules). Read their volunteer FAQ for youth age and supervision rules before bringing a group.",
+    "list_regex": {
+      "pattern": "(?P<date>(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day, [A-Z][a-z]+ \\d{1,2}, \\d{4}) (?P<title>[^—](?:(?!day, [A-Z][a-z]+ \\d).){2,90}?) Leader:",
+      "prefix": "Trail work: ",
+      "start": "08:00",
+      "end": "14:00"
+    },
+    "programs": [
+      "Scouts BSA",
+      "Venturing",
+      "Adults / Leaders"
+    ]
   }
 ]

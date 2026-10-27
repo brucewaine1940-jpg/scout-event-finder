@@ -6,5 +6,25 @@
     "state": "California",
     "lat": 34.201,
     "lng": -118.488
+  },
+  {
+    "name": "Wiatava Lodge 13 (Order of the Arrow, Orange County)",
+    "ics": "https://calendar.google.com/calendar/ical/788798a4cbe6c793e3d0f4f62900f01c88b537a023173bec1d1f77921cdf69cb%40group.calendar.google.com/public/basic.ics",
+    "page": "https://wiatava.ocbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.745,
+    "lng": -117.868,
+    "oa": true
+  },
+  {
+    "name": "Ventura County Council",
+    "councilware": "https://www.scoutingamericavc.org",
+    "calendar_ids": [
+      1
+    ],
+    "page": "https://www.scoutingamericavc.org/calendar/",
+    "state": "California",
+    "lat": 34.216,
+    "lng": -119.037
   }
 ]
