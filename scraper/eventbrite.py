@@ -81,25 +81,34 @@ API = "https://www.eventbriteapi.com/v3"
 
 
 def api_events(org_id, token):
-    out, page = [], 1
-    while page < 10:
-        try:
-            r = requests.get(f"{API}/organizers/{org_id}/events/",
-                             params={"status": "live", "expand": "venue", "page_size": 50, "page": page},
-                             headers={"Authorization": f"Bearer {token}", **HDR}, timeout=60)
-        except requests.RequestException as ex:
-            print(f"  ! organizer {org_id}: {ex}")
-            break
-        time.sleep(0.5)
-        if not r.ok:
-            print(f"  ! organizer {org_id}: HTTP {r.status_code}")
-            break
-        j = r.json()
-        out += j.get("events", [])
-        if not j.get("pagination", {}).get("has_more_items"):
-            break
-        page += 1
-    return out
+    """Upcoming events for one organizer. Tries the documented parameters first, then simpler ones."""
+    hdr = {"Authorization": f"Bearer {token}", **HDR}
+    attempts = [{"status": "live", "order_by": "start_asc", "expand": "venue"},
+                {"time_filter": "current_future", "expand": "venue"},
+                {"expand": "venue"}]
+    for base in attempts:
+        out, cont, ok = [], None, True
+        for _ in range(10):
+            params = dict(base, **({"continuation": cont} if cont else {}))
+            try:
+                r = requests.get(f"{API}/organizers/{org_id}/events/", params=params, headers=hdr, timeout=60)
+            except requests.RequestException as ex:
+                print(f"  ! organizer {org_id}: {ex}")
+                return out
+            time.sleep(0.5)
+            if not r.ok:
+                print(f"  ! organizer {org_id}: HTTP {r.status_code} with {sorted(base)}: {r.text[:200]}")
+                ok = False
+                break
+            j = r.json()
+            out += j.get("events", [])
+            pg = j.get("pagination", {})
+            if not pg.get("has_more_items") or not pg.get("continuation"):
+                break
+            cont = pg["continuation"]
+        if ok:
+            return out
+    return []
 
 
 def main():
