@@ -67,6 +67,7 @@ The collector identifies itself, waits ~1 second between requests, and only fetc
 - [x] Western Los Angeles County Council (Google Calendar embed)
 - [x] Subscribable .ics feeds (merit badges, trainings, per state)
 - [x] Ventura County Council (Councilware), Wiatava Lodge (OC Order of the Arrow)
+- [x] Events stay until they end: if a session drops off global.scoutingevent.com (often because registration closed), it stays in the list and calendar feeds, labeled "Registration may be closed". The nightly run checks the event page and removes it only if the page is gone or says cancelled.
 - [x] Scope rule: the Event Finder lists programs made for Scouts only. Public programs (ranger talks, library and city rec, trail work days) and places to go belong in the Trailbook; NPS and Recreation.gov data is collected here for it
 - [x] Quick picks: merit badges, summer camp, high adventure, NYLT/NAYLE, OA, service, ranger programs, online
 - [ ] Doubleknot councils
