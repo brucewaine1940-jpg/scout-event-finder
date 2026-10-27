@@ -13,7 +13,8 @@ A free, nightly-updated search engine for Scouting America council events: merit
 | `scraper/extra_feeds.py` | Adds councils that are NOT on Black Pug, from `data/extra_sources.json`: any ICS feed, or a web page with an embedded Google Calendar (e.g. Western LA County Council). Recurring events are expanded |
 | `scraper/eventbrite.py` | Scouting events from the Eventbrite organizers in `data/eventbrite_organizers.json` (museums, independent counselors, online classes), through Eventbrite's official API. Needs the `EVENTBRITE_TOKEN` secret (below) |
 | `scraper/providers.py` | The **merit badge provider directory** in `data/providers.json`: re-checks each provider's page nightly, pulls out dates it mentions, turns recurring schedules into events, and powers the Providers tab |
-| `scraper/nps.py` | Ranger programs and park events from the National Park Service API for Southern California parks. Needs the `NPS_API_KEY` secret (below) |
+| `scraper/nps.py` | Ranger programs from the National Park Service API, saved to `docs/data/ranger_programs.json` for the Trailbook (public programs are not listed as Scout events). Needs the `NPS_API_KEY` secret (below) |
+| `scraper/ridb.py` | Recreation.gov group campgrounds within 200 mi, saved to `docs/data/group_campsites.json` for the Trailbook. Needs the `RIDB_API_KEY` secret |
 | `scraper/build_feeds.py` | Builds subscribable calendar feeds in `docs/feeds/` (all merit badge events, all trainings, and one feed per state) |
 | `.github/workflows/update-events.yml` | Runs the above nightly (~3:17 AM Pacific) on GitHub Actions and saves the results. Can also be run by hand from the Actions tab |
 | `docs/` | The search website (GitHub Pages). All filtering happens in the browser |
@@ -66,7 +67,7 @@ The collector identifies itself, waits ~1 second between requests, and only fetc
 - [x] Western Los Angeles County Council (Google Calendar embed)
 - [x] Subscribable .ics feeds (merit badges, trainings, per state)
 - [x] Ventura County Council (Councilware), Wiatava Lodge (OC Order of the Arrow)
-- [x] Service projects (Santa Monica Mountains trail work days), NPS ranger programs (with key)
+- [x] Scope rule: the Event Finder lists programs made for Scouts only. Public programs (ranger talks, library and city rec, trail work days) and places to go belong in the Trailbook; NPS and Recreation.gov data is collected here for it
 - [x] Quick picks: merit badges, summer camp, high adventure, NYLT/NAYLE, OA, service, ranger programs, online
 - [ ] Doubleknot councils
 - [x] Eventbrite listings (museums, independent counselors, online classes)
