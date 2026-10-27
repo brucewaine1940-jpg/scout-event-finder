@@ -53,6 +53,12 @@ jobs:
       - name: Merit badge providers
         run: python scraper/providers.py || echo "providers skipped"
 
+      - name: Public programs for the weekend pages
+        run: python scraper/providers.py --public || echo "public programs skipped"
+
+      - name: This weekend list
+        run: python scraper/build_weekend.py || echo "weekend skipped"
+
       - name: Calendar feeds
         run: python scraper/build_feeds.py
 
