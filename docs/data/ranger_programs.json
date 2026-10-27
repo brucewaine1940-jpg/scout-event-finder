@@ -1,0 +1,556 @@
+{
+ "updated": "2026-10-27",
+ "programs": [
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "The Story of Cabrillo National Monument",
+   "where": "",
+   "time": "10:00 AM - 10:30 AM",
+   "nextDates": [
+    "2026-10-30",
+    "2026-11-06",
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18",
+    "2026-12-25",
+    "2027-01-01",
+    "2027-01-08",
+    "2027-01-15"
+   ],
+   "count": 166,
+   "free": true,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Behind every landmark at Cabrillo National Monument is a story. Join a ranger for a 30-minute guided walk introducing the people, places, and events that shaped Cabrillo National Monument. From Juan Rodríguez Cabrillo's 1542 expedition and the history of the Old Point Loma Lighthouse to the creation and growth of the monument itself, discover how this remarkable landscape became the park visitors "
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "Guided Walking Tour of Cabrillo",
+   "where": "",
+   "time": "11:00 AM - 12:00 PM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-07",
+    "2026-11-14",
+    "2026-11-21",
+    "2026-11-28",
+    "2026-12-05",
+    "2026-12-12",
+    "2026-12-19"
+   ],
+   "count": 8,
+   "free": true,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Join a park volunteer for a one-hour walking tour of Cabrillo National Monument including the Cabrillo Statue and the Old Point Loma Lighthouse at 11 a.m. and 1 p.m. This program is suitable for all ages. No reservations required. Meet in front of the Visitor Center and keep in mind that the walk includes a hill up to the lighthouse."
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "Open Military Bunker",
+   "where": "",
+   "time": "10:00 AM - 02:30 PM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-07",
+    "2026-11-14",
+    "2026-11-21",
+    "2026-11-28",
+    "2026-12-05",
+    "2026-12-12",
+    "2026-12-19",
+    "2026-12-26"
+   ],
+   "count": 9,
+   "free": true,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "If conditions permit, volunteers will bring the coastal defenses of Point Loma to life. These are your only chances to tour the bunkers on Point Loma. Don't miss this amazing opportunity to learn more about the soldiers stationed at Fort Rosecrans during WWII and see the weapons and instruments that protected our coast during the tumultuous war years. The bunker can't be opened if there is incleme"
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "Guided Bird Watching",
+   "where": "Tidepool parking lot one of the coastal area.",
+   "time": "09:30 AM - 10:30 AM",
+   "nextDates": [
+    "2026-11-06",
+    "2026-12-04",
+    "2027-01-01",
+    "2027-02-05",
+    "2027-03-05",
+    "2027-04-02",
+    "2027-05-07",
+    "2027-06-04",
+    "2027-07-02",
+    "2027-08-06",
+    "2027-09-03",
+    "2027-10-01"
+   ],
+   "count": 13,
+   "free": true,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Cabrillo National Monument is a hotspot for both resident and migrating birds as part of the Pacific Flyway, a central migration corridor used by billions of birds each year. Its unique ecology and position along the coast make Cabrillo an ideal place to observe terrestrial and coastal bird species. Join park staff for a one-mile bird watching hike along the coastal trail. All ages and experience "
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "Open Tower Day",
+   "where": "",
+   "time": "10:00 AM - 03:30 PM",
+   "nextDates": [
+    "2026-11-15"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Imagine yourself as the first keeper when you make your way to the top of the lighthouse in celebration of the anniversary of the first time the light was lit! On Open Tower Days, you can experience the lighthouse with a half-hour guided tour between 10:00am - 3:30pm. The guided tours are the only way to access the top tower of the lighthouse and will give participants a glimpse into life at this "
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "Park Open - New Year's Day",
+   "where": "Cabrillo",
+   "time": "",
+   "nextDates": [
+    "2027-01-01"
+   ],
+   "count": 1,
+   "free": false,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Cabrillo will be open normal operating hours on New Year's Day."
+  },
+  {
+   "park": "Channel Islands National Park",
+   "parkCode": "chis",
+   "title": "Guided Hikes on the Islands",
+   "where": "Park Islands",
+   "time": "10:00 AM - 11:00 AM",
+   "nextDates": [
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07"
+   ],
+   "count": 1354,
+   "free": true,
+   "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
+   "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
+  },
+  {
+   "park": "Death Valley National Park",
+   "parkCode": "deva",
+   "title": "Death Valley '49ers Encampment",
+   "where": "Stovepipe Wells Resort\nDeath Valley National Park\n51880 Highway 190\nDeath Valley, CA 92328",
+   "time": "09:00 AM - 10:00 PM",
+   "nextDates": [
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01"
+   ],
+   "count": 4,
+   "free": false,
+   "url": "https://deathvalley49ers.org/2026-encampment/",
+   "about": "The Death Valley '49ers Encampment is a multi-day event that focuses on Death Valley and Western history, lore, music, and art. The Encampment includes a vendor/exhibition fair, guest speakers about history and geology, Western music performances, cowboy poetry, star gazing, etc."
+  },
+  {
+   "park": "Death Valley National Park",
+   "parkCode": "deva",
+   "title": "100th Anniversary of Stovepipe Wells Resort",
+   "where": "Stovepipe Wells Village",
+   "time": "09:30 AM - 02:00 PM",
+   "nextDates": [
+    "2026-11-01"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
+   "about": "1926 – 2026 STOVEPIPE WELLS DESERT CENTURY: HERITAGE, RESILIENCE, AND THE GOLDEN SANDS 9:30 Guests check-in, nametags, refreshments and 1ˢᵗ 100 participants receive give-aways 10:00 DDV GM, Phillip Lewis Welcome Information about SPW 10:10 NPS DEVA Superintendent, Mike Reynolds NPS Interpretive, Death Valley National Park and Stovepipe Wells 10:20 POWDR Parks Director, Margarete Foster Sustainabil"
+  },
+  {
+   "park": "Death Valley National Park",
+   "parkCode": "deva",
+   "title": "Timbisha Shoshone Tribe presentation of \"We Are Still Here\" documentary, followed by Q&A",
+   "where": "Stovepipe Wells Resort",
+   "time": "10:30 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-01"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
+   "about": "We Are Still Here is a recent documentary film about the Timbisha Shoshone Tribe. This viewing will be followed by questions and answers with Jimmy-John Thompson (a tribal council member) and Mandi Campbell (former Tribal Historic Preservation Officer). This event is a portion of the events celebrating the 100th anniversary of Stovepipe Wells Resort."
+  },
+  {
+   "park": "Death Valley National Park",
+   "parkCode": "deva",
+   "title": "Star Party",
+   "where": "Fiddlers' Campground",
+   "time": "07:00 PM - 10:00 PM",
+   "nextDates": [
+    "2026-11-06"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
+   "about": "Join Death Valley Rangers and the Las Vegas Astronomical Society for a Star Party ! Drop by anytime 7pm-10pm to explore the night sky by telescope. To help you eyes adjust to the night sky, please limit white light use at event. Parking is located at the Furnace Creek Visitor Center with a short walk to Fiddlers' Campgound."
+  },
+  {
+   "park": "Death Valley National Park",
+   "parkCode": "deva",
+   "title": "Solar Scope Viewing",
+   "where": "",
+   "time": "10:00 AM - 02:00 PM",
+   "nextDates": [
+    "2026-11-07"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
+   "about": "Join the Las Vegas Astronomical Society to look through solar scopes and learn more about our sun."
+  },
+  {
+   "park": "Death Valley National Park",
+   "parkCode": "deva",
+   "title": "Star Party",
+   "where": "Fiddlers' Campground",
+   "time": "07:00 PM - 10:00 PM",
+   "nextDates": [
+    "2026-11-07"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
+   "about": "Join Death Valley Rangers and the Las Vegas Astronomical Society for a Star Party ! Drop by anytime 6pm-9pm to explore the night sky by telescope. To help you eyes adjust to the night sky, please limit white light use at event. Parking is located at the Furnace Creek Visitor Center with a short walk to Fiddlers' Campgound."
+  },
+  {
+   "park": "Pinnacles National Park",
+   "parkCode": "pinn",
+   "title": "Prewett Point Guided Hike",
+   "where": "Join us at the West Visitor Contact Station near the Prewett Point Trailhead on the west side of the park.",
+   "time": "10:30 AM - 12:00 PM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-12-05",
+    "2026-12-06"
+   ],
+   "count": 18,
+   "free": true,
+   "url": "https://www.nps.gov/pinn/planyourvisit/calendar.htm",
+   "about": "Join a ranger on a hike and learn some of Pinnacles' fascinating resources that are protected in the park."
+  },
+  {
+   "park": "Pinnacles National Park",
+   "parkCode": "pinn",
+   "title": "Ranger's Choice",
+   "where": "Join us at the Bear Gulch Nature Center on the east side of the park.",
+   "time": "01:00 PM - 01:30 PM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-12-05",
+    "2026-12-06"
+   ],
+   "count": 18,
+   "free": true,
+   "url": "https://www.nps.gov/pinn/planyourvisit/calendar.htm",
+   "about": "Learn about Pinnacles' amazing resources with a ranger as they discuss topics varying from wildlife to geology, to history."
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Forest Feature (Giant Forest Area)",
+   "where": "Meet in front of the Giant Forest Museum",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31"
+   ],
+   "count": 5,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Grant Grove Revealed (Grant Grove Area)",
+   "where": "Grant Tree Trailhead",
+   "time": "10:30 AM - 12:00 PM",
+   "nextDates": [
+    "2026-10-27",
+    "2026-10-29"
+   ],
+   "count": 2,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Stop by to learn more about sequoias and the history of the grove. Stay for 5 minutes or 30 minutes. A ranger is available from 10:30 am to 12 noon."
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Ranger's Choice Talk (Grant Grove Area)",
+   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
+   "time": "02:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31"
+   ],
+   "count": 5,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Get to Know Sequoias (Grant Grove Area)",
+   "where": "Meet at the base of the General Grant Tree.",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-10-30"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Among the Giants Walk (Grant Grove Area)",
+   "where": "Meet at the Grant Tree Trailhead",
+   "time": "11:00 AM - 12:00 PM",
+   "nextDates": [
+    "2026-10-31"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Mountain Meadow Walk (Giant Forest Area)",
+   "where": "Meet outside of Giant Forest Museum",
+   "time": "01:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-10-31"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description Explore how seemingly simple Sierra meadows are actually complex, life‑rich ecosystems. As you wander, you’ll gain a deeper appreciation for these vital yet fragile landscapes. Program Details Length: 1.5 hours along an easy 1.3-mile (2 km) walk Location: Begins at the Giant Forest Museum and follows the Big Trees Trail Getting There Drive: The Giant Forest Museum is along Gene"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Sequoia Basics (Giant Forest Area)",
+   "where": "Meet at the base of the General Sherman Tree.",
+   "time": "03:00 PM - 03:30 PM",
+   "nextDates": [
+    "2026-10-31"
+   ],
+   "count": 1,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description Visitors from around the world come to marvel at the most massive trees on Earth. This short program explores giant sequoias—their size, traits, and challenges—while highlighting the General Sherman Tree. Program Details Length: 15–20 minutes Location: General Sherman Tree Seating: No seating provided; this is a standing program. Getting There Parking: General parking at the Ma"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Sign of the Times (Foothills Area)",
+   "where": "Sequoia Entrance Sign (0.25 miles from Three Rivers entrance station)",
+   "time": "10:00 AM - 11:00 AM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "count": 10,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description Learn the story behind Sequoia’s iconic entrance sign and how its meaning has evolved over time. Chat with a ranger to explore its origins, cultural context, and what it represents today. Program Details Length: Anytime between 10 am and 11 am Location: Along the sidewalk by the Sequoia Entrance Sign (0.25 miles from Three Rivers entrance station) Seating: No seating is provide"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Stories in Stone (Foothills Area)",
+   "where": "Hospital Rock Picnic Area",
+   "time": "02:00 PM - 03:00 PM",
+   "nextDates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "count": 10,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Explore Pah‑din , once a vibrant village inhabited by Native Americans, to discover ancient pictographs and enduring cultural connections that thrive in this remarkable riverside place. Come visit us at Hospital Rock Picnic Area for 5 minutes or for an hour, anytime between 2 pm and 3 pm."
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Get to Know Sequoias (Grant Grove Area)",
+   "where": "Meet at the base of the General Grant Tree.",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-01",
+    "2026-11-08",
+    "2026-11-15",
+    "2026-11-22",
+    "2026-11-29"
+   ],
+   "count": 5,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Ranger's Choice Talk (Grant Grove Area)",
+   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
+   "time": "02:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "count": 26,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Sequoia Basics (Giant Forest Area)",
+   "where": "Meet at the base of the General Sherman Tree.",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-01",
+    "2026-11-07",
+    "2026-11-08",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "count": 9,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description Visitors from around the world come to marvel at the most massive trees on Earth. This short program explores giant sequoias—their size, traits, and challenges—while highlighting the General Sherman Tree. Program Details Length: 15–20 minutes Location: General Sherman Tree Seating: No seating provided; this is a standing program. Getting There Parking: General parking at the Ma"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Forest Feature (Giant Forest Area)",
+   "where": "Meet in front of the Giant Forest Museum",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-16",
+    "2026-11-17"
+   ],
+   "count": 21,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Among the Giants Walk (Grant Grove Area)",
+   "where": "Meet at the Grant Tree Trailhead",
+   "time": "11:00 AM - 12:00 PM",
+   "nextDates": [
+    "2026-11-04",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-11",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-18",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-25",
+    "2026-11-27",
+    "2026-11-28"
+   ],
+   "count": 12,
+   "free": true,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
+  }
+ ]
+}
