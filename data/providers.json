@@ -200,33 +200,6 @@
     "kind": "Merit badges"
   },
   {
-    "name": "Santa Monica Mountains Trails Council - Trail Work Days",
-    "kind": "Service projects",
-    "topics": [
-      "Service",
-      "Hiking & Backpacking"
-    ],
-    "badges": [],
-    "format": "In person",
-    "address": "Santa Monica Mountains (Malibu Creek, Point Mugu and other parks)",
-    "zip": "91302",
-    "url": "https://smmtc.org/trailwork/",
-    "cost": "Free",
-    "schedule": "Trail maintenance days most Saturdays and some weekdays, about 8 AM - 2 PM. Tools and training provided.",
-    "notes": "Conservation service hours that can support the National Outdoor Award conservation segment, PVSA and Eagle/rank service (check the award rules). Read their volunteer FAQ for youth age and supervision rules before bringing a group.",
-    "list_regex": {
-      "pattern": "(?P<date>(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day, [A-Z][a-z]+ \\d{1,2}, \\d{4}) (?P<title>[^—](?:(?!day, [A-Z][a-z]+ \\d).){2,90}?) Leader:",
-      "prefix": "Trail work: ",
-      "start": "08:00",
-      "end": "14:00"
-    },
-    "programs": [
-      "Scouts BSA",
-      "Venturing",
-      "Adults / Leaders"
-    ]
-  },
-  {
     "name": "Malibu Lodge (Order of the Arrow, Western LA County Council)",
     "kind": "Order of the Arrow",
     "topics": [
