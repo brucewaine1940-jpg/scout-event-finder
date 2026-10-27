@@ -45,6 +45,11 @@ jobs:
         env:
           NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
 
+      - name: Recreation.gov group campsites (needs RIDB_API_KEY secret)
+        run: python scraper/ridb.py || echo "ridb skipped"
+        env:
+          RIDB_API_KEY: ${{ secrets.RIDB_API_KEY }}
+
       - name: Merit badge providers
         run: python scraper/providers.py || echo "providers skipped"
 
