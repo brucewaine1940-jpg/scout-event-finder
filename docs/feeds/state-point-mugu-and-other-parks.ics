@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-10-31-e303@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261031T150000Z
 DTEND:20261031T210000Z
 SUMMARY:Trail work: Phantom/Liberty Cyn - Malibu Creek State Park - Libert
@@ -26,7 +26,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-11-07-e303@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261107T160000Z
 DTEND:20261107T220000Z
 SUMMARY:Trail work: Phantom/Liberty Cyn - Malibu Creek State Park - Libert
@@ -45,7 +45,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-11-14-e303@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261114T160000Z
 DTEND:20261114T220000Z
 SUMMARY:Trail work: Phantom/Liberty Cyn - Malibu Creek State Park - Libert
@@ -64,7 +64,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-11-18-df97@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261118T160000Z
 DTEND:20261118T220000Z
 SUMMARY:Trail work: Chamberlain Trail - Point Mugu State Park
@@ -82,7 +82,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-11-21-df97@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261121T160000Z
 DTEND:20261121T220000Z
 SUMMARY:Trail work: Chamberlain Trail - Point Mugu State Park
@@ -100,7 +100,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-11-28-b8d2@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261128T160000Z
 DTEND:20261128T220000Z
 SUMMARY:Trail work: location TBD
@@ -118,7 +118,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-12-05-b6dd@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261205T160000Z
 DTEND:20261205T220000Z
 SUMMARY:Trail work: Lake Vista - Malibu Creek State Park - Forest Trail
@@ -136,7 +136,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-12-12-b6dd@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261212T160000Z
 DTEND:20261212T220000Z
 SUMMARY:Trail work: Lake Vista - Malibu Creek State Park - Forest Trail
@@ -154,7 +154,7 @@ URL:https://smmtc.org/trailwork/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-santa-monica-mountains-trails-council-tr-2026-12-19-b8d2@scout-event-finder
-DTSTAMP:20261027T061315Z
+DTSTAMP:20261027T062721Z
 DTSTART:20261219T160000Z
 DTEND:20261219T220000Z
 SUMMARY:Trail work: location TBD
