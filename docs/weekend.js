@@ -85,7 +85,8 @@
     const rangers = {};
     pub.filter((e) => e.kind === "ranger").forEach((e) => {
       const k = e.council;
-      (rangers[k] ||= { park: k, miles: e.miles, url: e.url, items: {} });
+      const g = (rangers[k] ||= { park: k, miles: e.miles, url: e.url, items: {} });
+      if (e.miles != null && (g.miles == null || e.miles < g.miles)) g.miles = e.miles;
       const d = parse(e.start);
       (rangers[k].items[e.title] ||= { title: e.title, url: e.url, time: e.time, days: [] }).days.push(DAY[d.getDay()]);
     });
