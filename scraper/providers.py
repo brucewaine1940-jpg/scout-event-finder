@@ -183,6 +183,23 @@ def main():
                 events.append(make_event(pid, prov, auto["title"], d, auto.get("start"), auto.get("end"),
                                          None, latlng, seen, today_s, "Date from provider's page"))
                 n_ev += 1
+        # dates typed in by hand in providers.json (for pages with no usable format)
+        for me in prov.get("events", []):
+            try:
+                d = date.fromisoformat(me["date"])
+            except (KeyError, ValueError):
+                continue
+            if d < today:
+                continue
+            ev = make_event(pid, prov, me["title"], d, me.get("start"), me.get("end"), None, latlng, seen, today_s,
+                            "Date from the organizer's calendar")
+            if me.get("end_date"):
+                en = datetime.combine(date.fromisoformat(me["end_date"]),
+                                      datetime.strptime(me.get("end") or "12:00", "%H:%M").time(), LA)
+                ev["end"] = en.strftime("%Y-%m-%dT%H:%M")
+                ev["endUtc"] = en.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+            events.append(ev)
+            n_ev += 1
         # dated list on the page, e.g. "Saturday, November 7, 2026 Liberty Canyon - Malibu Creek SP Leader: ..."
         lr = prov.get("list_regex")
         if lr and page_text:

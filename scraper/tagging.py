@@ -102,7 +102,7 @@ TOPICS = {
     "Summer Camp / Resident Camp": [r"summer camp", r"resident camp", r"long[- ]term camp"],
     "Day Camp": [r"day camp", r"twilight camp"],
     "Camporee / Campout": [r"camporee", r"campout", r"camp[- ]out", r"cuboree", r"jamboree", r"family camp", r"overnight"],
-    "High Adventure": [r"high adventure", r"philmont", r"sea base", r"northern tier", r"summit bechtel", r"\bsummit\b"],
+    "High Adventure": [r"high adventure", r"philmont", r"sea base", r"northern tier", r"summit bechtel", r"the summit (?:high adventure|reserve)"],
     "Shooting Sports": [r"shoot", r"rifle", r"shotgun", r"archery", r"\bBB\b", r"sling ?shot", r"\brange\b", r"sporting clays", r"muzzle"],
     "Aquatics & Boating": [r"swim", r"kayak", r"canoe", r"paddl", r"boat", r"sail", r"snorkel", r"scuba", r"aquatic", r"rowing"],
     "Climbing": [r"climb", r"rappel", r"\bCOPE\b", r"zip ?line"],
