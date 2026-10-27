@@ -55,10 +55,39 @@ def google_ids(page_url):
 def ics_urls(s):
     if s.get("ics"):
         return [s["ics"]]
+    if s.get("councilware"):
+        return [f"councilware:{cid}" for cid in s.get("calendar_ids", [1])]
     if s.get("google_embed_page"):
         return [f"https://calendar.google.com/calendar/ical/{quote(cid)}/public/basic.ics"
                 for cid in google_ids(s["google_embed_page"])]
     return []
+
+
+def councilware_calendar(s, cal_id, now):
+    """Councilware council websites (WordPress) serve their calendar as JSON; turn it into an iCalendar."""
+    from icalendar import Calendar, Event
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(s.get("timezone", "America/Los_Angeles"))
+    base = s["councilware"].rstrip("/")
+    r = requests.get(f"{base}/wp-content/plugins/councilware/calendar/render.php", headers=HDR, timeout=60,
+                     params={"calendarID": cal_id, "start": (now - timedelta(days=1)).strftime("%Y-%m-%d"),
+                             "end": (now + timedelta(days=365)).strftime("%Y-%m-%d")})
+    r.raise_for_status()
+    cal = Calendar()
+    cal.add("X-WR-CALNAME", s["name"])
+    for e in r.json():
+        if str(e.get("isCancelled", "false")).lower() == "true":
+            continue
+        v = Event()
+        v.add("SUMMARY", e.get("fullName") or e.get("title") or "")
+        v.add("DTSTART", datetime.fromisoformat(e["start"]).replace(tzinfo=tz))
+        v.add("DTEND", datetime.fromisoformat(e.get("end") or e["start"]).replace(tzinfo=tz))
+        v.add("LOCATION", e.get("location") or "")
+        v.add("DESCRIPTION", e.get("description") or "")
+        v.add("URL", e.get("registrationURL") or e.get("eventPageURL") or base + "/calendar/")
+        v.add("UID", f"{e.get('eventKey') or e.get('eventId')}@{base}")
+        cal.add_component(v)
+    return cal
 
 
 def strip_html(t):
@@ -105,9 +134,13 @@ def main():
         n = 0
         for url in urls:
             try:
-                r = requests.get(url, timeout=60, headers=HDR)
-                r.raise_for_status()
-                cal = Calendar.from_ical(r.content)
+                if url.startswith("councilware:"):
+                    cal = councilware_calendar(s, url.split(":", 1)[1], now)
+                    url = s["councilware"]
+                else:
+                    r = requests.get(url, timeout=60, headers=HDR)
+                    r.raise_for_status()
+                    cal = Calendar.from_ical(r.content)
             except Exception as ex:  # noqa: BLE001
                 print(f"  ! {s.get('name')} feed: {str(ex)[:120]}")
                 continue
@@ -150,6 +183,8 @@ def main():
                     "url": link, "firstSeen": seen[sid], "source": calname or s["name"],
                     **tag(title, desc, set(), str(v.get("LOCATION", ""))),
                 })
+                if s.get("oa") and "Order of the Arrow" not in events[-1]["topics"]:
+                    events[-1]["topics"].append("Order of the Arrow")  # everything on a lodge calendar is OA
                 n += 1
         print(f"  {s['name']}: {n} events from {len(urls)} calendar(s)")
     # the same event often appears on both a district and a council calendar

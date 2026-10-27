@@ -91,12 +91,22 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
     seen.setdefault(sid, today_s)
     online = prov.get("format", "").lower().startswith("online")
     desc = f"{prov.get('schedule', '')} {prov.get('notes', '')} ({kind} - confirm on the provider's page before you go.)"
-    t = tag(title + " merit badge", desc, set(), "Online" if online else prov.get("address", ""))
-    t["badges"] = sorted(set(badges or [b for b in prov.get("badges", []) if b != "*"]) | set(t["badges"]))
-    t["trainings"] = []  # provider notes mention "counselors"; these are badge classes, not trainings
+    is_mb = prov.get("kind", "Merit badges") == "Merit badges"
+    t = tag(title + (" merit badge" if is_mb else ""), desc, set(), "Online" if online else prov.get("address", ""))
+    t["trainings"] = []  # provider notes mention "counselors"; these are classes or projects, not trainings
     t["topics"] = [x for x in t["topics"] if x != "Training"]
-    if "Merit Badge Program" not in t["topics"]:
-        t["topics"].insert(0, "Merit Badge Program")
+    if is_mb:
+        t["badges"] = sorted(set(badges or [b for b in prov.get("badges", []) if b != "*"]) | set(t["badges"]))
+        if "Merit Badge Program" not in t["topics"]:
+            t["topics"].insert(0, "Merit Badge Program")
+    else:
+        t["badges"] = []
+        t["topics"] = [x for x in t["topics"] if x != "Merit Badge Program"]
+        for extra in prov.get("topics", ["Service"]):
+            if extra not in t["topics"]:
+                t["topics"].insert(0, extra)
+        if prov.get("programs"):
+            t["programs"] = prov["programs"]
     if online and not t["online"]:
         t["online"] = True
         t["topics"].append("Online / Virtual")
@@ -130,7 +140,7 @@ def main():
         pid = re.sub(r"[^a-z0-9]+", "-", prov["name"].lower()).strip("-")[:40]
         latlng = zips.get(prov.get("zip", ""))
         w = watch.get(prov.get("url", ""), {})
-        dates, ok = [], None
+        dates, ok, page_text = [], None, ""
         if prov.get("url") and "eventbrite.com" not in prov["url"]:  # Eventbrite blocks automated reads
             try:
                 r = requests.get(prov["url"], headers=HDR, timeout=60)
@@ -144,6 +154,7 @@ def main():
                     if w.get("hash") != h:
                         w = {"hash": h, "changed": today_s if w.get("hash") else w.get("changed", "")}
                     dates = find_dates(text, today)
+                    page_text = text
             except requests.RequestException as ex:
                 print(f"  ! {prov['name']}: {ex}")
                 ok = False
@@ -172,8 +183,25 @@ def main():
                 events.append(make_event(pid, prov, auto["title"], d, auto.get("start"), auto.get("end"),
                                          None, latlng, seen, today_s, "Date from provider's page"))
                 n_ev += 1
+        # dated list on the page, e.g. "Saturday, November 7, 2026 Liberty Canyon - Malibu Creek SP Leader: ..."
+        lr = prov.get("list_regex")
+        if lr and page_text:
+            done = set()
+            for m in re.finditer(lr["pattern"], page_text):
+                ds = find_dates(m.group("date"), today)
+                if not ds:
+                    continue
+                what = re.sub(r"\s+", " ", m.group("title")).strip(" -")
+                what = re.sub(r"\bTBD\s*-\s*TBD\b", "location TBD", what)
+                title = f"{lr.get('prefix', '')}{what}"[:120]
+                if (ds[0], title) in done:
+                    continue
+                done.add((ds[0], title))
+                events.append(make_event(pid, prov, title, ds[0], lr.get("start"), lr.get("end"),
+                                         None, latlng, seen, today_s, "Listed on the organizer's schedule"))
+                n_ev += 1
         out.append({
-            "id": pid, "name": prov["name"], "badges": prov.get("badges", []), "format": prov.get("format", ""),
+            "id": pid, "name": prov["name"], "kind": prov.get("kind", "Merit badges"), "badges": prov.get("badges", []), "format": prov.get("format", ""),
             "address": prov.get("address", ""), "lat": latlng[0] if latlng else None, "lng": latlng[1] if latlng else None,
             "url": prov.get("url", ""), "cost": prov.get("cost", ""), "schedule": prov.get("schedule", ""),
             "notes": prov.get("notes", ""), "dates": [d.isoformat() for d in dates[:10]],
