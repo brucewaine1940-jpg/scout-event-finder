@@ -210,7 +210,6 @@
     ["Leadership (NYLT/NAYLE)", { trainings: ["NYLT", "NAYLE"] }],
     ["Order of the Arrow", { topics: ["Order of the Arrow"] }],
     ["Service projects", { topics: ["Service"] }],
-    ["Ranger programs", { topics: ["Ranger / Park Program"] }],
     ["Online", { topics: ["Online / Virtual"] }],
   ];
   const same = (a, b) => JSON.stringify([...(a || [])].sort()) === JSON.stringify([...(b || [])].sort());
