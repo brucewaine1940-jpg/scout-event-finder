@@ -40,6 +40,11 @@ jobs:
         env:
           EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
 
+      - name: National Park Service ranger programs (needs NPS_API_KEY secret)
+        run: python scraper/nps.py || echo "nps skipped"
+        env:
+          NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
+
       - name: Merit badge providers
         run: python scraper/providers.py || echo "providers skipped"
 
