@@ -1,0 +1,25 @@
+{
+ "updated": "2026-10-27",
+ "home": "91401",
+ "radiusMiles": 200,
+ "campgrounds": [
+  {
+   "id": "234553",
+   "name": "Lightning Point Group Campground",
+   "area": "Angeles National Forest",
+   "agency": "USDA Forest Service",
+   "lat": 34.3719444,
+   "lng": -118.1830556,
+   "miles": 20,
+   "groupSites": 6,
+   "maxPeople": 45,
+   "minPeople": 36,
+   "fit": "Troop / large den group",
+   "reservable": true,
+   "fees": "",
+   "phone": "818-899-1900",
+   "url": "https://www.recreation.gov/camping/campgrounds/234553",
+   "about": "Overview Lightning Point Campground sits at an elevation of 6,100 feet, about 25 miles southeast of Palmdale and roughly 35 miles north of the San Fernando Valley. Nestled among Jeffrey pines, scrub oaks, and manzanita, the campground offers accommodations for both group visitors and equestrian campers. The nearby Pacific Crest National Scenic Trail is a favorite destination, providing access to a"
+  }
+ ]
+}
