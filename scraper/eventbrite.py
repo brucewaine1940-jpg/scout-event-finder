@@ -155,15 +155,22 @@ def main():
             place = "Online" if online else ", ".join(x for x in [v.get("name"), a.get("city"), region] if x)
             sid = "eb-" + str(e.get("id"))
             seen.setdefault(sid, today)
-            t = tag(title, desc, set(), place)
+            # these organizers are known merit badge providers, so a bare badge name in the title counts
+            ttl = title if re.search(r"merit[\s-]*badge|\bMBU?\b", title, re.I) else f"{title} merit badge"
+            t = tag(ttl, desc, set(), place)
             if online and not t["online"]:
                 t["online"] = True
                 t["topics"].append("Online / Virtual")
+            if t["online"]:
+                place = "Online"
+            abbr = lst.strftime("%Z")
+            tzl = {"PDT": "PT", "PST": "PT", "MDT": "MT", "MST": "MT", "CDT": "CT", "CST": "CT", "EDT": "ET",
+                   "EST": "ET", "HST": "HT", "AKDT": "AKT", "AKST": "AKT"}.get(abbr, abbr if abbr.isalpha() else "")
             events.append({
                 "id": sid, "eid": sid, "org": "", "council": org.get("name") or "Eventbrite listing",
                 "title": title, "session": "",
                 "start": lst.strftime("%Y-%m-%dT%H:%M"), "end": len_.strftime("%Y-%m-%dT%H:%M"),
-                "tz": tz_label(region, lst) if not online else lst.strftime("%Z"),
+                "tz": tzl or tz_label(region, lst),
                 "startUtc": st.strftime("%Y-%m-%dT%H:%MZ"), "endUtc": en.strftime("%Y-%m-%dT%H:%MZ"),
                 "lat": latlng[0] if latlng else None, "lng": latlng[1] if latlng else None, "location": place,
                 "desc": desc[:600], "fees": ["Free"] if e.get("is_free") else [],
