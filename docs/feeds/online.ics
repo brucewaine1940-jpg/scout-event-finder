@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:275528@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261106T010000Z
 DTEND:20261106T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:241290@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261107T000000Z
 DTEND:20261108T230000Z
 SUMMARY:NRA Rifle Instructor Training
@@ -44,7 +44,7 @@ URL:https://global.scoutingevent.com/558-104485
 END:VEVENT
 BEGIN:VEVENT
 UID:277212@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261112T010000Z
 DTEND:20261112T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -63,7 +63,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275546@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261113T010000Z
 DTEND:20261113T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -82,7 +82,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276864@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261114T140000Z
 DTEND:20261114T170000Z
 SUMMARY:Virtual Merit Badge College | Greater Finger Lakes Council – Mor
@@ -104,7 +104,7 @@ URL:https://global.scoutingevent.com/397-vmbc
 END:VEVENT
 BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -123,7 +123,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:275574@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261118T010000Z
 DTEND:20261118T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -142,7 +142,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277213@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261202T010000Z
 DTEND:20261202T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -161,7 +161,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277214@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261203T010000Z
 DTEND:20261203T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -180,7 +180,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275543@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261204T010000Z
 DTEND:20261204T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -199,7 +199,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277215@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -218,7 +218,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:258716@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270109T150000Z
 DTEND:20270109T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training First Day Instructio
@@ -237,7 +237,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:272010@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270110T010000Z
 DTEND:20270110T023000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – January
@@ -256,7 +256,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:258717@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270110T150000Z
 DTEND:20270110T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Second Day Instructi
@@ -275,7 +275,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:272011@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270111T010000Z
 DTEND:20270111T023000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – January
@@ -294,7 +294,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:275544@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270113T010000Z
 DTEND:20270113T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -313,7 +313,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:258719@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270123T150000Z
 DTEND:20270123T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Fourth Day Instructi
@@ -332,7 +332,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:258718@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270124T150000Z
 DTEND:20270124T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Third Day Instructio
@@ -351,7 +351,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:276222@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270203T000000Z
 DTEND:20270203T020000Z
 SUMMARY:Angling Educator - Online Class - Must attend both nights – Part
@@ -370,8 +370,27 @@ DESCRIPTION:Mississippi Riverlands Council\nhttps://global.scoutingevent.c
 URL:https://global.scoutingevent.com/303-Feb27AnglingEducator
 END:VEVENT
 BEGIN:VEVENT
+UID:277608@scout-event-finder
+DTSTAMP:20261027T025613Z
+DTSTART:20270204T000000Z
+DTEND:20270204T020000Z
+SUMMARY:Certified Angler Instructor Course
+LOCATION:Virtual training Session\, on the web\, South Carolina
+DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-27
+ wintercai\n\nFishing\, Fly Fishing\, Range Officer / Shooting Instructor\
+ n\nCERTIFIED ANGLER INSTRUCTOR\nCAI COURSE 2027 SE-1\nONLINE\nThis is an 
+ online CAI training course.  Six online sessions and one in-person day a
+ t Camp Barstow.  18 hours total to complete.  Participants will be trai
+ ned on Scout safety while fishing\, techniques to rig\, bait\, and find f
+ ish.  Fish cleaning and preparation for cooking.  Fish identification a
+ nd biology.  How to plan a fishing event at the pack\, troop & crew leve
+ ls.  We will also have hands on training for fly tying\, fly rod use\, s
+ pinning\,
+URL:https://global.scoutingevent.com/553-27wintercai
+END:VEVENT
+BEGIN:VEVENT
 UID:276235@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270205T000000Z
 DTEND:20270205T020000Z
 SUMMARY:Angling Educator - Online Class - Must attend both nights – Part
@@ -391,7 +410,7 @@ URL:https://global.scoutingevent.com/303-Feb27AnglingEducator
 END:VEVENT
 BEGIN:VEVENT
 UID:275545@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270212T010000Z
 DTEND:20270212T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -410,7 +429,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275637@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270306T170000Z
 DTEND:20270307T230000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 1
@@ -428,7 +447,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:275638@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270313T170000Z
 DTEND:20270314T220000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 2
@@ -446,7 +465,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:272012@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270411T000000Z
 DTEND:20270411T013000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – April 1
@@ -465,7 +484,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:272013@scout-event-finder
-DTSTAMP:20261026T231455Z
+DTSTAMP:20261027T025613Z
 DTSTART:20270412T000000Z
 DTEND:20270412T013000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – April 1
