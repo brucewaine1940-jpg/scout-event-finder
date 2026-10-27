@@ -7,11 +7,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:eb-1993715566930@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261027T223000Z
 DTEND:20261028T003000Z
 SUMMARY:Burpee Museum BSA: Nature - Virtual
-LOCATION:
+LOCATION:Online
 DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
  nature-virtual-tickets-1993715566930\n\nNature\n\nScouts will earn their 
  Nature Merit Badge.
@@ -20,7 +20,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-nature-virtual-tickets-
 END:VEVENT
 BEGIN:VEVENT
 UID:275528@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261106T010000Z
 DTEND:20261106T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -39,7 +39,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:241290@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261107T000000Z
 DTEND:20261108T230000Z
 SUMMARY:NRA Rifle Instructor Training
@@ -57,11 +57,11 @@ URL:https://global.scoutingevent.com/558-104485
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1996466226226@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261110T233000Z
 DTEND:20261111T013000Z
 SUMMARY:Burpee Museum BSA: Mining in Society Merit Badge - Virtual
-LOCATION:
+LOCATION:Online
 DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
  mining-in-society-merit-badge-virtual-tickets-1996466226226\n\nMining in 
  Society\n\nLearn about how mining has progressed over time\, and understa
@@ -71,7 +71,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-mining-in-society-merit
 END:VEVENT
 BEGIN:VEVENT
 UID:277212@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261112T010000Z
 DTEND:20261112T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -90,7 +90,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275546@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261113T010000Z
 DTEND:20261113T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -109,7 +109,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276864@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261114T140000Z
 DTEND:20261114T170000Z
 SUMMARY:Virtual Merit Badge College | Greater Finger Lakes Council – Mor
@@ -131,7 +131,7 @@ URL:https://global.scoutingevent.com/397-vmbc
 END:VEVENT
 BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -150,7 +150,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:275574@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261118T010000Z
 DTEND:20261118T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -169,7 +169,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1980534099807@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Aviation Merit Badge — Live Online with Pearl Harbor Aviation Mu
@@ -185,7 +185,7 @@ URL:https://www.eventbrite.com/e/aviation-merit-badge-live-online-with-pea
 END:VEVENT
 BEGIN:VEVENT
 UID:277213@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261202T010000Z
 DTEND:20261202T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -204,7 +204,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277214@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261203T010000Z
 DTEND:20261203T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -223,7 +223,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275543@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261204T010000Z
 DTEND:20261204T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -242,7 +242,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277215@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -261,7 +261,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:258716@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270109T150000Z
 DTEND:20270109T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training First Day Instructio
@@ -280,7 +280,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:272010@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270110T010000Z
 DTEND:20270110T023000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – January
@@ -299,7 +299,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:258717@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270110T150000Z
 DTEND:20270110T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Second Day Instructi
@@ -318,7 +318,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:272011@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270111T010000Z
 DTEND:20270111T023000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – January
@@ -337,11 +337,11 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993715229922@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270112T233000Z
 DTEND:20270113T013000Z
 SUMMARY:Burpee Museum BSA: Weather - Virtual
-LOCATION:
+LOCATION:Online
 DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
  weather-virtual-tickets-1993715229922\n\nWeather\n\nScouts will earn thei
  r Weather Merit Badge.
@@ -350,7 +350,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-weather-virtual-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:275544@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270113T010000Z
 DTEND:20270113T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -369,7 +369,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:258719@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270123T150000Z
 DTEND:20270123T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Fourth Day Instructi
@@ -388,7 +388,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:258718@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270124T150000Z
 DTEND:20270124T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Third Day Instructio
@@ -407,7 +407,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:276222@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270203T000000Z
 DTEND:20270203T020000Z
 SUMMARY:Angling Educator - Online Class - Must attend both nights – Part
@@ -427,7 +427,7 @@ URL:https://global.scoutingevent.com/303-Feb27AnglingEducator
 END:VEVENT
 BEGIN:VEVENT
 UID:277608@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270204T000000Z
 DTEND:20270204T020000Z
 SUMMARY:Certified Angler Instructor Course
@@ -446,7 +446,7 @@ URL:https://global.scoutingevent.com/553-27wintercai
 END:VEVENT
 BEGIN:VEVENT
 UID:276235@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270205T000000Z
 DTEND:20270205T020000Z
 SUMMARY:Angling Educator - Online Class - Must attend both nights – Part
@@ -466,7 +466,7 @@ URL:https://global.scoutingevent.com/303-Feb27AnglingEducator
 END:VEVENT
 BEGIN:VEVENT
 UID:275545@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270212T010000Z
 DTEND:20270212T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -485,11 +485,11 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992520625829@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270223T233000Z
 DTEND:20270224T013000Z
 SUMMARY:Burpee Museum BSA: Soil & Water Conservation Merit Badge - Virtual
-LOCATION:
+LOCATION:Online
 DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
  soil-water-conservation-merit-badge-virtual-tickets-1992520625829\n\nSoil
   and Water Conservation\n\nSoil & Water Conservationists study many facto
@@ -499,7 +499,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-soil-water-conservation
 END:VEVENT
 BEGIN:VEVENT
 UID:275637@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270306T170000Z
 DTEND:20270307T230000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 1
@@ -517,7 +517,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:275638@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270313T170000Z
 DTEND:20270314T220000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 2
@@ -535,11 +535,11 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993715810659@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270316T223000Z
 DTEND:20270317T003000Z
 SUMMARY:Burpee Museum BSA: Forestry - Virtual
-LOCATION:
+LOCATION:Online
 DESCRIPTION:Burpee Museum\nhttps://www.eventbrite.com/e/burpee-museum-bsa-
  forestry-virtual-tickets-1993715810659\n\nForestry\n\nScouts will earn th
  eir Forestry Merit Badge.
@@ -548,7 +548,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-forestry-virtual-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:272012@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270411T000000Z
 DTEND:20270411T013000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – April 1
@@ -567,7 +567,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:272013@scout-event-finder
-DTSTAMP:20261027T030457Z
+DTSTAMP:20261027T031153Z
 DTSTART:20270412T000000Z
 DTEND:20270412T013000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – April 1
