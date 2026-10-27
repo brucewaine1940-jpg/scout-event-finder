@@ -178,6 +178,7 @@
     $("#tabProviders").setAttribute("aria-selected", String(S.view === "providers"));
     $("#subscribe").hidden = S.view === "providers";
     $("#sort").closest("label").hidden = S.view === "providers";
+    renderQuick();
     if (S.view === "providers") { renderProviders(); return; }
     const now = Date.now(), win = dateWindow();
     for (const e of ALL) e._d = origin && e.lat != null ? miles(origin, [e.lat, e.lng]) : null;
@@ -199,6 +200,33 @@
     list.sort(S.sort === "dist" && origin ? (a, b) => a.d - b.d || byDate(a, b)
       : S.sort === "new" ? (a, b) => b.seen.localeCompare(a.seen) || byDate(a, b) : byDate);
     render(list, hits.length);
+  }
+
+  /* ---------- quick picks ---------- */
+  const QUICK = [
+    ["Merit badges", { anyBadge: true }],
+    ["Summer camp", { topics: ["Summer Camp / Resident Camp"] }],
+    ["High adventure", { topics: ["High Adventure"] }],
+    ["Leadership (NYLT/NAYLE)", { trainings: ["NYLT", "NAYLE"] }],
+    ["Order of the Arrow", { topics: ["Order of the Arrow"] }],
+    ["Service projects", { topics: ["Service"] }],
+    ["Ranger programs", { topics: ["Ranger / Park Program"] }],
+    ["Online", { topics: ["Online / Virtual"] }],
+  ];
+  const same = (a, b) => JSON.stringify([...(a || [])].sort()) === JSON.stringify([...(b || [])].sort());
+  function renderQuick() {
+    const box = $("#quick");
+    if (S.view === "providers") { box.hidden = true; return; }
+    box.hidden = false;
+    box.replaceChildren(...QUICK.map(([label, f]) => {
+      const on = (f.anyBadge ? S.anyBadge : true) && same(S.topics, f.topics || []) && same(S.trainings, f.trainings || []) &&
+        (f.anyBadge || !S.anyBadge);
+      return el("button", { type: "button", class: on ? "on" : "", onclick: () => {
+        Object.assign(S, { anyBadge: false, topics: [], trainings: [], badges: [] });
+        if (!on) Object.assign(S, JSON.parse(JSON.stringify(f)));
+        shown = PAGE; update();
+      } }, label);
+    }));
   }
 
   /* ---------- provider directory ---------- */
@@ -241,10 +269,11 @@
     }
     const recent = (d) => d && (Date.now() - Date.parse(d)) < 14 * DAY;
     $("#list").replaceChildren(
-      el("p", { class: "ev-note", text: "Museums, businesses and online programs that teach merit badges. Dated sessions also appear on the Events tab. Each page is re-checked nightly." }),
+      el("p", { class: "ev-note", text: "Museums, businesses, online programs and service organizations. Dated sessions also appear on the Events tab. Each page is re-checked nightly." }),
       ...rows.map((p) => el("article", { class: "card prov" },
         el("h3", {}, el("a", { href: p.url, target: "_blank", rel: "noopener", text: p.name }),
-          el("span", { class: "fmt" + (p.online ? " online" : ""), text: p.format })),
+          el("span", { class: "fmt" + (p.online ? " online" : ""), text: p.format }),
+          p.kind && p.kind !== "Merit badges" ? el("span", { class: "fmt", text: p.kind }) : null),
         el("div", { class: "meta" },
           p.address ? el("span", { text: p.address }) : null,
           p.d != null && !p.online ? el("span", { class: "dist", text: `${Math.round(p.d)} mi` }) : null),
