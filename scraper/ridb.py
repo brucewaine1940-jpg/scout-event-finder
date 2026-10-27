@@ -47,7 +47,7 @@ def paged(s, path, **params):
         off += len(rows)
         if not rows or off >= int(j.get("METADATA", {}).get("RESULTS", {}).get("TOTAL_COUNT", 0)):
             break
-        time.sleep(0.3)
+        time.sleep(1.3)
 
 
 def attr(site, name):
@@ -85,25 +85,29 @@ def main():
     s.headers.update({"apikey": key, "Accept": "application/json",
                       "User-Agent": "ScoutEventFinder/1.0 (volunteer Scout leader project)"})
     out = []
-    facilities = list(paged(s, "facilities", latitude=HOME[0], longitude=HOME[1], radius=RADIUS_MI,
-                            activity="CAMPING", full="true"))
-    print(f"  {len(facilities)} camping facilities within {RADIUS_MI} mi")
+    # the API's radius/activity filters proved unreliable, so pull the state and filter here
+    allf = list(paged(s, "facilities", state=os.environ.get("RIDB_STATES", "CA"), full="true"))
+    facilities = [f for f in allf if f.get("FacilityLatitude") and f.get("FacilityLongitude")
+                  and re.search(r"camp", f.get("FacilityTypeDescription", ""), re.I)
+                  and miles(HOME, (f["FacilityLatitude"], f["FacilityLongitude"])) <= RADIUS_MI]
+    print(f"  {len(allf)} facilities in state, {len(facilities)} campgrounds within {RADIUS_MI} mi")
     for f in facilities:
-        lat, lng = f.get("FacilityLatitude"), f.get("FacilityLongitude")
-        if not lat or not lng:
-            continue
+        lat, lng = f["FacilityLatitude"], f["FacilityLongitude"]
         try:
             sites = list(paged(s, f"facilities/{f['FacilityID']}/campsites"))
         except requests.RequestException as ex:
             print(f"  ! {f.get('FacilityName')}: {str(ex)[:100]}")
+            time.sleep(1.3)
             continue
         groups = [x for x in sites if GROUP.search(f"{x.get('CampsiteType', '')} {x.get('CampsiteName', '')}")]
         if not groups:
+            time.sleep(1.3)
             continue
         caps = [to_int(attr(x, "Max Num of People")) for x in groups]
         known = [c for c in caps if c]
         org = next((o.get("OrgName") for o in f.get("ORGANIZATION") or [] if o.get("OrgName")), "")
         area = next((a.get("RecAreaName") for a in f.get("RECAREA") or [] if a.get("RecAreaName")), "")
+        time.sleep(1.3)  # RIDB allows ~50 requests a minute
         out.append({
             "id": f["FacilityID"],
             "name": f.get("FacilityName", "").title(),
@@ -119,7 +123,6 @@ def main():
             "url": f"https://www.recreation.gov/camping/campgrounds/{f['FacilityID']}",
             "about": clean(f.get("FacilityDescription"))[:400],
         })
-        time.sleep(0.3)
     out.sort(key=lambda r: r["miles"])
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump({"updated": time.strftime("%Y-%m-%d"), "home": "91401", "radiusMiles": RADIUS_MI,
