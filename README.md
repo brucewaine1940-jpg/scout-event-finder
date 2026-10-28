@@ -70,7 +70,8 @@ The collector identifies itself, waits ~1 second between requests, and only fetc
 - [x] Events stay until they end: if a session drops off global.scoutingevent.com (often because registration closed), it stays in the list and calendar feeds, labeled "Registration may be closed". The nightly run checks the event page and removes it only if the page is gone or says cancelled.
 - [x] Scope rule: the Event Finder lists programs made for Scouts only. Public programs (ranger talks, library and city rec, trail work days) and places to go belong in the Trailbook; NPS and Recreation.gov data is collected here for it
 - [x] Quick picks: merit badges, summer camp, high adventure, NYLT/NAYLE, OA, service, ranger programs, online
-- [ ] Doubleknot councils
+- [x] Doubleknot councils (`scraper/doubleknot.py`, config `data/doubleknot_sources.json`): Doubleknot has no public event list, so the nightly run finds event links the council publishes (its websites, its Google calendar descriptions, hand-added seeds, approved form submissions), remembers them until they end, and reads each event's own calendar file. WLACC (bsa-la) is set up.
+- [x] "Submit an event" Google Form (`tools/create_submission_form.gs`, `scraper/submissions.py`): a leader approves each row; only the Approved tab (no emails) is published and read nightly.
 - [x] Eventbrite listings (museums, independent counselors, online classes)
 - [x] Merit badge provider directory with nightly page checks
 - [ ] More providers (college Merit Badge Universities, OA lodges, high-adventure bases)
