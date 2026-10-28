@@ -104,7 +104,12 @@
     $("#state").append(...Object.keys(states).sort().map((s) => el("option", { value: s, text: `${s} (${states[s]})` })));
   }
   function syncInputs() {
-    for (const id of ["q", "zip", "radius", "state", "from", "to", "council", "sort"]) $("#" + id).value = S[id];
+    for (const id of ["q", "zip", "radius", "state", "from", "to", "council", "sort"]) {
+      const box = $("#" + id);
+      // never rewrite the box someone is typing in (that trimmed away the space before the next word)
+      if (box === document.activeElement && box.value.trim() === String(S[id]).trim()) continue;
+      box.value = S[id];
+    }
     for (const id of BOOLS) $("#" + id).checked = S[id];
     document.querySelectorAll("#datePresets button").forEach((b) => b.classList.toggle("on", b.dataset.days === S.preset));
     document.querySelectorAll(".checks input").forEach((cb) => {
