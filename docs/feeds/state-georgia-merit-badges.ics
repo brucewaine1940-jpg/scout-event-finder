@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:234025@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261107T140000Z
 DTEND:20261107T203000Z
 SUMMARY:Fall Merit Badge Day 2026 – Merit Badge Classes
@@ -29,7 +29,7 @@ URL:https://global.scoutingevent.com/095-100912
 END:VEVENT
 BEGIN:VEVENT
 UID:266109@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261113T220000Z
 DTEND:20261115T170000Z
 SUMMARY:Conservation Weekend 2026
@@ -48,7 +48,7 @@ URL:https://global.scoutingevent.com/092-conservationweekend
 END:VEVENT
 BEGIN:VEVENT
 UID:273515@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261121T130000Z
 DTEND:20261121T210000Z
 SUMMARY:Scoutreach Merit Badge Clinic
@@ -68,7 +68,7 @@ URL:https://global.scoutingevent.com/092-SRMeritBadge2026
 END:VEVENT
 BEGIN:VEVENT
 UID:271021@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261121T150000Z
 DTEND:20261121T190000Z
 SUMMARY:Mining in Society Merit Badge – Nov 2026
@@ -86,7 +86,7 @@ URL:https://global.scoutingevent.com/093-mining
 END:VEVENT
 BEGIN:VEVENT
 UID:269353@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261227T180000Z
 DTEND:20261231T140000Z
 SUMMARY:Bert Adams Winter Camp 2026 – Winter Camp 2026
@@ -105,25 +105,26 @@ URL:https://global.scoutingevent.com/092-Winter26
 END:VEVENT
 BEGIN:VEVENT
 UID:277507@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270105T143000Z
 DTEND:20270105T190000Z
 SUMMARY:Art Merit Badge – Jan 2027 Art
 LOCATION:Morris Museum of Art\, Augusta\, Georgia
-DESCRIPTION:Georgia-Carolina Council\nhttps://global.scoutingevent.com/093
- -artmb\n\nArt\, Graphic Arts\n\nThe Art merit badge concentrates on two-d
- imensional art\, specifically drawing and painting in various media\, inc
- luding an introduction to design applications in the fields of graphic ar
- ts and industrial design\, history and design principles\, and how these 
- fields relate to fine art.\nWhen & Where\nRegister HERE\nJan 2027 Art\nMo
- rris Museum of Art\nTuesday 01-05-2027\n9:30 AM ET to 2:00 PM ET\nMore In
- formation\nMap of Event\n$\nView Pricing\n1 10th St\nAugusta\, Georgia 30
- 901\nPhone: 706-724-7501\nRegistration C
+DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
+  be closed. Confirm with the organizer.\n\nGeorgia-Carolina Council\nhttp
+ s://global.scoutingevent.com/093-artmb\n\nArt\, Graphic Arts\n\nThe Art m
+ erit badge concentrates on two-dimensional art\, specifically drawing and
+  painting in various media\, including an introduction to design applicat
+ ions in the fields of graphic arts and industrial design\, history and de
+ sign principles\, and how these fields relate to fine art.\nWhen & Where\
+ nRegister HERE\nJan 2027 Art\nMorris Museum of Art\nTuesday 01-05-2027\n9
+ :30 AM ET to 2:00 PM ET\nMore Information\nMap of Event\n$\nView Pricing\
+ n1 10th St\nAugusta\, Georgia 30901\nPhone: 706-724-7501\nRegistration C
 URL:https://global.scoutingevent.com/093-artmb
 END:VEVENT
 BEGIN:VEVENT
 UID:274861@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270206T133000Z
 DTEND:20270206T220000Z
 SUMMARY:Shooting Sports Merit Badge Day – Rifle Merit Badge
@@ -141,7 +142,7 @@ URL:https://global.scoutingevent.com/093-121383
 END:VEVENT
 BEGIN:VEVENT
 UID:269914@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270213T130000Z
 DTEND:20270213T170000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -160,7 +161,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:277207@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270220T130000Z
 DTEND:20270220T200000Z
 SUMMARY:University of Scouting 2027
@@ -179,7 +180,7 @@ URL:https://global.scoutingevent.com/092-universityofscouting
 END:VEVENT
 BEGIN:VEVENT
 UID:271603@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270227T130000Z
 DTEND:20270227T190000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -198,7 +199,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:275750@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270508T114500Z
 DTEND:20270508T193000Z
 SUMMARY:Spring Merit Badge Day 2027 – Merit Badge Classes
@@ -220,7 +221,7 @@ URL:https://global.scoutingevent.com/095-121802
 END:VEVENT
 BEGIN:VEVENT
 UID:259293@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270613T040000Z
 DTEND:20270620T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 1
@@ -238,7 +239,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:259294@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270620T040000Z
 DTEND:20270627T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 2
@@ -256,7 +257,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:275747@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20271106T114500Z
 DTEND:20271106T193000Z
 SUMMARY:Fall Merit Badge Day 2027 – Merit Badge Classes

@@ -7,25 +7,26 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:247269@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261107T133000Z
 DTEND:20261107T200000Z
 SUMMARY:Merit Badge College @ West Virginia Wesleyan College
 LOCATION:West Virginia Wesleyan College \, Buckhannon\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -107560\n\n\n\n2026 MERIT BADGE COLLEGE\nWEST VIRGINIA WESLEYAN COLLEGE\n
- Buchannon\, WV   |   Nov 7\, 2026\nDue to the flood recovery efforts 
- in Buckhannon and surrounding areas this event is postponed.  Please che
- ck back for announcements and a new date.\nWhen & Where\nWest Virginia We
- sleyan College\nSaturday 11-07-2026\n8:30 AM ET to 3:00 PM ET\nMore Infor
- mation\nMap of Event\nCoords: 38.990326\, -80.2206477\n59 College Ave\nBu
- ckhannon\, West Virginia 26201\nContact\nAttachments\nClass Attendee Coun
- ts\nClass Catalog\nWVWC Swim A
+DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
+  be closed. Confirm with the organizer.\n\nMountaineer Area Council\nhttp
+ s://global.scoutingevent.com/615-107560\n\n\n\n2026 MERIT BADGE COLLEGE\n
+ WEST VIRGINIA WESLEYAN COLLEGE\nBuchannon\, WV   |   Nov 7\, 2026\nDu
+ e to the flood recovery efforts in Buckhannon and surrounding areas this 
+ event is postponed.  Please check back for announcements and a new date.
+ \nWhen & Where\nWest Virginia Wesleyan College\nSaturday 11-07-2026\n8:30
+  AM ET to 3:00 PM ET\nMore Information\nMap of Event\nCoords: 38.990326\,
+  -80.2206477\n59 College Ave\nBuckhannon\, West Virginia 26201\nContact\n
+ Attachments\nClass Attendee Counts\nClass Catalog\nWVWC Swim A
 URL:https://global.scoutingevent.com/615-107560
 END:VEVENT
 BEGIN:VEVENT
 UID:247275@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20261212T143000Z
 DTEND:20261212T170000Z
 SUMMARY:Winter Hikes at Camp Mountaineer – Grades K-5 | 10:00 Departure
@@ -43,7 +44,7 @@ URL:https://global.scoutingevent.com/615-107564
 END:VEVENT
 BEGIN:VEVENT
 UID:269014@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270109T000000Z
 DTEND:20270110T150000Z
 SUMMARY:OA Winter Social
@@ -61,7 +62,7 @@ URL:https://global.scoutingevent.com/615-27WinterSocial
 END:VEVENT
 BEGIN:VEVENT
 UID:265634@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270109T140000Z
 DTEND:20270109T210000Z
 SUMMARY:Fundamentals of Training – 2027 Fundamentals of Training
@@ -79,7 +80,7 @@ URL:https://global.scoutingevent.com/598-Fundamentals
 END:VEVENT
 BEGIN:VEVENT
 UID:261155@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Merit Badge University @ WVU
@@ -97,7 +98,7 @@ URL:https://global.scoutingevent.com/615-27MBU
 END:VEVENT
 BEGIN:VEVENT
 UID:269029@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270306T150000Z
 DTEND:20270306T190000Z
 SUMMARY:MD Pinewood Derby & STEM Day
@@ -115,7 +116,7 @@ URL:https://global.scoutingevent.com/615-27MDPW
 END:VEVENT
 BEGIN:VEVENT
 UID:261416@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270417T120000Z
 DTEND:20270417T210000Z
 SUMMARY:Wilderness First Aid Training
@@ -134,7 +135,7 @@ URL:https://global.scoutingevent.com/615-27Wilderness
 END:VEVENT
 BEGIN:VEVENT
 UID:269037@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270423T220000Z
 DTEND:20270425T160000Z
 SUMMARY:St. George Camporee
@@ -152,7 +153,7 @@ URL:https://global.scoutingevent.com/615-27George
 END:VEVENT
 BEGIN:VEVENT
 UID:269038@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270430T220000Z
 DTEND:20270502T140000Z
 SUMMARY:Cub Scout Adventure Weekend
@@ -170,7 +171,7 @@ URL:https://global.scoutingevent.com/615-27CAW
 END:VEVENT
 BEGIN:VEVENT
 UID:269054@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270604T190000Z
 DTEND:20270606T160000Z
 SUMMARY:Blue & Gray Camporee
@@ -188,7 +189,7 @@ URL:https://global.scoutingevent.com/615-27BlueGray
 END:VEVENT
 BEGIN:VEVENT
 UID:269055@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270607T123000Z
 DTEND:20270611T193000Z
 SUMMARY:Cub Scout Day Camp (Clarksburg)
@@ -206,7 +207,7 @@ URL:https://global.scoutingevent.com/615-27MDDayCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:269056@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270614T120000Z
 DTEND:20270618T193000Z
 SUMMARY:Cub Scout Day Camp ORVD
@@ -224,7 +225,7 @@ URL:https://global.scoutingevent.com/615-27ORVDayCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:263892@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:Scouts BSA Resident Camp – Week 1
@@ -242,7 +243,7 @@ URL:https://global.scoutingevent.com/615-115609
 END:VEVENT
 BEGIN:VEVENT
 UID:263893@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270627T170000Z
 DTEND:20270703T140000Z
 SUMMARY:Scouts BSA Resident Camp – Week 2
@@ -260,7 +261,7 @@ URL:https://global.scoutingevent.com/615-115609
 END:VEVENT
 BEGIN:VEVENT
 UID:263894@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270704T170000Z
 DTEND:20270710T140000Z
 SUMMARY:Scouts BSA Resident Camp – Week 3
@@ -278,7 +279,7 @@ URL:https://global.scoutingevent.com/615-115609
 END:VEVENT
 BEGIN:VEVENT
 UID:264989@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270705T160000Z
 DTEND:20270710T193000Z
 SUMMARY:National Youth Leadership Training (NYLT)
@@ -296,7 +297,7 @@ URL:https://global.scoutingevent.com/615-NYLT26
 END:VEVENT
 BEGIN:VEVENT
 UID:263891@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20270714T170000Z
 DTEND:20270718T160000Z
 SUMMARY:Cub Scout Resident Camp
@@ -314,7 +315,7 @@ URL:https://global.scoutingevent.com/615-115608
 END:VEVENT
 BEGIN:VEVENT
 UID:269066@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20271008T210000Z
 DTEND:20271010T153000Z
 SUMMARY:ORVD Cub-O-Ree – Cub-O-Ree
@@ -332,7 +333,7 @@ URL:https://global.scoutingevent.com/615-27ORVFallCub
 END:VEVENT
 BEGIN:VEVENT
 UID:269068@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20271015T220000Z
 DTEND:20271017T160000Z
 SUMMARY:OA Fall Fellowship
@@ -350,7 +351,7 @@ URL:https://global.scoutingevent.com/615-27OAFall
 END:VEVENT
 BEGIN:VEVENT
 UID:269075@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20271106T123000Z
 DTEND:20271106T190000Z
 SUMMARY:Merit Badge College @ West Virginia Wesleyan College
@@ -367,7 +368,7 @@ URL:https://global.scoutingevent.com/615-27WMBC
 END:VEVENT
 BEGIN:VEVENT
 UID:269078@scout-event-finder
-DTSTAMP:20261027T183319Z
+DTSTAMP:20261028T165818Z
 DTSTART:20271211T143000Z
 DTEND:20271211T170000Z
 SUMMARY:Winter Hikes at Camp Mountaineer – Grades K-5 | 10:00 Departure
