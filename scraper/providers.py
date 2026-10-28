@@ -140,7 +140,8 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
 def main():
     providers = load(SRC, [])
     watch, seen, zips = load(WATCH, {}), load(SEEN, {}), load(ZIPS, {})
-    data = {"events": []} if PUBLIC else load(EVENTS, None)
+    # public mode starts from approved form submissions (submissions.py) and adds the providers' dates
+    data = {"events": load(os.path.join(ROOT, "data", "submitted_public.json"), [])} if PUBLIC else load(EVENTS, None)
     if data is None:
         sys.exit("events.json missing")
     now = datetime.now(LA)
