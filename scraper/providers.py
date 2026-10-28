@@ -101,7 +101,7 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
     desc = f"{prov.get('schedule', '')} {prov.get('notes', '')} ({kind} - confirm on the organizer's page before you go.)"
     is_mb = prov.get("kind", "Merit badges") == "Merit badges"
     t = tag(title + (" merit badge" if is_mb else ""), desc, set(), "Online" if online else prov.get("address", ""))
-    t["trainings"] = []  # provider notes mention "counselors"; these are classes or projects, not trainings
+    t["trainings"] = list(prov.get("trainings", []))  # only trainings named in providers.json (notes mention "counselors")
     t["topics"] = [x for x in t["topics"] if x != "Training"]
     if is_mb:
         t["badges"] = sorted(set(badges or [b for b in prov.get("badges", []) if b != "*"]) | set(t["badges"]))
@@ -110,7 +110,11 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
     else:
         t["badges"] = []
         t["topics"] = [x for x in t["topics"] if x != "Merit Badge Program"]
-        for extra in prov.get("topics", ["Service"]):
+        if prov.get("trainings"):
+            t["badges"] = []
+        if prov.get("trainings") and "Training" not in t["topics"]:
+            t["topics"].insert(0, "Training")
+        for extra in prov.get("topics", [] if prov.get("trainings") else ["Service"]):
             if extra not in t["topics"]:
                 t["topics"].insert(0, extra)
         if prov.get("programs"):
