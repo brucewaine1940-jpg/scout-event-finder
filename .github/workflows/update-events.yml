@@ -35,6 +35,12 @@ jobs:
       - name: Extra council feeds (optional)
         run: python scraper/extra_feeds.py || echo "extra feeds skipped"
 
+      - name: Approved event submissions (Google Form)
+        run: python scraper/submissions.py || echo "submissions skipped"
+
+      - name: Doubleknot councils (WLACC and others)
+        run: python scraper/doubleknot.py || echo "doubleknot skipped"
+
       - name: Eventbrite organizers (needs EVENTBRITE_TOKEN secret)
         run: python scraper/eventbrite.py || echo "eventbrite skipped"
         env:
