@@ -119,7 +119,8 @@ TOPICS = {
     "Meetings & Admin": [r"committee meeting", r"commissioners?(?:'s)? (?:monthly )?meeting", r"board(?:s)? of review", r"\bBOR\b",
                          r"roundtable", r"chapter meeting", r"monthly meeting", r"staff meeting", r"executive board",
                          r"key ?3", r"\bLEC\b", r"lodge executive", r"planning meeting", r"district meeting",
-                         r"annual (?:business )?meeting", r"\bdues\b", r"recharter", r"membership (?:chair|meeting)"],
+                         r"annual (?:business )?meeting", r"\bdues\b", r"recharter", r"membership (?:chair|meeting)",
+                         r"\bmeeting$", r"\bmtg\b", r"\bcabinet\b", r"committee\b", r"\bafterguard\b", r"social nights?\b"],
     "Fun / Family Events": [r"halloween", r"haunted", r"trunk or treat", r"family", r"festival", r"fun day", r"carnival", r"movie night"],
 }
 

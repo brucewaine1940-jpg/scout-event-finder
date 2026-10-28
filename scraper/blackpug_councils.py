@@ -32,6 +32,8 @@ HDR = {"User-Agent": "ScoutEventFinder/1.0 (volunteer Scout leader project; nigh
 DELAY = float(os.environ.get("SCRAPE_DELAY", "1.0"))
 LA = ZoneInfo("America/Los_Angeles")
 SKIP = re.compile(r"office (?:is )?closed|store closed|\bholiday\b|^closed\b", re.I)
+RENTAL = re.compile(r"\brent(?:al|als|ing)?\b|private groups?|weekend camping at|camping reservations?|campsite reservations?|"
+                    r"facility (?:use|reservation)|cabin (?:rental|reservation)", re.I)
 TIME_RX = re.compile(r"\b(\d{1,2})(?::(\d\d))?\s*([ap])\.?m\.?\b", re.I)
 
 session = requests.Session()
@@ -72,15 +74,18 @@ def council_listing(code):
                 except ValueError:
                     day = None
                 continue
-            a = row.select_one(".cal-title a")
+            a = row.select_one(".cal-title a") or row.select_one("a[href*='-']")
             if not a or not day:
                 continue
+            title_el = row.select_one(".cal-title")
+            name = (a.get_text(" ", strip=True) or (title_el.get_text(" ", strip=True) if title_el else "")
+                    or a.get("title", "") or (a.img.get("alt", "") if a.img else ""))
             path = re.sub(r"^https?://[^/]+", "", a.get("href", "")).split("?")[0]
             if not re.match(rf"^/{code}-", path):
                 continue
             loc = row.select_one(".cal-loc-content")
             desc = row.select_one(".cal-desc")
-            out.append((day, path, a.get_text(" ", strip=True), loc.get_text(" ", strip=True) if loc else "",
+            out.append((day, path, name, loc.get_text(" ", strip=True) if loc else "",
                         desc.get_text(" ", strip=True).replace("Read More", "").strip() if desc else ""))
             n += 1
         if n == 0:
@@ -93,10 +98,13 @@ def detail_text(path, cache):
     if path in cache:
         return cache[path].get("desc", "")
     html = get(BASE + path)
-    box = BeautifulSoup(html, "html.parser").select_one("#eventdescription") if html else None
+    soup = BeautifulSoup(html, "html.parser") if html else None
+    box = soup.select_one("#eventdescription") if soup else None
+    page_title = soup.title.get_text(" ", strip=True) if soup and soup.title else ""
     text = re.sub(r"\s+", " ", box.get_text(" ", strip=True)) if box else ""
     text = re.sub(r"^.*?\|\s*Share\s*\|\s*Tweet\s*", "", text)
-    cache[path] = {"desc": text[:4000], "fees": sorted(set(re.findall(r"\$\s?\d[\d,]*(?:\.\d\d)?", text)))[:6]}
+    cache[path] = {"desc": text[:4000], "fees": sorted(set(re.findall(r"\$\s?\d[\d,]*(?:\.\d\d)?", text)))[:6],
+                   "title": page_title}
     return cache[path]["desc"]
 
 
@@ -128,7 +136,12 @@ def main():
     out, fetched = [], 0
     for c in councils:
         rows = council_listing(c["code"])
-        new = [r for r in rows if r[1].lower() not in have and not SKIP.search(r[2])]
+        dates_per_path = {}
+        for r in rows:
+            dates_per_path[r[1]] = dates_per_path.get(r[1], 0) + 1
+        # campsite rentals / "weekend camping at ..." availability is listed on dozens of dates - not events
+        new = [r for r in rows if r[1].lower() not in have and not SKIP.search(r[2])
+               and not RENTAL.search(f"{r[2]} {r[4]}") and dates_per_path[r[1]] <= 12]
         print(f"  {c['name']} ({c['code']}): {len(rows)} listed on the council calendar, "
               f"{len(new)} not on the global calendar", flush=True)
         for day, path, title, loc, snip in new:
@@ -139,6 +152,11 @@ def main():
                 desc = detail_text(path, cache) or snip
             else:
                 desc = snip  # read the event page on a later night
+            if not title:
+                pt_ = cache.get(path, {}).get("title", "")
+                title = re.sub(rf"^{re.escape(c['name'])}\s*-\s*", "", pt_).strip() or pt_
+            if not title:
+                continue
             t0 = first_time(desc)
             st = datetime.combine(day, datetime.min.time(), LA).replace(hour=t0[0], minute=t0[1]) if t0 \
                 else datetime.combine(day, datetime.min.time(), LA)
