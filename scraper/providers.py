@@ -84,6 +84,43 @@ def find_dates(text, today):
     return sorted(d for d in found if today <= d <= today + timedelta(days=400))
 
 
+MONTH_HDR = re.compile(r"^(January|February|March|April|May|June|July|August|September|October|November|December)\s+(\d{4})$")
+ORD = r"(\d{1,2})(?:st|nd|rd|th)"
+ENTRY = re.compile(rf"^(?P<title>.*?)\s*{ORD}(?:\s*[–—-]\s*(?:(?P<m2>[A-Z][a-z]+)\s+)?{ORD})?$")
+
+
+def month_list(lines, today):
+    """[(title, start date, end date)] from a page listing events under "Month YYYY" headings."""
+    out, month, year, prev = [], None, None, ""
+    for line in lines:
+        h = MONTH_HDR.match(line)
+        if h:
+            month, year, prev = MONTHS[h.group(1)[:3].lower()], int(h.group(2)), ""
+            continue
+        m = ENTRY.match(line) if month else None
+        if not m:
+            prev = line
+            continue
+        title = m.group("title").strip(" -–—") or prev  # the date may sit on its own line under the title
+        prev = ""
+        if not title or len(title) > 120:
+            continue
+        try:
+            d1 = date(year, month, int(m.group(2)))
+            d2 = None
+            if m.group(4):
+                m2 = MONTHS.get((m.group("m2") or "")[:3].lower(), month)
+                y2 = year + (1 if m2 < month else 0)
+                d2 = date(y2, m2, int(m.group(4)))
+                if d2 < d1:  # "28th – 2nd" runs into the next month
+                    d2 = date(year + (month == 12), month % 12 + 1, int(m.group(4)))
+        except ValueError:
+            continue
+        if (d2 or d1) >= today:
+            out.append((title, d1, d2))
+    return out
+
+
 def load(p, d):
     try:
         with open(p) as f:
@@ -133,7 +170,8 @@ def make_event(pid, prov, title, d, start, end, badges, latlng, seen, today_s, k
         "lat": latlng[0] if latlng else None, "lng": latlng[1] if latlng else None,
         "location": "Online" if online else (re.sub(r",?\s*CA\s+\d{5}$", "", addr) + (", California" if state else "")),
         "desc": desc[:600], "fees": [m for m in re.findall(r"\$\d+", prov.get("cost", ""))[:1]],
-        "url": prov.get("url", ""), "firstSeen": seen[sid], "source": "Provider directory", "provider": True, **t,
+        "url": prov.get("url", ""), "firstSeen": seen[sid], "source": prov.get("source", "Provider directory"),
+        "provider": not prov.get("hide_from_directory"), "approx": bool(prov.get("approx")), **t,
     }
 
 
@@ -153,7 +191,7 @@ def main():
         pid = re.sub(r"[^a-z0-9]+", "-", prov["name"].lower()).strip("-")[:40]
         latlng = zips.get(prov.get("zip", ""))
         w = watch.get(prov.get("url", ""), {})
-        dates, ok, page_text = [], None, ""
+        dates, ok, page_text, page_lines = [], None, "", []
         if prov.get("url") and "eventbrite.com" not in prov["url"]:  # Eventbrite blocks automated reads
             try:
                 r = requests.get(prov["url"], headers=HDR, timeout=60)
@@ -162,6 +200,7 @@ def main():
                     soup = BeautifulSoup(r.text, "html.parser")
                     for t in soup(["script", "style", "nav", "footer", "header", "noscript"]):
                         t.decompose()
+                    page_lines = [re.sub(r"\s+", " ", x).strip() for x in soup.get_text("\n").splitlines() if x.strip()]
                     text = re.sub(r"\s+", " ", soup.get_text(" "))
                     h = hashlib.md5(text.encode()).hexdigest()
                     if w.get("hash") != h:
@@ -230,6 +269,23 @@ def main():
                 events.append(make_event(pid, prov, title, ds[0], lr.get("start"), lr.get("end"),
                                          None, latlng, seen, today_s, "Listed on the organizer's schedule"))
                 n_ev += 1
+        # month-by-month list, e.g. "November 2026" then "Webelos Woods 6th – 8th" (California Inland Empire Council)
+        ml = prov.get("month_list")
+        if ml and page_lines:
+            for title, d, d_end in month_list(page_lines, today):
+                if ml.get("skip") and re.search(ml["skip"], title, re.I):
+                    continue
+                ev = make_event(pid, prov, title, d, ml.get("start"), ml.get("end"), None, latlng, seen, today_s,
+                                "Listed on the council's events page")
+                if d_end and d_end > d:
+                    en = datetime.combine(d_end, datetime.strptime(ml.get("end") or "12:00", "%H:%M").time(), LA)
+                    ev["end"] = en.strftime("%Y-%m-%dT%H:%M")
+                    ev["endUtc"] = en.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%MZ")
+                events.append(ev)
+                n_ev += 1
+        if prov.get("hide_from_directory"):
+            print(f"  {prov['name']}: {n_ev} events")
+            continue
         out.append({
             "id": pid, "name": prov["name"], "kind": prov.get("kind", "Merit badges"), "badges": prov.get("badges", []), "format": prov.get("format", ""),
             "address": prov.get("address", ""), "lat": latlng[0] if latlng else None, "lng": latlng[1] if latlng else None,
