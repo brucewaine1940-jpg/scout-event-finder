@@ -32,6 +32,9 @@ jobs:
       - name: Collect events from global.scoutingevent.com
         run: python scraper/scrape_global.py
 
+      - name: Council calendars on scoutingevent.com (events left off the global calendar)
+        run: python scraper/blackpug_councils.py || echo "council calendars skipped"
+
       - name: Extra council feeds (optional)
         run: python scraper/extra_feeds.py || echo "extra feeds skipped"
 
