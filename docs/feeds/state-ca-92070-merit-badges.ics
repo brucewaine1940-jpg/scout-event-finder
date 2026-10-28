@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – CA 92070 Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:dk-1d00ad0c4e4a@scout-event-finder
+DTSTAMP:20261028T183229Z
+DTSTART:20270123T180000Z
+DTEND:20270124T000000Z
+SUMMARY:Search and Rescue (SAR) Merit Badge Day at MSR
+LOCATION:Mataguay Rd\, Santa Ysabel\, CA 92070
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/search-and-rescue-sar-merit-badge-day-at-msr/3159015\n\nSearch and Res
+ cue\n\nSan Diego-Imperial Council presents Search and Rescue Merit Badge 
+ Day Saturday\, January 23\, 10:00 am- 4:00 pm Designed for ages 11-17 Sco
+ uts will have the opportunity to earn the Search and Rescue Merit Badge. 
+ Mataguay Scout Ranch (Mataguay Rd\, Santa Ysabel\, CA 92070) Cost: $35 fo
+ r youth Lunch is NOT included. You should bring a sack lunch and a water 
+ bottle Check-in opens at 9:45 am Youth must pre-register. NO WALK-INS. Al
+ l attending Scouts must bring a Merit Badge application (blue card) with 
+URL:https://sdicbsa.doubleknot.com/event/search-and-rescue-sar-merit-badge
+ -day-at-msr/3159015
+END:VEVENT
+END:VCALENDAR
