@@ -227,5 +227,36 @@
         "end": "12:00"
       }
     ]
+  },
+  {
+    "name": "GLAAC High Adventure Team - Wilderness & Remote First Aid",
+    "kind": "Training",
+    "trainings": [
+      "Wilderness First Aid",
+      "CPR / AED / First Aid"
+    ],
+    "topics": [],
+    "programs": [
+      "Adults / Leaders",
+      "Scouts BSA",
+      "Venturing"
+    ],
+    "badges": [],
+    "format": "In person",
+    "address": "Cushman Watt Scout Center, 2333 Scout Way, Los Angeles, CA 90026",
+    "zip": "90026",
+    "url": "https://glaac-hat.org/flyers/WildernessRemoteFirstAidSummerLatest.pdf",
+    "cost": "$90 if registered by April 10, 2027",
+    "schedule": "Two days, 8 AM - 4 PM, with CPR/AED. Aimed at adult leaders and parents heading to high adventure bases or wilderness trips.",
+    "notes": "Registers on the GLAAC High Adventure Team's own site (glaac-hat.org/register), not scoutingevent.com.",
+    "events": [
+      {
+        "title": "Wilderness & Remote First Aid with CPR/AED (GLAAC-HAT)",
+        "date": "2027-04-17",
+        "end_date": "2027-04-18",
+        "start": "08:00",
+        "end": "16:00"
+      }
+    ]
   }
 ]
