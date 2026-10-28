@@ -40,6 +40,7 @@ LA = ZoneInfo("America/Los_Angeles")
 SKIP_EXT = re.compile(r"\.(?:jpe?g|png|gif|webp|svg|pdf|docx?|xlsx?|pptx?|zip|mp4|mp3|ics|css|js)(?:$|\?)", re.I)
 SKIP_PATH = re.compile(r"/(?:wp-admin|wp-json|wp-content|feed|tag|author|cart|checkout|my-account)(?:/|$)|\?(?:replytocom|share)=", re.I)
 TZL = {"PDT": "PT", "PST": "PT"}
+NOT_EVENT = re.compile(r"\b(?:dues|donations?|donate|payments?|deposits?|store|merchandise|gift cards?|membership fees?|recharter)\b", re.I)
 
 session = requests.Session()
 session.headers.update(HDR)
@@ -203,6 +204,8 @@ def main():
                 known.pop(k)
                 continue
             for v in vevents:
+                if NOT_EVENT.search(v["summary"]):
+                    continue  # Doubleknot also sells dues, deposits and merchandise
                 st, en = datetime.fromisoformat(v["start"]).astimezone(LA), datetime.fromisoformat(v["end"]).astimezone(LA)
                 if en < now:
                     continue
