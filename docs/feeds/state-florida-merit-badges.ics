@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:267692@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261120T210000Z
 DTEND:20261122T160000Z
 SUMMARY:Eagle Empire District Fall Camporee
@@ -24,27 +24,8 @@ DESCRIPTION:Central Florida Council\nhttps://global.scoutingevent.com/083-
 URL:https://global.scoutingevent.com/083-EagleEmpireDistrictFallCamporee
 END:VEVENT
 BEGIN:VEVENT
-UID:264427@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20261120T220000Z
-DTEND:20261122T160000Z
-SUMMARY:Scouting Advancement Weekend (SAW)
-LOCATION:Camp Tanah Keeta\, Jupiter\, Florida
-DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-saw2
- 6\n\nCooking\, Aquatics (Lifeguard / Water Rescue)\, Merit Badge Counselo
- r\, Safeguarding Youth / YPT\, Wilderness First Aid\n\nSCOUTING ADVANCEME
- NT WEEKEND (SAW) 2026 - Scouts BSA get a hands-on experience while earnin
- g Merit Badges. We will offer over **40 plus Merit badge classes to choos
- e from\, Scouts could take an all-day class or two half day classes…The
-  Merit Badge Counselors for all the classes are either employed in their 
- field or are hobbyists in the class they teach. SAW gives each scout the 
- opportunity to learn from the best and perhaps think of a career choice i
- n the future.\nAOL Cub Scouts also join the olde
-URL:https://global.scoutingevent.com/085-saw26
-END:VEVENT
-BEGIN:VEVENT
 UID:255890@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261227T154500Z
 DTEND:20261230T220000Z
 SUMMARY:2026 Winter Camp – Winter Camp
@@ -62,7 +43,7 @@ URL:https://global.scoutingevent.com/089-111522
 END:VEVENT
 BEGIN:VEVENT
 UID:271176@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261227T190000Z
 DTEND:20261231T160000Z
 SUMMARY:2026 Scouts BSA Winter Camp
@@ -80,7 +61,7 @@ URL:https://global.scoutingevent.com/773-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:274988@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270116T150000Z
 DTEND:20270116T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -99,7 +80,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:274989@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -118,7 +99,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:272858@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270220T143000Z
 DTEND:20270220T183000Z
 SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
@@ -136,7 +117,7 @@ URL:https://global.scoutingevent.com/089-120401
 END:VEVENT
 BEGIN:VEVENT
 UID:276578@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Youth Law Day
@@ -154,7 +135,7 @@ URL:https://global.scoutingevent.com/085-YouthLawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:257836@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270606T180000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
@@ -172,7 +153,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257837@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
@@ -190,7 +171,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257857@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20271227T180000Z
 DTEND:20271231T153000Z
 SUMMARY:2027 Scouts BSA Winter Camp

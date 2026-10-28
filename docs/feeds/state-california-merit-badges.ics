@@ -7,10 +7,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:bp-0af5e2379c70@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261031T160000Z
 DTEND:20261031T160000Z
-SUMMARY:
+SUMMARY:Swimming Merit Badge (Ages 11 to 17)
 LOCATION:Irvine Ranch Outdoor Education Center\, Orange\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-120649\n\
  nSwimming\, Aquatics (Lifeguard / Water Rescue)\n\nEvent Details Become a
@@ -24,11 +24,30 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-120649\n\
 URL:https://scoutingevent.com/039-120649
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-b88e2d6d9694@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20261107T160000Z
+DTEND:20261107T160000Z
+SUMMARY:So. Sierra - Merit Badge Midway
+LOCATION:So. Sierra - Scout Office\, Bakersfield\, California
+DESCRIPTION:Greater California Council\nhttps://scoutingevent.com/047-MB11
+ 26\n\nAmerican Cultures\, Citizenship in the Nation\, Electronics\, Game 
+ Design\, Railroading\n\nEvent Details Merit Badge Midway - Saturday\, Nov
+ ember 7 Cost is $5 per merit badge until Friday\, October 31\, 2026 - $7 
+ after Location: First Presbyterian Church - 1705 17th Street - Bakersfiel
+ d (corner of H St. & Truxtun) Merit Badges being offered - merit badges w
+ ith (*) have prerequisites Note: Scouts are to select merit badges that d
+ o not conflict times. Check in opens at 8:00 am Full day Session - 8:30 a
+ m - 4:30 pm Citizenship in the Nation * Morning Sessions - 8:30 am to 12:
+ 00 pm Competitiv
+URL:https://scoutingevent.com/047-MB1126
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-5ca54aae58e9@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
-SUMMARY:
+SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118347\n\
  nCitizenship in the Nation\n\nEvent Details Discover how national decisio
@@ -43,28 +62,28 @@ URL:https://scoutingevent.com/039-118347
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b17aa4087de9@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
-SUMMARY:
+SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118439\n\
- nCommunication\n\nEvent Details Learn how to communicate effectively in a
- ll situations whether it be a school presentation or future job interview
- \, participate in mock interviews\, prepare a speech\, and learn about di
- fferent types of careers in Communication. Learn about use of tone\, body
-  language\, and non-verbal means of communication. Participate in fun\, i
- nteractive\, and creative games using speech and writing. Public speaking
-  fears conquered here! This session runs from 9am to 12pm every Saturday 
- on November 7t
+ nCommunication\, Public Speaking\n\nEvent Details Learn how to communicat
+ e effectively in all situations whether it be a school presentation or fu
+ ture job interview\, participate in mock interviews\, prepare a speech\, 
+ and learn about different types of careers in Communication. Learn about 
+ use of tone\, body language\, and non-verbal means of communication. Part
+ icipate in fun\, interactive\, and creative games using speech and writin
+ g. Public speaking fears conquered here! This session runs from 9am to 12
+ pm every Saturday on November 7t
 URL:https://scoutingevent.com/039-118439
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0699339d90ff@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
-SUMMARY:
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118339\n\
  nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
@@ -79,10 +98,10 @@ URL:https://scoutingevent.com/039-118339
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d1a1f775be4e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
-SUMMARY:
+SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118436\n\
  nFirst Aid\, CPR / AED / First Aid\n\nEvent Details From anaphylaxis\, sp
@@ -97,10 +116,10 @@ URL:https://scoutingevent.com/039-118436
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b74b5f9ffc3c@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261107T210000Z
 DTEND:20261107T210000Z
-SUMMARY:
+SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118415\n\
  nCitizenship in the World\n\nEvent Details Compare the duties\, rights\, 
@@ -114,8 +133,26 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118415\n\
 URL:https://scoutingevent.com/039-118415
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-3977d0a2400f@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20261108T170000Z
+DTEND:20261108T170000Z
+SUMMARY:Scouts Range Merit Badge PARTIALS at Trask
+LOCATION:Trask Scout Reservation\, Monrovia\, California
+DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
+ 3-rangepartials\n\nRifle Shooting\, Shotgun Shooting\n\nEvent Details Rif
+ le OR Shotgun merit badge PARTIAL completion day. $50--choose only ONE cl
+ ass per scout. Includes a review of safety and all ammo for the day. ONLY
+  partial completions are available during this event. (MUST show proof of
+  partial from prior class attendance or summer camp.) Contact When & Wher
+ e Register November 2026 Trask Scout Reservation Sunday 11-08-2026 9:00 A
+ M PT to 3:00 PM PT More Information Map of Session $ View Pricing Coords:
+  34.1784068\, -117.9793102 1100 N Canyon Blvd 
+URL:https://scoutingevent.com/033-rangepartials
+END:VEVENT
+BEGIN:VEVENT
 UID:267033@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261114T170000Z
 DTEND:20261114T220000Z
 SUMMARY:CPR/AED Registration 2026 – Nov - CPR/AED & First Aid
@@ -132,8 +169,26 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-CPR2026
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-f8f3f1741e5d@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20261114T210000Z
+DTEND:20261114T210000Z
+SUMMARY:Engineering Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118340\n\
+ nEngineering\n\nEvent Details This hands-on workshop will teach and test 
+ builder skills with fun and wacky challenges. Projects include a stress a
+ nd strain lab\, egg drop challenge\, tower build\, and more! Demos includ
+ e: hydraulic press\, DIY wind tunnel and mini-AC unit. Engineering is all
+  around us and is involved in virtually every product\, structure\, item 
+ that we can put our hands on or see. Dive in deeper with our Staff to exp
+ lore how products and items are developed and created. Learn engineering 
+ concepts su
+URL:https://scoutingevent.com/039-118340
+END:VEVENT
+BEGIN:VEVENT
 UID:273008@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Friday Semin
@@ -152,26 +207,8 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
-UID:bp-c454e57f1fa9@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20261121T160000Z
-DTEND:20261121T160000Z
-SUMMARY:
-LOCATION:North Hills Church\, Brea\, California
-DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119793\n\
- nArt\, Collections\, Photography\n\nEvent Details Patchtopia 2026 Novembe
- r 21st Location: North Hills Church 3100 E. Birch St. Brea CA 92821 A FRE
- E patch trading event for everyone! Bring your Pack or Troop. Patches wil
- l be provided. There will be games\, patch trading quests and rewards! Br
- ing your own patches to trade!!! Patch collections will be on display\, i
- nformational classes on patches as well. The Collections\, Photography & 
- Art Merit Badges will be offered ($5 fee per Merit Badge) If you are not 
- in scouts\, or are not part o
-URL:https://scoutingevent.com/039-119793
-END:VEVENT
-BEGIN:VEVENT
 UID:273009@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261121T160000Z
 DTEND:20261122T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Saturday Sem
@@ -190,8 +227,26 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-c454e57f1fa9@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20261121T160000Z
+DTEND:20261121T160000Z
+SUMMARY:Patchtopia 2026
+LOCATION:North Hills Church\, Brea\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119793\n\
+ nArt\, Collections\, Photography\n\nEvent Details Patchtopia 2026 Novembe
+ r 21st Location: North Hills Church 3100 E. Birch St. Brea CA 92821 A FRE
+ E patch trading event for everyone! Bring your Pack or Troop. Patches wil
+ l be provided. There will be games\, patch trading quests and rewards! Br
+ ing your own patches to trade!!! Patch collections will be on display\, i
+ nformational classes on patches as well. The Collections\, Photography & 
+ Art Merit Badges will be offered ($5 fee per Merit Badge) If you are not 
+ in scouts\, or are not part o
+URL:https://scoutingevent.com/039-119793
+END:VEVENT
+BEGIN:VEVENT
 UID:272350@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261121T170000Z
 DTEND:20261122T003000Z
 SUMMARY:The 14th Annual Law Merit Badge Day
@@ -209,7 +264,7 @@ URL:https://global.scoutingevent.com/033-LawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:273010@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261122T150000Z
 DTEND:20261123T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Sunday Field
@@ -229,10 +284,10 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-10099094568d@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261122T163000Z
 DTEND:20261122T163000Z
-SUMMARY:
+SUMMARY:Welding merit badge at Trask
 LOCATION:Trask Scout Reservation\, Monrovia\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-welding\n\nWelding\n\nEvent Details $75/scout (Max 6 scouts each sessio
@@ -247,7 +302,7 @@ URL:https://scoutingevent.com/033-welding
 END:VEVENT
 BEGIN:VEVENT
 UID:251669@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261205T150000Z
 DTEND:20261206T030000Z
 SUMMARY:Pacifica District 20 Mile Hike
@@ -264,8 +319,26 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-20MileHike
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-067ea509d916@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20261212T170000Z
+DTEND:20261212T170000Z
+SUMMARY:Scouts Range Merit Badge at Trask
+LOCATION:Trask Scout Reservation\, Monrovia\, California
+DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
+ 3-rangemeritbadges\n\nRifle Shooting\, Shotgun Shooting\n\nEvent Details 
+ Rifle OR Shotgun merit badge day at Trask! ( $75--choose only ONE class p
+ er scout ) ONLY partial completions are available at this time. (MUST sho
+ w proof of partial from prior class attendance or summer camp.) This is a
+  one day event. If the scout does not qualify\, we will make arrangements
+  for another visit. Ammunition is included for the day event only. If a f
+ uture visit is required\, ammo purchase will be necessary. Contact When &
+  Where Register December 2026 Trask Scout Reservat
+URL:https://scoutingevent.com/033-rangemeritbadges
+END:VEVENT
+BEGIN:VEVENT
 UID:eb-1222989778349@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261213T160000Z
 DTEND:20261214T020000Z
 SUMMARY:Multiple MB: Game Design + Community with the Physics at Disney Pa
@@ -281,7 +354,7 @@ URL:https://www.eventbrite.com/e/multiple-mb-game-design-community-with-th
 END:VEVENT
 BEGIN:VEVENT
 UID:248818@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261219T000000Z
 DTEND:20261221T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session One
@@ -299,7 +372,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:274098@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter Merit Badge Camp Dec. 2026 - Scouts – Winter Merit Badge 
@@ -321,7 +394,7 @@ URL:https://global.scoutingevent.com/032-wintermeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:248819@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270109T000000Z
 DTEND:20270111T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session Two
@@ -339,10 +412,10 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-7b925e7e6096@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
-SUMMARY:
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118868\n\
  nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
@@ -357,10 +430,10 @@ URL:https://scoutingevent.com/039-118868
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-126e2476cc4c@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
-SUMMARY:
+SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119427\n\
  nFirst Aid\, CPR / AED / First Aid\n\nEvent Details From anaphylaxis\, sp
@@ -375,7 +448,7 @@ URL:https://scoutingevent.com/039-119427
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-01-23-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270123T170000Z
 DTEND:20270123T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -390,10 +463,10 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-77dcc036f180@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270206T000000Z
 DTEND:20270206T000000Z
-SUMMARY:
+SUMMARY:HESR Camp Pollock Winter Camp 2027
 LOCATION:Hubert Eaton Scout Reservation\, Cedar Glen\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-wintercamp2027\n\nArchery\n\nEvent Details HUBERT EATON SCOUT RESERVATI
@@ -408,10 +481,10 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6824b70b2033@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270206T020000Z
 DTEND:20270206T020000Z
-SUMMARY:
+SUMMARY:Wiatava Lodge Annual Trade-O-Ree
 LOCATION:North Hills Church\, Brea\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-TradeoRee
  2027\n\nAmerican Business\, American Heritage\, Collections\n\nEvent Deta
@@ -426,10 +499,10 @@ URL:https://scoutingevent.com/039-TradeoRee2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19cadd47cc79@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T000000Z
 DTEND:20270213T000000Z
-SUMMARY:
+SUMMARY:HESR Camp Pollock Winter Camp 2027
 LOCATION:Hubert Eaton Scout Reservation\, Cedar Glen\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-wintercamp2027\n\nArchery\n\nEvent Details HUBERT EATON SCOUT RESERVATI
@@ -444,10 +517,10 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ee67d24141bf@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
-SUMMARY:
+SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118906\n\
  nCitizenship in the Nation\n\nEvent Details Discover how national decisio
@@ -462,28 +535,28 @@ URL:https://scoutingevent.com/039-118906
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4ce248af6eab@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
-SUMMARY:
+SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119437\n\
- nCommunication\n\nEvent Details Learn how to communicate effectively in a
- ll situations whether it be a school presentation or future job interview
- \, participate in mock interviews\, prepare a speech\, and learn about di
- fferent types of careers in Communication. Learn about use of tone\, body
-  language\, and non-verbal means of communication. Participate in fun\, i
- nteractive\, and creative games using speech and writing. Public speaking
-  fears conquered here! This session runs from 9am to 12pm every Saturday 
- on February 13
+ nCommunication\, Public Speaking\n\nEvent Details Learn how to communicat
+ e effectively in all situations whether it be a school presentation or fu
+ ture job interview\, participate in mock interviews\, prepare a speech\, 
+ and learn about different types of careers in Communication. Learn about 
+ use of tone\, body language\, and non-verbal means of communication. Part
+ icipate in fun\, interactive\, and creative games using speech and writin
+ g. Public speaking fears conquered here! This session runs from 9am to 12
+ pm every Saturday on February 13
 URL:https://scoutingevent.com/039-119437
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19c0777c1206@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
-SUMMARY:
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118870\n\
  nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
@@ -498,7 +571,7 @@ URL:https://scoutingevent.com/039-118870
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003365681683@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T170000Z
 DTEND:20270213T230000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Sat\, Feb 13\, 2027
@@ -513,10 +586,10 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3c8fc1a5763e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
-SUMMARY:
+SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119278\n\
  nCitizenship in the World\n\nEvent Details Compare the duties\, rights\, 
@@ -531,10 +604,10 @@ URL:https://scoutingevent.com/039-119278
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8064ea5fcc21@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
-SUMMARY:
+SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119303\n\
  nEnvironmental Science\n\nEvent Details Dissect an owl pellet\, bird watc
@@ -549,10 +622,10 @@ URL:https://scoutingevent.com/039-119303
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-e78a90898290@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270220T000000Z
 DTEND:20270220T000000Z
-SUMMARY:
+SUMMARY:HESR Camp Pollock Winter Camp 2027
 LOCATION:Hubert Eaton Scout Reservation\, Cedar Glen\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-wintercamp2027\n\nArchery\n\nEvent Details HUBERT EATON SCOUT RESERVATI
@@ -567,10 +640,10 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b9f7e1ae4218@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270227T000000Z
 DTEND:20270227T000000Z
-SUMMARY:
+SUMMARY:HESR Camp Pollock Winter Camp 2027
 LOCATION:Hubert Eaton Scout Reservation\, Cedar Glen\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-wintercamp2027\n\nArchery\n\nEvent Details HUBERT EATON SCOUT RESERVATI
@@ -585,7 +658,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-02-27-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270227T170000Z
 DTEND:20270227T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -600,10 +673,10 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a45da12d6acc@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270306T000000Z
 DTEND:20270306T000000Z
-SUMMARY:
+SUMMARY:HESR Camp Pollock Winter Camp 2027
 LOCATION:Hubert Eaton Scout Reservation\, Cedar Glen\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-wintercamp2027\n\nArchery\n\nEvent Details HUBERT EATON SCOUT RESERVATI
@@ -617,23 +690,11 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
 URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
-UID:bp-fcd8f55b3404@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270306T080000Z
-DTEND:20270307T075900Z
-SUMMARY:
-LOCATION:Newport Sea Base\, Newport Beach\, California
-DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118871\n\
- nCooking\n\n(Open to all youth\, non-Scouts welcome) Let's get COOKING! L
- earn the basics of cooking in our Cooking Merit Badge Class. Part...
-URL:https://scoutingevent.com/039-118871
-END:VEVENT
-BEGIN:VEVENT
 UID:bp-cc4ca5e07867@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
-SUMMARY:
+SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118879\n\
  nCanoeing\n\nEvent Details Learn proper technique for canoe paddling and 
@@ -647,11 +708,83 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118879\n\
 URL:https://scoutingevent.com/039-118879
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-a592c6f5d9cc@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270306T170000Z
+DTEND:20270306T170000Z
+SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119438\n\
+ nCommunication\, Public Speaking\n\nEvent Details Learn how to communicat
+ e effectively in all situations whether it be a school presentation or fu
+ ture job interview\, participate in mock interviews\, prepare a speech\, 
+ and learn about different types of careers in Communication. Learn about 
+ use of tone\, body language\, and non-verbal means of communication. Part
+ icipate in fun\, interactive\, and creative games using speech and writin
+ g. Public speaking fears conquered here! This session runs from 9am to 12
+ pm every Saturday on March 6th\, 
+URL:https://scoutingevent.com/039-119438
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-fcd8f55b3404@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270306T170000Z
+DTEND:20270306T170000Z
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118871\n\
+ nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
+ get COOKING! Learn the basics of cooking in our Cooking Merit Badge Class
+ . Participants will cook delicious meals like grilled chicken kabobs\, gr
+ illed stacked cheese burgers\, spaghetti\, pancakes and sausage\, and loa
+ ded baked potatoes in the outdoors at NSB\, as well as practice cooking m
+ eals of their choice for their families at home. Students will also learn
+  about nutrition\, meal planning\, health and safety\, and careers in coo
+ king. No n
+URL:https://scoutingevent.com/039-118871
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-8a01608dcb52@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270306T170000Z
+DTEND:20270306T170000Z
+SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119428\n\
+ nFirst Aid\, CPR / AED / First Aid\n\nEvent Details From anaphylaxis\, sp
+ rains\, burns to heat strokes and deep lacerations\, participants will le
+ arn and practice the proper First Aid procedures for a wide variety of sc
+ enarios. Get hands on learning how and when to perform First Aid and CPR\
+ , as well as how to keep yourself and others safe in a multitude of envir
+ onments. Electronic and sensored CPR mannequins offer a top-notch learnin
+ g experience. Practice using training-grade epipens. Each participant wil
+ l receive their own CPR trainin
+URL:https://scoutingevent.com/039-119428
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-316ce8fefa1b@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270306T210000Z
+DTEND:20270306T210000Z
+SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118881\n\
+ nKayaking\n\nEvent Details Learn proper technique for kayak paddling and 
+ practice different strokes\; play fun on-the-water games with our instruc
+ tors such as kayak basketball and more! Learn parts of the boat and paddl
+ e. Capsized boat? No problem - we'll teach all participants how to right 
+ their kayak anytime\, anywhere. Learn all the requirements for the Kayaki
+ ng Merit Badge while paddling around beautiful Newport Harbor. Be prepare
+ d for a swimming proficiency test on the first day of class. This class r
+ uns 
+URL:https://scoutingevent.com/039-118881
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-4db47dce39b0@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270313T000000Z
 DTEND:20270313T000000Z
-SUMMARY:
+SUMMARY:HESR Camp Pollock Winter Camp 2027
 LOCATION:Hubert Eaton Scout Reservation\, Cedar Glen\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
  3-wintercamp2027\n\nArchery\n\nEvent Details HUBERT EATON SCOUT RESERVATI
@@ -665,20 +798,44 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
 URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-12d182f03cd8@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270327T160000Z
+DTEND:20270327T160000Z
+SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118907\n\
+ nCitizenship in the Nation\n\nEvent Details Discover how national decisio
+ ns affect you\, your family and the community. Learn about the history an
+ d functions of the federal government. Find out how to become an active p
+ articipant in the life of the nation and how to voice your opinion to you
+ r representatives. A pontoon boat ride will be included to visit a histor
+ ical landmark on Balboa Island. Recommended for youth ages 13+. Complete 
+ all requirements to receive this Eagle required merit badge. This session
+  runs from 9am to 12
+URL:https://scoutingevent.com/039-118907
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-1f61b17ba261@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270327T070000Z
-DTEND:20270328T065900Z
-SUMMARY:
+DTSTAMP:20261028T193940Z
+DTSTART:20270327T160000Z
+DTEND:20270327T160000Z
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118873\n\
- nCooking\n\n(Open to all youth\, non-Scouts welcome) Let's get COOKING! L
- earn the basics of cooking in our Cooking Merit Badge Class. Part...
+ nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
+ get COOKING! Learn the basics of cooking in our Cooking Merit Badge Class
+ . Participants will cook delicious meals like grilled chicken kabobs\, gr
+ illed stacked cheese burgers\, spaghetti\, pancakes and sausage\, and loa
+ ded baked potatoes in the outdoors at NSB\, as well as practice cooking m
+ eals of their choice for their families at home. Students will also learn
+  about nutrition\, meal planning\, health and safety\, and careers in coo
+ king. No n
 URL:https://scoutingevent.com/039-118873
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003366936436@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270327T160000Z
 DTEND:20270327T220000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Mar 27\, 2027
@@ -693,7 +850,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-03-27-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270327T160000Z
 DTEND:20270327T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -707,20 +864,152 @@ DESCRIPTION:Southern California Railway Museum\nhttps://socalrailway.org/s
 URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-6da2068be982@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270327T200000Z
+DTEND:20270327T200000Z
+SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119279\n\
+ nCitizenship in the World\n\nEvent Details Compare the duties\, rights\, 
+ and obligations of citizens in the United States to those in other countr
+ ies. Learn what types of governments exist\, how international law differ
+ s from national law\, and why countries must cooperate to thrive economic
+ ally. Study world events in relation to security\, health\, values\, geog
+ raphy\, natural resources\, and climate. Recommended for youth ages 13+. 
+ Complete all requirements to receive this Eagle required merit badge. Thi
+ s session runs from 1pm to 
+URL:https://scoutingevent.com/039-119279
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-00fe62994a55@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270327T200000Z
+DTEND:20270327T200000Z
+SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119431\n\
+ nMotorboating\n\nEvent Details Drive a variety of motor boats while learn
+ ing the boaters' "rules of the road". Practice safely fueling your boat\,
+  driving in a straight line\, making right-angle turns and U-turns\, anch
+ oring\, docking and more! There will be 3-4 students max per boat\, with 
+ an instructor on each motor boat with the participants to provide careful
+  supervision. This session runs from 1:00 pm to 4:00 pm on Saturday\, Mar
+ ch 27th\, April 3rd\, and 10th. Please remember to check the attachments 
+ for additional
+URL:https://scoutingevent.com/039-119431
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-8ef736f04d73@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270417T160000Z
+DTEND:20270417T160000Z
+SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118880\n\
+ nCanoeing\n\nEvent Details Learn proper technique for canoe paddling and 
+ practice different strokes\; play fun on-the-water games with our instruc
+ tors such as canoe tag and more! Learn parts of the boat and paddle. Caps
+ ized boat? No problem - we'll teach all participants how to right their c
+ anoe anytime\, anywhere. Learn all the requirements for the Canoe Merit B
+ adge while paddling around beautiful Newport Harbor. Be prepared for a sw
+ imming proficiency test on the first day of class. This session runs from
+  9am
+URL:https://scoutingevent.com/039-118880
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-959a3d1bfd57@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270417T160000Z
+DTEND:20270417T160000Z
+SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119439\n\
+ nCommunication\, Public Speaking\n\nEvent Details Learn how to communicat
+ e effectively in all situations whether it be a school presentation or fu
+ ture job interview\, participate in mock interviews\, prepare a speech\, 
+ and learn about different types of careers in Communication. Learn about 
+ use of tone\, body language\, and non-verbal means of communication. Part
+ icipate in fun\, interactive\, and creative games using speech and writin
+ g. Public speaking fears conquered here! This session runs from 9am to 12
+ pm every Saturday on April 17th\,
+URL:https://scoutingevent.com/039-119439
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-5d69b9691de9@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270417T070000Z
-DTEND:20270418T065900Z
-SUMMARY:
+DTSTAMP:20261028T193940Z
+DTSTART:20270417T160000Z
+DTEND:20270417T160000Z
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118876\n\
- nCooking\n\n(Open to all youth\, non-Scouts welcome) Let's get COOKING! L
- earn the basics of cooking in our Cooking Merit Badge Class. Part...
+ nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
+ get COOKING! Learn the basics of cooking in our Cooking Merit Badge Class
+ . Participants will cook delicious meals like grilled chicken kabobs\, gr
+ illed stacked cheese burgers\, spaghetti\, pancakes and sausage\, and loa
+ ded baked potatoes in the outdoors at NSB\, as well as practice cooking m
+ eals of their choice for their families at home. Students will also learn
+  about nutrition\, meal planning\, health and safety\, and careers in coo
+ king. No n
 URL:https://scoutingevent.com/039-118876
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-471e801133cf@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270417T160000Z
+DTEND:20270417T160000Z
+SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119429\n\
+ nFirst Aid\, CPR / AED / First Aid\n\nEvent Details From anaphylaxis\, sp
+ rains\, burns to heat strokes and deep lacerations\, participants will le
+ arn and practice the proper First Aid procedures for a wide variety of sc
+ enarios. Get hands on learning how and when to perform First Aid and CPR\
+ , as well as how to keep yourself and others safe in a multitude of envir
+ onments. Electronic and sensored CPR mannequins offer a top-notch learnin
+ g experience. Practice using training-grade epipens. Each participant wil
+ l receive their own CPR trainin
+URL:https://scoutingevent.com/039-119429
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-102af97598f4@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270417T200000Z
+DTEND:20270417T200000Z
+SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118896\n\
+ nKayaking\n\nEvent Details Learn proper technique for kayak paddling and 
+ practice different strokes\; play fun on-the-water games with our instruc
+ tors such as kayak basketball and more! Learn parts of the boat and paddl
+ e. Capsized boat? No problem - we'll teach all participants how to right 
+ their kayak anytime\, anywhere. Learn all the requirements for the Kayaki
+ ng Merit Badge while paddling around beautiful Newport Harbor. Be prepare
+ d for a swimming proficiency test on the first day of class. This class r
+ uns 
+URL:https://scoutingevent.com/039-118896
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-5a1866f5428f@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270417T200000Z
+DTEND:20270417T200000Z
+SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119432\n\
+ nMotorboating\n\nEvent Details Drive a variety of motor boats while learn
+ ing the boaters' "rules of the road". Practice safely fueling your boat\,
+  driving in a straight line\, making right-angle turns and U-turns\, anch
+ oring\, docking and more! There will be 3-4 students max per boat\, with 
+ an instructor on each motor boat with the participants to provide careful
+  supervision. This session runs from 1:00 pm to 4:00 pm on Saturday\, Apr
+ il 17th\, 24th\, and May 1st. Please remember to check the attachments fo
+ r additional d
+URL:https://scoutingevent.com/039-119432
+END:VEVENT
+BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-04-24-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270424T160000Z
 DTEND:20270424T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -734,20 +1023,116 @@ DESCRIPTION:Southern California Railway Museum\nhttps://socalrailway.org/s
 URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-193e3c19fa61@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270508T160000Z
+DTEND:20270508T160000Z
+SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119273\n\
+ nCitizenship in the Nation\n\nEvent Details Discover how national decisio
+ ns affect you\, your family and the community. Learn about the history an
+ d functions of the federal government. Find out how to become an active p
+ articipant in the life of the nation and how to voice your opinion to you
+ r representatives. A pontoon boat ride will be included to visit a histor
+ ical landmark on Balboa Island. Recommended for youth ages 13+. Complete 
+ all requirements to receive this Eagle required merit badge. This session
+  runs from 9am to 12
+URL:https://scoutingevent.com/039-119273
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-b90f3bb2f2e5@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270508T160000Z
+DTEND:20270508T160000Z
+SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119441\n\
+ nCommunication\, Public Speaking\n\nEvent Details Learn how to communicat
+ e effectively in all situations whether it be a school presentation or fu
+ ture job interview\, participate in mock interviews\, prepare a speech\, 
+ and learn about different types of careers in Communication. Learn about 
+ use of tone\, body language\, and non-verbal means of communication. Part
+ icipate in fun\, interactive\, and creative games using speech and writin
+ g. Public speaking fears conquered here! This session runs from 9am to 12
+ pm every Saturday on May 8th\, 15
+URL:https://scoutingevent.com/039-119441
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-b33ef007cbfa@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270508T070000Z
-DTEND:20270509T065900Z
-SUMMARY:
+DTSTAMP:20261028T193940Z
+DTSTART:20270508T160000Z
+DTEND:20270508T160000Z
+SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
 LOCATION:Newport Sea Base\, Newport Beach\, California
 DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118877\n\
- nCooking\n\n(Open to all youth\, non-Scouts welcome) Let's get COOKING! L
- earn the basics of cooking in our Cooking Merit Badge Class. Part...
+ nCooking\n\nEvent Details (Open to all youth\, non-Scouts welcome) Let's 
+ get COOKING! Learn the basics of cooking in our Cooking Merit Badge Class
+ . Participants will cook delicious meals like grilled chicken kabobs\, gr
+ illed stacked cheese burgers\, spaghetti\, pancakes and sausage\, and loa
+ ded baked potatoes in the outdoors at NSB\, as well as practice cooking m
+ eals of their choice for their families at home. Students will also learn
+  about nutrition\, meal planning\, health and safety\, and careers in coo
+ king. No n
 URL:https://scoutingevent.com/039-118877
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-6bb9336d5c88@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270508T160000Z
+DTEND:20270508T160000Z
+SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119430\n\
+ nFirst Aid\, CPR / AED / First Aid\n\nEvent Details From anaphylaxis\, sp
+ rains\, burns to heat strokes and deep lacerations\, participants will le
+ arn and practice the proper First Aid procedures for a wide variety of sc
+ enarios. Get hands on learning how and when to perform First Aid and CPR\
+ , as well as how to keep yourself and others safe in a multitude of envir
+ onments. Electronic and sensored CPR mannequins offer a top-notch learnin
+ g experience. Practice using training-grade epipens. Each participant wil
+ l receive their own CPR trainin
+URL:https://scoutingevent.com/039-119430
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-37a6092a34d1@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270508T200000Z
+DTEND:20270508T200000Z
+SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119280\n\
+ nCitizenship in the World\n\nEvent Details Compare the duties\, rights\, 
+ and obligations of citizens in the United States to those in other countr
+ ies. Learn what types of governments exist\, how international law differ
+ s from national law\, and why countries must cooperate to thrive economic
+ ally. Study world events in relation to security\, health\, values\, geog
+ raphy\, natural resources\, and climate. Recommended for youth ages 13+. 
+ Complete all requirements to receive this Eagle required merit badge. Thi
+ s session runs from 1pm to 
+URL:https://scoutingevent.com/039-119280
+END:VEVENT
+BEGIN:VEVENT
+UID:bp-ad25b7097a13@scout-event-finder
+DTSTAMP:20261028T193940Z
+DTSTART:20270508T200000Z
+DTEND:20270508T200000Z
+SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
+LOCATION:Newport Sea Base\, Newport Beach\, California
+DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119425\n\
+ nEnvironmental Science\n\nEvent Details Dissect an owl pellet\, bird watc
+ h tour on a harbor boat exploring scenic Newport Bay\, conduct an oil spi
+ ll clean up experiment\, and much more in this engaging\, hands on study 
+ learning about the Earth's environment and how to protect it. Tour the Ne
+ wport Sea Base Aquarium and learn how to be an aquarist taking care of th
+ e variety of fish tanks on site and have the opportunity to feed the anim
+ als and plants. Get hands on with our live hermit crabs and learn all abo
+ ut their tank and o
+URL:https://scoutingevent.com/039-119425
+END:VEVENT
+BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-05-22-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270522T160000Z
 DTEND:20270522T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -762,7 +1147,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:275820@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270613T200000Z
 DTEND:20270619T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 1
@@ -781,7 +1166,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-06-19-326a@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270619T160000Z
 DTEND:20270619T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -796,7 +1181,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:275821@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 2
@@ -815,7 +1200,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276101@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270620T200000Z
 DTEND:20270623T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 1
@@ -833,7 +1218,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276102@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270623T200000Z
 DTEND:20270626T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 2
@@ -851,7 +1236,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-06-26-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270626T160000Z
 DTEND:20270626T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -866,7 +1251,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:268230@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270627T200000Z
 DTEND:20270703T160000Z
 SUMMARY:2027 Adventure Week Camp Hi-Sierra
@@ -884,7 +1269,7 @@ URL:https://global.scoutingevent.com/055-Venturing27CHS
 END:VEVENT
 BEGIN:VEVENT
 UID:275822@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270627T200000Z
 DTEND:20270703T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 3
@@ -902,32 +1287,8 @@ DESCRIPTION:Sequoia Council\nhttps://global.scoutingevent.com/027-27Chawan
 URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
-UID:265841@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270627T200000Z
-DTEND:20270701T180000Z
-SUMMARY:2027 Eagle Achievement Camp
-LOCATION:Camp Hi-Sierra\, Long Barn\, California
-DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
- ent.com/055-2027CHSEagle\n\nArchery\, Art\, Astronomy\, Backpacking\, Cam
- ping\, Citizenship in the Community\, Citizenship in the Nation\, Citizen
- ship in the World\, Climbing\, Cooking\, Cycling\, Emergency Preparedness
- \, Environmental Science\, Family Life\, Fingerprinting\, First Aid\, Hik
- ing\, Lifesaving\, Metalwork\, Music\, Personal Fitness\, Personal Manage
- ment\, Rifle Shooting\, Shotgun Shooting\, Sustainability\, Swimming\, We
- lding\n\nCamp Hi-Sierra    Summer 2027\nEagle Achievement Camp\nA truly
-  amazing all-inclusive opportunity for any aspiring Eagle Scout.\nCome up
-  to Camp Hi-Sierra's Eagle Achievement Camp. Limited to the first\n175 sc
- outs\n\, this camp maintains a\n4 scout per instructor ratio\nto emphasiz
- e quality education. Eagle required badges that are typically not availab
- le at camp are offered because of the unique circumstances\, and you won'
- t miss out on amazing program opportunities like forging\, shooting\, cli
- mbing\, or s
-URL:https://global.scoutingevent.com/055-2027CHSEagle
-END:VEVENT
-BEGIN:VEVENT
 UID:276106@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270627T200000Z
 DTEND:20270630T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 3
@@ -945,7 +1306,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276103@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270630T200000Z
 DTEND:20270703T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – AOL and Webelos Camp
@@ -963,7 +1324,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275823@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 4
@@ -982,7 +1343,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273327@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270704T200000Z
 DTEND:20270710T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 1
@@ -1000,7 +1361,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275824@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 5
@@ -1019,7 +1380,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273328@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270711T200000Z
 DTEND:20270717T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 2
@@ -1037,7 +1398,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275825@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 6
@@ -1056,7 +1417,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273331@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270718T200000Z
 DTEND:20270724T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 3
@@ -1074,7 +1435,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275826@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 7
@@ -1093,7 +1454,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-08-06-326a@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270806T160000Z
 DTEND:20270806T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -1108,7 +1469,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-09-11-326a@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20270911T160000Z
 DTEND:20270911T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -1123,7 +1484,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:277721@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20271009T150000Z
 DTEND:20271009T200000Z
 SUMMARY:Monster Mountain at Camp Terrorquitz 2027 – Tahquitz - Sat. MB C
@@ -1144,7 +1505,7 @@ URL:https://global.scoutingevent.com/032-MonsterMountain2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-10-23-519e@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20271023T160000Z
 DTEND:20271023T200000Z
 SUMMARY:Railroading Merit Badge Program

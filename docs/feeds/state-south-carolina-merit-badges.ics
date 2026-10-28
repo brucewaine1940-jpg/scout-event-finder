@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:270812@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261107T133000Z
 DTEND:20261107T200000Z
 SUMMARY:Etowah Merit Badge Saturday
@@ -27,7 +27,7 @@ URL:https://global.scoutingevent.com/553-mbsaturday26
 END:VEVENT
 BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -46,7 +46,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:273861@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20261218T220000Z
 DTEND:20261221T220000Z
 SUMMARY:Winter Camp 2026 – Winter Camp
@@ -69,50 +69,8 @@ DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-wi
 URL:https://global.scoutingevent.com/553-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
-UID:277608@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270204T000000Z
-DTEND:20270204T020000Z
-SUMMARY:Certified Angler Instructor Course
-LOCATION:Virtual training Session\, on the web\, South Carolina
-DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-27
- wintercai\n\nFishing\, Fly Fishing\, Range Officer / Shooting Instructor\
- n\nCERTIFIED ANGLER INSTRUCTOR\nCAI COURSE 2027 SE-1\nONLINE\nThis is an 
- online CAI training course.  Six online sessions and one in-person day a
- t Camp Barstow.  18 hours total to complete.  Participants will be trai
- ned on Scout safety while fishing\, techniques to rig\, bait\, and find f
- ish.  Fish cleaning and preparation for cooking.  Fish identification a
- nd biology.  How to plan a fishing event at the pack\, troop & crew leve
- ls.  We will also have hands on training for fly tying\, fly rod use\, s
- pinning\,
-URL:https://global.scoutingevent.com/553-27wintercai
-END:VEVENT
-BEGIN:VEVENT
-UID:270124@scout-event-finder
-DTSTAMP:20261028T183229Z
-DTSTART:20270313T140000Z
-DTEND:20270313T200000Z
-SUMMARY:Merit Badge University & University of Scouting – Merit Badge Un
- iversity
-LOCATION:River Bluff High School\, Lexington\, South Carolina
-DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-11
- 8809\n\nArt\, Citizenship in the Community\, Citizenship in the Nation\, 
- Citizenship in the World\, Cooking\, Crime Prevention\, Emergency Prepare
- dness\, Golf\, Journalism\, Law\, Nuclear Science\, Personal Management\,
-  Scholarship\, Sustainability\, Traffic Safety\, Commissioner / Universit
- y of Scouting\, Merit Badge Counselor\n\nMerit Badge University\nand\nUni
- versity of Scouting\nSaturday\, March 13\, 2027\nMerit Badge University\n
- Scouts have the opportunity to focus on and complete one merit badge duri
- ng this exciting event! A variety of badges will be offered to suit diffe
- rent interests.\nIt is important that you review the Registration Packet
-  before signing up for any classes.  Numbers shown with badges are jus
- t different sessions of the same class\, scouts can sign up for either c
- lass.\nDate & Time:\nSessions run from 8:30 AM
-URL:https://global.scoutingevent.com/553-118809
-END:VEVENT
-BEGIN:VEVENT
 UID:271679@scout-event-finder
-DTSTAMP:20261028T183229Z
+DTSTAMP:20261028T193940Z
 DTSTART:20271022T210000Z
 DTEND:20271024T140000Z
 SUMMARY:2027 Cub-O-Ween hosted by the Chicora District
