@@ -26,5 +26,53 @@
     "state": "California",
     "lat": 34.216,
     "lng": -119.037
+  },
+  {
+    "name": "Long Beach Area Council",
+    "google_embed_page": "https://www.longbeachbsa.org/calendar/",
+    "page": "https://www.longbeachbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.8,
+    "lng": -118.16
+  },
+  {
+    "name": "Long Beach Area Council",
+    "ics": "https://ics.teamup.com/feed/ksy4jt5xp5jpo7udhj/0.ics",
+    "page": "https://www.longbeachbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.8,
+    "lng": -118.16
+  },
+  {
+    "name": "Orange County Council - Canyons District",
+    "ics": "https://canyons.ocbsa.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "page": "https://canyons.ocbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.65,
+    "lng": -117.66
+  },
+  {
+    "name": "Orange County Council - Pacifica District",
+    "ics": "https://pacifica.ocbsa.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "page": "https://pacifica.ocbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.66,
+    "lng": -117.97
+  },
+  {
+    "name": "Orange County Council - Golden West District",
+    "ics": "https://goldenwest.ocbsa.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "page": "https://goldenwest.ocbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.77,
+    "lng": -118.0
+  },
+  {
+    "name": "Orange County Council - Saddleback District",
+    "ics": "https://saddleback.ocbsa.org/?post_type=tribe_events&ical=1&eventDisplay=list",
+    "page": "https://saddleback.ocbsa.org/calendar/",
+    "state": "California",
+    "lat": 33.6,
+    "lng": -117.67
   }
 ]

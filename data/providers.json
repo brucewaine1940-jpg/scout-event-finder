@@ -258,5 +258,26 @@
         "end": "16:00"
       }
     ]
+  },
+  {
+    "name": "California Inland Empire Council",
+    "kind": "Council calendar",
+    "topics": [],
+    "badges": [],
+    "format": "In person",
+    "address": "California Inland Empire Council, Redlands, CA 92373",
+    "zip": "92373",
+    "url": "https://iescouts.org/events/",
+    "cost": "",
+    "schedule": "From the council's month-by-month events page.",
+    "notes": "Times, locations and registration are on the council's website.",
+    "source": "California Inland Empire Council events page",
+    "approx": true,
+    "hide_from_directory": true,
+    "month_list": {
+      "skip": "closed|office|holiday|break\\b",
+      "start": "00:00",
+      "end": "23:59"
+    }
   }
 ]

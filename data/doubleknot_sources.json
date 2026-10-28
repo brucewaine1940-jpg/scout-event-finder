@@ -11,6 +11,19 @@
       "https://malibulodge.scouting-la.org/"
     ],
     "max_pages": 200,
-    "seeds": ["https://bsa-la.doubleknot.com/event/2026-radcdc-merit-badge-midway/3159779"]
+    "seeds": [
+      "https://bsa-la.doubleknot.com/event/2026-radcdc-merit-badge-midway/3159779"
+    ]
+  },
+  {
+    "council": "San Diego-Imperial Council",
+    "subdomain": "sdicbsa",
+    "lat": 32.776,
+    "lng": -117.155,
+    "crawl": [
+      "https://www.sdicscouting.org/"
+    ],
+    "max_pages": 250,
+    "seeds": []
   }
 ]
