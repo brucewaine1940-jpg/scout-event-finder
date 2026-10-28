@@ -3,8 +3,12 @@
     "name": "Home Depot Kids Workshop",
     "trailbook": "homedepot",
     "kind": "Public program",
-    "topics": ["Fun / Family Events"],
-    "programs": ["Cub Scouts"],
+    "topics": [
+      "Fun / Family Events"
+    ],
+    "programs": [
+      "Cub Scouts"
+    ],
     "badges": [],
     "format": "In person",
     "address": "Most Home Depot stores (Van Nuys area)",
@@ -14,15 +18,25 @@
     "schedule": "First Saturday of each month, 9 AM - noon. Kids build a free wood kit.",
     "notes": "Best for ages 5-12. Register online to guarantee a kit.",
     "recurring": [
-      {"title": "Home Depot Kids Workshop (free build-it kit)", "rrule": "FREQ=MONTHLY;BYDAY=1SA", "start": "09:00", "end": "12:00"}
+      {
+        "title": "Home Depot Kids Workshop (free build-it kit)",
+        "rrule": "FREQ=MONTHLY;BYDAY=1SA",
+        "start": "09:00",
+        "end": "12:00"
+      }
     ]
   },
   {
     "name": "Griffith Observatory Public Star Party",
     "trailbook": "laas",
     "kind": "Public program",
-    "topics": ["Fun / Family Events"],
-    "programs": ["Cub Scouts", "Scouts BSA"],
+    "topics": [
+      "Fun / Family Events"
+    ],
+    "programs": [
+      "Cub Scouts",
+      "Scouts BSA"
+    ],
     "badges": [],
     "format": "In person",
     "address": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles, CA 90027",
@@ -32,16 +46,33 @@
     "schedule": "Monthly on a Saturday, 2 - 9:45 PM. Volunteer astronomers set up telescopes on the lawn.",
     "notes": "Free, no reservation listed. Good for Astronomy merit badge and Cub space adventures.",
     "events": [
-      {"title": "Griffith Observatory Public Star Party", "date": "2026-11-14", "start": "14:00", "end": "21:45"},
-      {"title": "Griffith Observatory Public Star Party", "date": "2026-12-19", "start": "14:00", "end": "21:45"}
+      {
+        "title": "Griffith Observatory Public Star Party",
+        "date": "2026-11-14",
+        "start": "14:00",
+        "end": "21:45"
+      },
+      {
+        "title": "Griffith Observatory Public Star Party",
+        "date": "2026-12-19",
+        "start": "14:00",
+        "end": "21:45"
+      }
     ]
   },
   {
     "name": "Santa Monica Mountains Trails Council - Trail Work Days",
     "trailbook": "trailwork",
     "kind": "Public program",
-    "topics": ["Service", "Hiking & Backpacking"],
-    "programs": ["Scouts BSA", "Venturing", "Adults / Leaders"],
+    "topics": [
+      "Service",
+      "Hiking & Backpacking"
+    ],
+    "programs": [
+      "Scouts BSA",
+      "Venturing",
+      "Adults / Leaders"
+    ],
     "badges": [],
     "format": "In person",
     "address": "Santa Monica Mountains (Malibu Creek, Point Mugu and other parks)",
@@ -56,5 +87,117 @@
       "start": "08:00",
       "end": "14:00"
     }
+  },
+  {
+    "name": "SFV Audubon - Sepulveda Basin Bird Walk",
+    "trailbook": "sepbirds",
+    "kind": "Public program",
+    "topics": [
+      "Fun / Family Events"
+    ],
+    "programs": [
+      "Cub Scouts",
+      "Scouts BSA"
+    ],
+    "badges": [],
+    "format": "In person",
+    "address": "Sepulveda Basin Wildlife Area, 6350 Woodley Ave, Van Nuys, CA 91406",
+    "zip": "91406",
+    "url": "https://sfvaudubon.org/?p=34494",
+    "cost": "Free",
+    "schedule": "First Sunday of each month, 8 - 11 AM, from the Woodley Park amphitheater.",
+    "notes": "Canceled in rain or flooding; call 747-237-3720 to check. Good for Bird Study.",
+    "recurring": [
+      {
+        "title": "Sepulveda Basin Bird Walk (SFV Audubon)",
+        "rrule": "FREQ=MONTHLY;BYDAY=1SU",
+        "start": "08:00",
+        "end": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "Bell Gardens Family Fishing Derby",
+    "trailbook": "fishderby",
+    "kind": "Public program",
+    "topics": [
+      "Fun / Family Events"
+    ],
+    "programs": [
+      "Cub Scouts",
+      "Scouts BSA"
+    ],
+    "badges": [],
+    "format": "In person",
+    "address": "John Anson Ford Park Lake, Bell Gardens, CA 90201",
+    "zip": "90201",
+    "url": "https://wildlife.ca.gov/Fishing-in-the-city/LA",
+    "cost": "See organizer",
+    "schedule": "8 AM - noon.",
+    "notes": "Kids' fishing derby listed by CDFW Fishing in the City (tentative date; confirm). Anyone 16+ needs a fishing license except on Free Fishing Days.",
+    "events": [
+      {
+        "title": "Bell Gardens Family Fishing Derby",
+        "date": "2026-11-07",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ]
+  },
+  {
+    "name": "Long Beach Youth Fishing Derby",
+    "trailbook": "fishderby",
+    "kind": "Public program",
+    "topics": [
+      "Fun / Family Events"
+    ],
+    "programs": [
+      "Cub Scouts",
+      "Scouts BSA"
+    ],
+    "badges": [],
+    "format": "In person",
+    "address": "El Dorado Regional Park Area 2 Lake, Long Beach, CA 90815",
+    "zip": "90815",
+    "url": "https://wildlife.ca.gov/Fishing-in-the-city/LA",
+    "cost": "See organizer",
+    "schedule": "8 AM - noon.",
+    "notes": "Kids' fishing derby listed by CDFW Fishing in the City (tentative date; confirm). Anyone 16+ needs a fishing license except on Free Fishing Days.",
+    "events": [
+      {
+        "title": "Long Beach Youth Fishing Derby",
+        "date": "2026-11-21",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ]
+  },
+  {
+    "name": "Fishing With Santa",
+    "trailbook": "fishderby",
+    "kind": "Public program",
+    "topics": [
+      "Fun / Family Events"
+    ],
+    "programs": [
+      "Cub Scouts",
+      "Scouts BSA"
+    ],
+    "badges": [],
+    "format": "In person",
+    "address": "Whittier Narrows N. Legg Lake, South El Monte, CA 91733",
+    "zip": "91733",
+    "url": "https://wildlife.ca.gov/Fishing-in-the-city/LA",
+    "cost": "See organizer",
+    "schedule": "8 AM - noon.",
+    "notes": "Kids' fishing derby listed by CDFW Fishing in the City (tentative date; confirm). Anyone 16+ needs a fishing license except on Free Fishing Days.",
+    "events": [
+      {
+        "title": "Fishing With Santa (kids' fishing derby)",
+        "date": "2026-12-19",
+        "start": "08:00",
+        "end": "12:00"
+      }
+    ]
   }
 ]
