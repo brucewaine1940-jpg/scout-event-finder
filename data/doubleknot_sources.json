@@ -1,0 +1,16 @@
+[
+  {
+    "council": "Western Los Angeles County Council",
+    "subdomain": "bsa-la",
+    "lat": 34.2012,
+    "lng": -118.4977,
+    "crawl": [
+      "https://scouting-la.org/",
+      "https://campemeraldbay.org/",
+      "https://campwhitsett.org/",
+      "https://malibulodge.scouting-la.org/"
+    ],
+    "max_pages": 200,
+    "seeds": ["https://bsa-la.doubleknot.com/event/2026-radcdc-merit-badge-midway/3159779"]
+  }
+]
