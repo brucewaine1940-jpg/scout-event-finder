@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:264569@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261030T010000Z
 DTEND:20261030T030000Z
 SUMMARY:Salute to Scouting 2026
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/053-116001
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0af5e2379c70@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261031T160000Z
 DTEND:20261031T160000Z
 SUMMARY:Swimming Merit Badge (Ages 11 to 17)
@@ -43,7 +43,7 @@ URL:https://scoutingevent.com/039-120649
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-638acb39aa5b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261031T200000Z
 DTEND:20261031T200000Z
 SUMMARY:Adventure Sailing Club - Small & Big Boat
@@ -60,7 +60,7 @@ URL:https://scoutingevent.com/039-118533
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9689c71b0ef0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261031T200000Z
 DTEND:20261031T200000Z
 SUMMARY:Elementary Sailing\, Level 2 PM (Ages 7 to 9)
@@ -78,7 +78,7 @@ URL:https://scoutingevent.com/039-118520
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0cd63d0de19e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261031T200000Z
 DTEND:20261031T200000Z
 SUMMARY:Junior & Teen Sailing\, Level 2 PM (Ages 10 to 17)
@@ -96,7 +96,7 @@ URL:https://scoutingevent.com/039-118528
 END:VEVENT
 BEGIN:VEVENT
 UID:x-26bb3c660f81@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261101T000000Z
 DTEND:20261101T235900Z
 SUMMARY:BH T2B Webelos Day
@@ -107,7 +107,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:247468@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261101T180000Z
 DTEND:20261102T000000Z
 SUMMARY:Celebrate the 60th year of Camp Trask! – Event
@@ -125,7 +125,7 @@ URL:https://global.scoutingevent.com/033-60years
 END:VEVENT
 BEGIN:VEVENT
 UID:x-940ace968743@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261101T210000Z
 DTEND:20261102T000000Z
 SUMMARY:Religious Emblems: Ad Altare Dei Class Series
@@ -137,7 +137,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/231
 END:VEVENT
 BEGIN:VEVENT
 UID:x-11abad13667d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261104T030000Z
 DTEND:20261104T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -151,7 +151,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d1020907bb49@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261104T030000Z
 DTEND:20261104T040000Z
 SUMMARY:Order of the Arrow Meeting
@@ -163,7 +163,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-bd29b7ebd367@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261104T030000Z
 DTEND:20261104T040000Z
 SUMMARY:STEM Exploring Post Meeting
@@ -175,7 +175,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/255
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9298bce00433@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261104T030000Z
 DTEND:20261104T050000Z
 SUMMARY:Sea Scout Meeting
@@ -188,7 +188,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a8091e6f845d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261105T030000Z
 DTEND:20261105T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -201,7 +201,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4c155ba6dc56@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261106T000000Z
 DTEND:20261108T235900Z
 SUMMARY:LLD
@@ -212,7 +212,7 @@ URL:https://wiatava.ocbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b4c1352d42ee@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261106T030000Z
 DTEND:20261106T040000Z
 SUMMARY:LEB Meeting
@@ -230,7 +230,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c829cc15fecd@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261106T030000Z
 DTEND:20261106T040000Z
 SUMMARY:Ready for 2027: Unit Leader Meeting
@@ -242,7 +242,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/Prepare-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-7bbb2df60554@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261106T080000Z
 DTEND:20261107T075900Z
 SUMMARY:3 Rivers & American River District Cub Scout Family Camp 2026
@@ -260,8 +260,21 @@ DESCRIPTION:Greater California Council\nhttps://scoutingevent.com/047-1197
 URL:https://scoutingevent.com/047-119730
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-06-b8b3@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261106T080000Z
+DTEND:20261109T075900Z
+SUMMARY:Webelos Woods
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:259714@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T003000Z
 DTEND:20261109T020000Z
 SUMMARY:National Youth Leadership Training Fall (NYLT) – Paticipants mus
@@ -279,8 +292,47 @@ DESCRIPTION:Orange County Council\nhttps://global.scoutingevent.com/039-FA
 URL:https://global.scoutingevent.com/039-FALLNYLT
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-07-08a0@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261107T080000Z
+DTEND:20261108T075900Z
+SUMMARY:Communications Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-07-6af8@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261107T080000Z
+DTEND:20261109T075900Z
+SUMMARY:IOLS & BALOO Training at Camp Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-07-09e2@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261107T080000Z
+DTEND:20261108T075900Z
+SUMMARY:Weather Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:251670@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T150000Z
 DTEND:20261108T010000Z
 SUMMARY:Pacifica District 10 Mile Hike
@@ -298,7 +350,7 @@ URL:https://global.scoutingevent.com/033-10MileHike
 END:VEVENT
 BEGIN:VEVENT
 UID:277140@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T160000Z
 DTEND:20261108T020000Z
 SUMMARY:HAT - Winter Camping and Travel Training
@@ -316,7 +368,7 @@ URL:https://global.scoutingevent.com/033-WinterCampingandTravelTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:x-37d41f7e65be@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T160000Z
 DTEND:20261108T190000Z
 SUMMARY:IOLS Training
@@ -328,7 +380,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/51/Register
 END:VEVENT
 BEGIN:VEVENT
 UID:274797@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T160000Z
 DTEND:20261107T213000Z
 SUMMARY:So. Sierra - Leave No Trace Basic Training
@@ -346,7 +398,7 @@ URL:https://global.scoutingevent.com/047-LNT26
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9a96e479e8d5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T160000Z
 DTEND:20261107T160000Z
 SUMMARY:So. Sierra - Lions ROAR
@@ -364,7 +416,7 @@ URL:https://scoutingevent.com/047-Lion26
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b88e2d6d9694@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T160000Z
 DTEND:20261107T160000Z
 SUMMARY:So. Sierra - Merit Badge Midway
@@ -383,7 +435,7 @@ URL:https://scoutingevent.com/047-MB1126
 END:VEVENT
 BEGIN:VEVENT
 UID:275733@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T160000Z
 DTEND:20261107T190000Z
 SUMMARY:So. Sierra - Safeguarding Youth Training
@@ -401,7 +453,7 @@ URL:https://global.scoutingevent.com/047-SYT26
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5ca54aae58e9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -419,7 +471,7 @@ URL:https://scoutingevent.com/039-118347
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b17aa4087de9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -437,7 +489,7 @@ URL:https://scoutingevent.com/039-118439
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0699339d90ff@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -455,7 +507,7 @@ URL:https://scoutingevent.com/039-118339
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d1a1f775be4e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T170000Z
 DTEND:20261107T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -473,7 +525,7 @@ URL:https://scoutingevent.com/039-118436
 END:VEVENT
 BEGIN:VEVENT
 UID:246558@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T180000Z
 DTEND:20261108T190000Z
 SUMMARY:IOLS & BALOO Trainings – BALOO
@@ -492,7 +544,7 @@ URL:https://global.scoutingevent.com/053-Nov2026IOLSBALOO
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-e16d38c3b29d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T200000Z
 DTEND:20261107T200000Z
 SUMMARY:Commissioner Retreat
@@ -510,7 +562,7 @@ URL:https://scoutingevent.com/033-commissioner
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b74b5f9ffc3c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261107T210000Z
 DTEND:20261107T210000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -528,7 +580,7 @@ URL:https://scoutingevent.com/039-118415
 END:VEVENT
 BEGIN:VEVENT
 UID:277147@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261108T020000Z
 DTEND:20261108T043000Z
 SUMMARY:HAT - Snow and Ice Travel Training
@@ -546,7 +598,7 @@ URL:https://global.scoutingevent.com/033-SnowandIceTravelTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:x-88429b9cd920@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261108T160000Z
 DTEND:20261109T020000Z
 SUMMARY:Become an NRA Range Safety Officer
@@ -559,7 +611,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/NRA-11-26
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3977d0a2400f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261108T170000Z
 DTEND:20261108T170000Z
 SUMMARY:Scouts Range Merit Badge PARTIALS at Trask
@@ -577,7 +629,7 @@ URL:https://scoutingevent.com/033-rangepartials
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d9a12968f991@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261108T210000Z
 DTEND:20261109T000000Z
 SUMMARY:Den Chief Training
@@ -595,7 +647,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2044321099
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d8b71b0966eb@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261109T000000Z
 DTEND:20261109T235900Z
 SUMMARY:Rod & Reel Club
@@ -608,7 +660,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1e45a7e8c851@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261110T160000Z
 DTEND:20261111T020000Z
 SUMMARY:Become an NRA Range Safety Officer
@@ -621,7 +673,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/NRA-11-10-26
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b2601cc9a2ea@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261111T030000Z
 DTEND:20261111T050000Z
 SUMMARY:Sea Scout Meeting
@@ -634,7 +686,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:264893@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T000000Z
 DTEND:20261115T180000Z
 SUMMARY:Firestone's Pumpkin Smash Extravaganza
@@ -652,7 +704,7 @@ URL:https://global.scoutingevent.com/033-PumpkinSmash
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9ee0fe21d40c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T030000Z
 DTEND:20261114T040000Z
 SUMMARY:Trail to Eagle
@@ -663,8 +715,34 @@ DESCRIPTION:Ventura County Council\nhttps://www.scoutingamericavc.org/cont
 URL:https://www.scoutingamericavc.org/content/130128/Trail-to-Eagle
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-14-2778@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261114T080000Z
+DTEND:20261115T075900Z
+SUMMARY:Cub Scout Archery Day
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-14-a7f2@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261114T080000Z
+DTEND:20261115T075900Z
+SUMMARY:Military Service and Veterans Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:277150@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T160000Z
 DTEND:20261115T000000Z
 SUMMARY:HAT - Navigation & Orienteering Training
@@ -682,7 +760,7 @@ URL:https://global.scoutingevent.com/033-NavigationOrienteeringTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9adc69c2c133@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T160000Z
 DTEND:20261114T160000Z
 SUMMARY:HAT: Map & Compass 101
@@ -700,7 +778,7 @@ URL:https://scoutingevent.com/039-HATMapCompass101
 END:VEVENT
 BEGIN:VEVENT
 UID:271036@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T160000Z
 DTEND:20261114T233000Z
 SUMMARY:Nov 14 2026 University of Scouting
@@ -718,7 +796,7 @@ URL:https://global.scoutingevent.com/047-119377
 END:VEVENT
 BEGIN:VEVENT
 UID:267033@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T170000Z
 DTEND:20261114T220000Z
 SUMMARY:CPR/AED Registration 2026 – Nov - CPR/AED & First Aid
@@ -736,7 +814,7 @@ URL:https://global.scoutingevent.com/055-CPR2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276874@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T170000Z
 DTEND:20261115T010000Z
 SUMMARY:Rangemaster Training 2026 Fall – November Rangemaster Training C
@@ -756,7 +834,7 @@ URL:https://global.scoutingevent.com/055-RangemasterTrainingFall
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-dbc9269e84bb@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T180000Z
 DTEND:20261114T180000Z
 SUMMARY:Family Kayaking & Stand Up Paddle Boarding (Ages 7+)
@@ -773,7 +851,7 @@ URL:https://scoutingevent.com/039-118543
 END:VEVENT
 BEGIN:VEVENT
 UID:x-bb2f274c3b64@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T180000Z
 DTEND:20261114T223000Z
 SUMMARY:Merit Badge Clinic
@@ -785,7 +863,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/58/Register
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f8f3f1741e5d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261114T210000Z
 DTEND:20261114T210000Z
 SUMMARY:Engineering Merit Badge AM (Ages 11 to 17)
@@ -803,7 +881,7 @@ URL:https://scoutingevent.com/039-118340
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2c07588d64cb@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261115T160000Z
 DTEND:20261115T220000Z
 SUMMARY:CPR & First Aid Training
@@ -818,7 +896,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2160569085
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9ef9804f19aa@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261115T170000Z
 DTEND:20261115T170000Z
 SUMMARY:Introduction to Leadership Skills for Troops (ILST) at Camp Trask
@@ -836,7 +914,7 @@ URL:https://scoutingevent.com/033-ilst
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-2e4c575e6954@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261115T180000Z
 DTEND:20261115T180000Z
 SUMMARY:Open Hours on Kayak and Canoe
@@ -854,7 +932,7 @@ URL:https://scoutingevent.com/033-121050
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b327ea9fd908@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261115T210000Z
 DTEND:20261116T000000Z
 SUMMARY:Religious Emblems: Ad Altare Dei Class Series
@@ -865,8 +943,21 @@ DESCRIPTION:Ventura County Council\nhttps://mycouncil.scoutingamericavc.or
 URL:https://mycouncil.scoutingamericavc.org/Event/232
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-17-d3f4@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261117T080000Z
+DTEND:20261118T075900Z
+SUMMARY:Pack Recruitment Training
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-3b80d967a3cc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261118T030000Z
 DTEND:20261118T050000Z
 SUMMARY:Sea Scout Meeting
@@ -879,7 +970,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b2bba4b39644@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261119T030000Z
 DTEND:20261119T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -892,7 +983,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c1deab2192e9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261120T000000Z
 DTEND:20261121T235900Z
 SUMMARY:Fall Ordeal
@@ -906,7 +997,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/1935411469
 END:VEVENT
 BEGIN:VEVENT
 UID:x-10307795f404@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261120T030000Z
 DTEND:20261120T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -925,7 +1016,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-570f4914504b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T010000Z
 DTEND:20261121T010000Z
 SUMMARY:Trail to First Class at Camp Trask
@@ -943,7 +1034,7 @@ URL:https://scoutingevent.com/033-119220
 END:VEVENT
 BEGIN:VEVENT
 UID:273008@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Friday Semin
@@ -963,7 +1054,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:277587@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:HAT - RECERT Climbing Instructor Training Level 2 (CWSC) – Frida
@@ -981,8 +1072,34 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-122791
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-21-b1a5@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261121T080000Z
+DTEND:20261122T075900Z
+SUMMARY:Animal Science Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-21-b21b@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261121T080000Z
+DTEND:20261122T075900Z
+SUMMARY:Environmental Science Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:273009@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T160000Z
 DTEND:20261122T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Saturday Sem
@@ -1002,7 +1119,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-c454e57f1fa9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T160000Z
 DTEND:20261121T160000Z
 SUMMARY:Patchtopia 2026
@@ -1020,7 +1137,7 @@ URL:https://scoutingevent.com/039-119793
 END:VEVENT
 BEGIN:VEVENT
 UID:x-73df6bd28bc7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T160000Z
 DTEND:20261123T013000Z
 SUMMARY:Wilderness First Aid
@@ -1036,7 +1153,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2160569746
 END:VEVENT
 BEGIN:VEVENT
 UID:267030@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T160000Z
 DTEND:20261123T000000Z
 SUMMARY:Wilderness First Aid (WFA) Training 2026 – Nov - Wilderness Firs
@@ -1055,7 +1172,7 @@ URL:https://global.scoutingevent.com/055-WFA2026
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c77e95cac917@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T170000Z
 DTEND:20261121T230000Z
 SUMMARY:Merit Badge University
@@ -1071,7 +1188,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192302311
 END:VEVENT
 BEGIN:VEVENT
 UID:272350@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T170000Z
 DTEND:20261122T003000Z
 SUMMARY:The 14th Annual Law Merit Badge Day
@@ -1089,7 +1206,7 @@ URL:https://global.scoutingevent.com/033-LawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-fe616281b0f8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261121T181500Z
 DTEND:20261121T181500Z
 SUMMARY:Tour of Sea Base & Pontoon Excursion-FREE!
@@ -1107,7 +1224,7 @@ URL:https://scoutingevent.com/039-106471
 END:VEVENT
 BEGIN:VEVENT
 UID:273010@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261122T150000Z
 DTEND:20261123T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Sunday Field
@@ -1127,7 +1244,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-10099094568d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261122T163000Z
 DTEND:20261122T163000Z
 SUMMARY:Welding merit badge at Trask
@@ -1145,7 +1262,7 @@ URL:https://scoutingevent.com/033-welding
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2293e687d0af@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261123T000000Z
 DTEND:20261123T235900Z
 SUMMARY:Rod & Reel Club
@@ -1157,8 +1274,60 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/fishing/
 URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-23-82fc@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261123T080000Z
+DTEND:20261124T075900Z
+SUMMARY:Citizenship in the Nation Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-23-b21b@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261123T080000Z
+DTEND:20261124T075900Z
+SUMMARY:Environmental Science Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-24-0aaa@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261124T080000Z
+DTEND:20261125T075900Z
+SUMMARY:Citizenship in the World
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-11-24-08a0@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261124T080000Z
+DTEND:20261125T075900Z
+SUMMARY:Communications Merit Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-fba3a0c8d26f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261125T030000Z
 DTEND:20261125T050000Z
 SUMMARY:Sea Scout Meeting
@@ -1171,7 +1340,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-98a883670308@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261126T140000Z
 DTEND:20261126T190000Z
 SUMMARY:Turkey Day Dash
@@ -1183,7 +1352,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/60
 END:VEVENT
 BEGIN:VEVENT
 UID:x-650253f9ffa2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -1197,7 +1366,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3940104de351@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261202T030000Z
 DTEND:20261202T040000Z
 SUMMARY:Order of the Arrow Meeting
@@ -1209,7 +1378,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-df7d3ea7f440@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261202T030000Z
 DTEND:20261202T050000Z
 SUMMARY:Sea Scout Meeting
@@ -1222,7 +1391,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3b1111535fc6@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261203T030000Z
 DTEND:20261203T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -1235,7 +1404,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f15c4b7b52ad@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261204T030000Z
 DTEND:20261204T040000Z
 SUMMARY:LEB Meeting
@@ -1253,7 +1422,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-7ce394496947@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261205T000000Z
 DTEND:20261205T235900Z
 SUMMARY:Belmont Shore Christmas Parade
@@ -1267,7 +1436,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3bde6916bc74@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261205T000000Z
 DTEND:20261205T235900Z
 SUMMARY:COTD / CAP Report
@@ -1279,7 +1448,7 @@ URL:https://wiatava.ocbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:270962@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261205T143000Z
 DTEND:20261206T010000Z
 SUMMARY:The University of Scouting – Classes (8:00am - 3:00pm)
@@ -1297,7 +1466,7 @@ URL:https://global.scoutingevent.com/033-UofS
 END:VEVENT
 BEGIN:VEVENT
 UID:251669@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261205T150000Z
 DTEND:20261206T030000Z
 SUMMARY:Pacifica District 20 Mile Hike
@@ -1315,7 +1484,7 @@ URL:https://global.scoutingevent.com/033-20MileHike
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-44115eaac122@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261205T163000Z
 DTEND:20261205T163000Z
 SUMMARY:So. Sierra - Pushmobile
@@ -1334,7 +1503,7 @@ URL:https://scoutingevent.com/047-PM26
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-43e7db4f2927@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261205T210000Z
 DTEND:20261205T210000Z
 SUMMARY:So. Sierra - Yowlumne - OA LLD Banquet
@@ -1353,7 +1522,7 @@ URL:https://scoutingevent.com/047-OALLD26
 END:VEVENT
 BEGIN:VEVENT
 UID:x-46dc023494b6@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261206T210000Z
 DTEND:20261207T000000Z
 SUMMARY:Religious Emblems: Ad Altare Dei Class Series
@@ -1365,7 +1534,7 @@ URL:https://mycouncil.scoutingamericavc.org/Event/233
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3afdc3560b21@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261209T030000Z
 DTEND:20261209T050000Z
 SUMMARY:Sea Scout Meeting
@@ -1377,8 +1546,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-12-12-73f4@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261212T080000Z
+DTEND:20261213T075900Z
+SUMMARY:Scout Hockey Night at the Ontario Reign
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-0a74c1ea0019@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261212T170000Z
 DTEND:20261212T200000Z
 SUMMARY:AV - Christmas Parade-Palmdale
@@ -1393,7 +1575,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-067ea509d916@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261212T170000Z
 DTEND:20261212T170000Z
 SUMMARY:Scouts Range Merit Badge at Trask
@@ -1411,7 +1593,7 @@ URL:https://scoutingevent.com/033-rangemeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d0c7bc80d415@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261212T183000Z
 DTEND:20261212T183000Z
 SUMMARY:Winter Fest at Trask 2026
@@ -1429,7 +1611,7 @@ URL:https://scoutingevent.com/033-polarbear26
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1222989778349@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261213T160000Z
 DTEND:20261214T020000Z
 SUMMARY:Multiple MB: Game Design + Community with the Physics at Disney Pa
@@ -1445,7 +1627,7 @@ URL:https://www.eventbrite.com/e/multiple-mb-game-design-community-with-th
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6b276d92f84a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261214T000000Z
 DTEND:20261214T235900Z
 SUMMARY:Rod & Reel Club
@@ -1458,7 +1640,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-27c547409bda@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261216T030000Z
 DTEND:20261216T050000Z
 SUMMARY:Sea Scout Meeting
@@ -1471,7 +1653,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5523befc7c4f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261217T030000Z
 DTEND:20261217T030000Z
 SUMMARY:Christmas Boat Parade 2026
@@ -1489,7 +1671,7 @@ URL:https://scoutingevent.com/039-ChristmasBoatParade
 END:VEVENT
 BEGIN:VEVENT
 UID:x-cc11b2ce7a5a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261217T030000Z
 DTEND:20261217T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -1502,7 +1684,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-17c1afecd37b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261218T030000Z
 DTEND:20261218T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -1521,7 +1703,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-da330b63d456@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261218T030000Z
 DTEND:20261218T030000Z
 SUMMARY:Christmas Boat Parade 2026
@@ -1539,7 +1721,7 @@ URL:https://scoutingevent.com/039-ChristmasBoatParade
 END:VEVENT
 BEGIN:VEVENT
 UID:248818@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261219T000000Z
 DTEND:20261221T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session One
@@ -1557,7 +1739,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f3563c163419@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261219T030000Z
 DTEND:20261219T030000Z
 SUMMARY:Christmas Boat Parade 2026
@@ -1575,7 +1757,7 @@ URL:https://scoutingevent.com/039-ChristmasBoatParade
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a8f9aeed40b8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261220T030000Z
 DTEND:20261220T030000Z
 SUMMARY:Christmas Boat Parade 2026
@@ -1593,7 +1775,7 @@ URL:https://scoutingevent.com/039-ChristmasBoatParade
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9c4137ec4b80@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261221T020000Z
 DTEND:20261221T020000Z
 SUMMARY:Paddle Craft Safety Certification
@@ -1611,7 +1793,7 @@ URL:https://scoutingevent.com/033-120141
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5c3c3887704e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261221T030000Z
 DTEND:20261221T030000Z
 SUMMARY:Christmas Boat Parade 2026
@@ -1629,7 +1811,7 @@ URL:https://scoutingevent.com/039-ChristmasBoatParade
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b2d4d02ebc03@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261228T000000Z
 DTEND:20261228T235900Z
 SUMMARY:Rod & Reel Club
@@ -1642,7 +1824,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-506c2e9d9f87@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261228T000000Z
 DTEND:20261230T235900Z
 SUMMARY:Winter STEM Camp
@@ -1660,8 +1842,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://teamup.com/ksy4jt5xp5jpo7udhj
 URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/1935482388
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2026-12-28-39a0@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20261228T080000Z
+DTEND:20270103T075900Z
+SUMMARY:NYLT National Youth Leadership Training
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:274098@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter Merit Badge Camp Dec. 2026 - Scouts – Winter Merit Badge 
@@ -1683,7 +1878,7 @@ URL:https://global.scoutingevent.com/032-wintermeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:274094@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter S.T.E.M Camp  2026 - Cubs – Winter STEM Camp - Cubs
@@ -1701,7 +1896,7 @@ URL:https://global.scoutingevent.com/032-winterstemcubs
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-625ee5081ae3@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20261231T080000Z
 DTEND:20270101T075900Z
 SUMMARY:Wiatava Lodge America 250 Flap Set
@@ -1719,7 +1914,7 @@ URL:https://scoutingevent.com/039-WiatavaAmerica250
 END:VEVENT
 BEGIN:VEVENT
 UID:x-e8e66769d33d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270104T000000Z
 DTEND:20270106T235900Z
 SUMMARY:Staff Planning Conference
@@ -1731,7 +1926,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2044316934
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-55d97aed2d78@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270105T173000Z
 DTEND:20270105T173000Z
 SUMMARY:Sailing & 2D Video Game Design - Tuesdays - 2nd Trimester (Ages 7-
@@ -1749,7 +1944,7 @@ URL:https://scoutingevent.com/039-118827
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c6ae24c5b72f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270106T030000Z
 DTEND:20270106T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -1763,7 +1958,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-42b4cc22228f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270106T030000Z
 DTEND:20270106T040000Z
 SUMMARY:Order of the Arrow Meeting
@@ -1775,7 +1970,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6fa2e6527116@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270106T030000Z
 DTEND:20270106T050000Z
 SUMMARY:Sea Scout Meeting
@@ -1788,7 +1983,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-130345f280a9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270107T030000Z
 DTEND:20270107T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -1801,7 +1996,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f7977e4ca34f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270107T173000Z
 DTEND:20270107T173000Z
 SUMMARY:Sailing & Maker's Workshop - Thursdays - 2nd Trimester (Ages 7-15)
@@ -1819,7 +2014,7 @@ URL:https://scoutingevent.com/039-118829
 END:VEVENT
 BEGIN:VEVENT
 UID:x-67c99468533c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270108T030000Z
 DTEND:20270108T040000Z
 SUMMARY:LEB Meeting
@@ -1837,7 +2032,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0fb05114fde8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270108T173000Z
 DTEND:20270108T173000Z
 SUMMARY:Sailing & Robotics Workshop Fridays - 2nd Trimester (Ages 7 to 15)
@@ -1855,7 +2050,7 @@ URL:https://scoutingevent.com/039-118825
 END:VEVENT
 BEGIN:VEVENT
 UID:248819@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T000000Z
 DTEND:20270111T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session Two
@@ -1872,8 +2067,21 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-01-09-44f7@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270109T080000Z
+DTEND:20270110T075900Z
+SUMMARY:Order of the Arrow Banquet
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-39780d887bec@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T163000Z
 DTEND:20270109T163000Z
 SUMMARY:Elementary Sailing\, Level 1 AM (Ages 7 to 9)
@@ -1890,7 +2098,7 @@ URL:https://scoutingevent.com/039-119490
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-722cba8f1740@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T163000Z
 DTEND:20270109T163000Z
 SUMMARY:Junior & Teen Sailing\, Level 1 AM (Ages 10 to 17)
@@ -1907,7 +2115,7 @@ URL:https://scoutingevent.com/039-119518
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9c6c190624c1@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T180000Z
 DTEND:20270109T180000Z
 SUMMARY:Family Kayaking & Stand Up Paddle Boarding (Ages 7+)
@@ -1924,7 +2132,7 @@ URL:https://scoutingevent.com/039-118857
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b52c4688cd6a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T210000Z
 DTEND:20270109T210000Z
 SUMMARY:Adventure Sailing Club - Small & Big Boat
@@ -1942,7 +2150,7 @@ URL:https://scoutingevent.com/039-AdventureSailingClub
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ea2220e08117@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T210000Z
 DTEND:20270109T210000Z
 SUMMARY:Elementary Sailing\, Level 2 PM (Ages 7 to 9)
@@ -1960,7 +2168,7 @@ URL:https://scoutingevent.com/039-119497
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-50b69d19aff2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270109T210000Z
 DTEND:20270109T210000Z
 SUMMARY:Junior & Teen Sailing\, Level 2 PM (Ages 10 to 17)
@@ -1978,7 +2186,7 @@ URL:https://scoutingevent.com/039-119523
 END:VEVENT
 BEGIN:VEVENT
 UID:x-af7155da180f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270111T000000Z
 DTEND:20270111T235900Z
 SUMMARY:Rod & Reel Club
@@ -1991,7 +2199,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9f8a3029933d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270113T030000Z
 DTEND:20270113T040000Z
 SUMMARY:Merit Badge Counselor Training
@@ -2003,7 +2211,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b205f1c0d08b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270113T030000Z
 DTEND:20270113T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2016,7 +2224,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-e7d22a23e191@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270115T030000Z
 DTEND:20270115T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -2035,7 +2243,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0856e946c0fe@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270116T170000Z
 DTEND:20270116T170000Z
 SUMMARY:Citizenship in the Community AM (Ages 11 to 17)
@@ -2052,7 +2260,7 @@ URL:https://scoutingevent.com/039-118898
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3dfdab864d5d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270116T170000Z
 DTEND:20270116T170000Z
 SUMMARY:Family Ocean Fishing & Harbor Excursion (Ages 7+)
@@ -2069,7 +2277,7 @@ URL:https://scoutingevent.com/039-121654
 END:VEVENT
 BEGIN:VEVENT
 UID:x-cf0ace6d7ac3@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270116T180000Z
 DTEND:20270116T210000Z
 SUMMARY:Pinewood Derby Clinic #1
@@ -2082,7 +2290,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2044318508
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6032426286df@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270120T030000Z
 DTEND:20270120T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2095,7 +2303,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-cc0923f3c689@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270121T030000Z
 DTEND:20270121T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -2107,8 +2315,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://www.longbeachbsa.org/calendar
 URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-01-22-ba53@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270122T080000Z
+DTEND:20270125T075900Z
+SUMMARY:Merit Badge Academy
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:265016@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270123T160000Z
 DTEND:20270124T010000Z
 SUMMARY:LEAD 2027 (aka University of Scouting)
@@ -2127,7 +2348,7 @@ URL:https://global.scoutingevent.com/023-LEAD2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-7b925e7e6096@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -2145,7 +2366,7 @@ URL:https://scoutingevent.com/039-118868
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-126e2476cc4c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -2163,7 +2384,7 @@ URL:https://scoutingevent.com/039-119427
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d24bba170977@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270123T170000Z
 DTEND:20270123T230000Z
 SUMMARY:Merit Badge University
@@ -2179,7 +2400,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192302391
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-01-23-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270123T170000Z
 DTEND:20270123T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -2194,7 +2415,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-8248f9759019@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270123T180000Z
 DTEND:20270123T210000Z
 SUMMARY:Pinewood Derby Clinic #1
@@ -2207,7 +2428,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2127194355
 END:VEVENT
 BEGIN:VEVENT
 UID:x-eaf7ac700489@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270125T000000Z
 DTEND:20270125T235900Z
 SUMMARY:Rod & Reel Club
@@ -2220,7 +2441,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-0a95fc928f90@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270127T030000Z
 DTEND:20270127T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2232,8 +2453,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-01-29-4868@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270129T080000Z
+DTEND:20270201T075900Z
+SUMMARY:Cub Scout Family Winter Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-ee9664eea711@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270130T170000Z
 DTEND:20270130T170000Z
 SUMMARY:So. Sierra - Winter Extravaganza
@@ -2250,7 +2484,7 @@ URL:https://scoutingevent.com/047-WE2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-e9871f9b3cf8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270203T030000Z
 DTEND:20270203T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -2264,7 +2498,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-97041f4e0262@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270203T030000Z
 DTEND:20270203T040000Z
 SUMMARY:Order of the Arrow Meeting
@@ -2276,7 +2510,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6722a5e92999@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270203T030000Z
 DTEND:20270203T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2289,7 +2523,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b17927092d92@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270204T030000Z
 DTEND:20270204T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -2302,7 +2536,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a4d7fa916c73@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270205T030000Z
 DTEND:20270205T040000Z
 SUMMARY:LEB Meeting
@@ -2320,7 +2554,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-65b5d2fe2e5e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T000000Z
 DTEND:20270206T235900Z
 SUMMARY:Climbing Instructor Training - Winter Weekend #1
@@ -2333,7 +2567,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2044318979
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-77dcc036f180@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T000000Z
 DTEND:20270206T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2351,7 +2585,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6824b70b2033@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T020000Z
 DTEND:20270206T020000Z
 SUMMARY:Wiatava Lodge Annual Trade-O-Ree
@@ -2368,8 +2602,21 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-TradeoRee
 URL:https://scoutingevent.com/039-TradeoRee2027
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-02-06-cb29@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270206T080000Z
+DTEND:20270207T075900Z
+SUMMARY:Lincoln Pilgrimage
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-fa34f3430fb5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T163000Z
 DTEND:20270206T163000Z
 SUMMARY:Elementary Sailing\, Level 1 AM (Ages 7 to 9)
@@ -2386,7 +2633,7 @@ URL:https://scoutingevent.com/039-119491
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5a396e23eaed@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T163000Z
 DTEND:20270206T163000Z
 SUMMARY:Junior & Teen Sailing\, Level 1 AM (Ages 10 to 17)
@@ -2403,7 +2650,7 @@ URL:https://scoutingevent.com/039-119519
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d7eb0a03c229@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T210000Z
 DTEND:20270206T210000Z
 SUMMARY:Adventure Sailing Club - Small & Big Boat
@@ -2421,7 +2668,7 @@ URL:https://scoutingevent.com/039-AdventureSailingClub
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-81fa2e899223@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T210000Z
 DTEND:20270206T210000Z
 SUMMARY:Elementary Sailing\, Level 2 PM (Ages 7 to 9)
@@ -2439,7 +2686,7 @@ URL:https://scoutingevent.com/039-119498
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f9b6958984c8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T210000Z
 DTEND:20270206T210000Z
 SUMMARY:Junior & Teen Sailing\, Level 2 PM (Ages 10 to 17)
@@ -2457,7 +2704,7 @@ URL:https://scoutingevent.com/039-119524
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a6221d07cf47@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270206T220000Z
 DTEND:20270206T220000Z
 SUMMARY:Taste of Sailing Day - FREE!
@@ -2474,7 +2721,7 @@ URL:https://scoutingevent.com/039-119530
 END:VEVENT
 BEGIN:VEVENT
 UID:x-42a1814498fc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270207T000000Z
 DTEND:20270207T235900Z
 SUMMARY:Climbing Instructor Training - Winter Weekend #1
@@ -2487,7 +2734,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192367212
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d45871b7443d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270208T000000Z
 DTEND:20270208T235900Z
 SUMMARY:Rod & Reel Club
@@ -2500,7 +2747,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ac32dad09788@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270210T030000Z
 DTEND:20270210T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2513,7 +2760,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ad4c1de2069d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270212T030000Z
 DTEND:20270212T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -2532,7 +2779,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19cadd47cc79@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T000000Z
 DTEND:20270213T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2550,7 +2797,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-940952a03b01@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T010000Z
 DTEND:20270213T010000Z
 SUMMARY:2027 Klondike Derby hosted by Yolano District (snow camping)
@@ -2568,7 +2815,7 @@ URL:https://scoutingevent.com/047-121474
 END:VEVENT
 BEGIN:VEVENT
 UID:274271@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T160000Z
 DTEND:20270222T000000Z
 SUMMARY:NYLT 2027 – Winter NYLT - For Boys
@@ -2586,7 +2833,7 @@ URL:https://global.scoutingevent.com/023-NYLT2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ee67d24141bf@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -2604,7 +2851,7 @@ URL:https://scoutingevent.com/039-118906
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4ce248af6eab@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -2622,7 +2869,7 @@ URL:https://scoutingevent.com/039-119437
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19c0777c1206@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -2640,7 +2887,7 @@ URL:https://scoutingevent.com/039-118870
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-45b0aa2e291e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Eagle Package AM: Personal Fitness\, Personal Management\, Family 
@@ -2659,7 +2906,7 @@ URL:https://scoutingevent.com/039-119281
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003365681683@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T170000Z
 DTEND:20270213T230000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Sat\, Feb 13\, 2027
@@ -2674,7 +2921,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3c8fc1a5763e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -2692,7 +2939,7 @@ URL:https://scoutingevent.com/039-119278
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8064ea5fcc21@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
 SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
@@ -2710,7 +2957,7 @@ URL:https://scoutingevent.com/039-119303
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d37baf425f96@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270214T010000Z
 DTEND:20270214T010000Z
 SUMMARY:2027 Klondike Derby hosted by Yolano District (snow camping)
@@ -2728,7 +2975,7 @@ URL:https://scoutingevent.com/047-121474
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c1ea76a7d876@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270217T030000Z
 DTEND:20270217T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2741,7 +2988,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-75b68b6b8180@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270218T030000Z
 DTEND:20270218T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -2753,8 +3000,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://www.longbeachbsa.org/calendar
 URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-02-19-7f56@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270219T080000Z
+DTEND:20270222T075900Z
+SUMMARY:Scouts BSA Winter Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:267043@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270219T200000Z
 DTEND:20270221T190000Z
 SUMMARY:Bearpaw Winter Camping Training\, 36th Annual – Bearpaw #1
@@ -2772,7 +3032,7 @@ URL:https://global.scoutingevent.com/055-BearPaw27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-e78a90898290@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270220T000000Z
 DTEND:20270220T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2790,7 +3050,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-2cd0a7bae284@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270220T170000Z
 DTEND:20270220T170000Z
 SUMMARY:Family Ocean Fishing & Harbor Excursion (Ages 7+)
@@ -2807,7 +3067,7 @@ URL:https://scoutingevent.com/039-118862
 END:VEVENT
 BEGIN:VEVENT
 UID:x-e2a75b6fd453@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270220T180000Z
 DTEND:20270220T210000Z
 SUMMARY:Pinewood Derby Clinic #2
@@ -2820,7 +3080,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2127194458
 END:VEVENT
 BEGIN:VEVENT
 UID:x-224a7c3f8273@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270222T000000Z
 DTEND:20270222T235900Z
 SUMMARY:Rod & Reel Club
@@ -2833,7 +3093,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4d7fb9504f71@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270224T030000Z
 DTEND:20270224T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2845,8 +3105,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-02-26-4868@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270226T080000Z
+DTEND:20270301T075900Z
+SUMMARY:Cub Scout Family Winter Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-b9f7e1ae4218@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270227T000000Z
 DTEND:20270227T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2864,7 +3137,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:267415@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270227T160000Z
 DTEND:20270228T000000Z
 SUMMARY:So. Sierra - Fundamentals of Training I & II
@@ -2882,7 +3155,7 @@ URL:https://global.scoutingevent.com/047-fund27
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-02-27-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270227T170000Z
 DTEND:20270227T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -2897,7 +3170,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-da68d3e20b0e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270303T030000Z
 DTEND:20270303T040000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -2911,7 +3184,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9160fd2025c0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270303T030000Z
 DTEND:20270303T040000Z
 SUMMARY:Order of the Arrow Meeting
@@ -2923,7 +3196,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2512631943bb@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270303T030000Z
 DTEND:20270303T050000Z
 SUMMARY:Sea Scout Meeting
@@ -2936,7 +3209,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3c889a3c9a78@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270304T030000Z
 DTEND:20270304T043000Z
 SUMMARY:Tahquitz Community Meeting
@@ -2949,7 +3222,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-5fe96b99aaa2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270305T030000Z
 DTEND:20270305T040000Z
 SUMMARY:LEB Meeting
@@ -2966,8 +3239,21 @@ DESCRIPTION:Wiatava Lodge 13 (Order of the Arrow\, Orange County)\nhttps:/
 URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-03-05-4868@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270305T080000Z
+DTEND:20270308T075900Z
+SUMMARY:Cub Scout Family Winter Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:267044@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270305T200000Z
 DTEND:20270307T190000Z
 SUMMARY:Bearpaw Winter Camping Training\, 36th Annual – Bearpaw #2
@@ -2985,7 +3271,7 @@ URL:https://global.scoutingevent.com/055-BearPaw27
 END:VEVENT
 BEGIN:VEVENT
 UID:264902@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T000000Z
 DTEND:20270307T180000Z
 SUMMARY:Firestone Cub Scout Rocket Academy
@@ -3003,7 +3289,7 @@ URL:https://global.scoutingevent.com/033-RocketAcademy
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a45da12d6acc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T000000Z
 DTEND:20270306T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -3021,7 +3307,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:268778@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T160000Z
 DTEND:20270307T010000Z
 SUMMARY:2027 University of Scouting – University of Scouting 2027
@@ -3039,7 +3325,7 @@ URL:https://global.scoutingevent.com/055-118154
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ca4485a7f7ac@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T160000Z
 DTEND:20270307T000000Z
 SUMMARY:Long Beach Invitational Sea Scout Regatta
@@ -3052,7 +3338,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5e52804fd4c3@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T160000Z
 DTEND:20270306T160000Z
 SUMMARY:So. Sierra - Merit Badge Midway
@@ -3069,7 +3355,7 @@ URL:https://scoutingevent.com/047-MB0327
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-446409f1fc1f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T160000Z
 DTEND:20270306T160000Z
 SUMMARY:So. Sierra - Pinewood Derby
@@ -3086,7 +3372,7 @@ URL:https://scoutingevent.com/047-117192
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b74e94d09edc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T163000Z
 DTEND:20270306T163000Z
 SUMMARY:Elementary Sailing\, Level 1 AM (Ages 7 to 9)
@@ -3103,7 +3389,7 @@ URL:https://scoutingevent.com/039-119492
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-2eb38cdab070@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T163000Z
 DTEND:20270306T163000Z
 SUMMARY:Junior & Teen Sailing\, Level 1 AM (Ages 10 to 17)
@@ -3120,7 +3406,7 @@ URL:https://scoutingevent.com/039-119520
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-cc4ca5e07867@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
@@ -3138,7 +3424,7 @@ URL:https://scoutingevent.com/039-118879
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-53ca004995be@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Citizenship in the Community AM (Ages 11 to 17)
@@ -3155,7 +3441,7 @@ URL:https://scoutingevent.com/039-118899
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a592c6f5d9cc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -3173,7 +3459,7 @@ URL:https://scoutingevent.com/039-119438
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-fcd8f55b3404@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -3191,7 +3477,7 @@ URL:https://scoutingevent.com/039-118871
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8a01608dcb52@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -3209,7 +3495,7 @@ URL:https://scoutingevent.com/039-119428
 END:VEVENT
 BEGIN:VEVENT
 UID:275637@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T170000Z
 DTEND:20270307T230000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 1
@@ -3227,7 +3513,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-992782577382@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Adventure Sailing Club - Small & Big Boat
@@ -3245,7 +3531,7 @@ URL:https://scoutingevent.com/039-AdventureSailingClub
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b41a8df83e46@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Elementary Sailing\, Level 2 PM (Ages 7 to 9)
@@ -3263,7 +3549,7 @@ URL:https://scoutingevent.com/039-119499
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-acd481284e0f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Family Sailing\, Level 1/2 - RS Quests (Ages 7+)
@@ -3280,7 +3566,7 @@ URL:https://scoutingevent.com/039-119528
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-aa07f6ef8a87@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Junior & Teen Sailing\, Level 2 PM (Ages 10 to 17)
@@ -3298,7 +3584,7 @@ URL:https://scoutingevent.com/039-119525
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-316ce8fefa1b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
@@ -3316,7 +3602,7 @@ URL:https://scoutingevent.com/039-118881
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ae995df3fe5c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270306T220000Z
 DTEND:20270306T220000Z
 SUMMARY:Taste of Sailing Day - FREE!
@@ -3333,7 +3619,7 @@ URL:https://scoutingevent.com/039-119530
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c3dd9cc6e6be@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270308T000000Z
 DTEND:20270308T235900Z
 SUMMARY:Rod & Reel Club
@@ -3346,7 +3632,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-07bfe748ea6f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270310T030000Z
 DTEND:20270310T050000Z
 SUMMARY:Sea Scout Meeting
@@ -3359,7 +3645,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2bcbd476a72e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270312T030000Z
 DTEND:20270312T040000Z
 SUMMARY:CC: Order of the Arrow
@@ -3377,8 +3663,21 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
 URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-03-12-4868@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270312T080000Z
+DTEND:20270314T075900Z
+SUMMARY:Cub Scout Family Winter Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-4db47dce39b0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T000000Z
 DTEND:20270313T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -3396,7 +3695,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:268781@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T020000Z
 DTEND:20270314T200000Z
 SUMMARY:Introduction to Outdoor Leader Skills (iOLS) (S11) – iOLS
@@ -3414,7 +3713,7 @@ URL:https://global.scoutingevent.com/055-118157
 END:VEVENT
 BEGIN:VEVENT
 UID:266998@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T150000Z
 DTEND:20270314T190000Z
 SUMMARY:So. Sierra - BALOO & IOLS - Ridgecrest - Adult Leader Skills
@@ -3432,7 +3731,7 @@ URL:https://global.scoutingevent.com/047-IOLSBALOO_Ridgecrest_0327
 END:VEVENT
 BEGIN:VEVENT
 UID:268779@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T160000Z
 DTEND:20270314T190000Z
 SUMMARY:2027-03 Leave No Trace Level 1 Instructor Course/Skill Course
@@ -3450,7 +3749,7 @@ URL:https://global.scoutingevent.com/055-LNT20273
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a93c85a35a1d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T170000Z
 DTEND:20270313T230000Z
 SUMMARY:Merit Badge University
@@ -3466,7 +3765,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192302466
 END:VEVENT
 BEGIN:VEVENT
 UID:275638@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T170000Z
 DTEND:20270314T220000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 2
@@ -3484,7 +3783,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9983bd17f96f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270313T181500Z
 DTEND:20270313T181500Z
 SUMMARY:Tour of Sea Base & Pontoon Excursion-FREE!
@@ -3502,7 +3801,7 @@ URL:https://scoutingevent.com/039-118858
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-920bcf9babd2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270316T163000Z
 DTEND:20270316T163000Z
 SUMMARY:Sailing & 2D Video Game Design - Tuesdays - 3rd Trimester (Ages 7-
@@ -3520,7 +3819,7 @@ URL:https://scoutingevent.com/039-118828
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6b25085e41ae@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270317T020000Z
 DTEND:20270317T040000Z
 SUMMARY:Sea Scout Meeting
@@ -3533,7 +3832,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-afff0cb421a9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270318T020000Z
 DTEND:20270318T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -3546,7 +3845,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9555acf8bfc1@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270318T163000Z
 DTEND:20270318T163000Z
 SUMMARY:Sailing & Maker's Workshop - Thursdays - 3rd Trimester (Ages 7-15)
@@ -3563,8 +3862,21 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118854\n\
 URL:https://scoutingevent.com/039-118854
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-03-19-7f56@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270319T070000Z
+DTEND:20270322T065900Z
+SUMMARY:Scouts BSA Winter Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-0e551264313f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270319T163000Z
 DTEND:20270319T163000Z
 SUMMARY:Sailing & Robotics Workshop Fridays - 3rd Trimester (Ages 7 to 15)
@@ -3581,8 +3893,21 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-118826\n\
 URL:https://scoutingevent.com/039-118826
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-03-20-7e04@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270320T070000Z
+DTEND:20270321T065900Z
+SUMMARY:Casino Night
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-4d2af830c0a4@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270320T160000Z
 DTEND:20270320T160000Z
 SUMMARY:Family Ocean Fishing & Harbor Excursion (Ages 7+)
@@ -3599,7 +3924,7 @@ URL:https://scoutingevent.com/039-118863
 END:VEVENT
 BEGIN:VEVENT
 UID:x-0d53297ae41a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270322T000000Z
 DTEND:20270322T235900Z
 SUMMARY:Rod & Reel Club
@@ -3612,7 +3937,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d98c436a5a01@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270324T020000Z
 DTEND:20270324T040000Z
 SUMMARY:Sea Scout Meeting
@@ -3625,7 +3950,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-12d182f03cd8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T160000Z
 DTEND:20270327T160000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -3643,7 +3968,7 @@ URL:https://scoutingevent.com/039-118907
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-1f61b17ba261@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T160000Z
 DTEND:20270327T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -3661,7 +3986,7 @@ URL:https://scoutingevent.com/039-118873
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003366936436@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T160000Z
 DTEND:20270327T220000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Mar 27\, 2027
@@ -3676,7 +4001,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-03-27-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T160000Z
 DTEND:20270327T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -3691,7 +4016,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-bbfd961c4fce@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T170000Z
 DTEND:20270327T170000Z
 SUMMARY:Family Kayaking & Stand Up Paddle Boarding (Ages 7+)
@@ -3708,7 +4033,7 @@ URL:https://scoutingevent.com/039-118857
 END:VEVENT
 BEGIN:VEVENT
 UID:x-09a12192f89e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T170000Z
 DTEND:20270327T200000Z
 SUMMARY:Pinewood Derby Clinic #3
@@ -3721,7 +4046,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2127194662
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6da2068be982@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T200000Z
 DTEND:20270327T200000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -3739,7 +4064,7 @@ URL:https://scoutingevent.com/039-119279
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-00fe62994a55@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270327T200000Z
 DTEND:20270327T200000Z
 SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
@@ -3756,8 +4081,21 @@ DESCRIPTION:Orange County Council\nhttps://scoutingevent.com/039-119431\n\
 URL:https://scoutingevent.com/039-119431
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-03-28-39ed@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270328T070000Z
+DTEND:20270329T065900Z
+SUMMARY:Mt Rubidoux Trail Lighting
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-f453c10700c5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270331T020000Z
 DTEND:20270331T040000Z
 SUMMARY:Sea Scout Meeting
@@ -3770,7 +4108,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9475221020d3@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270401T000000Z
 DTEND:20270401T235900Z
 SUMMARY:Camp Cards - Winter Campaign Money Due
@@ -3784,7 +4122,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/1945015226
 END:VEVENT
 BEGIN:VEVENT
 UID:x-20a041289b68@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270402T020000Z
 DTEND:20270402T030000Z
 SUMMARY:LEB Meeting
@@ -3801,8 +4139,34 @@ DESCRIPTION:Wiatava Lodge 13 (Order of the Arrow\, Orange County)\nhttps:/
 URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-04-02-b186@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270402T070000Z
+DTEND:20270405T065900Z
+SUMMARY:BALOO at Camp Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-04-02-6d57@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270402T070000Z
+DTEND:20270405T065900Z
+SUMMARY:IOLS at Camp Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:273746@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270402T140000Z
 DTEND:20270405T000000Z
 SUMMARY:2027 Spring Wood Badge – Wood Badge Weekend 1
@@ -3820,7 +4184,7 @@ URL:https://global.scoutingevent.com/055-wbspring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266999@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T140000Z
 DTEND:20270404T190000Z
 SUMMARY:So. Sierra - BALOO & IOLS - Bakersfield - Adult Leader Skills
@@ -3838,7 +4202,7 @@ URL:https://global.scoutingevent.com/047-117229
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a23e762da323@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T153000Z
 DTEND:20270403T153000Z
 SUMMARY:Elementary Sailing\, Level 1 AM (Ages 7 to 9)
@@ -3855,7 +4219,7 @@ URL:https://scoutingevent.com/039-119494
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-bbc110b43c78@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T153000Z
 DTEND:20270403T153000Z
 SUMMARY:Junior & Teen Sailing\, Level 1 AM (Ages 10 to 17)
@@ -3872,7 +4236,7 @@ URL:https://scoutingevent.com/039-119521
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-dcf1959b4656@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T200000Z
 DTEND:20270403T200000Z
 SUMMARY:Adventure Sailing Club - Small & Big Boat
@@ -3890,7 +4254,7 @@ URL:https://scoutingevent.com/039-AdventureSailingClub
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-df9a0d2224ff@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T200000Z
 DTEND:20270403T200000Z
 SUMMARY:Elementary Sailing\, Level 2 PM (Ages 7 to 9)
@@ -3908,7 +4272,7 @@ URL:https://scoutingevent.com/039-119500
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-82a136c2e729@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T200000Z
 DTEND:20270403T200000Z
 SUMMARY:Junior & Teen Sailing\, Level 2 PM (Ages 10 to 17)
@@ -3926,7 +4290,7 @@ URL:https://scoutingevent.com/039-119526
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-1070d3ce3fb7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270403T210000Z
 DTEND:20270403T210000Z
 SUMMARY:Taste of Sailing Day - FREE!
@@ -3943,7 +4307,7 @@ URL:https://scoutingevent.com/039-119530
 END:VEVENT
 BEGIN:VEVENT
 UID:x-eb0ce5bdbbb8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270405T000000Z
 DTEND:20270409T235900Z
 SUMMARY:Spring Aquatics Camp
@@ -3957,7 +4321,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2174588800
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4fea7153007f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270405T190000Z
 DTEND:20270405T190000Z
 SUMMARY:Spring Break Camp - Robotics & Sailing/Paddle Sport Adventures (Ag
@@ -3976,7 +4340,7 @@ URL:https://scoutingevent.com/039-118824
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a6a5dc29acb1@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270407T020000Z
 DTEND:20270407T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -3990,7 +4354,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f982554fb161@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270407T020000Z
 DTEND:20270407T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -4002,7 +4366,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4c22d0314e29@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270407T020000Z
 DTEND:20270407T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4015,7 +4379,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-772a90a6a2ff@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270408T020000Z
 DTEND:20270408T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -4028,7 +4392,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-046cc5688532@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270409T020000Z
 DTEND:20270409T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -4046,8 +4410,21 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
 URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-04-09-ba53@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270409T070000Z
+DTEND:20270412T065900Z
+SUMMARY:Merit Badge Academy
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-beb2192091d7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270410T160000Z
 DTEND:20270410T160000Z
 SUMMARY:Citizenship in the Community AM (Ages 11 to 17)
@@ -4064,7 +4441,7 @@ URL:https://scoutingevent.com/039-118901
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b7e0f0ddb409@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270412T000000Z
 DTEND:20270412T235900Z
 SUMMARY:Rod & Reel Club
@@ -4077,7 +4454,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ac7ee65fad5f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270414T020000Z
 DTEND:20270414T030000Z
 SUMMARY:Merit Badge Counselor Training
@@ -4089,7 +4466,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2ae563c5251d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270414T020000Z
 DTEND:20270414T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4101,8 +4478,34 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-04-16-e722@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270416T070000Z
+DTEND:20270419T065900Z
+SUMMARY:Order of the Arrow Induction
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-04-16-39c2@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270416T070000Z
+DTEND:20270417T065900Z
+SUMMARY:Scouting Clays
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-1bd12a92014f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T000000Z
 DTEND:20270417T000000Z
 SUMMARY:District Camporee (PX)
@@ -4121,7 +4524,7 @@ URL:https://scoutingevent.com/047-PXCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:273747@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T140000Z
 DTEND:20270419T000000Z
 SUMMARY:2027 Spring Wood Badge – Wood Badge Weekend 2
@@ -4139,7 +4542,7 @@ URL:https://global.scoutingevent.com/055-wbspring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-glaac-high-adventure-team-wilderness-rem-2027-04-17-70e5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T150000Z
 DTEND:20270418T230000Z
 SUMMARY:Wilderness & Remote First Aid with CPR/AED (GLAAC-HAT)
@@ -4156,7 +4559,7 @@ URL:https://glaac-hat.org/flyers/WildernessRemoteFirstAidSummerLatest.pdf
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8ef736f04d73@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
@@ -4174,7 +4577,7 @@ URL:https://scoutingevent.com/039-118880
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-959a3d1bfd57@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -4192,7 +4595,7 @@ URL:https://scoutingevent.com/039-119439
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5d69b9691de9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -4210,7 +4613,7 @@ URL:https://scoutingevent.com/039-118876
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-471e801133cf@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -4228,7 +4631,7 @@ URL:https://scoutingevent.com/039-119429
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-72f8dd59d3de@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T170000Z
 DTEND:20270417T170000Z
 SUMMARY:Family Kayaking & Stand Up Paddle Boarding (Ages 7+)
@@ -4245,7 +4648,7 @@ URL:https://scoutingevent.com/039-118857
 END:VEVENT
 BEGIN:VEVENT
 UID:270508@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T180000Z
 DTEND:20270418T220000Z
 SUMMARY:IOLS and BALOO April 17-18 2027 SAVE THE DATE – IOLS
@@ -4264,7 +4667,7 @@ URL:https://global.scoutingevent.com/047-119037
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-102af97598f4@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T200000Z
 DTEND:20270417T200000Z
 SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
@@ -4282,7 +4685,7 @@ URL:https://scoutingevent.com/039-118896
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5a1866f5428f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270417T200000Z
 DTEND:20270417T200000Z
 SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
@@ -4300,7 +4703,7 @@ URL:https://scoutingevent.com/039-119432
 END:VEVENT
 BEGIN:VEVENT
 UID:x-20b326f334fe@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270421T020000Z
 DTEND:20270421T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4313,7 +4716,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-aacf26191ba7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270422T020000Z
 DTEND:20270422T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -4326,7 +4729,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:274246@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270423T230000Z
 DTEND:20270425T173000Z
 SUMMARY:Placer District Camporee
@@ -4342,7 +4745,7 @@ URL:https://global.scoutingevent.com/047-121097
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f31c9bf3fd75@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270424T000000Z
 DTEND:20270424T235900Z
 SUMMARY:LB Sea Scout Squadron Review
@@ -4354,7 +4757,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-05e90e3bb3d5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270424T000000Z
 DTEND:20270424T000000Z
 SUMMARY:So. Sierra - Camporall
@@ -4372,7 +4775,7 @@ URL:https://scoutingevent.com/047-Camporall27
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-04-24-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270424T160000Z
 DTEND:20270424T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -4387,7 +4790,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d5a4791eb556@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270426T000000Z
 DTEND:20270426T235900Z
 SUMMARY:Rod & Reel Club
@@ -4400,7 +4803,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a8b97c9be725@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270428T020000Z
 DTEND:20270428T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4412,8 +4815,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-04-30-a2b4@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270430T070000Z
+DTEND:20270503T065900Z
+SUMMARY:Camp Emerson Camporee
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-17085c9f4d81@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T000000Z
 DTEND:20270501T235900Z
 SUMMARY:Scout the Port Day
@@ -4426,7 +4842,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2174591722
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-47e2471ef7e7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T153000Z
 DTEND:20270501T153000Z
 SUMMARY:Elementary Sailing\, Level 1 AM (Ages 7 to 9)
@@ -4443,7 +4859,7 @@ URL:https://scoutingevent.com/039-119495
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f860fd47a705@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T153000Z
 DTEND:20270501T153000Z
 SUMMARY:Junior & Teen Sailing\, Level 1 AM (Ages 10 to 17)
@@ -4460,7 +4876,7 @@ URL:https://scoutingevent.com/039-119522
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-2f2f0c91c8e9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T160000Z
 DTEND:20270501T160000Z
 SUMMARY:So. Sierra - Cub Scout STEM Day
@@ -4477,7 +4893,7 @@ URL:https://scoutingevent.com/047-STEM26
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-411e58b734c2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T171500Z
 DTEND:20270501T171500Z
 SUMMARY:Tour of Sea Base & Pontoon Excursion-FREE!
@@ -4495,7 +4911,7 @@ URL:https://scoutingevent.com/039-118858
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-7b77ae9d9480@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T200000Z
 DTEND:20270501T200000Z
 SUMMARY:Adventure Sailing Club - Small & Big Boat
@@ -4513,7 +4929,7 @@ URL:https://scoutingevent.com/039-AdventureSailingClub
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-eb07846028f9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T200000Z
 DTEND:20270501T200000Z
 SUMMARY:Elementary Sailing\, Level 2 PM (Ages 7 to 9)
@@ -4531,7 +4947,7 @@ URL:https://scoutingevent.com/039-119501
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-04b30d9b98e4@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T200000Z
 DTEND:20270501T200000Z
 SUMMARY:Family Sailing\, Level 1/2 - RS Quests (Ages 7+)
@@ -4548,7 +4964,7 @@ URL:https://scoutingevent.com/039-119529
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3d1eaf7e36dd@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270501T200000Z
 DTEND:20270501T200000Z
 SUMMARY:Junior & Teen Sailing\, Level 2 PM (Ages 10 to 17)
@@ -4566,7 +4982,7 @@ URL:https://scoutingevent.com/039-119527
 END:VEVENT
 BEGIN:VEVENT
 UID:x-196187f1419f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270505T020000Z
 DTEND:20270505T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -4580,7 +4996,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-365b3d081b23@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270505T020000Z
 DTEND:20270505T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -4592,7 +5008,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-8f0ea188e61b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270505T020000Z
 DTEND:20270505T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4605,7 +5021,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ffd3782f7ffd@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270506T020000Z
 DTEND:20270506T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -4618,7 +5034,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ad4c06148e03@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270507T020000Z
 DTEND:20270507T030000Z
 SUMMARY:LEB Meeting
@@ -4636,7 +5052,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-193e3c19fa61@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -4654,7 +5070,7 @@ URL:https://scoutingevent.com/039-119273
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b90f3bb2f2e5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -4672,7 +5088,7 @@ URL:https://scoutingevent.com/039-119441
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b33ef007cbfa@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -4690,7 +5106,7 @@ URL:https://scoutingevent.com/039-118877
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6bb9336d5c88@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -4708,7 +5124,7 @@ URL:https://scoutingevent.com/039-119430
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-2ea389263c42@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T170000Z
 DTEND:20270508T170000Z
 SUMMARY:Family Kayaking & Stand Up Paddle Boarding (Ages 7+)
@@ -4725,7 +5141,7 @@ URL:https://scoutingevent.com/039-118857
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-37a6092a34d1@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T200000Z
 DTEND:20270508T200000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -4743,7 +5159,7 @@ URL:https://scoutingevent.com/039-119280
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ad25b7097a13@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270508T200000Z
 DTEND:20270508T200000Z
 SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
@@ -4761,7 +5177,7 @@ URL:https://scoutingevent.com/039-119425
 END:VEVENT
 BEGIN:VEVENT
 UID:x-219803bab325@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270510T000000Z
 DTEND:20270510T235900Z
 SUMMARY:Rod & Reel Club
@@ -4774,7 +5190,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-5b759771a8d5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270512T020000Z
 DTEND:20270512T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4787,7 +5203,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1ad6d8dbae55@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270514T020000Z
 DTEND:20270514T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -4805,8 +5221,34 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
 URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-05-15-a137@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270515T070000Z
+DTEND:20270517T065900Z
+SUMMARY:Big Cat Weekend
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-05-15-7667@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270515T070000Z
+DTEND:20270517T065900Z
+SUMMARY:Big Paw Weekend
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-9429fb33cc8d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270519T020000Z
 DTEND:20270519T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4819,7 +5261,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9357e6e26699@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270520T020000Z
 DTEND:20270520T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -4832,7 +5274,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-25e31e8ef3ad@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270522T160000Z
 DTEND:20270522T160000Z
 SUMMARY:Family Ocean Fishing & Harbor Excursion (Ages 7+)
@@ -4849,7 +5291,7 @@ URL:https://scoutingevent.com/039-118865
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-05-22-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270522T160000Z
 DTEND:20270522T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -4864,7 +5306,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3d0dd7c9bdbc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270524T000000Z
 DTEND:20270524T235900Z
 SUMMARY:Rod & Reel Club
@@ -4877,7 +5319,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1bf3754c2a6b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270526T020000Z
 DTEND:20270526T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4890,7 +5332,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-03a424bf507f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270602T020000Z
 DTEND:20270602T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -4904,7 +5346,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-5239a93c0acb@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270602T020000Z
 DTEND:20270602T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -4916,7 +5358,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-391b462e02dc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270602T020000Z
 DTEND:20270602T040000Z
 SUMMARY:Sea Scout Meeting
@@ -4929,7 +5371,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6ffcb92a8aa8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270603T020000Z
 DTEND:20270603T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -4942,7 +5384,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-19f8eb278008@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270604T020000Z
 DTEND:20270604T030000Z
 SUMMARY:LEB Meeting
@@ -4959,8 +5401,21 @@ DESCRIPTION:Wiatava Lodge 13 (Order of the Arrow\, Orange County)\nhttps:/
 URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-06-04-bb9a@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270604T070000Z
+DTEND:20270606T065900Z
+SUMMARY:Cub Scout Day Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:274270@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270606T170000Z
 DTEND:20270612T190000Z
 SUMMARY:NYLT 2027 – Summer @ RLM - For Boys
@@ -4978,7 +5433,7 @@ URL:https://global.scoutingevent.com/023-NYLT2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d3fcc614bc82@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270607T150000Z
 DTEND:20270607T150000Z
 SUMMARY:So. Sierra - Cub Day Camp 2027
@@ -4997,7 +5452,7 @@ URL:https://scoutingevent.com/047-DayCamp27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9a7c2a397a1f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270608T003000Z
 DTEND:20270608T003000Z
 SUMMARY:Trail to Eagle 2027 Week 1 at Trask
@@ -5015,7 +5470,7 @@ URL:https://scoutingevent.com/033-117574
 END:VEVENT
 BEGIN:VEVENT
 UID:x-38879ea88b73@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270609T020000Z
 DTEND:20270609T040000Z
 SUMMARY:Sea Scout Meeting
@@ -5028,7 +5483,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-99201199ed30@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270611T000000Z
 DTEND:20270613T235900Z
 SUMMARY:Sea Scout Cup Sailing Regatta
@@ -5041,7 +5496,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2174589580
 END:VEVENT
 BEGIN:VEVENT
 UID:x-e5600849a61f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270611T020000Z
 DTEND:20270611T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -5059,8 +5514,34 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
 URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-06-11-bb9a@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270611T070000Z
+DTEND:20270613T065900Z
+SUMMARY:Cub Scout Day Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-06-11-bc10@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270611T070000Z
+DTEND:20270612T065900Z
+SUMMARY:Scout Baseball Night at the Quakes
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-865dc6b16bf9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270612T000000Z
 DTEND:20270618T235900Z
 SUMMARY:Tahquitz STAFF WEEK
@@ -5073,7 +5554,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968050
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f5ff51b2bfc3@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T070000Z
 DTEND:20270614T065900Z
 SUMMARY:2027 HESR Camp Big Horn Summer Camp
@@ -5091,7 +5572,7 @@ URL:https://scoutingevent.com/033-HESRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:270511@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T183000Z
 DTEND:20270619T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Joint GYC Host 2027 - SA
@@ -5110,7 +5591,7 @@ URL:https://global.scoutingevent.com/047-119038
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-29c77122152c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T190000Z
 DTEND:20270613T190000Z
 SUMMARY:2027 Camp Cherry Valley Summer Camp
@@ -5128,7 +5609,7 @@ URL:https://scoutingevent.com/033-CCVSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266905@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T190000Z
 DTEND:20270619T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 1
@@ -5147,7 +5628,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277590@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T190000Z
 DTEND:20270619T170000Z
 SUMMARY:Camp Royaneh Summer Camp 2027 – Week 1
@@ -5165,7 +5646,7 @@ URL:https://global.scoutingevent.com/023-CR27
 END:VEVENT
 BEGIN:VEVENT
 UID:266924@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T190000Z
 DTEND:20270619T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 1
@@ -5183,7 +5664,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277580@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T190000Z
 DTEND:20270619T170000Z
 SUMMARY:Wente Scout Reservation Summer Camp 2027 – Week 1
@@ -5201,7 +5682,7 @@ URL:https://global.scoutingevent.com/023-WSR27
 END:VEVENT
 BEGIN:VEVENT
 UID:275820@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270613T200000Z
 DTEND:20270619T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 1
@@ -5220,7 +5701,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:x-8cfe3274b4d1@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270614T000000Z
 DTEND:20270614T235900Z
 SUMMARY:Rod & Reel Club
@@ -5233,7 +5714,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2a63ec5c10dd@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270614T000000Z
 DTEND:20270618T235900Z
 SUMMARY:Sea Base Staff Week
@@ -5246,7 +5727,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2174592341
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d41257518d1a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270615T003000Z
 DTEND:20270615T003000Z
 SUMMARY:Trail to Eagle 2027 Week 2 at Trask
@@ -5264,7 +5745,7 @@ URL:https://scoutingevent.com/033-117575
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9e54c6a1fc06@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270616T020000Z
 DTEND:20270616T040000Z
 SUMMARY:Sea Scout Meeting
@@ -5277,7 +5758,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-be398fb6bd5e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270617T020000Z
 DTEND:20270617T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -5290,7 +5771,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-06-19-326a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270619T160000Z
 DTEND:20270619T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -5305,7 +5786,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:x-80749c6f8eaf@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T000000Z
 DTEND:20270626T235900Z
 SUMMARY:Camp Tahquitz WEEK 1
@@ -5320,7 +5801,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968097
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-def30f0b913b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T070000Z
 DTEND:20270621T065900Z
 SUMMARY:2027 HESR Camp Big Horn Summer Camp
@@ -5338,7 +5819,7 @@ URL:https://scoutingevent.com/033-HESRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-764441064a87@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270620T190000Z
 SUMMARY:2027 Camp Cherry Valley Summer Camp
@@ -5356,7 +5837,7 @@ URL:https://scoutingevent.com/033-CCVSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:277218@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T033000Z
 SUMMARY:2027 NYLT Registration – NYLT 1
@@ -5374,7 +5855,7 @@ URL:https://global.scoutingevent.com/055-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:266906@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 2
@@ -5393,7 +5874,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277591@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Royaneh Summer Camp 2027 – Week 2
@@ -5411,7 +5892,7 @@ URL:https://global.scoutingevent.com/023-CR27
 END:VEVENT
 BEGIN:VEVENT
 UID:266936@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 1
@@ -5430,7 +5911,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277599@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Wolfeboro Summer Camp 2027 – Week 1
@@ -5448,7 +5929,7 @@ URL:https://global.scoutingevent.com/023-CW27
 END:VEVENT
 BEGIN:VEVENT
 UID:241549@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T160000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 1
@@ -5467,7 +5948,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266925@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 2
@@ -5485,7 +5966,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277581@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T190000Z
 DTEND:20270626T170000Z
 SUMMARY:Wente Scout Reservation Summer Camp 2027 – Week 2
@@ -5503,7 +5984,7 @@ URL:https://global.scoutingevent.com/023-WSR27
 END:VEVENT
 BEGIN:VEVENT
 UID:275821@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 2
@@ -5522,7 +6003,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276101@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T200000Z
 DTEND:20270623T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 1
@@ -5540,7 +6021,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263792@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 1
@@ -5558,7 +6039,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b3a844e68370@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270621T000000Z
 DTEND:20270625T235900Z
 SUMMARY:Sea Base WEEK 1
@@ -5571,7 +6052,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968149
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ff9bb2c0b5f5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270621T160000Z
 DTEND:20270621T160000Z
 SUMMARY:Cub Scout Day Camp at Trask
@@ -5589,7 +6070,7 @@ URL:https://scoutingevent.com/033-117580
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6a1d75270d52@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270622T160000Z
 DTEND:20270622T160000Z
 SUMMARY:Cub Scout Day Camp at Trask
@@ -5607,7 +6088,7 @@ URL:https://scoutingevent.com/033-117580
 END:VEVENT
 BEGIN:VEVENT
 UID:x-bc5dadae7bf0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270623T020000Z
 DTEND:20270623T040000Z
 SUMMARY:Sea Scout Meeting
@@ -5620,7 +6101,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-1a10497a7ffe@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270623T160000Z
 DTEND:20270623T160000Z
 SUMMARY:Cub Scout Day Camp at Trask
@@ -5638,7 +6119,7 @@ URL:https://scoutingevent.com/033-117580
 END:VEVENT
 BEGIN:VEVENT
 UID:276102@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270623T200000Z
 DTEND:20270626T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 2
@@ -5656,7 +6137,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f72c4ef6c44a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270624T160000Z
 DTEND:20270624T160000Z
 SUMMARY:Cub Scout Day Camp at Trask
@@ -5673,8 +6154,21 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
 URL:https://scoutingevent.com/033-117580
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-06-25-ce4e@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270625T070000Z
+DTEND:20270628T065900Z
+SUMMARY:PinaPalooza Webelos & AOL Weekend
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-f08ec0096d7f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270625T160000Z
 DTEND:20270625T160000Z
 SUMMARY:Cub Scout Day Camp at Trask
@@ -5692,7 +6186,7 @@ URL:https://scoutingevent.com/033-117580
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4061145c2f76@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270626T000000Z
 DTEND:20270626T235900Z
 SUMMARY:Tahquitz Staff Reunion BBQ
@@ -5705,7 +6199,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968173
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-06-26-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270626T160000Z
 DTEND:20270626T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -5720,7 +6214,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ba052219b113@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T000000Z
 DTEND:20270703T235900Z
 SUMMARY:Camp Tahquitz WEEK 2
@@ -5735,7 +6229,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968200
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-c766558935bf@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T070000Z
 DTEND:20270628T065900Z
 SUMMARY:2027 HESR Camp Big Horn Summer Camp
@@ -5753,7 +6247,7 @@ URL:https://scoutingevent.com/033-HESRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266907@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 3
@@ -5772,7 +6266,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277592@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Camp Royaneh Summer Camp 2027 – Week 3
@@ -5790,7 +6284,7 @@ URL:https://global.scoutingevent.com/023-CR27
 END:VEVENT
 BEGIN:VEVENT
 UID:266937@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 2
@@ -5809,7 +6303,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277600@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Camp Wolfeboro Summer Camp 2027 – Week 2
@@ -5827,7 +6321,7 @@ URL:https://global.scoutingevent.com/023-CW27
 END:VEVENT
 BEGIN:VEVENT
 UID:241552@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270704T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 2
@@ -5846,7 +6340,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266926@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 3
@@ -5864,7 +6358,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277582@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T190000Z
 DTEND:20270703T170000Z
 SUMMARY:Wente Scout Reservation Summer Camp 2027 – Week 3
@@ -5882,7 +6376,7 @@ URL:https://global.scoutingevent.com/023-WSR27
 END:VEVENT
 BEGIN:VEVENT
 UID:268230@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T200000Z
 DTEND:20270703T160000Z
 SUMMARY:2027 Adventure Week Camp Hi-Sierra
@@ -5900,7 +6394,7 @@ URL:https://global.scoutingevent.com/055-Venturing27CHS
 END:VEVENT
 BEGIN:VEVENT
 UID:275822@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T200000Z
 DTEND:20270703T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 3
@@ -5919,7 +6413,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276106@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270627T200000Z
 DTEND:20270630T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 3
@@ -5937,7 +6431,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-726af911f896@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270628T000000Z
 DTEND:20270628T235900Z
 SUMMARY:Rod & Reel Club
@@ -5950,7 +6444,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-331cd09aeb8c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270628T000000Z
 DTEND:20270701T235900Z
 SUMMARY:Sea Base WEEK 2
@@ -5964,7 +6458,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968224
 END:VEVENT
 BEGIN:VEVENT
 UID:268892@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270628T150000Z
 DTEND:20270702T230000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 1: June 28th - July 2nd
@@ -5982,7 +6476,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268881@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270628T150000Z
 DTEND:20270702T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 1: June 28th - July
@@ -6001,7 +6495,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-118e7bf5186f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270629T003000Z
 DTEND:20270629T003000Z
 SUMMARY:Trail to Eagle 2027 Week 3 at Trask
@@ -6019,7 +6513,7 @@ URL:https://scoutingevent.com/033-117576
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9400748ddc3e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270630T020000Z
 DTEND:20270630T040000Z
 SUMMARY:Sea Scout Meeting
@@ -6032,7 +6526,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:276103@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270630T200000Z
 DTEND:20270703T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – AOL and Webelos Camp
@@ -6050,7 +6544,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b14c02a4c6ce@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270701T000000Z
 DTEND:20270701T235900Z
 SUMMARY:Camp Cards - Spring Campaign Money Due
@@ -6064,7 +6558,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/1935405840
 END:VEVENT
 BEGIN:VEVENT
 UID:x-68bbea47387c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270702T020000Z
 DTEND:20270702T030000Z
 SUMMARY:LEB Meeting
@@ -6082,7 +6576,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c85f2382f12d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T000000Z
 DTEND:20270710T235900Z
 SUMMARY:Camp Tahquitz WEEK 3
@@ -6097,7 +6591,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968302
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-be4441c6febc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T070000Z
 DTEND:20270705T065900Z
 SUMMARY:2027 HESR Camp Big Horn Summer Camp
@@ -6115,7 +6609,7 @@ URL:https://scoutingevent.com/033-HESRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266908@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 4
@@ -6134,7 +6628,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277593@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Royaneh Summer Camp 2027 – Week 4
@@ -6152,7 +6646,7 @@ URL:https://global.scoutingevent.com/023-CR27
 END:VEVENT
 BEGIN:VEVENT
 UID:266938@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 3
@@ -6171,7 +6665,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277601@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Wolfeboro Summer Camp 2027 – Week 3
@@ -6189,7 +6683,7 @@ URL:https://global.scoutingevent.com/023-CW27
 END:VEVENT
 BEGIN:VEVENT
 UID:241551@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270711T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 3 - Save $45 Per Particpant
@@ -6208,7 +6702,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266927@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 4
@@ -6226,7 +6720,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277583@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T190000Z
 DTEND:20270710T170000Z
 SUMMARY:Wente Scout Reservation Summer Camp 2027 – Week 4
@@ -6244,7 +6738,7 @@ URL:https://global.scoutingevent.com/023-WSR27
 END:VEVENT
 BEGIN:VEVENT
 UID:275823@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 4
@@ -6263,7 +6757,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273327@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T200000Z
 DTEND:20270710T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 1
@@ -6281,7 +6775,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263793@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 3
@@ -6299,7 +6793,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:x-bd78929b7756@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270705T000000Z
 DTEND:20270708T235900Z
 SUMMARY:Sea Base WEEK 3
@@ -6313,7 +6807,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968339
 END:VEVENT
 BEGIN:VEVENT
 UID:268893@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270705T150000Z
 DTEND:20270709T230000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 2 July 5th - 9th
@@ -6331,7 +6825,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268878@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270705T150000Z
 DTEND:20270709T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 2: July 5th - 9th
@@ -6349,7 +6843,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ab7ccc7d6910@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270706T003000Z
 DTEND:20270706T003000Z
 SUMMARY:So. Sierra - Cub Twilight Camp 2027
@@ -6368,7 +6862,7 @@ URL:https://scoutingevent.com/047-Twilight27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-11f5c96007f7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270706T003000Z
 DTEND:20270706T003000Z
 SUMMARY:Trail to Eagle 2027 Week 4 at Trask
@@ -6385,8 +6879,21 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
 URL:https://scoutingevent.com/033-117577
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-07-06-861c@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270706T070000Z
+DTEND:20270710T065900Z
+SUMMARY:Cub Scout Twilight Day Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-d1b5f3fcb5c8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270707T020000Z
 DTEND:20270707T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -6400,7 +6907,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1fff5e53f596@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270707T020000Z
 DTEND:20270707T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -6412,7 +6919,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-64e18f3de54b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270707T020000Z
 DTEND:20270707T040000Z
 SUMMARY:Sea Scout Meeting
@@ -6425,7 +6932,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c8a88b37ac22@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270708T020000Z
 DTEND:20270708T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -6438,7 +6945,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9068081b7d72@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270709T020000Z
 DTEND:20270709T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -6457,7 +6964,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-76bcc28dedc4@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T000000Z
 DTEND:20270717T235900Z
 SUMMARY:Camp Tahquitz WEEK 4
@@ -6472,7 +6979,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968421
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ce1424c88f20@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T070000Z
 DTEND:20270712T065900Z
 SUMMARY:2027 HESR Camp Big Horn Summer Camp
@@ -6489,8 +6996,21 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
 URL:https://scoutingevent.com/033-HESRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-07-11-bc31@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270711T070000Z
+DTEND:20270718T065900Z
+SUMMARY:Scouts BSA Summer Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:bp-b356a20b1fd7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270711T190000Z
 SUMMARY:2027 Camp Cherry Valley Summer Camp
@@ -6508,7 +7028,7 @@ URL:https://scoutingevent.com/033-CCVSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266909@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 5
@@ -6527,7 +7047,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277594@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Royaneh Summer Camp 2027 – Week 5
@@ -6545,7 +7065,7 @@ URL:https://global.scoutingevent.com/023-CR27
 END:VEVENT
 BEGIN:VEVENT
 UID:266939@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 4
@@ -6564,7 +7084,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277602@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Wolfeboro Summer Camp 2027 – Week 4
@@ -6582,7 +7102,7 @@ URL:https://global.scoutingevent.com/023-CW27
 END:VEVENT
 BEGIN:VEVENT
 UID:241550@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270718T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 4
@@ -6601,7 +7121,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266928@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 5
@@ -6619,7 +7139,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277584@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T190000Z
 DTEND:20270717T170000Z
 SUMMARY:Wente Scout Reservation Summer Camp 2027 – Week 5
@@ -6637,7 +7157,7 @@ URL:https://global.scoutingevent.com/023-WSR27
 END:VEVENT
 BEGIN:VEVENT
 UID:275824@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 5
@@ -6656,7 +7176,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273328@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T200000Z
 DTEND:20270717T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 2
@@ -6674,7 +7194,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263794@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 4
@@ -6692,7 +7212,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:x-aca63c0537ca@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270712T000000Z
 DTEND:20270712T235900Z
 SUMMARY:Rod & Reel Club
@@ -6705,7 +7225,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-459cf62ded06@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270712T000000Z
 DTEND:20270716T235900Z
 SUMMARY:Sea Base WEEK 4
@@ -6719,7 +7239,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968444
 END:VEVENT
 BEGIN:VEVENT
 UID:268889@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270712T150000Z
 DTEND:20270716T233000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 3: July 12th - 16th
@@ -6737,7 +7257,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268879@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270712T150000Z
 DTEND:20270716T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 3:  July 12th - Jul
@@ -6756,7 +7276,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-d7ee3a4005c0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270713T023000Z
 DTEND:20270713T023000Z
 SUMMARY:Cub Twilight Camp 2027 at Trask
@@ -6774,7 +7294,7 @@ URL:https://scoutingevent.com/033-117578
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6c492747ddea@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270714T020000Z
 DTEND:20270714T030000Z
 SUMMARY:Merit Badge Counselor Training
@@ -6786,7 +7306,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3087f1afb454@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270714T020000Z
 DTEND:20270714T040000Z
 SUMMARY:Sea Scout Meeting
@@ -6799,7 +7319,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-9b2ab2f02e2b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270714T023000Z
 DTEND:20270714T023000Z
 SUMMARY:Cub Twilight Camp 2027 at Trask
@@ -6817,7 +7337,7 @@ URL:https://scoutingevent.com/033-117578
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-43af035c6023@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270714T070000Z
 DTEND:20270715T065900Z
 SUMMARY:2027 HESR Camp Big Horn Summer Camp
@@ -6835,7 +7355,7 @@ URL:https://scoutingevent.com/033-HESRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-c45fee73adc0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270715T023000Z
 DTEND:20270715T023000Z
 SUMMARY:Cub Twilight Camp 2027 at Trask
@@ -6853,7 +7373,7 @@ URL:https://scoutingevent.com/033-117578
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-33dd6daaf78b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270716T023000Z
 DTEND:20270716T023000Z
 SUMMARY:Cub Twilight Camp 2027 at Trask
@@ -6871,7 +7391,7 @@ URL:https://scoutingevent.com/033-117578
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-81bc1deff5f8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270717T023000Z
 DTEND:20270717T023000Z
 SUMMARY:Cub Twilight Camp 2027 at Trask
@@ -6889,7 +7409,7 @@ URL:https://scoutingevent.com/033-117578
 END:VEVENT
 BEGIN:VEVENT
 UID:x-5b3ec6a602fd@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270717T160000Z
 DTEND:20270717T210000Z
 SUMMARY:Archery & BB Instructor Training
@@ -6901,7 +7421,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968389
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4850b42f89d9@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T000000Z
 DTEND:20270724T235900Z
 SUMMARY:Camp Tahquitz WEEK 5
@@ -6916,7 +7436,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968473
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-fd17b1e4f3bc@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270718T190000Z
 SUMMARY:2027 Camp Cherry Valley Summer Camp
@@ -6934,7 +7454,7 @@ URL:https://scoutingevent.com/033-CCVSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:277219@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T033000Z
 SUMMARY:2027 NYLT Registration – NYLT 2
@@ -6952,7 +7472,7 @@ URL:https://global.scoutingevent.com/055-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:266910@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Royaneh 2027 – Week 6
@@ -6971,7 +7491,7 @@ URL:https://global.scoutingevent.com/023-CR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277595@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Royaneh Summer Camp 2027 – Week 6
@@ -6989,7 +7509,7 @@ URL:https://global.scoutingevent.com/023-CR27
 END:VEVENT
 BEGIN:VEVENT
 UID:266940@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 5
@@ -7008,7 +7528,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277603@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Wolfeboro Summer Camp 2027 – Week 5
@@ -7026,7 +7546,7 @@ URL:https://global.scoutingevent.com/023-CW27
 END:VEVENT
 BEGIN:VEVENT
 UID:245247@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270725T000000Z
 SUMMARY:Tahquitz Summer Camp 2027 – Session 5
@@ -7045,7 +7565,7 @@ URL:https://global.scoutingevent.com/032-Tahquitz2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266929@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Wente Scout Reservation 2027 – Week 6
@@ -7063,7 +7583,7 @@ URL:https://global.scoutingevent.com/023-WSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277585@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T190000Z
 DTEND:20270724T170000Z
 SUMMARY:Wente Scout Reservation Summer Camp 2027 – Week 6
@@ -7081,7 +7601,7 @@ URL:https://global.scoutingevent.com/023-WSR27
 END:VEVENT
 BEGIN:VEVENT
 UID:275825@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 6
@@ -7100,7 +7620,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273331@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T200000Z
 DTEND:20270724T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 3
@@ -7118,7 +7638,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263795@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 5
@@ -7136,7 +7656,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6a2224d06b49@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270719T000000Z
 DTEND:20270723T235900Z
 SUMMARY:Sea Base WEEK 5
@@ -7149,8 +7669,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://teamup.com/ksy4jt5xp5jpo7udhj
 URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968493
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-07-19-bc31@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270719T070000Z
+DTEND:20270725T065900Z
+SUMMARY:Scouts BSA Summer Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:268890@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270719T150000Z
 DTEND:20270723T233000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 4:  July 19th - July 23rd
@@ -7168,7 +7701,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268880@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270719T150000Z
 DTEND:20270723T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 4: July 19th - July
@@ -7187,7 +7720,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:277488@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270719T190000Z
 DTEND:20270724T230000Z
 SUMMARY:NYLT 2027 – NYLT
@@ -7205,7 +7738,7 @@ URL:https://global.scoutingevent.com/053-2027NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b69adf95929d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270721T020000Z
 DTEND:20270721T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7218,7 +7751,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9794284b2bb8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270722T020000Z
 DTEND:20270722T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -7231,7 +7764,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8a72f05112af@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270725T070000Z
 DTEND:20270726T065900Z
 SUMMARY:NOAC 2027
@@ -7248,7 +7781,7 @@ URL:https://scoutingevent.com/053-NOAC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-f5714d089cd7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270725T190000Z
 DTEND:20270725T190000Z
 SUMMARY:2027 Camp Cherry Valley Summer Camp
@@ -7266,7 +7799,7 @@ URL:https://scoutingevent.com/033-CCVSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266941@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270725T190000Z
 DTEND:20270731T170000Z
 SUMMARY:Camp Wolfeboro 2027 – Week 6
@@ -7285,7 +7818,7 @@ URL:https://global.scoutingevent.com/023-CW2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277604@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270725T190000Z
 DTEND:20270731T170000Z
 SUMMARY:Camp Wolfeboro Summer Camp 2027 – Week 6
@@ -7303,7 +7836,7 @@ URL:https://global.scoutingevent.com/023-CW27
 END:VEVENT
 BEGIN:VEVENT
 UID:275826@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 7
@@ -7322,7 +7855,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:263796@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:Camp Hi-Sierra 2027 – Week 6
@@ -7340,7 +7873,7 @@ URL:https://global.scoutingevent.com/055-CHS27
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c98d67f4e135@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270726T000000Z
 DTEND:20270726T235900Z
 SUMMARY:Camp Coyote - A Camp Tahquitz Experience
@@ -7355,7 +7888,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968714
 END:VEVENT
 BEGIN:VEVENT
 UID:x-df98cb5767f8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270726T000000Z
 DTEND:20270726T235900Z
 SUMMARY:Rod & Reel Club
@@ -7368,7 +7901,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:268895@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270726T150000Z
 DTEND:20270730T233000Z
 SUMMARY:Adventure Day Camp (11-17) – Week 5: July 26th - July 30th
@@ -7386,7 +7919,7 @@ URL:https://global.scoutingevent.com/039-118200
 END:VEVENT
 BEGIN:VEVENT
 UID:268882@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270726T150000Z
 DTEND:20270730T230000Z
 SUMMARY:Junior Adventure Day Camp (Ages 6-10) – Week 5: July 26th - July
@@ -7405,7 +7938,7 @@ URL:https://global.scoutingevent.com/039-118198
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1c86f0ad1260@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270727T000000Z
 DTEND:20270727T235900Z
 SUMMARY:Camp Coyote - A Camp Tahquitz Experience
@@ -7420,7 +7953,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968787
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f3b45ea26597@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270728T020000Z
 DTEND:20270728T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7432,8 +7965,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-07-29-8474@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270729T070000Z
+DTEND:20270802T065900Z
+SUMMARY:Cub Scout Family Adventure Camp
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-4d8f721245c2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270730T000000Z
 DTEND:20270801T235900Z
 SUMMARY:Webelos Weekend
@@ -7447,7 +7993,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968566
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-0e0964a696ce@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270730T160000Z
 DTEND:20270730T160000Z
 SUMMARY:26th World Scout Jamboree
@@ -7461,7 +8007,7 @@ URL:https://scoutingevent.com/033-WJ
 END:VEVENT
 BEGIN:VEVENT
 UID:x-88587a2ae5b6@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270731T010000Z
 DTEND:20270801T000000Z
 SUMMARY:Tahquitz Camp Master Training - Fall
@@ -7474,7 +8020,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104968814
 END:VEVENT
 BEGIN:VEVENT
 UID:x-78e0334c5558@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270802T000000Z
 DTEND:20270806T235900Z
 SUMMARY:Camp Tahquitz Rental Week #1
@@ -7486,7 +8032,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104969679
 END:VEVENT
 BEGIN:VEVENT
 UID:x-276d2a9ff54c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270802T000000Z
 DTEND:20270806T235900Z
 SUMMARY:Sea Base WEEK 7
@@ -7500,7 +8046,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104969064
 END:VEVENT
 BEGIN:VEVENT
 UID:x-192dc7652506@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270804T020000Z
 DTEND:20270804T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -7514,7 +8060,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a43409716d33@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270804T020000Z
 DTEND:20270804T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -7526,7 +8072,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-e5b460ca00da@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270804T020000Z
 DTEND:20270804T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7539,7 +8085,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-467a2b8a5c08@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270805T020000Z
 DTEND:20270805T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -7552,7 +8098,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3f5acfbc8a80@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270806T020000Z
 DTEND:20270806T030000Z
 SUMMARY:LEB Meeting
@@ -7570,7 +8116,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-08-06-326a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270806T160000Z
 DTEND:20270806T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -7585,7 +8131,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a45d14679c16@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270809T000000Z
 DTEND:20270813T235900Z
 SUMMARY:Camp Tahquitz Rental Week #2
@@ -7597,7 +8143,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104969694
 END:VEVENT
 BEGIN:VEVENT
 UID:x-df7042393ace@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270809T000000Z
 DTEND:20270809T235900Z
 SUMMARY:Rod & Reel Club
@@ -7610,7 +8156,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-16a171988bb2@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270809T000000Z
 DTEND:20270813T235900Z
 SUMMARY:Sea Base WEEK 8
@@ -7624,7 +8170,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2104969230
 END:VEVENT
 BEGIN:VEVENT
 UID:x-5a721b10c385@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270811T020000Z
 DTEND:20270811T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7637,7 +8183,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-1ccfea02fa32@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270813T020000Z
 DTEND:20270813T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -7656,7 +8202,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f1ac234f9c3d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270814T150000Z
 DTEND:20270814T210000Z
 SUMMARY:Arrow Tour Family Bike Ride
@@ -7672,7 +8218,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2147566057
 END:VEVENT
 BEGIN:VEVENT
 UID:x-75a24575b3a8@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270818T020000Z
 DTEND:20270818T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7685,7 +8231,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ce86b89de900@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270819T020000Z
 DTEND:20270819T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -7698,7 +8244,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a0d50a70e42b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270820T000000Z
 DTEND:20270822T235900Z
 SUMMARY:OA - G18S Conclave
@@ -7710,7 +8256,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2147552905
 END:VEVENT
 BEGIN:VEVENT
 UID:x-756a65a5e7df@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270823T000000Z
 DTEND:20270823T235900Z
 SUMMARY:Rod & Reel Club
@@ -7723,7 +8269,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-13183b97408d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270825T020000Z
 DTEND:20270825T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7736,7 +8282,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-99fd3c48a623@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270827T000000Z
 DTEND:20270828T235900Z
 SUMMARY:Tri-Council Woodbadge - Weekend #1
@@ -7749,7 +8295,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2153577257
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f1478e745b2e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270828T000000Z
 DTEND:20270828T235900Z
 SUMMARY:Poseidon Adventures NJROTC Regatta
@@ -7761,7 +8307,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:268782@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270828T010000Z
 DTEND:20270829T200000Z
 SUMMARY:Introduction to Outdoor Leader Skills (iOLS) (S11) – iOLS
@@ -7779,7 +8325,7 @@ URL:https://global.scoutingevent.com/055-118158
 END:VEVENT
 BEGIN:VEVENT
 UID:x-b907b9dc811b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270901T020000Z
 DTEND:20270901T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7792,7 +8338,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-2b8b5ad91491@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270903T000000Z
 DTEND:20270906T235900Z
 SUMMARY:Tahquitz: Annual Induction
@@ -7806,7 +8352,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2147562913
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4a2c3b17c29b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270903T020000Z
 DTEND:20270903T030000Z
 SUMMARY:LEB Meeting
@@ -7824,7 +8370,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:270499@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270904T010000Z
 DTEND:20270906T230000Z
 SUMMARY:National Youth Leadership Training (NYLT) GCC Fall 2027 - SAVE the
@@ -7843,7 +8389,7 @@ URL:https://global.scoutingevent.com/047-119034
 END:VEVENT
 BEGIN:VEVENT
 UID:x-547e2a913e0b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270908T020000Z
 DTEND:20270908T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -7857,7 +8403,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c6bd02406b75@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270908T020000Z
 DTEND:20270908T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -7869,7 +8415,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f918f0110209@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270908T020000Z
 DTEND:20270908T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7882,7 +8428,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6e16107d5184@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270910T020000Z
 DTEND:20270910T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -7900,8 +8446,21 @@ DESCRIPTION:Western Los Angeles County Council\nhttps://www.facebook.com/g
 URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-09-10-656b@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270910T070000Z
+DTEND:20270913T065900Z
+SUMMARY:Wood Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-df3293a5c24d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270911T000000Z
 DTEND:20270911T235900Z
 SUMMARY:Sea Base Poseidon Days Navy Jr ROTC
@@ -7913,7 +8472,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192306229
 END:VEVENT
 BEGIN:VEVENT
 UID:270500@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270911T010000Z
 DTEND:20270912T223000Z
 SUMMARY:National Youth Leadership Training (NYLT) GCC Fall 2027 - SAVE the
@@ -7932,7 +8491,7 @@ URL:https://global.scoutingevent.com/047-119034
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-09-11-326a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270911T160000Z
 DTEND:20270911T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -7947,7 +8506,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:x-c5f7a730d8a5@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270913T000000Z
 DTEND:20270913T235900Z
 SUMMARY:Rod & Reel Club
@@ -7960,7 +8519,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4637cf2a159c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270915T020000Z
 DTEND:20270915T040000Z
 SUMMARY:Sea Scout Meeting
@@ -7973,7 +8532,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-405f9ac18e46@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270916T020000Z
 DTEND:20270916T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -7986,7 +8545,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a457fb2b3dff@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270918T000000Z
 DTEND:20270918T235900Z
 SUMMARY:Boating Safety Day & CA Coastal Clean Up
@@ -8001,7 +8560,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192305825
 END:VEVENT
 BEGIN:VEVENT
 UID:270502@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270918T180000Z
 DTEND:20270919T220000Z
 SUMMARY:IOLS and BALOO Sept 18-19\, 2027 SAVE THE DATE – IOLS
@@ -8020,7 +8579,7 @@ URL:https://global.scoutingevent.com/047-119035
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ba60a45977de@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270922T020000Z
 DTEND:20270922T040000Z
 SUMMARY:Sea Scout Meeting
@@ -8032,8 +8591,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
 URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-09-24-a5ad@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270924T070000Z
+DTEND:20270927T065900Z
+SUMMARY:Adventure Weekend
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:270505@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270924T143000Z
 DTEND:20270927T003000Z
 SUMMARY:2027 Fall Wood Badge - SAVE THE DATE – Fall Wood Badge
@@ -8051,7 +8623,7 @@ URL:https://global.scoutingevent.com/047-119036
 END:VEVENT
 BEGIN:VEVENT
 UID:266206@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270925T000000Z
 DTEND:20270926T190000Z
 SUMMARY:Fort Chesebrough Mountain Rendezvous 2027 – Mountain Rendezvous
@@ -8068,8 +8640,21 @@ DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
 URL:https://global.scoutingevent.com/055-MountainRendezvous2027
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-09-25-bbde@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20270925T070000Z
+DTEND:20270926T065900Z
+SUMMARY:Merit Badge Academy at Adventure Weekend
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-cb51bbe4e836@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270927T000000Z
 DTEND:20270927T235900Z
 SUMMARY:Rod & Reel Club
@@ -8082,7 +8667,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ae187a09e13f@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20270929T020000Z
 DTEND:20270929T040000Z
 SUMMARY:Sea Scout Meeting
@@ -8095,7 +8680,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-65195700b531@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271001T000000Z
 DTEND:20271003T235900Z
 SUMMARY:Tri-Council Woodbadge - Weekend #2
@@ -8108,7 +8693,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2173157633
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a4d27315cb35@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271002T000000Z
 DTEND:20271003T235900Z
 SUMMARY:IOLS/BALOO - Fall
@@ -8120,8 +8705,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://www.longbeachbsa.org/iolsbalo
 URL:https://www.longbeachbsa.org/iolsbaloo/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-10-02-656b@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271002T070000Z
+DTEND:20271004T065900Z
+SUMMARY:Wood Badge
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-608cabc7a60a@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271002T160000Z
 DTEND:20271002T220000Z
 SUMMARY:Merit Badge University
@@ -8137,7 +8735,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2192311732
 END:VEVENT
 BEGIN:VEVENT
 UID:x-19c03a3494ba@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271006T020000Z
 DTEND:20271006T030000Z
 SUMMARY:AV Life to Eagle Seminar
@@ -8151,7 +8749,7 @@ URL:https://www.scouting-la.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a17efdedf37d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271006T020000Z
 DTEND:20271006T030000Z
 SUMMARY:Order of the Arrow Meeting
@@ -8163,7 +8761,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-133477401da7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271006T020000Z
 DTEND:20271006T040000Z
 SUMMARY:Sea Scout Meeting
@@ -8176,7 +8774,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4aa3fc5fdaf7@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271007T020000Z
 DTEND:20271007T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -8189,7 +8787,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-7685cef37143@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271008T000000Z
 DTEND:20271010T235900Z
 SUMMARY:Monster Mountain at Camp Terror-quitz
@@ -8203,7 +8801,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2131970535
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6097ad29146d@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271008T020000Z
 DTEND:20271008T030000Z
 SUMMARY:LEB Meeting
@@ -8220,8 +8818,21 @@ DESCRIPTION:Wiatava Lodge 13 (Order of the Arrow\, Orange County)\nhttps:/
 URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-10-08-a6f6@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271008T070000Z
+DTEND:20271011T065900Z
+SUMMARY:Zombie Survival Weekend
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:270506@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271009T070000Z
 DTEND:20271011T065900Z
 SUMMARY:2027 Fall Wood Badge - SAVE THE DATE – Fall Wood Badge Wknd #2
@@ -8239,7 +8850,7 @@ URL:https://global.scoutingevent.com/047-119036
 END:VEVENT
 BEGIN:VEVENT
 UID:277721@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271009T150000Z
 DTEND:20271009T200000Z
 SUMMARY:Monster Mountain at Camp Terrorquitz 2027 – Tahquitz - Sat. MB C
@@ -8260,7 +8871,7 @@ URL:https://global.scoutingevent.com/032-MonsterMountain2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-51dd932a500e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271011T000000Z
 DTEND:20271011T235900Z
 SUMMARY:Rod & Reel Club
@@ -8273,7 +8884,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d1949dabb41c@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271013T020000Z
 DTEND:20271013T030000Z
 SUMMARY:Merit Badge Counselor Training
@@ -8285,7 +8896,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-430dc9033669@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271013T020000Z
 DTEND:20271013T040000Z
 SUMMARY:Sea Scout Meeting
@@ -8298,7 +8909,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-af10dcead509@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271015T000000Z
 DTEND:20271017T235900Z
 SUMMARY:Cub-BOO-Ree
@@ -8317,7 +8928,7 @@ URL:https://teamup.com/ksy4jt5xp5jpo7udhj/events/2153575828
 END:VEVENT
 BEGIN:VEVENT
 UID:x-01c544c125ee@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271015T020000Z
 DTEND:20271015T030000Z
 SUMMARY:CC: Order of the Arrow
@@ -8336,7 +8947,7 @@ URL:https://www.facebook.com/groups/AlliklikChapter/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-8cd6163ac243@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271016T000000Z
 DTEND:20271016T235900Z
 SUMMARY:Jamboree on the Air/Internet
@@ -8348,8 +8959,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://www.longbeachbsa.org/calendar
 URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-10-16-8811@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271016T070000Z
+DTEND:20271018T065900Z
+SUMMARY:Eerie Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:x-27958e747173@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271020T020000Z
 DTEND:20271020T040000Z
 SUMMARY:Sea Scout Meeting
@@ -8362,7 +8986,7 @@ URL:https://longbeachseabase.com/scouts/join/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-14b21181942b@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271021T020000Z
 DTEND:20271021T033000Z
 SUMMARY:Tahquitz Community Meeting
@@ -8374,8 +8998,21 @@ DESCRIPTION:Long Beach Area Council\nhttps://www.longbeachbsa.org/calendar
 URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-10-23-8811@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271023T070000Z
+DTEND:20271025T065900Z
+SUMMARY:Eerie Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-10-23-519e@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271023T160000Z
 DTEND:20271023T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -8390,7 +9027,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-bd1449ed8619@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271025T000000Z
 DTEND:20271025T235900Z
 SUMMARY:Rod & Reel Club
@@ -8403,7 +9040,7 @@ URL:https://longbeachseabase.com/fishing/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9c99791f84c0@scout-event-finder
-DTSTAMP:20261028T193940Z
+DTSTAMP:20261029T172538Z
 DTSTART:20271027T020000Z
 DTEND:20271027T040000Z
 SUMMARY:Sea Scout Meeting
@@ -8413,5 +9050,57 @@ DESCRIPTION:Long Beach Area Council\nhttps://longbeachseabase.com/scouts/j
  oin/\n\n\n\nParticipants: Sea Scouts -- Age: 13-20\n\nStaff Advisor: Kris
  ten Verdoia\n\nWeb Link: https://longbeachseabase.com/scouts/join/
 URL:https://longbeachseabase.com/scouts/join/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-11-05-b186@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271105T070000Z
+DTEND:20271108T075900Z
+SUMMARY:BALOO at Camp Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-11-05-6d57@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271105T070000Z
+DTEND:20271108T075900Z
+SUMMARY:IOLS at Camp Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-11-12-879e@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271112T080000Z
+DTEND:20271115T075900Z
+SUMMARY:Merit Badge Academy at Camp Emerson
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:p-california-inland-empire-council-2027-12-27-39a0@scout-event-finder
+DTSTAMP:20261029T172538Z
+DTSTART:20271227T080000Z
+DTEND:20280103T075900Z
+SUMMARY:NYLT National Youth Leadership Training
+LOCATION:California Inland Empire Council\, Redlands\, California
+DESCRIPTION:California Inland Empire Council\nhttps://iescouts.org/events/
+ \n\n\n\nFrom the council's month-by-month events page. Times\, locations 
+ and registration are on the council's website. (Listed on the council's e
+ vents page - confirm on the organizer's page before you go.)
+URL:https://iescouts.org/events/
 END:VEVENT
 END:VCALENDAR
