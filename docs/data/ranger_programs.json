@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -141,7 +141,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-10-29",
     "2026-10-30",
     "2026-10-31",
     "2026-11-01",
@@ -152,9 +151,10 @@
     "2026-11-06",
     "2026-11-07",
     "2026-11-08",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-10"
    ],
-   "count": 1352,
+   "count": 1351,
    "free": true,
    "lat": null,
    "lng": null,
@@ -168,12 +168,11 @@
    "where": "Stovepipe Wells Resort\nDeath Valley National Park\n51880 Highway 190\nDeath Valley, CA 92328",
    "time": "09:00 AM - 10:00 PM",
    "nextDates": [
-    "2026-10-29",
     "2026-10-30",
     "2026-10-31",
     "2026-11-01"
    ],
-   "count": 4,
+   "count": 3,
    "free": false,
    "lat": null,
    "lng": null,
@@ -348,50 +347,15 @@
    "where": "Meet in front of the Giant Forest Museum",
    "time": "11:00 AM - 11:30 AM",
    "nextDates": [
-    "2026-10-29",
     "2026-10-30",
     "2026-10-31"
    ],
-   "count": 3,
+   "count": 2,
    "free": true,
    "lat": 36.564688,
    "lng": -118.772683,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Grant Grove Revealed (Grant Grove Area)",
-   "where": "Grant Tree Trailhead",
-   "time": "10:30 AM - 12:00 PM",
-   "nextDates": [
-    "2026-10-29"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.747062,
-   "lng": -118.973092,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Stop by to learn more about sequoias and the history of the grove. Stay for 5 minutes or 30 minutes. A ranger is available from 10:30 am to 12 noon."
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Ranger's Choice Talk (Grant Grove Area)",
-   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
-   "time": "02:00 PM - 02:30 PM",
-   "nextDates": [
-    "2026-10-29",
-    "2026-10-30",
-    "2026-10-31"
-   ],
-   "count": 3,
-   "free": true,
-   "lat": 36.74023,
-   "lng": -118.962665,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",
@@ -408,6 +372,23 @@
    "lng": -118.971258,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Ranger's Choice Talk (Grant Grove Area)",
+   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
+   "time": "02:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-10-30",
+    "2026-10-31"
+   ],
+   "count": 2,
+   "free": true,
+   "lat": 36.74023,
+   "lng": -118.962665,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",

@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:276085@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20261108T120000Z
 DTEND:20261108T163000Z
 SUMMARY:2do. Colegio de Ciencias de Comisionados 2026-27 – Morning
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/661-121968
 END:VEVENT
 BEGIN:VEVENT
 UID:276086@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20261108T170000Z
 DTEND:20261108T203000Z
 SUMMARY:2do. Colegio de Ciencias de Comisionados 2026-27 – Afternoon
@@ -42,8 +42,44 @@ DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-1219
 URL:https://global.scoutingevent.com/661-121968
 END:VEVENT
 BEGIN:VEVENT
+UID:277803@scout-event-finder
+DTSTAMP:20261030T171202Z
+DTSTART:20261226T170000Z
+DTEND:20261230T150000Z
+SUMMARY:Campamento Guajataka Navidad 2026 – Campamento Navidad
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-Navi
+ dad2026\n\n\n\nEstamos encantados de recibirles en esta edición especial
+  navideña del 26 al 30 de\ndiciembre de 2026. Durante estos días\, nos 
+ sumergiremos en la magia de la Navidad\nmientras disfrutamos de la natura
+ leza y las actividades al aire libre que hacen de\nGuajataka un lugar tan
+  especial.\nNuestro equipo ha preparado una variedad de actividades emoci
+ onantes que\ncombinan la alegría de la temporada festiva con la aventura
+  y la camaradería del\ncampamento. Desde caminatas por senderos decorado
+ s con luces navi
+URL:https://global.scoutingevent.com/661-Navidad2026
+END:VEVENT
+BEGIN:VEVENT
+UID:277804@scout-event-finder
+DTSTAMP:20261030T171202Z
+DTSTART:20261228T120000Z
+DTEND:20261229T210000Z
+SUMMARY:Campamento Guajataka Navidad 2026 – Dia de Visita
+LOCATION:Guajataka Scout Reservation\, San Sebastian\, Puerto Rico
+DESCRIPTION:Puerto Rico Council\nhttps://global.scoutingevent.com/661-Navi
+ dad2026\n\n\n\nEstamos encantados de recibirles en esta edición especial
+  navideña del 26 al 30 de\ndiciembre de 2026. Durante estos días\, nos 
+ sumergiremos en la magia de la Navidad\nmientras disfrutamos de la natura
+ leza y las actividades al aire libre que hacen de\nGuajataka un lugar tan
+  especial.\nNuestro equipo ha preparado una variedad de actividades emoci
+ onantes que\ncombinan la alegría de la temporada festiva con la aventura
+  y la camaradería del\ncampamento. Desde caminatas por senderos decorado
+ s con luces navi
+URL:https://global.scoutingevent.com/661-Navidad2026
+END:VEVENT
+BEGIN:VEVENT
 UID:276956@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270704T150000Z
 DTEND:20270710T150000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – P
@@ -62,7 +98,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276961@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270707T110000Z
 DTEND:20270708T000000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
@@ -81,7 +117,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276957@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270711T150000Z
 DTEND:20270717T150000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – S
@@ -100,7 +136,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276962@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270714T110000Z
 DTEND:20270715T000000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
@@ -119,7 +155,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276958@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270718T150000Z
 DTEND:20270724T150000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – T
@@ -138,7 +174,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276963@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270721T110000Z
 DTEND:20270722T000000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
@@ -157,7 +193,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276959@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270725T150000Z
 DTEND:20270731T150000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – C
@@ -176,7 +212,7 @@ URL:https://global.scoutingevent.com/661-122442
 END:VEVENT
 BEGIN:VEVENT
 UID:276964@scout-event-finder
-DTSTAMP:20261029T172538Z
+DTSTAMP:20261030T171202Z
 DTSTART:20270728T110000Z
 DTEND:20270729T000000Z
 SUMMARY:Campamento de Verano / Summer Camp 2027 - Troops/Crews/Ships – D
