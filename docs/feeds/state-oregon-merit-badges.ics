@@ -6,8 +6,26 @@ X-WR-CALNAME:Scout Events – Oregon Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:277985@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20270619T180000Z
+DTEND:20270627T220000Z
+SUMMARY:Horse Trek – Eastbound
+LOCATION:Virtual\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 122999\n\nHorsemanship\n\nEmbark on the Horseback Ride of a Lifetime\nSad
+ dle up for an unforgettable ten-day journey across 165 miles of breathtak
+ ing wilderness! Join fellow Scouts as you ride through the majestic Mt. H
+ ood Wilderness\, learning the art of horse-packing\, wilderness survival\
+ , and soaking in cowboy tales from Head Wrangler Daniel Lawson and his te
+ am of experienced wranglers. Each day brings new adventures\, from trail 
+ riding to chuck wagon-style meals\, with nights spent under the stars (or
+  your tent) as cricke
+URL:https://global.scoutingevent.com/492-122999
+END:VEVENT
+BEGIN:VEVENT
 UID:267884@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270704T210000Z
 DTEND:20270707T160000Z
 SUMMARY:Camp Pioneer - Summer Camp – Eagle Camp Session 1
@@ -25,7 +43,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:267889@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270707T210000Z
 DTEND:20270710T160000Z
 SUMMARY:Camp Pioneer - Summer Camp – Eagle Camp Session 2
@@ -43,7 +61,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270768@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270711T183000Z
 DTEND:20270717T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 1
@@ -61,7 +79,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270905@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270711T190000Z
 DTEND:20270717T173000Z
 SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 1
@@ -79,7 +97,7 @@ URL:https://global.scoutingevent.com/492-baldwin27
 END:VEVENT
 BEGIN:VEVENT
 UID:270774@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270718T183000Z
 DTEND:20270724T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 2
@@ -97,7 +115,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270906@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270718T190000Z
 DTEND:20270724T173000Z
 SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 2
@@ -115,7 +133,7 @@ URL:https://global.scoutingevent.com/492-baldwin27
 END:VEVENT
 BEGIN:VEVENT
 UID:270775@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270725T183000Z
 DTEND:20270731T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 3
@@ -133,7 +151,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270907@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270725T190000Z
 DTEND:20270731T173000Z
 SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 3
@@ -151,7 +169,7 @@ URL:https://global.scoutingevent.com/492-baldwin27
 END:VEVENT
 BEGIN:VEVENT
 UID:270776@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270801T183000Z
 DTEND:20270807T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 4
@@ -169,7 +187,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:267883@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20270809T180000Z
 DTEND:20270813T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Cascade Chronicles - Forsaken Kingd
@@ -185,5 +203,204 @@ DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
  lds the same Scout skills: teamwork\, resilience\, and leadership. At Cam
  p Pioneer\, you don’t just attend camp—you live the adventur
 URL:https://global.scoutingevent.com/492-pioneer27
+END:VEVENT
+BEGIN:VEVENT
+UID:277986@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20270821T180000Z
+DTEND:20270829T220000Z
+SUMMARY:Horse Trek – Westbound
+LOCATION:Virtual\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 122999\n\nHorsemanship\n\nEmbark on the Horseback Ride of a Lifetime\nSad
+ dle up for an unforgettable ten-day journey across 165 miles of breathtak
+ ing wilderness! Join fellow Scouts as you ride through the majestic Mt. H
+ ood Wilderness\, learning the art of horse-packing\, wilderness survival\
+ , and soaking in cowboy tales from Head Wrangler Daniel Lawson and his te
+ am of experienced wranglers. Each day brings new adventures\, from trail 
+ riding to chuck wagon-style meals\, with nights spent under the stars (or
+  your tent) as cricke
+URL:https://global.scoutingevent.com/492-122999
+END:VEVENT
+BEGIN:VEVENT
+UID:277994@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280702T210000Z
+DTEND:20280705T160000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Eagle Camp Session 1
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
+END:VEVENT
+BEGIN:VEVENT
+UID:277995@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280705T210000Z
+DTEND:20280708T160000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Eagle Camp Session 2
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
+END:VEVENT
+BEGIN:VEVENT
+UID:277996@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280709T183000Z
+DTEND:20280715T163000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 1
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
+END:VEVENT
+BEGIN:VEVENT
+UID:277990@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280709T190000Z
+DTEND:20280715T173000Z
+SUMMARY:Camp Baldwin Summer Camp 2028 – Session 1
+LOCATION:Camp Baldwin\, Dufur\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123000\n\nWhitewater\n\nCamp Baldwin\nBuilt on Grit. Defined by Adventure
+ .\nRenowned as the pride of the CPC\, Camp Baldwin is the ultimate high-a
+ dventure destination for Scouts. Tucked deep in the Mt. Hood National For
+ est\, this rugged camp delivers non-stop outdoor action — from horsebac
+ k riding\, mountain biking\, and rock climbing to whitewater rafting\, an
+ d more. Surrounded by towering evergreens and roaming wildlife\, Baldwin 
+ is where you push limits\, build skills\, and create stories worth tellin
+ g.\nLearn More on Our Webs
+URL:https://global.scoutingevent.com/492-123000
+END:VEVENT
+BEGIN:VEVENT
+UID:277997@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280716T183000Z
+DTEND:20280722T163000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 2
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
+END:VEVENT
+BEGIN:VEVENT
+UID:277991@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280716T190000Z
+DTEND:20280722T173000Z
+SUMMARY:Camp Baldwin Summer Camp 2028 – Session 2
+LOCATION:Camp Baldwin\, Dufur\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123000\n\nWhitewater\n\nCamp Baldwin\nBuilt on Grit. Defined by Adventure
+ .\nRenowned as the pride of the CPC\, Camp Baldwin is the ultimate high-a
+ dventure destination for Scouts. Tucked deep in the Mt. Hood National For
+ est\, this rugged camp delivers non-stop outdoor action — from horsebac
+ k riding\, mountain biking\, and rock climbing to whitewater rafting\, an
+ d more. Surrounded by towering evergreens and roaming wildlife\, Baldwin 
+ is where you push limits\, build skills\, and create stories worth tellin
+ g.\nLearn More on Our Webs
+URL:https://global.scoutingevent.com/492-123000
+END:VEVENT
+BEGIN:VEVENT
+UID:277998@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280723T183000Z
+DTEND:20280729T163000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 3
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
+END:VEVENT
+BEGIN:VEVENT
+UID:277992@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280723T190000Z
+DTEND:20280729T173000Z
+SUMMARY:Camp Baldwin Summer Camp 2028 – Session 3
+LOCATION:Camp Baldwin\, Dufur\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123000\n\nWhitewater\n\nCamp Baldwin\nBuilt on Grit. Defined by Adventure
+ .\nRenowned as the pride of the CPC\, Camp Baldwin is the ultimate high-a
+ dventure destination for Scouts. Tucked deep in the Mt. Hood National For
+ est\, this rugged camp delivers non-stop outdoor action — from horsebac
+ k riding\, mountain biking\, and rock climbing to whitewater rafting\, an
+ d more. Surrounded by towering evergreens and roaming wildlife\, Baldwin 
+ is where you push limits\, build skills\, and create stories worth tellin
+ g.\nLearn More on Our Webs
+URL:https://global.scoutingevent.com/492-123000
+END:VEVENT
+BEGIN:VEVENT
+UID:277999@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280730T183000Z
+DTEND:20280805T163000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 4
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
+END:VEVENT
+BEGIN:VEVENT
+UID:277993@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20280807T180000Z
+DTEND:20280811T163000Z
+SUMMARY:Camp Pioneer Summer Camp 2028 – Cascade Chronicles - Forsaken Ki
+ ngdom
+LOCATION:Camp Pioneer\, Idahna\, Oregon
+DESCRIPTION:Cascade Pacific Council\nhttps://global.scoutingevent.com/492-
+ 123001\n\nEngineering\, Inventing\, Robotics\n\nCamp Pioneer\nFor Scouts.
+  By Scouts.\nPioneer is where the ordinary ends and the epic begins. Whet
+ her you’re questing through immersive roleplay or trekking across volca
+ nic ridgelines\, every path leads to personal growth. It’s a place wher
+ e you’ll crawl through frigid ice caves\, summit mountain peaks\, or
+  spend hours strategizing around a tabletop—and somehow\, it all build
+ s the same Scout skills: teamwork\, resilience\, and leadership. At Camp 
+ Pioneer\, you don’t just attend camp—you live the adventur
+URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 END:VCALENDAR

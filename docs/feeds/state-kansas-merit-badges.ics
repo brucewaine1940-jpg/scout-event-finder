@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:256024@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20261113T230000Z
 DTEND:20261115T170000Z
 SUMMARY:Konza Fall Camporee
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/192-FallCamping2026
 END:VEVENT
 BEGIN:VEVENT
 UID:263017@scout-event-finder
-DTSTAMP:20261030T171202Z
+DTSTAMP:20261031T161038Z
 DTSTART:20261205T130000Z
 DTEND:20261205T220000Z
 SUMMARY:2026 Barton County Merit Badge College
@@ -43,5 +43,42 @@ DESCRIPTION:Quivira Council\nhttps://global.scoutingevent.com/198-115109\n
  p in the Community PreReq Checklist\nCitizenship in the Nation PreReq Che
  cklist\nCitizenship in the World PreReq Checklist\nF
 URL:https://global.scoutingevent.com/198-115109
+END:VEVENT
+BEGIN:VEVENT
+UID:277962@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20270526T133000Z
+DTEND:20270528T213000Z
+SUMMARY:Konza District Day Camp
+LOCATION:Ogden Community Center\, Ogden\, Kansas
+DESCRIPTION:Coronado Area Council\nhttps://global.scoutingevent.com/192-Ko
+ nzaDayCamp2027\n\nArchery\n\n2027 Konza District Cub Scout Day Camp\nGet 
+ ready for three days of summer fun! The Konza District Cub Scout Day Camp
+  is packed with hands-on activities\, discoveries\, and Scout-powered adv
+ enture. Whether you're a rising Tiger or an Arrow of Light\, this is your
+  chance to explore\, create\, and tackle challenges alongside fellow Scou
+ ts.\nWe'll announce the 2027 camp theme soon!\nWhat’s in store?\nHands-
+ on fun with arts & crafts\, STEM experiments\, and games\nSkill-building 
+ excitement like archery\, BB guns
+URL:https://global.scoutingevent.com/192-KonzaDayCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:277964@scout-event-finder
+DTSTAMP:20261031T161038Z
+DTSTART:20270806T220000Z
+DTEND:20270808T163000Z
+SUMMARY:Kansas Sea Base 2027
+LOCATION:Blue Valley Yacht Club\, Manhattan\, Kansas
+DESCRIPTION:Coronado Area Council\nhttps://global.scoutingevent.com/192-Ka
+ nsasSeaBase2027\n\nKayaking\, Motorboating\, Small-Boat Sailing\, Water S
+ ports\n\nInland Water Safety & Boating Weekend\nExperience an exciting an
+ d challenging weekend focused on inland water safety and boating activiti
+ es at\nTuttle Creek Reservoir near Manhattan\n. Scouts will receive hands
+ -on instruction from experienced instructors while working on one of the 
+ following merit badges:\nSmall-Boat Sailing\nKayaking\nMotorboating\nWate
+ r Sports\nImportant:\nIf your Scout has already completed one of these me
+ rit badge classes\, please do\nnot\nregister them for the same class agai
+ n. This en
+URL:https://global.scoutingevent.com/192-KansasSeaBase2027
 END:VEVENT
 END:VCALENDAR
