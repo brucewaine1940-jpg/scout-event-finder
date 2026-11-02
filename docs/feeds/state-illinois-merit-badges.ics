@@ -6,27 +6,8 @@ X-WR-CALNAME:Scout Events – Illinois Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:245394@scout-event-finder
-DTSTAMP:20261101T171332Z
-DTSTART:20261101T180000Z
-DTEND:20261101T233000Z
-SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-OKPIK2627\n\nCamping\, Cold Weather (OKPIK)\, Safeguarding Youth / YPT
- \n\nOur OKPIK Cold Weather Camping Training Course is a “High Adventure
- ” training program that expands Scouts and Venturers plus adult Scout
- ers and advisors' knowledge of how to prepare themselves and plan for th
- e proper nutrition and equipment when the high temperature of the day is
-  50 degrees or below with inclement weather.\nBSA Health Form:\nThe PDF d
- ocument previously provided is no longer valid. Go to "Attachments" for t
- he link to the National web page.\nClick on "Are You Going Camping?" to c
- ompl
-URL:https://global.scoutingevent.com/129-OKPIK2627
-END:VEVENT
-BEGIN:VEVENT
 UID:259404@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261107T133000Z
 DTEND:20261107T223000Z
 SUMMARY:2026 Southern Illinois Merit Badge University
@@ -45,7 +26,7 @@ URL:https://global.scoutingevent.com/312-2026SOILMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:256979@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261107T133000Z
 DTEND:20261107T220000Z
 SUMMARY:Scouting University – Leader Training Day
@@ -65,7 +46,7 @@ URL:https://global.scoutingevent.com/129-2026ScoutingUniversity
 END:VEVENT
 BEGIN:VEVENT
 UID:274927@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261107T143000Z
 DTEND:20261107T200000Z
 SUMMARY:Nuclear Science Merit Badge Clinic
@@ -84,7 +65,7 @@ URL:https://global.scoutingevent.com/133-nuclearsciencembc
 END:VEVENT
 BEGIN:VEVENT
 UID:273180@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261114T133000Z
 DTEND:20261114T200000Z
 SUMMARY:2026 University of Scouting PARTNER Registration
@@ -102,7 +83,7 @@ URL:https://global.scoutingevent.com/127-PARTNER26
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992515815441@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261115T160000Z
 DTEND:20261115T180000Z
 SUMMARY:Burpee Museum BSA: Geology Merit Badge - In Person
@@ -116,7 +97,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-geology-merit-badge-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:245395@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261115T180000Z
 DTEND:20261115T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -135,7 +116,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:253222@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261121T150000Z
 DTEND:20261121T200000Z
 SUMMARY:Ultimate First Aid Competition 2026
@@ -154,7 +135,7 @@ URL:https://global.scoutingevent.com/702-ultimatefirstaid
 END:VEVENT
 BEGIN:VEVENT
 UID:267306@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261121T160000Z
 DTEND:20261121T220000Z
 SUMMARY:Stamp Collecting Merit Badge at ChicagoPex
@@ -172,7 +153,7 @@ URL:https://global.scoutingevent.com/127-Stamps26
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992516713126@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261206T160000Z
 DTEND:20261206T180000Z
 SUMMARY:Burpee Museum BSA: Environmental Science Merit Badge- In Person
@@ -186,7 +167,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-environmental-science-m
 END:VEVENT
 BEGIN:VEVENT
 UID:245396@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261206T180000Z
 DTEND:20261206T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -205,7 +186,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:245397@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270109T133000Z
 DTEND:20270110T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
@@ -224,7 +205,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992519616811@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270117T160000Z
 DTEND:20270117T170000Z
 SUMMARY:Burpee Museum BSA: Mammal Study Merit Badge - In Person
@@ -238,7 +219,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-mammal-study-merit-badg
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993714939052@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270321T150000Z
 DTEND:20270321T170000Z
 SUMMARY:Burpee Museum BSA: Oceanography - In Person
@@ -251,7 +232,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-oceanography-in-person-
 END:VEVENT
 BEGIN:VEVENT
 UID:252772@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270423T113000Z
 DTEND:20270425T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend One
@@ -269,7 +250,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:252773@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270515T113000Z
 DTEND:20270516T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend Two
@@ -287,7 +268,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:268625@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20271107T180000Z
 DTEND:20271107T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
@@ -306,7 +287,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268626@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20271121T180000Z
 DTEND:20271121T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -325,7 +306,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268627@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20271205T180000Z
 DTEND:20271205T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -344,7 +325,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268628@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20280108T133000Z
 DTEND:20280109T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session

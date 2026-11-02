@@ -6,8 +6,26 @@ X-WR-CALNAME:Scout Events – Florida Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:278057@scout-event-finder
+DTSTAMP:20261102T205115Z
+DTSTART:20261114T180000Z
+DTEND:20261114T200000Z
+SUMMARY:Treasure Coast District Merit Badge of the Month - Reading
+LOCATION:St. Lucie County Library\, Port St\, Lucie\, Florida
+DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-MBRe
+ ading\n\nReading\n\nReading Merit Badge\nLimited to 10 scouts\nScouts sho
+ uld be prepared for a follow-up Zoom meeting to complete the merit badge 
+ requirements.\nSt. Lucie County resident scouts should be prepared to get
+  a library card (this may require parent permission).Attached is the libr
+ ary card application that must be filled out and emailed to Mrs Jeffers b
+ y Nov 4.\nCounselor information:\nJean Jeffers\, email: jean.jeffers@gmai
+ l.com\, Phone: 413-896-6091\nPreReq- 3\, 4\, 5\, 6\nHomework- 6\nPlease 
+ bring blue card.\nThere 
+URL:https://global.scoutingevent.com/085-MBReading
+END:VEVENT
+BEGIN:VEVENT
 UID:267692@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261120T210000Z
 DTEND:20261122T160000Z
 SUMMARY:Eagle Empire District Fall Camporee
@@ -25,7 +43,7 @@ URL:https://global.scoutingevent.com/083-EagleEmpireDistrictFallCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:255890@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261227T154500Z
 DTEND:20261230T220000Z
 SUMMARY:2026 Winter Camp – Winter Camp
@@ -43,7 +61,7 @@ URL:https://global.scoutingevent.com/089-111522
 END:VEVENT
 BEGIN:VEVENT
 UID:271176@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20261227T190000Z
 DTEND:20261231T160000Z
 SUMMARY:2026 Scouts BSA Winter Camp
@@ -61,7 +79,7 @@ URL:https://global.scoutingevent.com/773-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:274988@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270116T150000Z
 DTEND:20270116T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -80,7 +98,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:274989@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -99,7 +117,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:272858@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270220T143000Z
 DTEND:20270220T183000Z
 SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
@@ -117,7 +135,7 @@ URL:https://global.scoutingevent.com/089-120401
 END:VEVENT
 BEGIN:VEVENT
 UID:276578@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Youth Law Day
@@ -135,7 +153,7 @@ URL:https://global.scoutingevent.com/085-YouthLawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:257836@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270606T180000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
@@ -153,7 +171,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257837@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
@@ -171,7 +189,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257857@scout-event-finder
-DTSTAMP:20261101T171332Z
+DTSTAMP:20261102T205115Z
 DTSTART:20271227T180000Z
 DTEND:20271231T153000Z
 SUMMARY:2027 Scouts BSA Winter Camp
