@@ -160,7 +160,7 @@
   $("online").addEventListener("change", (e) => { state.online = e.target.checked; render(); });
   $("zipForm").addEventListener("submit", (e) => { e.preventDefault(); setZip($("zip").value); });
   const savedMi = +store.get("wk-mi");
-  if ([5, 10, 25, 50, 120].includes(savedMi)) state.mi = savedMi;
+  if ([5, 10, 15, 25, 50, 120].includes(savedMi)) state.mi = savedMi;
   document.querySelectorAll("[data-mi]").forEach((x) => x.classList.toggle("on", +x.dataset.mi === state.mi));
 
   fetch(DATA_BASE + "data/weekend.json", { cache: "no-cache" }).then((r) => r.json()).then((j) => {
