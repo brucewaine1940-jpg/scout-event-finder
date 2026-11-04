@@ -1,6 +1,8 @@
 /* Scout Event Finder - all filtering happens in the browser. */
 (() => {
   "use strict";
+  // where the nightly data lives: this folder, or the Event Finder when these pages are hosted elsewhere
+  const DATA_BASE = window.SEF_DATA_BASE || "";
   const $ = (s) => document.querySelector(s);
   const el = (tag, attrs = {}, ...kids) => {
     const n = document.createElement(tag);
@@ -130,7 +132,7 @@
     if (!/^\d{5}$/.test(z)) { $("#zipHint").textContent = z ? "Enter a 5-digit ZIP" : "Add a ZIP to filter by distance"; return; }
     if (!ZIPS) {
       $("#zipHint").textContent = "Loading ZIP codes…";
-      try { ZIPS = await fetch("data/zips.json").then((r) => r.json()); } catch { ZIPS = {}; }
+      try { ZIPS = await fetch(DATA_BASE + "data/zips.json").then((r) => r.json()); } catch { ZIPS = {}; }
     }
     origin = ZIPS[z] || null;
     $("#zipHint").textContent = origin ? `Distances from ${z}` : "ZIP not found";
@@ -236,7 +238,7 @@
   /* ---------- provider directory ---------- */
   async function loadProviders() {
     if (PROV) return PROV;
-    try { PROV = (await fetch("data/providers.json", { cache: "no-cache" }).then((r) => r.json())).providers || []; }
+    try { PROV = (await fetch(DATA_BASE + "data/providers.json", { cache: "no-cache" }).then((r) => r.json())).providers || []; }
     catch { PROV = []; }
     const known = new Set([...$("#badgeList").options].map((o) => o.value));
     const extra = [...new Set(PROV.flatMap((p) => p.badges))].filter((b) => b !== "*" && !known.has(b));
@@ -411,8 +413,8 @@
   async function loadFeeds() {
     const box = $("#feedLinks");
     let idx = [];
-    try { idx = await fetch("feeds/index.json", { cache: "no-cache" }).then((r) => r.json()); } catch { /* not built yet */ }
-    const base = new URL("feeds/", location.href).href;
+    try { idx = await fetch(DATA_BASE + "feeds/index.json", { cache: "no-cache" }).then((r) => r.json()); } catch { /* not built yet */ }
+    const base = new URL(DATA_BASE + "feeds/", location.href).href;
     const row = (name, file) => {
       const url = base + file;
       const inp = el("input", { type: "text", readonly: "", value: url, "aria-label": name + " feed URL" });
@@ -440,7 +442,7 @@
     fromHash(); bind(); syncInputs();
     $("#list").replaceChildren(el("div", { class: "empty" }, "Loading events…"));
     try {
-      const data = await fetch("data/events.json", { cache: "no-cache" }).then((r) => r.json());
+      const data = await fetch(DATA_BASE + "data/events.json", { cache: "no-cache" }).then((r) => r.json());
       ALL = data.events;
       FIRST_RUN = ALL.reduce((m, e) => (!m || e.firstSeen < m ? e.firstSeen : m), "");
       const u = new Date(data.updated);

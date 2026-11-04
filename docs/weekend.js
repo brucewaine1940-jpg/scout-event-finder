@@ -1,5 +1,7 @@
 // "This weekend" page: reads data/weekend.json (built nightly) and works out the weekend in the browser.
 (() => {
+  // where the nightly data lives: this folder, or the Event Finder when these pages are hosted elsewhere
+  const DATA_BASE = window.SEF_DATA_BASE || "";
   const $ = (id) => document.getElementById(id);
   const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   const DAY = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
@@ -30,7 +32,7 @@
     const msg = $("zipMsg");
     if (!/^\d{5}$/.test(z)) { if (!quiet) msg.textContent = "Enter a 5-digit ZIP."; return; }
     if (!zips) {
-      try { const r = await fetch("data/zips-ca.json"); if (r.ok) zips = await r.json(); } catch (e) { /* try again next time */ }
+      try { const r = await fetch(DATA_BASE + "data/zips-ca.json"); if (r.ok) zips = await r.json(); } catch (e) { /* try again next time */ }
     }
     if (!zips && z !== HOME_ZIP) { msg.textContent = "Couldn't load the ZIP list. Please try again in a moment."; return; }
     const pt = (zips && zips[z]) || (z === HOME_ZIP && data ? [data.home.lat, data.home.lng] : null);
@@ -161,7 +163,7 @@
   if ([5, 10, 25, 50, 120].includes(savedMi)) state.mi = savedMi;
   document.querySelectorAll("[data-mi]").forEach((x) => x.classList.toggle("on", +x.dataset.mi === state.mi));
 
-  fetch("data/weekend.json", { cache: "no-cache" }).then((r) => r.json()).then((j) => {
+  fetch(DATA_BASE + "data/weekend.json", { cache: "no-cache" }).then((r) => r.json()).then((j) => {
     data = j;
     const u = new Date(j.updated);
     $("updated").textContent = `Updated ${MON[u.getMonth()]} ${u.getDate()}`;
