@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:dk-14b8f69e485e@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20261107T000000Z
 DTEND:20261108T190000Z
 SUMMARY:Foothills Webelos Woods 2026
@@ -26,7 +26,7 @@ URL:https://sdicbsa.doubleknot.com/event/foothills-webelos-woods-2026/3141
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-fa41d0d6d5ec@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20261107T000000Z
 DTEND:20261108T190000Z
 SUMMARY:Foothills Webelos Woods 2026 - Troop Registration
@@ -45,7 +45,7 @@ URL:https://sdicbsa.doubleknot.com/event/foothills-webelos-woods-2026-troo
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-1d00ad0c4e4a@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270123T180000Z
 DTEND:20270124T000000Z
 SUMMARY:Search and Rescue (SAR) Merit Badge Day at MSR
@@ -63,8 +63,27 @@ URL:https://sdicbsa.doubleknot.com/event/search-and-rescue-sar-merit-badge
  -day-at-msr/3159015
 END:VEVENT
 BEGIN:VEVENT
+UID:dk-5969921cbda9@scout-event-finder
+DTSTAMP:20261105T182216Z
+DTSTART:20270416T230000Z
+DTEND:20270418T180000Z
+SUMMARY:Spring Family Fun MSR 2027
+LOCATION:27955 Hwy 79\, Santa Ysabel\, CA 92070
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/spring-family-fun-msr-2027/3166200\n\n\n\nMataguay Spring Fun with Fam
+ ily Camp April 16-18\, 2027 Scouts and their families are invited to join
+  us for a Champions of Nature-themed weekend getaway to relax and enjoy t
+ he outdoors. Cost: $30 per youth (6-17 yrs) $15 per adult (18+ yrs) $10 p
+ er sibling (2-5 yrs) NO CHARGE Children (under 2 yrs) $15 Saturday only (
+ 6 yrs and up) This event is for Scouts and their families. All Scouts are
+  welcome! Activities: Archery\, BB's\, the lakefront is open for fishing 
+ (bring your own gear)\, hiking\, bring 
+URL:https://sdicbsa.doubleknot.com/event/spring-family-fun-msr-2027/316620
+ 0
+END:VEVENT
+BEGIN:VEVENT
 UID:dk-eee88fb67c91@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270613T070000Z
 DTEND:20270619T070000Z
 SUMMARY:Session 1 MSR June 13-19
@@ -82,7 +101,7 @@ URL:https://sdicbsa.doubleknot.com/event/session-1-msr-june-13-19/3160136
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-b3ad49513d19@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270620T070000Z
 DTEND:20270626T070000Z
 SUMMARY:Session 2 MSR June 20-26
@@ -100,7 +119,7 @@ URL:https://sdicbsa.doubleknot.com/event/session-2-msr-june-20-26/3162540
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-8aff17cd3acf@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270627T070000Z
 DTEND:20270703T070000Z
 SUMMARY:Session 3 MSR June 27 - July 3

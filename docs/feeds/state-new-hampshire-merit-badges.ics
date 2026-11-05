@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Scout Event Finder//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Scout Events – New Hampshire Merit Badges
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:278352@scout-event-finder
+DTSTAMP:20261105T182216Z
+DTSTART:20261121T170000Z
+DTEND:20261121T210000Z
+SUMMARY:GSCU Personal Management Workshop – GSCU Personnel Management Wo
+ rkshop Amherst NH
+LOCATION:GSCU Amherst NH\, Amherst\, New Hampshire
+DESCRIPTION:Scouting America New Hampshire\nhttps://global.scoutingevent.c
+ om/330-GSCUPMWorkshop\n\nFamily Life\, Personal Management\n\nGranite Sta
+ te Credit Union is proud to host the September 2026 Personal Management M
+ erit Badge Workshop at its Concord\, NH\, location.\nWHEN:\nSATURDAY\, No
+ vember 21st 2026\, FROM 12-4 PM\nWHERE:\nGSCU AMHERST\, NH LOCATION\n132 
+ Route 101A\, Amherst\, NH\nGSCU will be facilitating an exciting program 
+ that will cover many of the Personal Management requirements. Scouts who 
+ attend and participate will get credit for requirements 3-7. Requirements
+  1\,8\,9 & 10 will need to be completed before class. Requirement 
+URL:https://global.scoutingevent.com/330-GSCUPMWorkshop
+END:VEVENT
+END:VCALENDAR

@@ -6,8 +6,27 @@ X-WR-CALNAME:Scout Events – New Hampshire
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:278352@scout-event-finder
+DTSTAMP:20261105T182216Z
+DTSTART:20261121T170000Z
+DTEND:20261121T210000Z
+SUMMARY:GSCU Personal Management Workshop – GSCU Personnel Management Wo
+ rkshop Amherst NH
+LOCATION:GSCU Amherst NH\, Amherst\, New Hampshire
+DESCRIPTION:Scouting America New Hampshire\nhttps://global.scoutingevent.c
+ om/330-GSCUPMWorkshop\n\nFamily Life\, Personal Management\n\nGranite Sta
+ te Credit Union is proud to host the September 2026 Personal Management M
+ erit Badge Workshop at its Concord\, NH\, location.\nWHEN:\nSATURDAY\, No
+ vember 21st 2026\, FROM 12-4 PM\nWHERE:\nGSCU AMHERST\, NH LOCATION\n132 
+ Route 101A\, Amherst\, NH\nGSCU will be facilitating an exciting program 
+ that will cover many of the Personal Management requirements. Scouts who 
+ attend and participate will get credit for requirements 3-7. Requirements
+  1\,8\,9 & 10 will need to be completed before class. Requirement 
+URL:https://global.scoutingevent.com/330-GSCUPMWorkshop
+END:VEVENT
+BEGIN:VEVENT
 UID:275492@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20261205T133000Z
 DTEND:20261205T203000Z
 SUMMARY:Short Term Camping Administrator (STCA) Training – STCA Training
@@ -25,7 +44,7 @@ URL:https://global.scoutingevent.com/330-121696
 END:VEVENT
 BEGIN:VEVENT
 UID:253378@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20261212T130000Z
 DTEND:20261212T220000Z
 SUMMARY:Cold Weather Leader Training (Course H-105) – Classroom Training
@@ -44,7 +63,7 @@ URL:https://global.scoutingevent.com/330-CWLT
 END:VEVENT
 BEGIN:VEVENT
 UID:255356@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270129T220000Z
 DTEND:20270131T180000Z
 SUMMARY:Okpik Winter Camping Experience – Okpik Explorers
@@ -62,7 +81,7 @@ URL:https://global.scoutingevent.com/330-okpik
 END:VEVENT
 BEGIN:VEVENT
 UID:253379@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270129T223000Z
 DTEND:20270131T180000Z
 SUMMARY:Cold Weather Leader Training (Course H-105) – Practical Skills W
@@ -81,7 +100,7 @@ URL:https://global.scoutingevent.com/330-CWLT
 END:VEVENT
 BEGIN:VEVENT
 UID:264773@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270205T210000Z
 DTEND:20270207T140000Z
 SUMMARY:2027 Southern NH Klondike Derby – Southern NH Klondike Derby
@@ -99,7 +118,7 @@ URL:https://global.scoutingevent.com/330-Klondike2027
 END:VEVENT
 BEGIN:VEVENT
 UID:265716@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270213T130000Z
 DTEND:20270213T210000Z
 SUMMARY:Klondike North 2027 – Klondike North - 2027
@@ -117,7 +136,7 @@ URL:https://global.scoutingevent.com/330-KlondikeNorth27
 END:VEVENT
 BEGIN:VEVENT
 UID:264774@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270502T180000Z
 DTEND:20270502T210000Z
 SUMMARY:2027 Southern NH Pinewood Derby – SNH Pinewood
@@ -135,7 +154,7 @@ URL:https://global.scoutingevent.com/330-Pinewood2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264776@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270514T200000Z
 DTEND:20270516T130000Z
 SUMMARY:2027 Southern NH Chuckwagon – 2027 SNH Chuckwagon
@@ -153,7 +172,7 @@ URL:https://global.scoutingevent.com/330-Chuckwagon2027
 END:VEVENT
 BEGIN:VEVENT
 UID:250942@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270917T110000Z
 DTEND:20270919T220000Z
 SUMMARY:Wood Badge 10-330-27 – Weekend 1
@@ -171,7 +190,7 @@ URL:https://global.scoutingevent.com/330-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:250943@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20271002T110000Z
 DTEND:20271003T220000Z
 SUMMARY:Wood Badge 10-330-27 – Weekend 2

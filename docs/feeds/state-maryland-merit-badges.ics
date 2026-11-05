@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:273763@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20261121T180000Z
 DTEND:20261121T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -25,8 +25,28 @@ DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
 URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
+UID:278376@scout-event-finder
+DTSTAMP:20261105T182216Z
+DTSTART:20270109T130000Z
+DTEND:20270109T210000Z
+SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 1 - 
+ January 9
+LOCATION:Elkton High School\, Elkton\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-ELKTr
+ aining\n\nCommunication\, First Aid\, CPR / AED / First Aid\, Leave No Tr
+ ace\, Merit Badge Counselor\n\nAdult Trainings at the Elkton Merit Badge 
+ College\nWhile the Scouts are taking merit badge classes\, adult voluntee
+ rs and parents are invited to participate in a variety of training opport
+ unities.\nWho:\nAny registered adult who would like to attend (some open 
+ to parents\, as well)\nWhen:\nSaturday\, January 9\, and Saturday\, March
+  13\, 2027\nCheck in begins:\n8:00 AM\nCost:\nFree of Charge unless other
+ wise noted with a ($)\nNote:\nMost classes may have a capacity limit\, so
+  registration is highly recommended. I
+URL:https://global.scoutingevent.com/081-ELKTraining
+END:VEVENT
+BEGIN:VEVENT
 UID:273764@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270109T180000Z
 DTEND:20270109T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -44,8 +64,28 @@ DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
 URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
+UID:278377@scout-event-finder
+DTSTAMP:20261105T182216Z
+DTSTART:20270313T130000Z
+DTEND:20270313T210000Z
+SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 2 - 
+ March 13
+LOCATION:Elkton High School\, Elkton\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-ELKTr
+ aining\n\nCommunication\, First Aid\, CPR / AED / First Aid\, Leave No Tr
+ ace\, Merit Badge Counselor\n\nAdult Trainings at the Elkton Merit Badge 
+ College\nWhile the Scouts are taking merit badge classes\, adult voluntee
+ rs and parents are invited to participate in a variety of training opport
+ unities.\nWho:\nAny registered adult who would like to attend (some open 
+ to parents\, as well)\nWhen:\nSaturday\, January 9\, and Saturday\, March
+  13\, 2027\nCheck in begins:\n8:00 AM\nCost:\nFree of Charge unless other
+ wise noted with a ($)\nNote:\nMost classes may have a capacity limit\, so
+  registration is highly recommended. I
+URL:https://global.scoutingevent.com/081-ELKTraining
+END:VEVENT
+BEGIN:VEVENT
 UID:261400@scout-event-finder
-DTSTAMP:20261104T182533Z
+DTSTAMP:20261105T182216Z
 DTSTART:20270729T170000Z
 DTEND:20270801T161500Z
 SUMMARY:Henson Summer Merit Badge College Camp – Weekend # 1
