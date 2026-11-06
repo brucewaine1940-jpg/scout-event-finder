@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "parks": {
   "samo": "Santa Monica Mountains",
   "chis": "Channel Islands",
@@ -11,5 +11,14 @@
   "seki": "Sequoia & Kings Canyon",
   "pinn": "Pinnacles"
  },
- "alerts": []
+ "alerts": [
+  {
+   "parkCode": "samo",
+   "title": "Park Closures due to Red Flag Warning on Saturday, November 7",
+   "category": "Danger",
+   "description": "Parks within Santa Monica Mountains National Recreation Area will be closed Saturday, November 7 from 2:00 a.m. until 6 p.m. The National Weather Service has issued a red flag warning based on weather and fuel conditions. This closure applies to lands managed by California State Parks, National Park Service, Santa Monica Mountains Conservancy, and Mountains Recreation and Conservation Authority.",
+   "url": "https://www.nps.gov/samo/learn/management/park-closures-during-red-flag-warnings.htm",
+   "updated": "2026-11-06"
+  }
+ ]
 }

@@ -6,27 +6,8 @@ X-WR-CALNAME:Scout Events – Massachusetts Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:275282@scout-event-finder
-DTSTAMP:20261105T182216Z
-DTSTART:20261105T223000Z
-DTEND:20261106T003000Z
-SUMMARY:Personal Management Merit Badge with South Shore Bank – Personal
-  Management
-LOCATION:South Shore Bank\, South Weymouth\, Massachusetts
-DESCRIPTION:Mayflower Council\nhttps://global.scoutingevent.com/251-Person
- alManagement11052026\n\nPersonal Management\n\nBuild Smart Financial Habi
- ts with South Shore Bank!\nMastering money management is one of the most 
- important life skills a Scout can learn. Join financial experts from Sout
- h Shore Bank for an interactive Personal Management Merit Badge Class des
- igned to give Scouts real-world insight into budgeting\, saving\, investi
- ng\, and practical financial planning.\nWhether you are working toward yo
- ur Eagle rank or simply looking to build smart financial habits early\, t
- his session will guide you through key con
-URL:https://global.scoutingevent.com/251-PersonalManagement11052026
-END:VEVENT
-BEGIN:VEVENT
 UID:276399@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261107T140000Z
 DTEND:20261107T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 1
@@ -44,7 +25,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276400@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261114T140000Z
 DTEND:20261114T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 2
@@ -62,7 +43,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:272648@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261115T150000Z
 DTEND:20261115T163000Z
 SUMMARY:Environmental Science Merit Badge at the South Shore YMCA Nature C
@@ -82,7 +63,7 @@ URL:https://global.scoutingevent.com/251-EnvSciMBYMCA111526
 END:VEVENT
 BEGIN:VEVENT
 UID:272718@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261115T170000Z
 DTEND:20261115T183000Z
 SUMMARY:Citizenship in the World Merit Badge at the South Shore YMCA Natur
@@ -102,7 +83,7 @@ URL:https://global.scoutingevent.com/251-CitizenshipintheWorldMB111506
 END:VEVENT
 BEGIN:VEVENT
 UID:277961@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261121T140000Z
 DTEND:20261121T180000Z
 SUMMARY:Compsite Materials MB with Hull Lifesaving museum – Composite Ma
@@ -122,7 +103,7 @@ URL:https://global.scoutingevent.com/251-CompositeMaterialsMB112126
 END:VEVENT
 BEGIN:VEVENT
 UID:272853@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261121T140000Z
 DTEND:20261121T180000Z
 SUMMARY:Geocaching with Hull Lifesaving museum
@@ -142,7 +123,7 @@ URL:https://global.scoutingevent.com/251-GeocachingMB101026
 END:VEVENT
 BEGIN:VEVENT
 UID:276401@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261121T140000Z
 DTEND:20261121T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 3
@@ -160,7 +141,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276403@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261205T140000Z
 DTEND:20261205T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 4
@@ -178,7 +159,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:277651@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261206T150000Z
 DTEND:20261206T163000Z
 SUMMARY:Reptile and Amphibian Study Merit Badge at the South Shore YMCA Na
@@ -198,7 +179,7 @@ URL:https://global.scoutingevent.com/251-ReptileAmphibianMB120626
 END:VEVENT
 BEGIN:VEVENT
 UID:277653@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261206T170000Z
 DTEND:20261206T183000Z
 SUMMARY:Sustainability Merit Badge at the South Shore YMCA Nature Center 
@@ -218,7 +199,7 @@ URL:https://global.scoutingevent.com/251-SustainabilityMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276404@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261212T140000Z
 DTEND:20261212T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 5
@@ -236,7 +217,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276409@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261219T140000Z
 DTEND:20261219T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 6
@@ -254,7 +235,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:237628@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261227T210000Z
 DTEND:20261230T170000Z
 SUMMARY:Winter Camp – Winter Camp 2026
@@ -274,7 +255,7 @@ URL:https://global.scoutingevent.com/251-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:260904@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270711T150000Z
 DTEND:20270717T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 1
@@ -292,7 +273,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261197@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270718T150000Z
 DTEND:20270724T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 2
@@ -310,7 +291,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261198@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270725T150000Z
 DTEND:20270731T140000Z
 SUMMARY:Scout BSA Camp 2027 – Specialty Week

@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:dk-60070e955189@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20261228T080000Z
 DTEND:20261230T080000Z
 SUMMARY:National Youth Leadership Training NYLT Winter
@@ -26,7 +26,7 @@ URL:https://sdicbsa.doubleknot.com/event/national-youth-leadership-trainin
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-f75b0e8d4b08@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270116T080000Z
 DTEND:20270118T080000Z
 SUMMARY:National Youth Leadership Training NYLT Winter
@@ -44,8 +44,46 @@ URL:https://sdicbsa.doubleknot.com/event/national-youth-leadership-trainin
  g-nylt-winter/3135979
 END:VEVENT
 BEGIN:VEVENT
+UID:dk-b040c5c75524@scout-event-finder
+DTSTAMP:20261106T175657Z
+DTSTART:20270613T070000Z
+DTEND:20270703T070000Z
+SUMMARY:Counselor Training Program (CTP) 2027 - MSR
+LOCATION:1750 Fiesta Island Road\, San Diego\, CA 92109
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/counselor-training-program-ctp-2027-msr/3166350\n\n\n\nCounselor Train
+ ing Program (CTP) A unique opportunity for Scouts 14 & 15 years old to Le
+ arn New Leadership Skills\, Enjoy Summer Camp\, Make New Friends\, Have F
+ UN\, Earn Merit Badges or Venturing Requirements!!! Participants will par
+ ticipate in a 3-week specialized program which will involve a half-day of
+  work experience with a half-day of summer camp experience\, all under th
+ e guidance of a dedicated Counselor Training Director! Mataguay Scout Ran
+ ch (MSR) Session 1: June 13 - July 3\, 2026 Fee: $800
+URL:https://sdicbsa.doubleknot.com/event/counselor-training-program-ctp-20
+ 27-msr/3166350
+END:VEVENT
+BEGIN:VEVENT
+UID:dk-b040c5c75524@scout-event-finder
+DTSTAMP:20261106T175657Z
+DTSTART:20270613T070000Z
+DTEND:20270703T070000Z
+SUMMARY:Counselor Training Program (CTP) 2027 - MSR
+LOCATION:1750 Fiesta Island Road\, San Diego\, CA 92109
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/counselor-training-program-ctp-2027-msr/3166350\n\n\n\nCounselor Train
+ ing Program (CTP) A unique opportunity for Scouts 14 & 15 years old to Le
+ arn New Leadership Skills\, Enjoy Summer Camp\, Make New Friends\, Have F
+ UN\, Earn Merit Badges or Venturing Requirements!!! Participants will par
+ ticipate in a 3-week specialized program which will involve a half-day of
+  work experience with a half-day of summer camp experience\, all under th
+ e guidance of a dedicated Counselor Training Director! Mataguay Scout Ran
+ ch (MSR) Session 1: June 13 - July 3\, 2026 Fee: $800
+URL:https://sdicbsa.doubleknot.com/event/counselor-training-program-ctp-20
+ 27-msr/3166350
+END:VEVENT
+BEGIN:VEVENT
 UID:dk-6335a2581558@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270620T070000Z
 DTEND:20270626T070000Z
 SUMMARY:Week 1 CFI
@@ -62,8 +100,27 @@ DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
 URL:https://sdicbsa.doubleknot.com/event/week-1-cfi/3160599
 END:VEVENT
 BEGIN:VEVENT
+UID:dk-e8e9c7cc9dff@scout-event-finder
+DTSTAMP:20261106T175657Z
+DTSTART:20270627T070000Z
+DTEND:20270717T070000Z
+SUMMARY:Counselor Training Program (CTP) 2027 - CFI
+LOCATION:1750 Fiesta Island Road\, San Diego\, CA 92109
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/counselor-training-program-ctp-2027-cfi/3166349\n\n\n\nCounselor Train
+ ing Program (CTP) A unique opportunity for Scouts 14 & 15 years old to Le
+ arn New Leadership Skills\, Enjoy Summer Camp\, Make New Friends\, Have F
+ UN\, Earn Merit Badges or Venturing Requirements!!! Participants will par
+ ticipate in a 3-week specialized program which will involve a half-day of
+  work experience with a half-day of summer camp experience\, all under th
+ e guidance of a dedicated Counselor Training Director! Camp Fiesta Island
+  (CFI) Session 1: June 27 - July 17\, 2026 Session 2:
+URL:https://sdicbsa.doubleknot.com/event/counselor-training-program-ctp-20
+ 27-cfi/3166349
+END:VEVENT
+BEGIN:VEVENT
 UID:dk-830b5c81bf64@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270627T070000Z
 DTEND:20270703T070000Z
 SUMMARY:Week 2 CFI
@@ -81,7 +138,7 @@ URL:https://sdicbsa.doubleknot.com/event/week-2-cfi/3162655
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-9a4b2fdc24f7@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270704T070000Z
 DTEND:20270710T070000Z
 SUMMARY:Week 3 CFI
@@ -99,7 +156,7 @@ URL:https://sdicbsa.doubleknot.com/event/week-3-cfi/3162887
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-00b11f1353eb@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270711T070000Z
 DTEND:20270717T070000Z
 SUMMARY:Week 4 CFI
@@ -116,8 +173,27 @@ DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
 URL:https://sdicbsa.doubleknot.com/event/week-4-cfi/3163021
 END:VEVENT
 BEGIN:VEVENT
+UID:dk-88c1854fcd1f@scout-event-finder
+DTSTAMP:20261106T175657Z
+DTSTART:20270718T070000Z
+DTEND:20270807T070000Z
+SUMMARY:Counselor Training Program (CTP) 2027 - CFI
+LOCATION:1750 Fiesta Island Road\, San Diego\, CA 92109
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/counselor-training-program-ctp-2027-cfi/3166349\n\n\n\nCounselor Train
+ ing Program (CTP) A unique opportunity for Scouts 14 & 15 years old to Le
+ arn New Leadership Skills\, Enjoy Summer Camp\, Make New Friends\, Have F
+ UN\, Earn Merit Badges or Venturing Requirements!!! Participants will par
+ ticipate in a 3-week specialized program which will involve a half-day of
+  work experience with a half-day of summer camp experience\, all under th
+ e guidance of a dedicated Counselor Training Director! Camp Fiesta Island
+  (CFI) Session 1: June 27 - July 17\, 2026 Session 2:
+URL:https://sdicbsa.doubleknot.com/event/counselor-training-program-ctp-20
+ 27-cfi/3166349
+END:VEVENT
+BEGIN:VEVENT
 UID:dk-ccabf73fcbc0@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270718T070000Z
 DTEND:20270724T070000Z
 SUMMARY:Week 5 CFI
@@ -135,7 +211,7 @@ URL:https://sdicbsa.doubleknot.com/event/week-5-cfi/3163155
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-ce4211d51ffe@scout-event-finder
-DTSTAMP:20261105T182216Z
+DTSTAMP:20261106T175657Z
 DTSTART:20270725T070000Z
 DTEND:20270731T070000Z
 SUMMARY:Week 6 CFI
