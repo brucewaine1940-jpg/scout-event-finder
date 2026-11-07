@@ -1,60 +1,6 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "programs": [
-  {
-   "park": "Cabrillo National Monument",
-   "parkCode": "cabr",
-   "title": "Guided Bird Watching",
-   "where": "Tidepool parking lot one of the coastal area.",
-   "time": "09:30 AM - 10:30 AM",
-   "nextDates": [
-    "2026-11-06",
-    "2026-12-04",
-    "2027-01-01",
-    "2027-02-05",
-    "2027-03-05",
-    "2027-04-02",
-    "2027-05-07",
-    "2027-06-04",
-    "2027-07-02",
-    "2027-08-06",
-    "2027-09-03",
-    "2027-10-01"
-   ],
-   "count": 13,
-   "free": true,
-   "lat": 32.668219,
-   "lng": -117.244186,
-   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
-   "about": "Cabrillo National Monument is a hotspot for both resident and migrating birds as part of the Pacific Flyway, a central migration corridor used by billions of birds each year. Its unique ecology and position along the coast make Cabrillo an ideal place to observe terrestrial and coastal bird species. Join park staff for a one-mile bird watching hike along the coastal trail. All ages and experience "
-  },
-  {
-   "park": "Cabrillo National Monument",
-   "parkCode": "cabr",
-   "title": "The Story of Cabrillo National Monument",
-   "where": "",
-   "time": "10:00 AM - 10:30 AM",
-   "nextDates": [
-    "2026-11-06",
-    "2026-11-13",
-    "2026-11-20",
-    "2026-11-27",
-    "2026-12-04",
-    "2026-12-11",
-    "2026-12-18",
-    "2026-12-25",
-    "2027-01-01",
-    "2027-01-08",
-    "2027-01-15",
-    "2027-01-22"
-   ],
-   "count": 165,
-   "free": true,
-   "lat": null,
-   "lng": null,
-   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
-   "about": "Behind every landmark at Cabrillo National Monument is a story. Join a ranger for a 30-minute guided walk introducing the people, places, and events that shaped Cabrillo National Monument. From Juan Rodríguez Cabrillo's 1542 expedition and the history of the Old Point Loma Lighthouse to the creation and growth of the monument itself, discover how this remarkable landscape became the park visitors "
-  },
   {
    "park": "Cabrillo National Monument",
    "parkCode": "cabr",
@@ -103,6 +49,33 @@
   {
    "park": "Cabrillo National Monument",
    "parkCode": "cabr",
+   "title": "The Story of Cabrillo National Monument",
+   "where": "",
+   "time": "10:00 AM - 10:30 AM",
+   "nextDates": [
+    "2026-11-13",
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18",
+    "2026-12-25",
+    "2027-01-01",
+    "2027-01-08",
+    "2027-01-15",
+    "2027-01-22",
+    "2027-01-29"
+   ],
+   "count": 164,
+   "free": true,
+   "lat": null,
+   "lng": null,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Behind every landmark at Cabrillo National Monument is a story. Join a ranger for a 30-minute guided walk introducing the people, places, and events that shaped Cabrillo National Monument. From Juan Rodríguez Cabrillo's 1542 expedition and the history of the Old Point Loma Lighthouse to the creation and growth of the monument itself, discover how this remarkable landscape became the park visitors "
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
    "title": "Open Tower Day",
    "where": "",
    "time": "10:00 AM - 03:30 PM",
@@ -115,6 +88,33 @@
    "lng": null,
    "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
    "about": "Imagine yourself as the first keeper when you make your way to the top of the lighthouse in celebration of the anniversary of the first time the light was lit! On Open Tower Days, you can experience the lighthouse with a half-hour guided tour between 10:00am - 3:30pm. The guided tours are the only way to access the top tower of the lighthouse and will give participants a glimpse into life at this "
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
+   "title": "Guided Bird Watching",
+   "where": "Tidepool parking lot one of the coastal area.",
+   "time": "09:30 AM - 10:30 AM",
+   "nextDates": [
+    "2026-12-04",
+    "2027-01-01",
+    "2027-02-05",
+    "2027-03-05",
+    "2027-04-02",
+    "2027-05-07",
+    "2027-06-04",
+    "2027-07-02",
+    "2027-08-06",
+    "2027-09-03",
+    "2027-10-01",
+    "2027-11-05"
+   ],
+   "count": 12,
+   "free": true,
+   "lat": 32.668219,
+   "lng": -117.244186,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Cabrillo National Monument is a hotspot for both resident and migrating birds as part of the Pacific Flyway, a central migration corridor used by billions of birds each year. Its unique ecology and position along the coast make Cabrillo an ideal place to observe terrestrial and coastal bird species. Join park staff for a one-mile bird watching hike along the coastal trail. All ages and experience "
   },
   {
    "park": "Cabrillo National Monument",
@@ -139,7 +139,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -150,46 +149,15 @@
     "2026-11-14",
     "2026-11-15",
     "2026-11-16",
-    "2026-11-17"
+    "2026-11-17",
+    "2026-11-18"
    ],
-   "count": 1344,
+   "count": 1343,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Sand Dunes Walk",
-   "where": "Meets at Mesquite Dunes Parking",
-   "time": "03:00 PM - 04:00 PM",
-   "nextDates": [
-    "2026-11-06"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.605999,
-   "lng": -117.115538,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Stroll through the Death Valley Wilderness with a Park Ranger. Explore living and non-living parts of this unique landscape."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Star Party",
-   "where": "Fiddlers' Campground",
-   "time": "07:00 PM - 10:00 PM",
-   "nextDates": [
-    "2026-11-06"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.460114,
-   "lng": -116.866545,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Join Death Valley Rangers and the Las Vegas Astronomical Society for a Star Party ! Drop by anytime 7pm-10pm to explore the night sky by telescope. To help you eyes adjust to the night sky, please limit white light use at event. Parking is located at the Furnace Creek Visitor Center with a short walk to Fiddlers' Campgound."
   },
   {
    "park": "Death Valley National Park",
@@ -327,7 +295,6 @@
    "where": "Meet at the Grant Tree Trailhead",
    "time": "11:00 AM - 12:00 PM",
    "nextDates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-11",
     "2026-11-13",
@@ -339,7 +306,7 @@
     "2026-11-27",
     "2026-11-28"
    ],
-   "count": 11,
+   "count": 10,
    "free": true,
    "lat": 36.747062,
    "lng": -118.973092,
@@ -349,38 +316,10 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Forest Feature (Giant Forest Area)",
-   "where": "Meet in front of the Giant Forest Museum",
-   "time": "11:00 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-06",
-    "2026-11-09",
-    "2026-11-10",
-    "2026-11-11",
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-16",
-    "2026-11-17",
-    "2026-11-18",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-23"
-   ],
-   "count": 17,
-   "free": true,
-   "lat": 36.564688,
-   "lng": -118.772683,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Ranger's Choice Talk (Grant Grove Area)",
    "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
    "time": "02:00 PM - 02:30 PM",
    "nextDates": [
-    "2026-11-06",
     "2026-11-07",
     "2026-11-08",
     "2026-11-09",
@@ -391,9 +330,10 @@
     "2026-11-15",
     "2026-11-16",
     "2026-11-17",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-20"
    ],
-   "count": 22,
+   "count": 21,
    "free": true,
    "lat": 36.74023,
    "lng": -118.962665,
@@ -487,6 +427,33 @@
    "lng": -118.971258,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Forest Feature (Giant Forest Area)",
+   "where": "Meet in front of the Giant Forest Museum",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-23",
+    "2026-11-24"
+   ],
+   "count": 16,
+   "free": true,
+   "lat": 36.564688,
+   "lng": -118.772683,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
   }
  ]
 }

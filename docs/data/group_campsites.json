@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "home": "91401",
  "radiusMiles": 200,
  "campgrounds": [
@@ -601,7 +601,7 @@
    "id": "231949",
    "name": "Crestline Group Campground",
    "area": "Cleveland National Forest",
-   "agency": "",
+   "agency": "USDA Forest Service",
    "lat": 33.3127778,
    "lng": -116.8647222,
    "miles": 108,
@@ -709,7 +709,7 @@
    "id": "231950",
    "name": "El Prado Group",
    "area": "Cleveland National Forest",
-   "agency": "",
+   "agency": "USDA Forest Service",
    "lat": 32.8869444,
    "lng": -116.4555556,
    "miles": 145,
