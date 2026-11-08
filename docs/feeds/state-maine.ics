@@ -6,26 +6,8 @@ X-WR-CALNAME:Scout Events – Maine
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:272094@scout-event-finder
-DTSTAMP:20261107T165035Z
-DTSTART:20261107T140000Z
-DTEND:20261107T210000Z
-SUMMARY:2026 Kennebec Valley Lego Derby Race – Lego Derby 2026
-LOCATION:Camp Bomazeen\, Belgrade\, Maine
-DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2026_K
- V_LegoPinewood\n\n\n\nCopy this link to register --> https://forms.gle/Qg
- jrWQhdaNkA53BJA\nKennebec Valley District Lego Derby\nJoin us on November
-  7\, 2026 from 9-4 at Camp Bomazeen to create your own Legos Derby ride. 
- Open to all unit levels and families. Bring a friend!\nFill out either th
- e Google\nregistration form\nto hold your place. On race day you will bui
- ld your vehicle Legos creation then race it all in one day. Come with som
- e creative ideas. Bring your own Legos\, if you want. We have plenty to s
- earch through.\nPay
-URL:https://global.scoutingevent.com/218-2026_KV_LegoPinewood
-END:VEVENT
-BEGIN:VEVENT
 UID:270084@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270206T130000Z
 DTEND:20270206T190000Z
 SUMMARY:2027 Cub Scout Winter Fun Day
@@ -43,7 +25,7 @@ URL:https://global.scoutingevent.com/216-CubWinter2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270085@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270507T200000Z
 DTEND:20270509T140000Z
 SUMMARY:2027 Cub Scout Spring Fling
@@ -61,7 +43,7 @@ URL:https://global.scoutingevent.com/216-SpringFling27
 END:VEVENT
 BEGIN:VEVENT
 UID:272062@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270521T220000Z
 DTEND:20270522T220000Z
 SUMMARY:2027 Kennebec Valley SPRING BALOO & IOLS Training – 2026 BALOO/I
@@ -80,7 +62,7 @@ URL:https://global.scoutingevent.com/218-2027_KV_BALOO
 END:VEVENT
 BEGIN:VEVENT
 UID:258482@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270801T170000Z
 DTEND:20270806T140000Z
 SUMMARY:2027 Cub Scout Resident Camp
@@ -98,7 +80,7 @@ URL:https://global.scoutingevent.com/216-2027CSResidentCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:272090@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20271015T210000Z
 DTEND:20271016T210000Z
 SUMMARY:2027 Casco Bay Fall BALOO/IOLS Training – 2027 BALOO/IOLS Traini
@@ -117,7 +99,7 @@ URL:https://global.scoutingevent.com/218-119968
 END:VEVENT
 BEGIN:VEVENT
 UID:272088@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20271015T220000Z
 DTEND:20271017T160000Z
 SUMMARY:2027 KV Fall Camporee – 2026 Fall Camporee

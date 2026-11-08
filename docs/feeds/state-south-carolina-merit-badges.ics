@@ -6,28 +6,8 @@ X-WR-CALNAME:Scout Events – South Carolina Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:270812@scout-event-finder
-DTSTAMP:20261107T165035Z
-DTSTART:20261107T133000Z
-DTEND:20261107T200000Z
-SUMMARY:Etowah Merit Badge Saturday
-LOCATION:Seven Oaks Presbyterian Church\, Columbia\, South Carolina
-DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-mb
- saturday26\n\nCitizenship in the Community\, Citizenship in the Nation\, 
- Citizenship in the World\, Communication\, Emergency Preparedness\, Publi
- c Speaking\, Salesmanship\n\nEtowah\nMerit Badge Saturday\nNovember 7\, 2
- 026\nSeven Oaks Presbyterian\nThis Merit Badge Saturday is hosted and org
- anized by Troop 91 of the Etowah District and welcome any troop to attend
- .  Scouts can choose from merit badges that are centered around Communic
- ations.  Badges will be taught on a full-day schedule with a lunch break
- . There are some requirements which may may need to be completed prior to
-  or after the Merit Badge Saturday.\nThe event date is Saturday\, Novembe
- r 7\, 2026.  We will start w
-URL:https://global.scoutingevent.com/553-mbsaturday26
-END:VEVENT
-BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -46,7 +26,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:273861@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20261218T220000Z
 DTEND:20261221T220000Z
 SUMMARY:Winter Camp 2026 – Winter Camp
@@ -70,7 +50,7 @@ URL:https://global.scoutingevent.com/553-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:278211@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20261222T140000Z
 DTEND:20261222T173000Z
 SUMMARY:Wildland Fire Management Merit Badge Session – Wildlands Fire Ma
@@ -89,7 +69,7 @@ URL:https://global.scoutingevent.com/553-wildlandfirembday26
 END:VEVENT
 BEGIN:VEVENT
 UID:278206@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270130T130000Z
 DTEND:20270130T213000Z
 SUMMARY:Scouts BSA Law Merit Badge Day
@@ -107,7 +87,7 @@ URL:https://global.scoutingevent.com/553-lawday27
 END:VEVENT
 BEGIN:VEVENT
 UID:271679@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20271022T210000Z
 DTEND:20271024T140000Z
 SUMMARY:2027 Cub-O-Ween hosted by the Chicora District

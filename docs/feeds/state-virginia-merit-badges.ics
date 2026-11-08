@@ -6,27 +6,8 @@ X-WR-CALNAME:Scout Events – Virginia Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:273798@scout-event-finder
-DTSTAMP:20261107T165035Z
-DTSTART:20261107T130000Z
-DTEND:20261107T200000Z
-SUMMARY:NCAC STEM – Engineering Merit Badge Workshop: Engineering Merit 
- Badge Workshop
-LOCATION:Camp William B. Snyder\, Haymarket\, Virginia
-DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
- m/082-120865\n\nEngineering\n\nEvent Overview\nNCAC STEM is hosting an e
- vent for Scouts BSA to earn the Engineering Merit Badge on Saturday\, Nov
- ermber 7 2026\nThey will host the event at Sally's STEM Shack at Camp Wil
- liam B. Snyder\, Haymarket\, VA.\nWho can attend?\nScouts BSA.\nClass Ove
- rview\nEngineers turn ideas into reality. For example\, they will take th
- e plans drawn on paper for an exciting new roller coaster—a design with
-  loops\, drops\, and corkscrews—and figure out how to build it so that 
- it will be fast\, safe to ride\, and af
-URL:https://global.scoutingevent.com/082-120865
-END:VEVENT
-BEGIN:VEVENT
 UID:253358@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20261121T120000Z
 DTEND:20261121T213000Z
 SUMMARY:Merit Badge University 2026 – Merit Badge University
@@ -51,7 +32,7 @@ URL:https://global.scoutingevent.com/763-Meritbadgeuniversity
 END:VEVENT
 BEGIN:VEVENT
 UID:253360@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270115T050000Z
 DTEND:20270118T180000Z
 SUMMARY:Winter Camp 2027
@@ -70,7 +51,7 @@ URL:https://global.scoutingevent.com/763-wintercamp27
 END:VEVENT
 BEGIN:VEVENT
 UID:276971@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270130T130000Z
 DTEND:20270130T210000Z
 SUMMARY:2027 Colonial Virginia Council Merit Badge University – Weekend 
@@ -94,7 +75,7 @@ URL:https://global.scoutingevent.com/595-cvcmbu2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276972@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270227T130000Z
 DTEND:20270227T210000Z
 SUMMARY:2027 Colonial Virginia Council Merit Badge University – Weekend 
@@ -118,7 +99,7 @@ URL:https://global.scoutingevent.com/595-cvcmbu2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271737@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270613T170000Z
 DTEND:20270619T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 1
@@ -136,7 +117,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:270012@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 1: June 13 - June 19
@@ -155,7 +136,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:271738@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270620T170000Z
 DTEND:20270626T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 2
@@ -173,7 +154,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:270010@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270620T180000Z
 DTEND:20270626T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 2: June 20 - June 26
@@ -192,7 +173,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:271739@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270627T170000Z
 DTEND:20270703T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 3
@@ -210,7 +191,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:267649@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270627T180000Z
 DTEND:20270703T110000Z
 SUMMARY:2027 Camp Marriott – Week 1
@@ -228,7 +209,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:270011@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270627T180000Z
 DTEND:20270703T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 3: June 27 - July 3
@@ -247,7 +228,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:271740@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270704T170000Z
 DTEND:20270710T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 4
@@ -265,7 +246,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:267650@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270704T180000Z
 DTEND:20270710T110000Z
 SUMMARY:2027 Camp Marriott – Week 2
@@ -283,7 +264,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:270013@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270704T180000Z
 DTEND:20270710T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 4: July 4 - July 10
@@ -302,7 +283,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:271741@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270711T170000Z
 DTEND:20270717T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 5
@@ -320,7 +301,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:267651@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270711T180000Z
 DTEND:20270717T110000Z
 SUMMARY:2027 Camp Marriott – Week 3
@@ -338,7 +319,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:267652@scout-event-finder
-DTSTAMP:20261107T165035Z
+DTSTAMP:20261108T170707Z
 DTSTART:20270718T180000Z
 DTEND:20270724T110000Z
 SUMMARY:2027 Camp Marriott – Week 4
