@@ -6,46 +6,8 @@ X-WR-CALNAME:Scout Events – CA 92070
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:dk-14b8f69e485e@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261107T000000Z
-DTEND:20261108T190000Z
-SUMMARY:Foothills Webelos Woods 2026
-LOCATION:27955 CA-79\, Santa Ysabel\, CA 92070
-DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
- nt/foothills-webelos-woods-2026/3141920\n\n\n\nFoothills District Present
- s Webelos Woods is an event designed to introduce Webelos / AOL Scouts an
- d parents to some of the exciting adventures of Scouts BSA program. The F
- oothills District Troops would like to invite Foothills Webelos and Webel
- os AOL Scouts to Webelos Woods! This weekend adventure is hosted by our D
- istrict BSA Troops. All Foothills Webelos are encouraged to join us at Ma
- taguay Scout Ranch to participate in Scouting skill demonstrations\, visi
- t with the older Scouts\, and have a f
-URL:https://sdicbsa.doubleknot.com/event/foothills-webelos-woods-2026/3141
- 920
-END:VEVENT
-BEGIN:VEVENT
-UID:dk-fa41d0d6d5ec@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261107T000000Z
-DTEND:20261108T190000Z
-SUMMARY:Foothills Webelos Woods 2026 - Troop Registration
-LOCATION:27955 CA-79\,\, Santa Ysabel\, CA 92070
-DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
- nt/foothills-webelos-woods-2026-troop-registration/3141949\n\n\n\nFoothil
- ls District Presents All Foothills Troops/Crews are invited to our Distri
- ct Webelos Woods. The WEBELOS will have the opportunity to visit with Tro
- ops from our District. November 6-8\, 2026 Check-in 4pm Mataguay Scout Ra
- nch\, 27955 CA-79\, Santa Ysabel\, CA 92070 Fee: $15.00 per Scouts BSA\, 
- $15.00 per Adult * two registered Adult members are required for each Tro
- op/Crew $5 discount for those registered by September 1. The link to orde
- r t-shirts or hoodies will be available at a later time. You
-URL:https://sdicbsa.doubleknot.com/event/foothills-webelos-woods-2026-troo
- p-registration/3141949
-END:VEVENT
-BEGIN:VEVENT
 UID:dk-1d00ad0c4e4a@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270123T180000Z
 DTEND:20270124T000000Z
 SUMMARY:Search and Rescue (SAR) Merit Badge Day at MSR
@@ -64,7 +26,7 @@ URL:https://sdicbsa.doubleknot.com/event/search-and-rescue-sar-merit-badge
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-5969921cbda9@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270416T230000Z
 DTEND:20270418T180000Z
 SUMMARY:Spring Family Fun MSR 2027
@@ -83,7 +45,7 @@ URL:https://sdicbsa.doubleknot.com/event/spring-family-fun-msr-2027/316620
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-eee88fb67c91@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270613T070000Z
 DTEND:20270619T070000Z
 SUMMARY:Session 1 MSR June 13-19
@@ -101,7 +63,7 @@ URL:https://sdicbsa.doubleknot.com/event/session-1-msr-june-13-19/3160136
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-b3ad49513d19@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270620T070000Z
 DTEND:20270626T070000Z
 SUMMARY:Session 2 MSR June 20-26
@@ -119,7 +81,7 @@ URL:https://sdicbsa.doubleknot.com/event/session-2-msr-june-20-26/3162540
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-8aff17cd3acf@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270627T070000Z
 DTEND:20270703T070000Z
 SUMMARY:Session 3 MSR June 27 - July 3

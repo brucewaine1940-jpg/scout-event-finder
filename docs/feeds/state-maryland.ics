@@ -6,82 +6,8 @@ X-WR-CALNAME:Scout Events – Maryland
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:269513@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261106T230000Z
-DTEND:20261108T140000Z
-SUMMARY:SBSA Fall Camporee 2026
-LOCATION:Camp Horseshoe\, Rising Sun\, Maryland
-DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
- 18561\n\n\n\nChester County Council 2026 SBSA Fall Camporee\nCelebrating 
- America's 250th!\nNovember 6-8\, 2026\n"Be Prepared"\nThe Program Guide w
- ith information about the event will be available by 9/15/26. Please prin
- t and use to prepare for event activities and any supplies you may need t
- o bring to make this a successful event for your unit.\nIndoor Camping\n$
- 25.00 per Scout\, $15.00 per Adult\n(Cabins will be assigned on first-com
- e basis and you could be sharing space. Units will be informed of cabin a
- ssignments 
-URL:https://global.scoutingevent.com/539-118561
-END:VEVENT
-BEGIN:VEVENT
-UID:249548@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261107T000000Z
-DTEND:20261108T170000Z
-SUMMARY:Introduction to Outdoor Leader Skills-IOLS (S11) - Rodney Scout Re
- servation
-LOCATION:Rodney Scout Reservation\, North East\, Maryland
-DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-IOLSR
- SRFall\n\nHazardous Weather\, IOLS\, Position-Specific Leader Training\n\
- nINTRODUCTION TO OUTDOOR LEADER SKILLS (IOLS):\nThe Introduction to Outdo
- or Leader Skills course builds and expands on the concepts and themes int
- roduced in Position-Specific Training and provides Scouters with the conf
- idence to take youth into the outdoors.\nSpecifically\, this hands-on pro
- gram gives adult leaders a practical introduction to the Patrol Method of
-  a youth-led Troop by teaching many of the practical outdoor skills they 
- need to lead Scouts in the out-of-doors. In addition\, the teaching
-URL:https://global.scoutingevent.com/081-IOLSRSRFall
-END:VEVENT
-BEGIN:VEVENT
-UID:244270@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261107T123000Z
-DTEND:20261108T220000Z
-SUMMARY:Wood Badge 12-220-26-2
-LOCATION:Camp Spencer\, Street\, Maryland
-DESCRIPTION:Baltimore Area Council\nhttps://global.scoutingevent.com/220-w
- b262\n\nWood Badge\n\nNo Registration Needed\nWOOD BADGE 12-220-26-2\nFal
- l 2026\nCourse Details:\nOrientation:\nThursday\, September 24\, 2026 7
- pm\, Council Service Center\nWeekend 1:\nOctober 9-11\, 2026 (7:30am F
- ri - 5pm Sun)  Camp Spencer\nWeekend 2:\nNovember 7-8\, 2026 (7:30am 
- Sat - 5pm Sun)  Camp Spencer\n** To successfully complete the course\, 
- participants must attend all sessions listed above.\n** In addition to th
- e sessions that take place onsite at Camp Spencer\, Broad Creek Scout Res
- ervation\, participants will work off-sit
-URL:https://global.scoutingevent.com/220-wb262
-END:VEVENT
-BEGIN:VEVENT
-UID:244693@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261107T130000Z
-DTEND:20261108T170000Z
-SUMMARY:Basic Adult Leader Outdoor Orientation - BALOO (C32) - Rodney Scou
- t Reservation
-LOCATION:Rodney Scout Reservation\, North East\, Maryland
-DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-baloo
- rsr\n\nBALOO\n\nBASIC ADULT LEADER OUTDOOR ORIENTATION (BALOO):\nThis cou
- rse is designed as an introduction to the Cub Scout outdoor program for t
- hose leaders who are interested in adding a camping component to their De
- n or Pack activities.\nWho should take BALOO?\nScouting America requires
-  that you have at least one BALOO-trained adult on every Cub Scout Den or
-  Pack overnight outdoor event.\nA BALOO-trained leader should be at any o
- vernighter regardless of whether it is a Pack\, District or Council event
- .\nHaving at
-URL:https://global.scoutingevent.com/081-baloorsr
-END:VEVENT
-BEGIN:VEVENT
 UID:244692@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261113T230000Z
 DTEND:20261115T013000Z
 SUMMARY:Basic Adult Leader Outdoor Orientation - BALOO (C32) - Henson Scou
@@ -100,7 +26,7 @@ URL:https://global.scoutingevent.com/081-BALOOHSR
 END:VEVENT
 BEGIN:VEVENT
 UID:252698@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261113T230000Z
 DTEND:20261115T010000Z
 SUMMARY:Introduction to Outdoor Leader Skills-IOLS (S11) - Henson Scout Re
@@ -119,7 +45,7 @@ URL:https://global.scoutingevent.com/081-IOLSHSRFALL
 END:VEVENT
 BEGIN:VEVENT
 UID:259423@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261114T050000Z
 DTEND:20261115T045900Z
 SUMMARY:Valkyrie Service Day Patch 2026 – Valkyrie Service Day Patch
@@ -137,7 +63,7 @@ URL:https://global.scoutingevent.com/220-VSD26Patch
 END:VEVENT
 BEGIN:VEVENT
 UID:274381@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261114T140000Z
 DTEND:20261114T210000Z
 SUMMARY:Cub BBs and Cub Archery – November 14
@@ -155,7 +81,7 @@ URL:https://global.scoutingevent.com/081-cubBBarchery
 END:VEVENT
 BEGIN:VEVENT
 UID:273763@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261121T180000Z
 DTEND:20261121T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -174,7 +100,7 @@ URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
 UID:240053@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261205T130000Z
 DTEND:20261205T220000Z
 SUMMARY:2026 Range & Target Activities NRA/USA Archery Trainings – NRA R
@@ -193,7 +119,7 @@ URL:https://global.scoutingevent.com/220-26RATA
 END:VEVENT
 BEGIN:VEVENT
 UID:266307@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270109T130000Z
 DTEND:20270109T220000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA R
@@ -212,7 +138,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:278376@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270109T130000Z
 DTEND:20270109T210000Z
 SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 1 - 
@@ -232,7 +158,7 @@ URL:https://global.scoutingevent.com/081-ELKTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:253422@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270109T130000Z
 DTEND:20270109T210000Z
 SUMMARY:Elkton Merit Badge College – Session 1 (Jan 9)- This is the firs
@@ -252,7 +178,7 @@ URL:https://global.scoutingevent.com/081-ElktonMBC
 END:VEVENT
 BEGIN:VEVENT
 UID:273764@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270109T180000Z
 DTEND:20270109T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -271,7 +197,7 @@ URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
 UID:251932@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270115T230000Z
 DTEND:20270117T150000Z
 SUMMARY:Klondike Derby at Rodney
@@ -289,7 +215,7 @@ URL:https://global.scoutingevent.com/081-rsrklondike
 END:VEVENT
 BEGIN:VEVENT
 UID:251935@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270122T220000Z
 DTEND:20270124T160000Z
 SUMMARY:Klondike Derby at Henson
@@ -307,7 +233,7 @@ URL:https://global.scoutingevent.com/081-hsrklondike
 END:VEVENT
 BEGIN:VEVENT
 UID:277665@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270122T230000Z
 DTEND:20270124T140000Z
 SUMMARY:Klondike Derby 2027
@@ -325,7 +251,7 @@ URL:https://global.scoutingevent.com/539-122831
 END:VEVENT
 BEGIN:VEVENT
 UID:253425@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270206T131500Z
 DTEND:20270206T210000Z
 SUMMARY:UMES Merit Badge College – Session 1 (Feb 6) is the first date c
@@ -345,7 +271,7 @@ URL:https://global.scoutingevent.com/081-umesmbc
 END:VEVENT
 BEGIN:VEVENT
 UID:273778@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270206T133000Z
 DTEND:20270206T210000Z
 SUMMARY:NCAC Cub Scouts Akela Chess Classic – Cub Scout Chess Tournament
@@ -363,7 +289,7 @@ URL:https://global.scoutingevent.com/082-120854
 END:VEVENT
 BEGIN:VEVENT
 UID:273791@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270213T133000Z
 DTEND:20270213T210000Z
 SUMMARY:NCAC Scouts BSA Akela Chess Classic – Scouts Chess Tournament
@@ -381,7 +307,7 @@ URL:https://global.scoutingevent.com/082-120861
 END:VEVENT
 BEGIN:VEVENT
 UID:266308@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270219T230000Z
 DTEND:20270221T220000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -400,7 +326,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:276337@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270221T200000Z
 DTEND:20270221T230000Z
 SUMMARY:2027 Scout Day w/the Blast
@@ -417,7 +343,7 @@ URL:https://global.scoutingevent.com/220-27blast
 END:VEVENT
 BEGIN:VEVENT
 UID:278377@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270313T130000Z
 DTEND:20270313T210000Z
 SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 2 - 
@@ -437,7 +363,7 @@ URL:https://global.scoutingevent.com/081-ELKTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:253423@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270313T130000Z
 DTEND:20270313T210000Z
 SUMMARY:Elkton Merit Badge College – Session 2 - A scout will follow the
@@ -457,7 +383,7 @@ URL:https://global.scoutingevent.com/081-ElktonMBC
 END:VEVENT
 BEGIN:VEVENT
 UID:266309@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270319T220000Z
 DTEND:20270321T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -476,7 +402,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:253426@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270320T120000Z
 DTEND:20270320T200000Z
 SUMMARY:UMES Merit Badge College – Session 2 - A scout will follow the s
@@ -496,7 +422,7 @@ URL:https://global.scoutingevent.com/081-umesmbc
 END:VEVENT
 BEGIN:VEVENT
 UID:274172@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270402T230000Z
 DTEND:20270404T160000Z
 SUMMARY:Introduction to Outdoor Leader Skills-IOLS (S11) - Rodney Scout Re
@@ -515,7 +441,7 @@ URL:https://global.scoutingevent.com/081-121065
 END:VEVENT
 BEGIN:VEVENT
 UID:274170@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270402T230000Z
 DTEND:20270404T160000Z
 SUMMARY:Leave No Trace Skills and Leave No Trace Instructor Courses
@@ -533,7 +459,7 @@ URL:https://global.scoutingevent.com/081-LNT
 END:VEVENT
 BEGIN:VEVENT
 UID:266310@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270410T120000Z
 DTEND:20270410T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – USA A
@@ -552,7 +478,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:266133@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270414T110000Z
 DTEND:20270414T190000Z
 SUMMARY:Wood Badge 12-220-27-1
@@ -570,7 +496,7 @@ URL:https://global.scoutingevent.com/220-wb271
 END:VEVENT
 BEGIN:VEVENT
 UID:264678@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270415T220000Z
 DTEND:20270416T010000Z
 SUMMARY:NYLT 2027-1
@@ -588,7 +514,7 @@ URL:https://global.scoutingevent.com/220-nylt271
 END:VEVENT
 BEGIN:VEVENT
 UID:274174@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270416T220000Z
 DTEND:20270418T000000Z
 SUMMARY:Introduction to Outdoor Leader Skills-IOLS (S11) - Henson Scout Re
@@ -607,7 +533,7 @@ URL:https://global.scoutingevent.com/081-hsrIOLSspring
 END:VEVENT
 BEGIN:VEVENT
 UID:274382@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270417T130000Z
 DTEND:20270417T200000Z
 SUMMARY:Cub BBs and Cub Archery – April 17
@@ -625,7 +551,7 @@ URL:https://global.scoutingevent.com/081-cubBBarchery
 END:VEVENT
 BEGIN:VEVENT
 UID:275383@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270417T223000Z
 DTEND:20270418T223000Z
 SUMMARY:Western Shore District – Introduction to Outdoor Leader Skills (
@@ -647,7 +573,7 @@ URL:https://global.scoutingevent.com/082-121652
 END:VEVENT
 BEGIN:VEVENT
 UID:266313@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270423T220000Z
 DTEND:20270425T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -666,7 +592,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:264679@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270423T230000Z
 DTEND:20270425T210000Z
 SUMMARY:NYLT 2027-1
@@ -684,7 +610,7 @@ URL:https://global.scoutingevent.com/220-nylt271
 END:VEVENT
 BEGIN:VEVENT
 UID:266132@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270430T230000Z
 DTEND:20270503T010000Z
 SUMMARY:Wood Badge 12-220-27-1
@@ -702,7 +628,7 @@ URL:https://global.scoutingevent.com/220-wb271
 END:VEVENT
 BEGIN:VEVENT
 UID:226282@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270501T120000Z
 DTEND:20270501T210000Z
 SUMMARY:22nd Annual NCAC Scout Orienteering Meet – 2027 Scout Orienteeri
@@ -721,7 +647,7 @@ URL:https://global.scoutingevent.com/082-2027ScoutOrienteering
 END:VEVENT
 BEGIN:VEVENT
 UID:266314@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270514T220000Z
 DTEND:20270516T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -740,7 +666,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:277657@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270514T220000Z
 DTEND:20270516T160000Z
 SUMMARY:2027 Spring Cub Family Weekend – Event Staff
@@ -758,7 +684,7 @@ URL:https://global.scoutingevent.com/220-27springcfw
 END:VEVENT
 BEGIN:VEVENT
 UID:277656@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270515T130000Z
 DTEND:20270516T143000Z
 SUMMARY:2027 Spring Cub Family Weekend – Spring Cub Family Weekend Regis
@@ -777,7 +703,7 @@ URL:https://global.scoutingevent.com/220-27springcfw
 END:VEVENT
 BEGIN:VEVENT
 UID:264680@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270521T230000Z
 DTEND:20270523T210000Z
 SUMMARY:NYLT 2027-1
@@ -795,7 +721,7 @@ URL:https://global.scoutingevent.com/220-nylt271
 END:VEVENT
 BEGIN:VEVENT
 UID:266177@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270605T040000Z
 DTEND:20270607T035900Z
 SUMMARY:Wood Badge 12-220-27-1
@@ -813,7 +739,7 @@ URL:https://global.scoutingevent.com/220-wb271
 END:VEVENT
 BEGIN:VEVENT
 UID:266315@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270605T120000Z
 DTEND:20270605T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA R
@@ -832,7 +758,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:261369@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270620T160000Z
 DTEND:20270626T140000Z
 SUMMARY:Rodney Scout Reservation Summer Camp – Week 1
@@ -850,7 +776,7 @@ URL:https://global.scoutingevent.com/081-RSRSummer
 END:VEVENT
 BEGIN:VEVENT
 UID:261370@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270627T160000Z
 DTEND:20270703T140000Z
 SUMMARY:Rodney Scout Reservation Summer Camp – Week 2
@@ -868,7 +794,7 @@ URL:https://global.scoutingevent.com/081-RSRSummer
 END:VEVENT
 BEGIN:VEVENT
 UID:267436@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270627T170000Z
 DTEND:20270703T140000Z
 SUMMARY:Broad Creek Scout Summer Camp 2027 – Week 1
@@ -886,7 +812,7 @@ URL:https://global.scoutingevent.com/220-27bcsc
 END:VEVENT
 BEGIN:VEVENT
 UID:265353@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270627T170000Z
 DTEND:20270703T150000Z
 SUMMARY:Camp Horseshoe Long-term Camp 2027 – Week 1
@@ -904,7 +830,7 @@ URL:https://global.scoutingevent.com/539-116391
 END:VEVENT
 BEGIN:VEVENT
 UID:261371@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270704T160000Z
 DTEND:20270710T140000Z
 SUMMARY:Rodney Scout Reservation Summer Camp – Week 3
@@ -922,7 +848,7 @@ URL:https://global.scoutingevent.com/081-RSRSummer
 END:VEVENT
 BEGIN:VEVENT
 UID:267435@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270704T170000Z
 DTEND:20270710T140000Z
 SUMMARY:Broad Creek Scout Summer Camp 2027 – Week 2
@@ -940,7 +866,7 @@ URL:https://global.scoutingevent.com/220-27bcsc
 END:VEVENT
 BEGIN:VEVENT
 UID:265354@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270704T170000Z
 DTEND:20270710T150000Z
 SUMMARY:Camp Horseshoe Long-term Camp 2027 – Week 2
@@ -958,7 +884,7 @@ URL:https://global.scoutingevent.com/539-116391
 END:VEVENT
 BEGIN:VEVENT
 UID:261372@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270711T160000Z
 DTEND:20270717T140000Z
 SUMMARY:Rodney Scout Reservation Summer Camp – Week 4
@@ -976,7 +902,7 @@ URL:https://global.scoutingevent.com/081-RSRSummer
 END:VEVENT
 BEGIN:VEVENT
 UID:267433@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270711T170000Z
 DTEND:20270717T140000Z
 SUMMARY:Broad Creek Scout Summer Camp 2027 – Week 3
@@ -994,7 +920,7 @@ URL:https://global.scoutingevent.com/220-27bcsc
 END:VEVENT
 BEGIN:VEVENT
 UID:265355@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270711T170000Z
 DTEND:20270717T150000Z
 SUMMARY:Camp Horseshoe Long-term Camp 2027 – Week 3
@@ -1012,7 +938,7 @@ URL:https://global.scoutingevent.com/539-116391
 END:VEVENT
 BEGIN:VEVENT
 UID:261373@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270718T160000Z
 DTEND:20270724T140000Z
 SUMMARY:Rodney Scout Reservation Summer Camp – Week 5
@@ -1030,7 +956,7 @@ URL:https://global.scoutingevent.com/081-RSRSummer
 END:VEVENT
 BEGIN:VEVENT
 UID:267434@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270718T170000Z
 DTEND:20270724T140000Z
 SUMMARY:Broad Creek Scout Summer Camp 2027 – Week 4
@@ -1048,7 +974,7 @@ URL:https://global.scoutingevent.com/220-27bcsc
 END:VEVENT
 BEGIN:VEVENT
 UID:265356@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270718T170000Z
 DTEND:20270724T150000Z
 SUMMARY:Camp Horseshoe Long-term Camp 2027 – Week 4
@@ -1066,7 +992,7 @@ URL:https://global.scoutingevent.com/539-116391
 END:VEVENT
 BEGIN:VEVENT
 UID:261374@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270725T160000Z
 DTEND:20270731T140000Z
 SUMMARY:Rodney Scout Reservation Summer Camp – Week 6
@@ -1084,7 +1010,7 @@ URL:https://global.scoutingevent.com/081-RSRSummer
 END:VEVENT
 BEGIN:VEVENT
 UID:265357@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270725T170000Z
 DTEND:20270731T150000Z
 SUMMARY:Camp Horseshoe Long-term Camp 2027 – Week 5
@@ -1101,26 +1027,8 @@ DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
 URL:https://global.scoutingevent.com/539-116391
 END:VEVENT
 BEGIN:VEVENT
-UID:277782@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20270729T160000Z
-DTEND:20270801T160000Z
-SUMMARY:Cub Scout Overnight Summer Camp
-LOCATION:Rodney Scout Reservation\, North East\, Maryland
-DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-RSRCu
- bSummer\n\n\n\nCub Scout Overnight Summer Camp at Rodney Scout Reservatio
- n\nThe all-new Cub Scout Summer Camp at Rodney is a 4-day\, 3-night campi
- ng experience for Cub Scouts! Come see the best that Cub Scouts has to of
- fer!\nDates: July 29th through August 1st\, 2027\nActivities\nwill incl
- ude swimming\, nature activities\, archery\, BB shooting\, and more!\nPro
- gram Guide available in the attachments section!\nRodney Scout Reservatio
- n\nis the only Scout camp on the Chesapeake Bay! Located on more than 900
-  acres of rolling u
-URL:https://global.scoutingevent.com/081-RSRCubSummer
-END:VEVENT
-BEGIN:VEVENT
 UID:261400@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270729T170000Z
 DTEND:20270801T161500Z
 SUMMARY:Henson Summer Merit Badge College Camp – Weekend # 1
@@ -1137,8 +1045,26 @@ DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-11414
 URL:https://global.scoutingevent.com/081-114146
 END:VEVENT
 BEGIN:VEVENT
+UID:277782@scout-event-finder
+DTSTAMP:20261109T211233Z
+DTSTART:20270729T180000Z
+DTEND:20270801T160000Z
+SUMMARY:Cub Scout Overnight Summer Camp
+LOCATION:Rodney Scout Reservation\, North East\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-RSRCu
+ bSummer\n\n\n\nCub Scout Overnight Summer Camp at Rodney Scout Reservatio
+ n\nThe all-new Cub Scout Summer Camp at Rodney is a 4-day\, 3-night campi
+ ng experience for Cub Scouts! Come see the best that Cub Scouts has to of
+ fer!\nDates: July 29th through August 1st\, 2027\nActivities\nwill incl
+ ude swimming\, nature activities\, archery\, BB shooting\, and more!\nPro
+ gram Guide available in the attachments section!\nRodney Scout Reservatio
+ n\nis the only Scout camp on the Chesapeake Bay! Located on more than 900
+  acres of rolling u
+URL:https://global.scoutingevent.com/081-RSRCubSummer
+END:VEVENT
+BEGIN:VEVENT
 UID:265358@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270801T170000Z
 DTEND:20270807T150000Z
 SUMMARY:Camp Horseshoe Long-term Camp 2027 – Week 6
@@ -1156,7 +1082,7 @@ URL:https://global.scoutingevent.com/539-116391
 END:VEVENT
 BEGIN:VEVENT
 UID:266316@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270813T220000Z
 DTEND:20270815T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -1175,7 +1101,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:266189@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270818T223000Z
 DTEND:20270819T010000Z
 SUMMARY:Wood Badge 12-220-27-2
@@ -1193,7 +1119,7 @@ URL:https://global.scoutingevent.com/220-wb272
 END:VEVENT
 BEGIN:VEVENT
 UID:266190@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270911T113000Z
 DTEND:20270913T220000Z
 SUMMARY:Wood Badge 12-220-27-2
@@ -1211,7 +1137,7 @@ URL:https://global.scoutingevent.com/220-wb272
 END:VEVENT
 BEGIN:VEVENT
 UID:264700@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270912T220000Z
 DTEND:20270913T010000Z
 SUMMARY:NYLT 2027-2
@@ -1229,7 +1155,7 @@ URL:https://global.scoutingevent.com/220-nylt272
 END:VEVENT
 BEGIN:VEVENT
 UID:266318@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270917T220000Z
 DTEND:20270919T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -1248,7 +1174,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:264701@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270924T230000Z
 DTEND:20270926T210000Z
 SUMMARY:NYLT 2027-2
@@ -1266,7 +1192,7 @@ URL:https://global.scoutingevent.com/220-nylt272
 END:VEVENT
 BEGIN:VEVENT
 UID:266317@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270925T120000Z
 DTEND:20270925T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – USA A
@@ -1285,7 +1211,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:266319@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271008T220000Z
 DTEND:20271010T210000Z
 SUMMARY:2027 Range & Target Activities NRA/USA Archery Trainings – NRA B
@@ -1304,7 +1230,7 @@ URL:https://global.scoutingevent.com/220-27rata
 END:VEVENT
 BEGIN:VEVENT
 UID:266191@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271023T113000Z
 DTEND:20271024T220000Z
 SUMMARY:Wood Badge 12-220-27-2
@@ -1322,7 +1248,7 @@ URL:https://global.scoutingevent.com/220-wb272
 END:VEVENT
 BEGIN:VEVENT
 UID:264702@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271029T230000Z
 DTEND:20271031T210000Z
 SUMMARY:NYLT 2027-2
@@ -1340,7 +1266,7 @@ URL:https://global.scoutingevent.com/220-nylt272
 END:VEVENT
 BEGIN:VEVENT
 UID:270926@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271227T200000Z
 DTEND:20280101T200000Z
 SUMMARY:National Youth Leadership Training - NYLT 2027

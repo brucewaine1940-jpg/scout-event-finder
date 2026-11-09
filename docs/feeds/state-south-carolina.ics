@@ -6,45 +6,8 @@ X-WR-CALNAME:Scout Events – South Carolina
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:275435@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261106T220000Z
-DTEND:20261108T150000Z
-SUMMARY:2026 OA Fall Fellowship
-LOCATION:Camp Conley Clarke\, Gaffney\, South Carolina
-DESCRIPTION:Palmetto Council\nhttps://global.scoutingevent.com/549-oafall\
- n\n\n\n2026 OA Fall Fellowship\nThe 2026 OA Fall Fellowship will be held 
- November 6-8\, 2026 at Camp Conley Clarke. This fellowship will feature s
- ervice to Camp Conley Clarke\,  Games\, Fellowship\, Lodge Elections and
-  more!  We look forward to a great fellowship together!\nYouth Brotherho
- od Candidate - $52 (must be a Brotherhood Candidate to register)\nYouth M
- ember - Non-Candidate ("Old Brother") - $30\nAdult Brotherhood Candidate 
- - $52 (must be a Brotherhood Candidate to register)\nAdult Member - Non-C
- andidat
-URL:https://global.scoutingevent.com/549-oafall
-END:VEVENT
-BEGIN:VEVENT
-UID:239111@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261106T220000Z
-DTEND:20261108T150000Z
-SUMMARY:2026 Webelos & AOL Weekend at Camp Coker – 2026 Webelos & AOL We
- ekend @ Camp Coker
-LOCATION:Camp Coker\, Society Hill\, South Carolina
-DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-we
- belosaol2026atcampcoker\n\nSafeguarding Youth / YPT\n\n2026 Webelos & AOL
-  Weekend at Camp Coker\nNovember 6 - 7 - 8\nCamp Coker\n2056 Camp Coker R
- d\, Society Hill\, SC 29593\nThis event is open to Webelos and Arrow of 
- Light Scouts as they prepare to transition to a Scouts BSA Troop and expe
- rience Camp Coker.\nThis event is for REGISTERED Webelos and AOL Scouts a
- nd their Leaders. Parents who wish to attend are strongly encouraged to c
- omplete the Scouting America Safeguarding Youth Training before the campo
- ut. Please visit my.scouting.org to complete this tr
-URL:https://global.scoutingevent.com/553-webelosaol2026atcampcoker
-END:VEVENT
-BEGIN:VEVENT
 UID:274488@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261113T220000Z
 DTEND:20261115T200000Z
 SUMMARY:2026 Daniel Morgan District Flag Retirement Campout – 2026 DM Fl
@@ -63,7 +26,7 @@ URL:https://global.scoutingevent.com/549-dmvetcamp
 END:VEVENT
 BEGIN:VEVENT
 UID:239110@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261114T134500Z
 DTEND:20261114T214500Z
 SUMMARY:Commissioner College
@@ -81,7 +44,7 @@ URL:https://global.scoutingevent.com/553-commissionercollege2026
 END:VEVENT
 BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -100,7 +63,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:276754@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261121T140000Z
 DTEND:20261121T220000Z
 SUMMARY:2026 Webelos Woods (formerly AOL Adventure Weekend) – 2026 AOL A
@@ -118,7 +81,7 @@ URL:https://global.scoutingevent.com/549-webwoods
 END:VEVENT
 BEGIN:VEVENT
 UID:274353@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261218T213000Z
 DTEND:20261221T190000Z
 SUMMARY:Camp Old Indian Winter Camp 2026 – Winter Camp
@@ -136,7 +99,7 @@ URL:https://global.scoutingevent.com/551-121146
 END:VEVENT
 BEGIN:VEVENT
 UID:273861@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261218T220000Z
 DTEND:20261221T220000Z
 SUMMARY:Winter Camp 2026 – Winter Camp
@@ -160,7 +123,7 @@ URL:https://global.scoutingevent.com/553-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:278211@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261222T140000Z
 DTEND:20261222T173000Z
 SUMMARY:Wildland Fire Management Merit Badge Session – Wildlands Fire Ma
@@ -179,7 +142,7 @@ URL:https://global.scoutingevent.com/553-wildlandfirembday26
 END:VEVENT
 BEGIN:VEVENT
 UID:272717@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270116T130000Z
 DTEND:20270117T170000Z
 SUMMARY:Wilderness First Aid Training – WFA Training
@@ -197,7 +160,7 @@ URL:https://global.scoutingevent.com/549-wfatraining
 END:VEVENT
 BEGIN:VEVENT
 UID:278206@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270130T130000Z
 DTEND:20270130T213000Z
 SUMMARY:Scouts BSA Law Merit Badge Day
@@ -215,7 +178,7 @@ URL:https://global.scoutingevent.com/553-lawday27
 END:VEVENT
 BEGIN:VEVENT
 UID:239112@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270205T230000Z
 DTEND:20270207T153000Z
 SUMMARY:Patrol Adventure Challenge 2027
@@ -233,7 +196,7 @@ URL:https://global.scoutingevent.com/553-patroladventurechallenge2027
 END:VEVENT
 BEGIN:VEVENT
 UID:273371@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270220T133000Z
 DTEND:20270221T170000Z
 SUMMARY:Wilderness First Aid Course – Wilderness First Aid
@@ -251,7 +214,7 @@ URL:https://global.scoutingevent.com/553-wfa27
 END:VEVENT
 BEGIN:VEVENT
 UID:272907@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270312T120000Z
 DTEND:20270314T220000Z
 SUMMARY:Wood Badge 2027 – 2027 Wood Badge 15-553-27 Weekend #1
@@ -269,7 +232,7 @@ URL:https://global.scoutingevent.com/553-woodbadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:277412@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270313T130000Z
 DTEND:20270314T160000Z
 SUMMARY:Wilderness First Aid Training – WFA Training
@@ -287,7 +250,7 @@ URL:https://global.scoutingevent.com/549-wfa
 END:VEVENT
 BEGIN:VEVENT
 UID:267512@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270409T110000Z
 DTEND:20270411T210000Z
 SUMMARY:Wood Badge – Wood Badge 1st Wknd
@@ -305,7 +268,7 @@ URL:https://global.scoutingevent.com/551-117508
 END:VEVENT
 BEGIN:VEVENT
 UID:272908@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270417T110000Z
 DTEND:20270418T220000Z
 SUMMARY:Wood Badge 2027 – 2027 Wood Badge 15-553-27 Weekend #2
@@ -323,7 +286,7 @@ URL:https://global.scoutingevent.com/553-woodbadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:267513@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270501T110000Z
 DTEND:20270502T210000Z
 SUMMARY:Wood Badge – Wood Badge 2nd Wknd
@@ -341,7 +304,7 @@ URL:https://global.scoutingevent.com/551-117508
 END:VEVENT
 BEGIN:VEVENT
 UID:266518@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270606T170000Z
 DTEND:20270612T150000Z
 SUMMARY:Camp Barstow 2027 – Week 1 - Camp Barstow 2027
@@ -359,7 +322,7 @@ URL:https://global.scoutingevent.com/553-CampBarstow2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266515@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270613T170000Z
 DTEND:20270619T150000Z
 SUMMARY:Camp Barstow 2027 – Week 2 - Camp Barstow 2027
@@ -377,7 +340,7 @@ URL:https://global.scoutingevent.com/553-CampBarstow2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266516@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270620T170000Z
 DTEND:20270626T150000Z
 SUMMARY:Camp Barstow 2027 – Week 3 - Camp Barstow 2027
@@ -395,7 +358,7 @@ URL:https://global.scoutingevent.com/553-CampBarstow2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266517@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270627T170000Z
 DTEND:20270703T150000Z
 SUMMARY:Camp Barstow 2027 – Week 4 - Camp Barstow 2027
@@ -413,7 +376,7 @@ URL:https://global.scoutingevent.com/553-CampBarstow2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271679@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271022T210000Z
 DTEND:20271024T140000Z
 SUMMARY:2027 Cub-O-Ween hosted by the Chicora District
@@ -431,7 +394,7 @@ URL:https://global.scoutingevent.com/553-119763
 END:VEVENT
 BEGIN:VEVENT
 UID:274606@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271023T124500Z
 DTEND:20271023T204500Z
 SUMMARY:Commissioner College
@@ -449,7 +412,7 @@ URL:https://global.scoutingevent.com/553-commissionercollege2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271677@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20271105T210000Z
 DTEND:20271107T150000Z
 SUMMARY:2027 Webelos & AOL Weekend at Camp Coker – 2026 Webelos & AOL We

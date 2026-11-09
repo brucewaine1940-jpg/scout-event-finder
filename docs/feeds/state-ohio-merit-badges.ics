@@ -6,44 +6,8 @@ X-WR-CALNAME:Scout Events – Ohio Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:230631@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261106T230000Z
-DTEND:20261108T170000Z
-SUMMARY:Wilderness First Aid - Fall 2026 – Beaumont Scout Reservation
-LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
-DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-98828\
- n\nFirst Aid\, CPR / AED / First Aid\, Wilderness First Aid\n\nWILDERNESS
-  FIRST AID TRAINING\nSponsored by the Lake Erie Council\nCurriculum Devel
- oped by the Emergency Care & Safety Institute (ECSI) & Officially Endors
- ed by Scouting America\nThe Wilderness First Aid course\, developed in c
- onjunction with Scouting America\, is great for Scouts and Scout leaders
- \, outdoor enthusiasts\, or people who work in an outdoor environment\, 
- including camp staff members. Be prepared for your next backpacking or hi
- gh adventure trip with Wilderness First Aid! The course meets th
-URL:https://global.scoutingevent.com/440-98828
-END:VEVENT
-BEGIN:VEVENT
-UID:271426@scout-event-finder
-DTSTAMP:20261108T170707Z
-DTSTART:20261108T140000Z
-DTEND:20261108T200000Z
-SUMMARY:Railroading Merit Badge Class
-LOCATION:Montgomery County Fairgrounds Calumet Center\, Dayton\, Ohio
-DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-Rai
- lroadingMB2026\n\nRailroading\, Merit Badge Counselor\n\nAll Aboard for t
- he 53rd Railroading Merit Badge Class!\nHere we go again! Join the Miami 
- Valley Division of the National Model Railroad Association for one of the
-  most unique merit badge opportunities around the Miami Valley and beyond
- !\nScouts BSA are invited to earn the Railroading Merit Badge during this
-  one-day class. Scouts will explore the history of railroading\, its role
-  in modern society\, careers in the railroad industry\, and railroading a
- s a hobby.\nWho:\nScouts BSA Youth\nDate:\nSunday\, Nove
-URL:https://global.scoutingevent.com/444-RailroadingMB2026
-END:VEVENT
-BEGIN:VEVENT
 UID:241084@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261114T133000Z
 DTEND:20261114T220000Z
 SUMMARY:Skilled Trades Day – November 2026 Skilled Trades Day
@@ -61,7 +25,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:241085@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261212T133000Z
 DTEND:20261212T220000Z
 SUMMARY:Skilled Trades Day – December 2026 Skilled Trades Day
@@ -79,7 +43,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:257428@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20261212T140000Z
 DTEND:20261212T210000Z
 SUMMARY:Game On!
@@ -97,7 +61,7 @@ URL:https://global.scoutingevent.com/438-GameOn
 END:VEVENT
 BEGIN:VEVENT
 UID:258351@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270123T133000Z
 DTEND:20270123T220000Z
 SUMMARY:Skilled Trades Day – January 2027 Skilled Trades Day
@@ -115,7 +79,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:278388@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270123T133000Z
 DTEND:20270123T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Welding
@@ -135,7 +99,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:278385@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270206T133000Z
 DTEND:20270206T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Plumbin
@@ -155,7 +119,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:258361@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Skilled Trades Day – February 2027 Skilled Trades Day
@@ -173,7 +137,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:278387@scout-event-finder
-DTSTAMP:20261108T170707Z
+DTSTAMP:20261109T211233Z
 DTSTART:20270306T133000Z
 DTEND:20270306T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Electri
