@@ -6,27 +6,8 @@ X-WR-CALNAME:Scout Events – Texas Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:270565@scout-event-finder
-DTSTAMP:20261109T211233Z
-DTSTART:20261107T140000Z
-DTEND:20261110T000000Z
-SUMMARY:USA Archery LEVEL 1 – USA Archery LEVEL 1 Practical
-LOCATION:Sid Richardson Scout Ranch\, Runaway Bay\, Texas
-DESCRIPTION:Longhorn Council\nhttps://global.scoutingevent.com/662-119078\
- n\nArchery\, Camping\, Merit Badge Counselor\, Range Officer / Shooting I
- nstructor\n\nLHC USA Archery Level I Instructor Course\nNovember 7th\, 20
- 26\nSid Richardson\, LHC\nThose wishing to run Troop and Venture Unit arc
- hery activities and to become an approved Archery Merit Badge Counselor\,
-  will need to complete the USA Archery Level 1 Instructor Certification o
- r above.\nThe class will start at 8:00 am at the Archery Range. The Pract
- ical class is a busy\, hands-on 4.5 hours. We will break for a short lunc
- h and continue BSA Shooting Sports policy\, LHC Archery Policy\, and how 
- to conduct t
-URL:https://global.scoutingevent.com/662-119078
-END:VEVENT
-BEGIN:VEVENT
 UID:236121@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261114T140000Z
 DTEND:20261114T230000Z
 SUMMARY:2026 Law MBU
@@ -44,7 +25,7 @@ URL:https://global.scoutingevent.com/571-2026LawMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:240109@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261114T143000Z
 DTEND:20261114T220000Z
 SUMMARY:2026 Environmental Science Merit Badge Class
@@ -62,7 +43,7 @@ URL:https://global.scoutingevent.com/562-2026EnvironmentalScienceMB
 END:VEVENT
 BEGIN:VEVENT
 UID:235792@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261121T143000Z
 DTEND:20261121T220000Z
 SUMMARY:2026 Horse Program – Nov 21 Horsemanship Merit Badge
@@ -81,7 +62,7 @@ URL:https://global.scoutingevent.com/571-2026HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:236117@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261121T200000Z
 DTEND:20261124T160000Z
 SUMMARY:2026 Campsgiving
@@ -98,27 +79,8 @@ DESCRIPTION:Circle Ten Council\nhttps://global.scoutingevent.com/571-2026C
 URL:https://global.scoutingevent.com/571-2026Campsgiving
 END:VEVENT
 BEGIN:VEVENT
-UID:275021@scout-event-finder
-DTSTAMP:20261109T211233Z
-DTSTART:20261123T150000Z
-DTEND:20261123T210000Z
-SUMMARY:Aviation Merit Badge
-LOCATION:Henry B. Tippie National Aviation Education Center\, Dallas\, Tex
- as
-DESCRIPTION:Longhorn Council\nhttps://global.scoutingevent.com/662-121467\
- n\nAviation\n\nTake Flight with Aviation Merit Badge!\nJoin Longhorn Coun
- cil for an exciting day of discovery at the\nHenry B. Tippie National Avi
- ation Education Center\nin Dallas on\nMonday\, November 23rd\, from 9:00 
- AM to 3:00 PM\n. This immersive event gives\nScouts BSA youth\nthe opport
- unity to earn the\nAviation Merit Badge\nwhile exploring the fascinating 
- world of flight.\nThe\nregistration fee is $25 per participant\n\, which 
- includes access to merit badge instruction and museum exhibits.\nAddition
- al family members wh
-URL:https://global.scoutingevent.com/662-121467
-END:VEVENT
-BEGIN:VEVENT
 UID:274181@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261206T140000Z
 DTEND:20261206T190000Z
 SUMMARY:USAA Archery Level 1 Training
@@ -136,7 +98,7 @@ URL:https://global.scoutingevent.com/564-121071
 END:VEVENT
 BEGIN:VEVENT
 UID:269911@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261209T000000Z
 DTEND:20261209T033000Z
 SUMMARY:Climbing Level 2 Training on real rock surfaces – In person meet
@@ -155,7 +117,7 @@ URL:https://global.scoutingevent.com/576-ClimbingLevel2realrock
 END:VEVENT
 BEGIN:VEVENT
 UID:269910@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261211T180000Z
 DTEND:20261213T180000Z
 SUMMARY:Climbing Level 2 Training on real rock surfaces – Weekend Traini
@@ -174,7 +136,7 @@ URL:https://global.scoutingevent.com/576-ClimbingLevel2realrock
 END:VEVENT
 BEGIN:VEVENT
 UID:277533@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261212T150000Z
 DTEND:20261212T200000Z
 SUMMARY:2026 Wildland Fire Management Merit Badge
@@ -192,7 +154,7 @@ URL:https://global.scoutingevent.com/562-2026WildlandFireManagement
 END:VEVENT
 BEGIN:VEVENT
 UID:258007@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261220T150000Z
 DTEND:20261223T180000Z
 SUMMARY:Winter Camp 2026 – Session 1
@@ -211,7 +173,7 @@ URL:https://global.scoutingevent.com/564-LPSRWinter2026
 END:VEVENT
 BEGIN:VEVENT
 UID:258008@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261227T150000Z
 DTEND:20261230T180000Z
 SUMMARY:Winter Camp 2026 – Session 2
@@ -230,7 +192,7 @@ URL:https://global.scoutingevent.com/564-LPSRWinter2026
 END:VEVENT
 BEGIN:VEVENT
 UID:271910@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270109T143000Z
 DTEND:20270109T220000Z
 SUMMARY:2027 Horse Program – Jan 9 Veterinary Medicine/Animal Science
@@ -249,7 +211,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271900@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270123T143000Z
 DTEND:20270123T220000Z
 SUMMARY:2027 Horse Program – Jan 23 Horsemanship Merit Badge
@@ -268,7 +230,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271905@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270130T143000Z
 DTEND:20270130T220000Z
 SUMMARY:2027 Horse Program – Jan 30 Horsemanship Merit Badge
@@ -287,7 +249,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:272667@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270206T140000Z
 DTEND:20270206T190000Z
 SUMMARY:Merit Badge College - Frontier Trails – Session 1
@@ -305,7 +267,7 @@ URL:https://global.scoutingevent.com/662-FTMBC27
 END:VEVENT
 BEGIN:VEVENT
 UID:271932@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270206T143000Z
 DTEND:20270206T220000Z
 SUMMARY:2027 Horse Program – Feb 6 Veterianry Medicine/Animal Science
@@ -324,7 +286,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:272668@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270220T140000Z
 DTEND:20270220T190000Z
 SUMMARY:Merit Badge College - Frontier Trails – Session 2
@@ -342,7 +304,7 @@ URL:https://global.scoutingevent.com/662-FTMBC27
 END:VEVENT
 BEGIN:VEVENT
 UID:271916@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270220T143000Z
 DTEND:20270220T220000Z
 SUMMARY:2027 Horse Program – Feb 20 Horsemanship Merit Badge
@@ -361,7 +323,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271917@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270227T143000Z
 DTEND:20270227T220000Z
 SUMMARY:2027 Horse Program – Feb 27 Horsemanship Merit Badge
@@ -380,7 +342,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:270123@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270306T140000Z
 DTEND:20270306T230000Z
 SUMMARY:2027 Texas Fin-Fur-Con (TFFC)
@@ -399,7 +361,7 @@ URL:https://global.scoutingevent.com/571-2027TFFC
 END:VEVENT
 BEGIN:VEVENT
 UID:271934@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270306T143000Z
 DTEND:20270306T220000Z
 SUMMARY:2027 Horse Program – Mar 6 Veterinary Medicine/Animal Science
@@ -418,7 +380,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271936@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270313T143000Z
 DTEND:20270313T220000Z
 SUMMARY:2027 Horse Program – Mar 13 Horsemanship Merit Badge
@@ -437,7 +399,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271937@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270320T133000Z
 DTEND:20270320T210000Z
 SUMMARY:2027 Horse Program – Mar 20 Horsemanship Merit Badge
@@ -456,7 +418,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:261045@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270327T130000Z
 DTEND:20270327T230000Z
 SUMMARY:USA Archery LEVEL 1 – USA Archery LEVEL 1 Practical - Spring
@@ -475,7 +437,7 @@ URL:https://global.scoutingevent.com/662-113928
 END:VEVENT
 BEGIN:VEVENT
 UID:272207@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270403T000000Z
 DTEND:20270404T220000Z
 SUMMARY:2027 Climbing Tower Training Level 1 & 2 – Spring Session
@@ -494,7 +456,7 @@ URL:https://global.scoutingevent.com/571-2027Climbing
 END:VEVENT
 BEGIN:VEVENT
 UID:270754@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270403T143000Z
 DTEND:20270403T213000Z
 SUMMARY:2027 Northeast Texas Merit Badge College
@@ -513,7 +475,7 @@ URL:https://global.scoutingevent.com/571-2027NETXMeritBadge
 END:VEVENT
 BEGIN:VEVENT
 UID:271938@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270410T133000Z
 DTEND:20270410T210000Z
 SUMMARY:2027 Horse Program – Apr 10 Veterinary Medicine/Animal Science
@@ -532,7 +494,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271907@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270417T133000Z
 DTEND:20270417T210000Z
 SUMMARY:2027 Horse Program – Apr 24 Beyond the Badge
@@ -551,7 +513,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:272327@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270417T150000Z
 DTEND:20270417T190000Z
 SUMMARY:2027 USAA Archery Level I Practical – Spring Archery I
@@ -571,7 +533,7 @@ URL:https://global.scoutingevent.com/571-2027ArcheryPractical
 END:VEVENT
 BEGIN:VEVENT
 UID:271912@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270501T140000Z
 DTEND:20270501T150000Z
 SUMMARY:2027 Horse Program – May 1 Trail Ride Session 1
@@ -590,7 +552,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:263409@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270711T144500Z
 DTEND:20270717T164500Z
 SUMMARY:Aquatic School 2027 – Aquatic School
@@ -609,7 +571,7 @@ URL:https://global.scoutingevent.com/662-AS2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272328@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270918T150000Z
 DTEND:20270918T190000Z
 SUMMARY:2027 USAA Archery Level I Practical – Fall Archery I
@@ -629,7 +591,7 @@ URL:https://global.scoutingevent.com/571-2027ArcheryPractical
 END:VEVENT
 BEGIN:VEVENT
 UID:272208@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271002T000000Z
 DTEND:20271003T220000Z
 SUMMARY:2027 Climbing Tower Training Level 1 & 2 – Fall Session
@@ -648,7 +610,7 @@ URL:https://global.scoutingevent.com/571-2027Climbing
 END:VEVENT
 BEGIN:VEVENT
 UID:265457@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271015T230000Z
 DTEND:20271017T150000Z
 SUMMARY:Score-O 2027
@@ -666,7 +628,7 @@ URL:https://global.scoutingevent.com/662-ScoreO27
 END:VEVENT
 BEGIN:VEVENT
 UID:264737@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271016T000000Z
 DTEND:20271017T150000Z
 SUMMARY:2027 WIS Camporee #8
@@ -685,7 +647,7 @@ URL:https://global.scoutingevent.com/571-2027WisCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:271918@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271016T133000Z
 DTEND:20271016T210000Z
 SUMMARY:2027 Horse Program – Oct 16 Veterinary Medicine/Animal Science
@@ -704,7 +666,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271906@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271023T133000Z
 DTEND:20271023T210000Z
 SUMMARY:2027 Horse Program – Oct 23 Horsemanship Merit Badge
@@ -723,7 +685,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:262334@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271106T050000Z
 DTEND:20271107T045900Z
 SUMMARY:USA Archery LEVEL 1 – USA Archery LEVEL 1 Practical - Fall
@@ -742,7 +704,7 @@ URL:https://global.scoutingevent.com/662-113928
 END:VEVENT
 BEGIN:VEVENT
 UID:271940@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271106T133000Z
 DTEND:20271106T210000Z
 SUMMARY:2027 Horse Program – Nov 6 Veterinary Medicine/Animal Science
@@ -761,7 +723,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271533@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271113T140000Z
 DTEND:20271113T230000Z
 SUMMARY:2027 Law MBU
@@ -779,7 +741,7 @@ URL:https://global.scoutingevent.com/571-2027LawMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:271908@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271113T143000Z
 DTEND:20271113T220000Z
 SUMMARY:2027 Horse Program – Nov 13 Beyond the Badge
@@ -798,7 +760,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:264949@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271119T200000Z
 DTEND:20271122T160000Z
 SUMMARY:2027 Campsgiving
@@ -820,7 +782,7 @@ URL:https://global.scoutingevent.com/571-2027Campsgiving
 END:VEVENT
 BEGIN:VEVENT
 UID:271911@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271120T143000Z
 DTEND:20271120T220000Z
 SUMMARY:2027 Horse Program – Nov 20 Horsemanship Merit Badge

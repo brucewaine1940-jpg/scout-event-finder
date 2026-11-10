@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:268989@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261112T000000Z
 DTEND:20261112T020000Z
 SUMMARY:Personal Management Merit Badge - Presented by Thrivent – Sessio
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/312-PersonalManagement
 END:VEVENT
 BEGIN:VEVENT
 UID:273113@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261114T150000Z
 DTEND:20261114T180000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Environmental Science S
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:277949@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261120T233000Z
 DTEND:20261121T010000Z
 SUMMARY:Kinderhook District Friends of Scouting Social – Kinderhook Frie
@@ -64,7 +64,7 @@ URL:https://global.scoutingevent.com/653-122973
 END:VEVENT
 BEGIN:VEVENT
 UID:273115@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261121T150000Z
 DTEND:20261121T210000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -83,7 +83,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:273299@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261205T000000Z
 DTEND:20261206T170000Z
 SUMMARY:2026 Shawnee District Camporee – Shawnee District December Campo
@@ -102,7 +102,7 @@ URL:https://global.scoutingevent.com/312-26SHDecCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:271544@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261205T143000Z
 DTEND:20261205T180000Z
 SUMMARY:Railroading Merit Badge Winter 2026 - Presented by RailPros
@@ -120,7 +120,7 @@ URL:https://global.scoutingevent.com/312-rrmbwinter26
 END:VEVENT
 BEGIN:VEVENT
 UID:255123@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261212T143000Z
 DTEND:20261212T220000Z
 SUMMARY:Craft of Training (Formerly Trainers Edge)-ROLLA
@@ -137,7 +137,7 @@ URL:https://global.scoutingevent.com/306-CraftofTraining1226
 END:VEVENT
 BEGIN:VEVENT
 UID:276716@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261212T143000Z
 DTEND:20261212T213000Z
 SUMMARY:STEM University 2026 - UMSL Cub Scout College
@@ -155,7 +155,7 @@ URL:https://global.scoutingevent.com/312-stemuumslcubscout26
 END:VEVENT
 BEGIN:VEVENT
 UID:276413@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261212T143000Z
 DTEND:20261212T220000Z
 SUMMARY:STEM University 2026 - UMSL Scouts BSA College – STEM U UMSL: Sc
@@ -176,7 +176,7 @@ URL:https://global.scoutingevent.com/312-stemuumslsbsa26
 END:VEVENT
 BEGIN:VEVENT
 UID:273117@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261212T150000Z
 DTEND:20261212T210000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -195,7 +195,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:268990@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261212T150000Z
 DTEND:20261212T170000Z
 SUMMARY:Personal Management Merit Badge - Presented by Thrivent – Sessio
@@ -214,7 +214,7 @@ URL:https://global.scoutingevent.com/312-PersonalManagement
 END:VEVENT
 BEGIN:VEVENT
 UID:273313@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261227T140000Z
 DTEND:20261231T180000Z
 SUMMARY:2026 Winter Camp – Staff
@@ -232,7 +232,7 @@ URL:https://global.scoutingevent.com/306-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:273311@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20261228T140000Z
 DTEND:20261231T180000Z
 SUMMARY:2026 Winter Camp – Winter Camp - Early Bird
@@ -249,8 +249,27 @@ DESCRIPTION:Ozark Trails Council\nhttps://global.scoutingevent.com/306-Win
 URL:https://global.scoutingevent.com/306-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
+UID:278392@scout-event-finder
+DTSTAMP:20261110T181917Z
+DTSTART:20270109T143000Z
+DTEND:20270109T220000Z
+SUMMARY:STEM University 2027 - SEMO STAFF – STEM U SEMO - Staff enrollme
+ nt
+LOCATION:SEMO\, Cape Girardeau\, Missouri
+DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
+ com/312-stemusemostaff27\n\n\n\nSTEM University -\nSEMO\n:\nStaff enrollm
+ ent\nHost sponsor:\nSoutheast Missouri State University\nWho: Scout Lead
+ ers & Adult Volunteers\nWhen: Saturday\, January 9th\, 2027\nTime: 8:30
+  a.m. to 4:00 p.m.\nWhere: One University Plaza\, Cape Girardeau MO 6370
+ 1\nCost: free  includes lunch\, patch\, gift\nRegistration Deadline: Dec
+ ember 30th or when capacity reached.\nStarting time: 8:30am\, end time: 
+ tentatively 4 pm (subject to change)\nExact schedule of events\n8:30am - 
+ Opening Ceremonies.\n8:45 - 11:55am - Morning se
+URL:https://global.scoutingevent.com/312-stemusemostaff27
+END:VEVENT
+BEGIN:VEVENT
 UID:278088@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270109T143000Z
 DTEND:20270109T220000Z
 SUMMARY:STEM University 2027 - SEMO Scouts BSA College – STEM U SEMO - S
@@ -272,7 +291,7 @@ URL:https://global.scoutingevent.com/312-STEMUSEMOBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:273119@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270109T150000Z
 DTEND:20270109T210000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -291,7 +310,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:254955@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270206T140000Z
 DTEND:20270206T220000Z
 SUMMARY:Missouri S&T MBU 2027 – Missouri S&T MBU
@@ -306,7 +325,7 @@ URL:https://global.scoutingevent.com/306-MSTMBU27
 END:VEVENT
 BEGIN:VEVENT
 UID:263431@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270215T180000Z
 DTEND:20270215T210000Z
 SUMMARY:Missouri Eagle Scout Recognition Day – Missouri Eagle Scout Day
@@ -324,7 +343,7 @@ URL:https://global.scoutingevent.com/653-115341
 END:VEVENT
 BEGIN:VEVENT
 UID:273121@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270227T150000Z
 DTEND:20270227T180000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Environmental Science S
@@ -343,7 +362,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:275125@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270306T150000Z
 DTEND:20270306T210000Z
 SUMMARY:2027 Gravois Trail Citizenship in the Nation Merit Badge Class
@@ -360,8 +379,26 @@ DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
 URL:https://global.scoutingevent.com/312-27GTCINMB
 END:VEVENT
 BEGIN:VEVENT
+UID:278699@scout-event-finder
+DTSTAMP:20261110T181917Z
+DTSTART:20270319T200000Z
+DTEND:20270321T160000Z
+SUMMARY:XXXII RENDEZVOUS 2027 – Rendezvous 2026
+LOCATION:Frank Childress Reserve\, Joplin\, Missouri
+DESCRIPTION:Ozark Trails Council\nhttps://global.scoutingevent.com/306-123
+ 399\n\n\n\nWhat makes Scouting fun? Camping\, Cooking outdoors\, Scouting
+  comrades\, Vendors and trading really cool stuff!!\nRendezvous XXXII - A
+ ctivities\nSession Times are 9:00 am – 12:00 pm and 1:00 pm – 4:00 pm
+ \n1. Tomahawk Throwing\n2. Camp Cookie’s SPAM Cook-Off\nThe great SPAM 
+ cook-off has been a regular event at Rendezvous. Don't forget to bring yo
+ ur favorite recipe!!\nSubmissions are judged by a panel of hungry Rendezv
+ ous staff and the winning dish and its creator are recognized at closing 
+ campfire with t
+URL:https://global.scoutingevent.com/306-123399
+END:VEVENT
+BEGIN:VEVENT
 UID:268134@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270423T220000Z
 DTEND:20270425T170000Z
 SUMMARY:Lake of the Ozarks Merit Badge College 2027 – Lake of the Ozarks
@@ -380,7 +417,7 @@ URL:https://global.scoutingevent.com/653-MBC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:273123@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270424T140000Z
 DTEND:20270424T200000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -399,7 +436,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:269233@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270521T120000Z
 DTEND:20270523T220000Z
 SUMMARY:2027 Wood Badge Spring Session – Weekend 1 May 21-23
@@ -417,7 +454,7 @@ URL:https://global.scoutingevent.com/312-118402
 END:VEVENT
 BEGIN:VEVENT
 UID:266969@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270523T050000Z
 DTEND:20270524T045900Z
 SUMMARY:2027 Celebration Event (Venturing + Sea Scouts)
@@ -435,7 +472,7 @@ URL:https://global.scoutingevent.com/312-cele27
 END:VEVENT
 BEGIN:VEVENT
 UID:269234@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270605T120000Z
 DTEND:20270606T220000Z
 SUMMARY:2027 Wood Badge Spring Session – Weekend 2 June 5-6
@@ -453,7 +490,7 @@ URL:https://global.scoutingevent.com/312-118402
 END:VEVENT
 BEGIN:VEVENT
 UID:271548@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270606T163000Z
 DTEND:20270612T150000Z
 SUMMARY:2027 National Youth Leadership Training  (NYLT) – Session 1 - Ju
@@ -471,8 +508,44 @@ DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
 URL:https://global.scoutingevent.com/312-nylt27
 END:VEVENT
 BEGIN:VEVENT
+UID:278675@scout-event-finder
+DTSTAMP:20261110T181917Z
+DTSTART:20270606T170000Z
+DTEND:20270612T130000Z
+SUMMARY:2027 Scouts BSA Resident Camp – Week 1
+LOCATION:Camp Arrowhead\, Marshfield\, Missouri
+DESCRIPTION:Ozark Trails Council\nhttps://global.scoutingevent.com/306-Res
+ identCamp_2027\n\n\n\nSince 1924 — Celebrating the beginning of our nex
+ t 100 years of serving youth in 2026!\nWelcome to Camp Arrowhead\, Missou
+ ri’s longest-running Scouting America Scout Camp! We are incredibly exc
+ ited for Summer 2027.\nAt Camp Arrowhead\, your Scouts will experience a 
+ full adventure program\, including:\nShooting Sports\nFishing\nLakefront\
+ nClimbing/COPE\nMountain Biking\nRange and Target Activities\nScuba Divin
+ g\nThe Blob\nAnd so much more!\nReserve your campsite today and be part o
+ f the next century of adventur
+URL:https://global.scoutingevent.com/306-ResidentCamp_2027
+END:VEVENT
+BEGIN:VEVENT
+UID:278676@scout-event-finder
+DTSTAMP:20261110T181917Z
+DTSTART:20270613T180000Z
+DTEND:20270619T150000Z
+SUMMARY:2027 Scouts BSA Resident Camp – Week 2
+LOCATION:Camp Arrowhead\, Marshfield\, Missouri
+DESCRIPTION:Ozark Trails Council\nhttps://global.scoutingevent.com/306-Res
+ identCamp_2027\n\n\n\nSince 1924 — Celebrating the beginning of our nex
+ t 100 years of serving youth in 2026!\nWelcome to Camp Arrowhead\, Missou
+ ri’s longest-running Scouting America Scout Camp! We are incredibly exc
+ ited for Summer 2027.\nAt Camp Arrowhead\, your Scouts will experience a 
+ full adventure program\, including:\nShooting Sports\nFishing\nLakefront\
+ nClimbing/COPE\nMountain Biking\nRange and Target Activities\nScuba Divin
+ g\nThe Blob\nAnd so much more!\nReserve your campsite today and be part o
+ f the next century of adventur
+URL:https://global.scoutingevent.com/306-ResidentCamp_2027
+END:VEVENT
+BEGIN:VEVENT
 UID:266584@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270613T180000Z
 DTEND:20270619T220000Z
 SUMMARY:2027 Summer Camp-Famous Eagle – Session 1
@@ -490,7 +563,7 @@ URL:https://global.scoutingevent.com/312-116994
 END:VEVENT
 BEGIN:VEVENT
 UID:266592@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:2027 Summer Camp-Gamble – Session 1
@@ -508,7 +581,7 @@ URL:https://global.scoutingevent.com/312-116996
 END:VEVENT
 BEGIN:VEVENT
 UID:266611@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:2027 Swift High Adventure Base-Venturing Summer Camp – Venturing
@@ -527,7 +600,7 @@ URL:https://global.scoutingevent.com/312-swift27
 END:VEVENT
 BEGIN:VEVENT
 UID:265791@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270613T180000Z
 DTEND:20270619T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Session 1
@@ -545,7 +618,7 @@ URL:https://global.scoutingevent.com/653-Summer2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271549@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270620T163000Z
 DTEND:20270626T150000Z
 SUMMARY:2027 National Youth Leadership Training  (NYLT) – Session 2 - Ju
@@ -564,7 +637,7 @@ URL:https://global.scoutingevent.com/312-nylt27
 END:VEVENT
 BEGIN:VEVENT
 UID:268427@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270620T180000Z
 DTEND:20270625T233000Z
 SUMMARY:2027 S-F Ranger Program – Session 1
@@ -581,8 +654,26 @@ DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
 URL:https://global.scoutingevent.com/312-117984
 END:VEVENT
 BEGIN:VEVENT
+UID:278677@scout-event-finder
+DTSTAMP:20261110T181917Z
+DTSTART:20270620T180000Z
+DTEND:20270626T150000Z
+SUMMARY:2027 Scouts BSA Resident Camp – Week 3
+LOCATION:Camp Arrowhead\, Marshfield\, Missouri
+DESCRIPTION:Ozark Trails Council\nhttps://global.scoutingevent.com/306-Res
+ identCamp_2027\n\n\n\nSince 1924 — Celebrating the beginning of our nex
+ t 100 years of serving youth in 2026!\nWelcome to Camp Arrowhead\, Missou
+ ri’s longest-running Scouting America Scout Camp! We are incredibly exc
+ ited for Summer 2027.\nAt Camp Arrowhead\, your Scouts will experience a 
+ full adventure program\, including:\nShooting Sports\nFishing\nLakefront\
+ nClimbing/COPE\nMountain Biking\nRange and Target Activities\nScuba Divin
+ g\nThe Blob\nAnd so much more!\nReserve your campsite today and be part o
+ f the next century of adventur
+URL:https://global.scoutingevent.com/306-ResidentCamp_2027
+END:VEVENT
+BEGIN:VEVENT
 UID:266581@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270620T180000Z
 DTEND:20270626T220000Z
 SUMMARY:2027 Summer Camp-Famous Eagle – Session 2
@@ -600,7 +691,7 @@ URL:https://global.scoutingevent.com/312-116994
 END:VEVENT
 BEGIN:VEVENT
 UID:266593@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270620T180000Z
 DTEND:20270626T140000Z
 SUMMARY:2027 Summer Camp-Gamble – Session 2
@@ -618,7 +709,7 @@ URL:https://global.scoutingevent.com/312-116996
 END:VEVENT
 BEGIN:VEVENT
 UID:265792@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270620T180000Z
 DTEND:20270626T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Session 2
@@ -635,8 +726,26 @@ DESCRIPTION:Great Rivers Council\nhttps://global.scoutingevent.com/653-Sum
 URL:https://global.scoutingevent.com/653-Summer2027
 END:VEVENT
 BEGIN:VEVENT
+UID:278678@scout-event-finder
+DTSTAMP:20261110T181917Z
+DTSTART:20270627T050000Z
+DTEND:20270703T150000Z
+SUMMARY:2027 Scouts BSA Resident Camp – Week 4
+LOCATION:Camp Arrowhead\, Marshfield\, Missouri
+DESCRIPTION:Ozark Trails Council\nhttps://global.scoutingevent.com/306-Res
+ identCamp_2027\n\n\n\nSince 1924 — Celebrating the beginning of our nex
+ t 100 years of serving youth in 2026!\nWelcome to Camp Arrowhead\, Missou
+ ri’s longest-running Scouting America Scout Camp! We are incredibly exc
+ ited for Summer 2027.\nAt Camp Arrowhead\, your Scouts will experience a 
+ full adventure program\, including:\nShooting Sports\nFishing\nLakefront\
+ nClimbing/COPE\nMountain Biking\nRange and Target Activities\nScuba Divin
+ g\nThe Blob\nAnd so much more!\nReserve your campsite today and be part o
+ f the next century of adventur
+URL:https://global.scoutingevent.com/306-ResidentCamp_2027
+END:VEVENT
+BEGIN:VEVENT
 UID:266588@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270627T180000Z
 DTEND:20270703T220000Z
 SUMMARY:2027 Summer Camp-Famous Eagle – Session 3
@@ -654,7 +763,7 @@ URL:https://global.scoutingevent.com/312-116994
 END:VEVENT
 BEGIN:VEVENT
 UID:267051@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270627T180000Z
 DTEND:20270703T140000Z
 SUMMARY:2027 Summer Camp-Gamble – Session 3
@@ -672,7 +781,7 @@ URL:https://global.scoutingevent.com/312-116996
 END:VEVENT
 BEGIN:VEVENT
 UID:265795@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270627T180000Z
 DTEND:20270703T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Session 3
@@ -690,7 +799,7 @@ URL:https://global.scoutingevent.com/653-Summer2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266594@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270704T180000Z
 DTEND:20270710T140000Z
 SUMMARY:2027 Summer Camp-Gamble – Session 4
@@ -708,7 +817,7 @@ URL:https://global.scoutingevent.com/312-116996
 END:VEVENT
 BEGIN:VEVENT
 UID:265793@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270704T180000Z
 DTEND:20270710T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Session 4
@@ -726,7 +835,7 @@ URL:https://global.scoutingevent.com/653-Summer2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271550@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270711T163000Z
 DTEND:20270717T150000Z
 SUMMARY:2027 National Youth Leadership Training  (NYLT) – Session 3 - Ju
@@ -745,7 +854,7 @@ URL:https://global.scoutingevent.com/312-nylt27
 END:VEVENT
 BEGIN:VEVENT
 UID:268429@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270711T180000Z
 DTEND:20270716T233000Z
 SUMMARY:2027 S-F Ranger Program – Session 2
@@ -763,7 +872,7 @@ URL:https://global.scoutingevent.com/312-117984
 END:VEVENT
 BEGIN:VEVENT
 UID:266608@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270711T180000Z
 DTEND:20270717T140000Z
 SUMMARY:2027 Summer Camp- Camp Lewallen – Session 1
@@ -781,7 +890,7 @@ URL:https://global.scoutingevent.com/312-117000
 END:VEVENT
 BEGIN:VEVENT
 UID:266583@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270711T180000Z
 DTEND:20270717T220000Z
 SUMMARY:2027 Summer Camp-Famous Eagle – Session 4
@@ -799,7 +908,7 @@ URL:https://global.scoutingevent.com/312-116994
 END:VEVENT
 BEGIN:VEVENT
 UID:265794@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270711T180000Z
 DTEND:20270717T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Session 5
@@ -817,7 +926,7 @@ URL:https://global.scoutingevent.com/653-Summer2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266610@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270718T180000Z
 DTEND:20270724T140000Z
 SUMMARY:2027 Summer Camp- Camp Lewallen – Session 2
@@ -835,7 +944,7 @@ URL:https://global.scoutingevent.com/312-117000
 END:VEVENT
 BEGIN:VEVENT
 UID:265206@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270806T123000Z
 DTEND:20270808T203000Z
 SUMMARY:Eagle's Egg MBU
@@ -854,7 +963,7 @@ URL:https://global.scoutingevent.com/306-httpsscoutingeventcom306EaglesEgg
 END:VEVENT
 BEGIN:VEVENT
 UID:278547@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20270820T220000Z
 DTEND:20270822T160000Z
 SUMMARY:2027 Canoe & BBQ – 2027 Scout Canoe Trip
@@ -872,7 +981,7 @@ URL:https://global.scoutingevent.com/306-2027ScoutCanoeTrip
 END:VEVENT
 BEGIN:VEVENT
 UID:277732@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271001T120000Z
 DTEND:20271003T220000Z
 SUMMARY:2027 Wood Badge Fall Session – Weekend 1 October 1 - 3\, 2027
@@ -890,7 +999,7 @@ URL:https://global.scoutingevent.com/312-122867
 END:VEVENT
 BEGIN:VEVENT
 UID:271764@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271002T180000Z
 DTEND:20271003T150000Z
 SUMMARY:2027 OA Vigil Weekend – 2026 OA Vigil Weekend
@@ -905,7 +1014,7 @@ URL:https://global.scoutingevent.com/306-119812
 END:VEVENT
 BEGIN:VEVENT
 UID:277733@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20271016T120000Z
 DTEND:20271017T220000Z
 SUMMARY:2027 Wood Badge Fall Session – Weekend 2 October 16-17\, 2027
@@ -923,7 +1032,7 @@ URL:https://global.scoutingevent.com/312-122867
 END:VEVENT
 BEGIN:VEVENT
 UID:277293@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20280421T120000Z
 DTEND:20280423T220000Z
 SUMMARY:Wood Badge 5-653-28 – Wood Badge Weekends April 21-23 and May 6-
@@ -943,7 +1052,7 @@ URL:https://global.scoutingevent.com/653-WoodBadge2028
 END:VEVENT
 BEGIN:VEVENT
 UID:277294@scout-event-finder
-DTSTAMP:20261109T211233Z
+DTSTAMP:20261110T181917Z
 DTSTART:20280506T120000Z
 DTEND:20280507T220000Z
 SUMMARY:Wood Badge 5-653-28 – Wood Badge Weekend 2
