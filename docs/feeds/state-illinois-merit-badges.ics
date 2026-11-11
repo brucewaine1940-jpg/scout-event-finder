@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:273180@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261114T133000Z
 DTEND:20261114T200000Z
 SUMMARY:2026 University of Scouting PARTNER Registration
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/127-PARTNER26
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992515815441@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261115T160000Z
 DTEND:20261115T180000Z
 SUMMARY:Burpee Museum BSA: Geology Merit Badge - In Person
@@ -39,7 +39,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-geology-merit-badge-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:245395@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261115T180000Z
 DTEND:20261115T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -58,7 +58,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:253222@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261121T150000Z
 DTEND:20261121T200000Z
 SUMMARY:Ultimate First Aid Competition 2026
@@ -77,7 +77,7 @@ URL:https://global.scoutingevent.com/702-ultimatefirstaid
 END:VEVENT
 BEGIN:VEVENT
 UID:267306@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261121T160000Z
 DTEND:20261121T220000Z
 SUMMARY:Stamp Collecting Merit Badge at ChicagoPex
@@ -94,8 +94,27 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-Stam
 URL:https://global.scoutingevent.com/127-Stamps26
 END:VEVENT
 BEGIN:VEVENT
+UID:278751@scout-event-finder
+DTSTAMP:20261111T182128Z
+DTSTART:20261205T140000Z
+DTEND:20261205T180000Z
+SUMMARY:Aviation Merit Badge Day
+LOCATION:JA Flight Training - Aurora Municpal Airport\, Sugar Grove\, Illi
+ nois
+DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-Avia
+ tionclinic26\n\nAviation\n\nAviation Merit Badge\nDate\n: December 5\nTim
+ e\n: 8:00 AM – 12:00 PM\nLocation\n: JA Flight Training\, Aurora Munici
+ pal Airport\nTake your interest in aviation to new heights! Join us for a
+  fun\, hands-on Aviation Merit Badge Clinic at JA Flight Training\, locat
+ ed at Aurora Municipal Airport.\nDuring this approximately four-hour clin
+ ic\, Scouts will explore the exciting world of aviation while working thr
+ ough all the requirements for the Aviation Merit Badge.\nActivities will 
+ include\n:\nBuild and Fly\n: Constr
+URL:https://global.scoutingevent.com/127-Aviationclinic26
+END:VEVENT
+BEGIN:VEVENT
 UID:eb-1992516713126@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261206T160000Z
 DTEND:20261206T180000Z
 SUMMARY:Burpee Museum BSA: Environmental Science Merit Badge- In Person
@@ -109,7 +128,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-environmental-science-m
 END:VEVENT
 BEGIN:VEVENT
 UID:245396@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20261206T180000Z
 DTEND:20261206T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -128,7 +147,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:245397@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20270109T133000Z
 DTEND:20270110T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
@@ -147,7 +166,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992519616811@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20270117T160000Z
 DTEND:20270117T170000Z
 SUMMARY:Burpee Museum BSA: Mammal Study Merit Badge - In Person
@@ -160,8 +179,26 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-mammal-study-merit-badg
  e-in-person-tickets-1992519616811
 END:VEVENT
 BEGIN:VEVENT
+UID:260539@scout-event-finder
+DTSTAMP:20261111T182128Z
+DTSTART:20270227T143000Z
+DTEND:20270227T230000Z
+SUMMARY:Sea Scout TACK Training Day
+LOCATION:Addison Trail High School\, Addison\, Illinois
+DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-TACK
+ 2027\n\nSafety\, Weather\n\nTACK 2027\nThree Fires Council’s Annual Sea
+  Scout training day-TACK- will be on Saturday\, Feb 27\, 2027\nat Addison
+  Trail High School\, 213 N Lombard Rd\, Addison\, Illinois.\nRegistration
+  will begin at 8:00. Opening Ceremony will begin promptly at 9:00. Classe
+ s are available for all Sea Scout\nranks\, adults\, and Scouts in other p
+ rograms.\nThese are especially helpful for those scouts and scouters plan
+ ning to attend Sea Base or another aquatics High Adventure\, and a couple
+  special offerings.\nSpecial offe
+URL:https://global.scoutingevent.com/127-TACK2027
+END:VEVENT
+BEGIN:VEVENT
 UID:eb-1993714939052@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20270321T150000Z
 DTEND:20270321T170000Z
 SUMMARY:Burpee Museum BSA: Oceanography - In Person
@@ -174,7 +211,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-oceanography-in-person-
 END:VEVENT
 BEGIN:VEVENT
 UID:252772@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20270423T113000Z
 DTEND:20270425T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend One
@@ -192,7 +229,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:252773@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20270515T113000Z
 DTEND:20270516T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend Two
@@ -210,7 +247,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:268625@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20271107T180000Z
 DTEND:20271107T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
@@ -229,7 +266,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268626@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20271121T180000Z
 DTEND:20271121T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -248,7 +285,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268627@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20271205T180000Z
 DTEND:20271205T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -267,7 +304,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:268628@scout-event-finder
-DTSTAMP:20261110T181917Z
+DTSTAMP:20261111T182128Z
 DTSTART:20280108T133000Z
 DTEND:20280109T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
