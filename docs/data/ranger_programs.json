@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -137,7 +137,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-11",
     "2026-11-12",
     "2026-11-13",
     "2026-11-14",
@@ -148,62 +147,15 @@
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
-    "2026-11-22"
+    "2026-11-22",
+    "2026-11-23"
    ],
-   "count": 1339,
+   "count": 1338,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Badwater Basin Ranger Talk",
-   "where": "Badwater Basin",
-   "time": "10:00 AM - 10:45 AM",
-   "nextDates": [
-    "2026-11-11"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.229805,
-   "lng": -116.767413,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Visit an extreme part of the park and learn about the unique forces that create the lowest, hottest and driest place in North America."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Golden Canyon Hike",
-   "where": "Meet at the Golden Canyon Trailhead Parking Lot",
-   "time": "08:30 AM - 09:30 AM",
-   "nextDates": [
-    "2026-11-11"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.420758,
-   "lng": -116.846719,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Hike with a ranger through one of Death Valley’s most popular and beautiful canyons. Easy walk with one small scramble. Approximately 1 mile. Bring water, a hat and hiking shoes."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Salt Creek Ranger Walk",
-   "where": "Salt Creek Boardwalk",
-   "time": "02:30 PM - 03:15 PM",
-   "nextDates": [
-    "2026-11-11"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.590588,
-   "lng": -116.990731,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Visit a unique oasis and learn about the life that thrives there."
   },
   {
    "park": "Death Valley National Park",
@@ -480,35 +432,10 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Among the Giants Walk (Grant Grove Area)",
-   "where": "Meet at the Grant Tree Trailhead",
-   "time": "11:00 AM - 12:00 PM",
-   "nextDates": [
-    "2026-11-11",
-    "2026-11-13",
-    "2026-11-14",
-    "2026-11-18",
-    "2026-11-20",
-    "2026-11-21",
-    "2026-11-25",
-    "2026-11-27",
-    "2026-11-28"
-   ],
-   "count": 9,
-   "free": true,
-   "lat": 36.747062,
-   "lng": -118.973092,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Forest Feature (Giant Forest Area)",
    "where": "Meet in front of the Giant Forest Museum",
    "time": "11:00 AM - 11:30 AM",
    "nextDates": [
-    "2026-11-11",
     "2026-11-12",
     "2026-11-13",
     "2026-11-16",
@@ -519,9 +446,10 @@
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
    ],
-   "count": 14,
+   "count": 13,
    "free": true,
    "lat": 36.564688,
    "lng": -118.772683,
@@ -554,6 +482,29 @@
    "lng": -118.962665,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Among the Giants Walk (Grant Grove Area)",
+   "where": "Meet at the Grant Tree Trailhead",
+   "time": "11:00 AM - 12:00 PM",
+   "nextDates": [
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-18",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-25",
+    "2026-11-27",
+    "2026-11-28"
+   ],
+   "count": 8,
+   "free": true,
+   "lat": 36.747062,
+   "lng": -118.973092,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",

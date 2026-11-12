@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:270084@scout-event-finder
-DTSTAMP:20261111T182128Z
+DTSTAMP:20261112T184625Z
 DTSTART:20270206T130000Z
 DTEND:20270206T190000Z
 SUMMARY:2027 Cub Scout Winter Fun Day
@@ -24,8 +24,46 @@ DESCRIPTION:Katahdin Area Council\nhttps://global.scoutingevent.com/216-Cu
 URL:https://global.scoutingevent.com/216-CubWinter2027
 END:VEVENT
 BEGIN:VEVENT
+UID:271377@scout-event-finder
+DTSTAMP:20261112T184625Z
+DTSTART:20270227T120000Z
+DTEND:20270227T210000Z
+SUMMARY:2027 Kennebec Valley Merit Badge College – KV Merit Badge Colleg
+ e February
+LOCATION:TBD\, TBD\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2027_K
+ V_MBC\n\n\n\nMerit Badge College\nFeb. 8\, Mar. 8\, and April 26*\n(*for 
+ 90-day badge requirements and pre-arranged classes)\nAugusta First Church
+  of the Nazarene\n30 Nazarene Dr\, Augusta\, ME 04330\nScouts must attend
+  the same classes on dates provided and do homework and/or prerequisites 
+ to achieve badge(s) chosen.  Please select only one class from each sess
+ ion.\nScouts\,\ncontact the counselor of your choice for that badge. You 
+ are not registered in a badge until\nyou\nhave connected and confirmed yo
+ ur spot with the 
+URL:https://global.scoutingevent.com/218-2027_KV_MBC
+END:VEVENT
+BEGIN:VEVENT
+UID:271378@scout-event-finder
+DTSTAMP:20261112T184625Z
+DTSTART:20270320T110000Z
+DTEND:20270327T200000Z
+SUMMARY:2027 Kennebec Valley Merit Badge College – KV Merit Badge Colleg
+ e March
+LOCATION:TBD\, TBD\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2027_K
+ V_MBC\n\n\n\nMerit Badge College\nFeb. 8\, Mar. 8\, and April 26*\n(*for 
+ 90-day badge requirements and pre-arranged classes)\nAugusta First Church
+  of the Nazarene\n30 Nazarene Dr\, Augusta\, ME 04330\nScouts must attend
+  the same classes on dates provided and do homework and/or prerequisites 
+ to achieve badge(s) chosen.  Please select only one class from each sess
+ ion.\nScouts\,\ncontact the counselor of your choice for that badge. You 
+ are not registered in a badge until\nyou\nhave connected and confirmed yo
+ ur spot with the 
+URL:https://global.scoutingevent.com/218-2027_KV_MBC
+END:VEVENT
+BEGIN:VEVENT
 UID:270085@scout-event-finder
-DTSTAMP:20261111T182128Z
+DTSTAMP:20261112T184625Z
 DTSTART:20270507T200000Z
 DTEND:20270509T140000Z
 SUMMARY:2027 Cub Scout Spring Fling
@@ -43,7 +81,7 @@ URL:https://global.scoutingevent.com/216-SpringFling27
 END:VEVENT
 BEGIN:VEVENT
 UID:272062@scout-event-finder
-DTSTAMP:20261111T182128Z
+DTSTAMP:20261112T184625Z
 DTSTART:20270521T220000Z
 DTEND:20270522T220000Z
 SUMMARY:2027 Kennebec Valley SPRING BALOO & IOLS Training – 2026 BALOO/I
@@ -62,7 +100,7 @@ URL:https://global.scoutingevent.com/218-2027_KV_BALOO
 END:VEVENT
 BEGIN:VEVENT
 UID:258482@scout-event-finder
-DTSTAMP:20261111T182128Z
+DTSTAMP:20261112T184625Z
 DTSTART:20270801T170000Z
 DTEND:20270806T140000Z
 SUMMARY:2027 Cub Scout Resident Camp
@@ -80,7 +118,7 @@ URL:https://global.scoutingevent.com/216-2027CSResidentCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:272090@scout-event-finder
-DTSTAMP:20261111T182128Z
+DTSTAMP:20261112T184625Z
 DTSTART:20271015T210000Z
 DTEND:20271016T210000Z
 SUMMARY:2027 Casco Bay Fall BALOO/IOLS Training – 2027 BALOO/IOLS Traini
@@ -99,7 +137,7 @@ URL:https://global.scoutingevent.com/218-119968
 END:VEVENT
 BEGIN:VEVENT
 UID:272088@scout-event-finder
-DTSTAMP:20261111T182128Z
+DTSTAMP:20261112T184625Z
 DTSTART:20271015T220000Z
 DTEND:20271017T160000Z
 SUMMARY:2027 KV Fall Camporee – 2026 Fall Camporee
