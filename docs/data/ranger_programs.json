@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -137,7 +137,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-12",
     "2026-11-13",
     "2026-11-14",
     "2026-11-15",
@@ -148,30 +147,15 @@
     "2026-11-20",
     "2026-11-21",
     "2026-11-22",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-24"
    ],
-   "count": 1338,
+   "count": 1337,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Sand Dunes Walk",
-   "where": "Meets at Mesquite Dunes Parking",
-   "time": "03:00 PM - 04:00 PM",
-   "nextDates": [
-    "2026-11-12"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.605999,
-   "lng": -117.115538,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Stroll through the Death Valley Wilderness with a Park Ranger. Explore living and non-living parts of this unique landscape."
   },
   {
    "park": "Death Valley National Park",
@@ -432,60 +416,6 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Forest Feature (Giant Forest Area)",
-   "where": "Meet in front of the Giant Forest Museum",
-   "time": "11:00 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-16",
-    "2026-11-17",
-    "2026-11-18",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-25",
-    "2026-11-26",
-    "2026-11-27"
-   ],
-   "count": 13,
-   "free": true,
-   "lat": 36.564688,
-   "lng": -118.772683,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Ranger's Choice Talk (Grant Grove Area)",
-   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
-   "time": "02:00 PM - 02:30 PM",
-   "nextDates": [
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-14",
-    "2026-11-15",
-    "2026-11-16",
-    "2026-11-17",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21",
-    "2026-11-22",
-    "2026-11-23",
-    "2026-11-24"
-   ],
-   "count": 17,
-   "free": true,
-   "lat": 36.74023,
-   "lng": -118.962665,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Among the Giants Walk (Grant Grove Area)",
    "where": "Meet at the Grant Tree Trailhead",
    "time": "11:00 AM - 12:00 PM",
@@ -505,6 +435,60 @@
    "lng": -118.973092,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Forest Feature (Giant Forest Area)",
+   "where": "Meet in front of the Giant Forest Museum",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-13",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-30"
+   ],
+   "count": 12,
+   "free": true,
+   "lat": 36.564688,
+   "lng": -118.772683,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Ranger's Choice Talk (Grant Grove Area)",
+   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
+   "time": "02:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-26"
+   ],
+   "count": 16,
+   "free": true,
+   "lat": 36.74023,
+   "lng": -118.962665,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",

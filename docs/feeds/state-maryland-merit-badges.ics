@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:273763@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T180000Z
 DTEND:20261121T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
 UID:278376@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T130000Z
 DTEND:20270109T210000Z
 SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 1 - 
@@ -46,7 +46,7 @@ URL:https://global.scoutingevent.com/081-ELKTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:273764@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T180000Z
 DTEND:20270109T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -64,8 +64,28 @@ DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
 URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
+UID:278407@scout-event-finder
+DTSTAMP:20261113T180942Z
+DTSTART:20270206T130000Z
+DTEND:20270206T210000Z
+SUMMARY:Adult Trainings at the UMES Merit Badge College – Session 1 - Fe
+ bruary 6
+LOCATION:University of Maryland Eastern Shore\, Princess Anne\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-UMEST
+ rain\n\nCommunication\, First Aid\, CPR / AED / First Aid\, Leave No Trac
+ e\, Merit Badge Counselor\n\nAdult Trainings at the UMES Merit Badge Coll
+ ege\nWhile the Scouts are taking merit badge classes\, adult volunteers a
+ nd parents are invited to participate in a variety of training opportunit
+ ies.\nWho:\nAny registered adult who would like to attend (some open to p
+ arents\, as well)\nWhen:\nSaturday\, February 6\, and Saturday\, March 20
+ \, 2027\nCheck in begins:\n8:00 AM\nCost:\nFree of Charge unless otherwis
+ e noted with a ($)\nNote:\nMost classes may have a capacity limit\, so re
+ gistration is highly recommended. If
+URL:https://global.scoutingevent.com/081-UMESTrain
+END:VEVENT
+BEGIN:VEVENT
 UID:278377@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T130000Z
 DTEND:20270313T210000Z
 SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 2 - 
@@ -84,8 +104,28 @@ DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-ELKTr
 URL:https://global.scoutingevent.com/081-ELKTraining
 END:VEVENT
 BEGIN:VEVENT
+UID:278408@scout-event-finder
+DTSTAMP:20261113T180942Z
+DTSTART:20270320T120000Z
+DTEND:20270320T200000Z
+SUMMARY:Adult Trainings at the UMES Merit Badge College – Session 2 - Ma
+ rch 20
+LOCATION:University of Maryland Eastern Shore\, Princess Anne\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-UMEST
+ rain\n\nCommunication\, First Aid\, CPR / AED / First Aid\, Leave No Trac
+ e\, Merit Badge Counselor\n\nAdult Trainings at the UMES Merit Badge Coll
+ ege\nWhile the Scouts are taking merit badge classes\, adult volunteers a
+ nd parents are invited to participate in a variety of training opportunit
+ ies.\nWho:\nAny registered adult who would like to attend (some open to p
+ arents\, as well)\nWhen:\nSaturday\, February 6\, and Saturday\, March 20
+ \, 2027\nCheck in begins:\n8:00 AM\nCost:\nFree of Charge unless otherwis
+ e noted with a ($)\nNote:\nMost classes may have a capacity limit\, so re
+ gistration is highly recommended. If
+URL:https://global.scoutingevent.com/081-UMESTrain
+END:VEVENT
+BEGIN:VEVENT
 UID:261400@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270729T170000Z
 DTEND:20270801T161500Z
 SUMMARY:Henson Summer Merit Badge College Camp – Weekend # 1

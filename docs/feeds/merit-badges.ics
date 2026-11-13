@@ -6,27 +6,8 @@ X-WR-CALNAME:Scout Events – Merit Badges (US)
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:275546@scout-event-finder
-DTSTAMP:20261112T184625Z
-DTSTART:20261113T010000Z
-DTEND:20261113T020000Z
-SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
-  Scoutbook/Scoutbook Plus for Merit Badge Counselors
-LOCATION:Virtual Classrooms\, Ft Snelling\, Minnesota
-DESCRIPTION:Northern Star Scouting\nhttps://global.scoutingevent.com/250-l
- ivewebinarsOct2026Feb2027\n\nProgramming\, Merit Badge Counselor\n\nABOUT
-  THE Education Outpost LIVE webinars\nAs part of our commitment to reach 
- the widest possible audience\, Northern Star Scouting offers a series of 
- Instructor-led Zoom/TEAMS classes for Adult Leaders online. Webinars wil
- l take place on a weekday evening starting at 7pm and will last around an
-  hour\, unless a different duration is specified. They will include a pre
- sentation\, followed by Q&A time.\nThere is no cost for these sessions.\n
- We will be updating the class listings regularly as we confirm n
-URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
-END:VEVENT
-BEGIN:VEVENT
 UID:266109@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261113T220000Z
 DTEND:20261115T170000Z
 SUMMARY:Conservation Weekend 2026
@@ -45,7 +26,7 @@ URL:https://global.scoutingevent.com/092-conservationweekend
 END:VEVENT
 BEGIN:VEVENT
 UID:233107@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261113T230000Z
 DTEND:20261115T180000Z
 SUMMARY:Fall Encampment 2026 – Fall Encampment
@@ -63,7 +44,7 @@ URL:https://global.scoutingevent.com/480-FallEncampment2026
 END:VEVENT
 BEGIN:VEVENT
 UID:256024@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261113T230000Z
 DTEND:20261115T170000Z
 SUMMARY:Konza Fall Camporee
@@ -81,7 +62,7 @@ URL:https://global.scoutingevent.com/192-FallCamping2026
 END:VEVENT
 BEGIN:VEVENT
 UID:273486@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T130000Z
 DTEND:20261114T213000Z
 SUMMARY:Eno River Merit Badge Day 2026
@@ -103,7 +84,7 @@ URL:https://global.scoutingevent.com/421-120708
 END:VEVENT
 BEGIN:VEVENT
 UID:277199@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T130000Z
 DTEND:20261114T220000Z
 SUMMARY:Lincolnway Merit Badge College 2026
@@ -122,7 +103,7 @@ URL:https://global.scoutingevent.com/157-122576
 END:VEVENT
 BEGIN:VEVENT
 UID:232759@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T133000Z
 DTEND:20261114T201500Z
 SUMMARY:2026 Five Creeks Fall Merit Badge Midway – Merit Badges / Adult 
@@ -149,7 +130,7 @@ URL:https://global.scoutingevent.com/160-MEGA_Midway26
 END:VEVENT
 BEGIN:VEVENT
 UID:273180@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T133000Z
 DTEND:20261114T200000Z
 SUMMARY:2026 University of Scouting PARTNER Registration
@@ -167,7 +148,7 @@ URL:https://global.scoutingevent.com/127-PARTNER26
 END:VEVENT
 BEGIN:VEVENT
 UID:241084@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T133000Z
 DTEND:20261114T220000Z
 SUMMARY:Skilled Trades Day – November 2026 Skilled Trades Day
@@ -185,7 +166,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:236121@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T140000Z
 DTEND:20261114T230000Z
 SUMMARY:2026 Law MBU
@@ -203,7 +184,7 @@ URL:https://global.scoutingevent.com/571-2026LawMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:271970@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T140000Z
 DTEND:20261114T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Artificial Intelligenc
@@ -223,7 +204,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:247305@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T140000Z
 DTEND:20261114T220000Z
 SUMMARY:Merit Badge College 2026
@@ -247,7 +228,7 @@ URL:https://global.scoutingevent.com/456-MBC2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276400@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T140000Z
 DTEND:20261114T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 2
@@ -266,7 +247,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276864@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T140000Z
 DTEND:20261114T170000Z
 SUMMARY:Virtual Merit Badge College | Greater Finger Lakes Council – Mor
@@ -288,7 +269,7 @@ URL:https://global.scoutingevent.com/397-vmbc
 END:VEVENT
 BEGIN:VEVENT
 UID:240109@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T143000Z
 DTEND:20261114T220000Z
 SUMMARY:2026 Environmental Science Merit Badge Class
@@ -306,7 +287,7 @@ URL:https://global.scoutingevent.com/562-2026EnvironmentalScienceMB
 END:VEVENT
 BEGIN:VEVENT
 UID:272471@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T150000Z
 DTEND:20261114T220000Z
 SUMMARY:Adventure Saturday November 2026
@@ -324,7 +305,7 @@ URL:https://global.scoutingevent.com/620-NovemberAdventure
 END:VEVENT
 BEGIN:VEVENT
 UID:278570@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T150000Z
 DTEND:20261114T180000Z
 SUMMARY:Bronx River Bushmaster 2026
@@ -342,7 +323,7 @@ URL:https://global.scoutingevent.com/640-bushmaster
 END:VEVENT
 BEGIN:VEVENT
 UID:274429@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T150000Z
 DTEND:20261114T220000Z
 SUMMARY:Merit Badge University
@@ -361,7 +342,7 @@ URL:https://global.scoutingevent.com/178-MBU26
 END:VEVENT
 BEGIN:VEVENT
 UID:273113@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T150000Z
 DTEND:20261114T180000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Environmental Science S
@@ -380,7 +361,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-e6681dc181ba@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T170000Z
 DTEND:20261114T210000Z
 SUMMARY:2026 Gain Personal Management MB Event NOV
@@ -400,7 +381,7 @@ URL:https://bsa-la.doubleknot.com/event/2026-gain-personal-management-mb-e
 END:VEVENT
 BEGIN:VEVENT
 UID:267033@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T170000Z
 DTEND:20261114T220000Z
 SUMMARY:CPR/AED Registration 2026 – Nov - CPR/AED & First Aid
@@ -418,7 +399,7 @@ URL:https://global.scoutingevent.com/055-CPR2026
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-a9e2a1587e2c@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T170000Z
 DTEND:20261115T000000Z
 SUMMARY:Canoeing Merit Badge Day at the Youth Aquatic Center
@@ -426,19 +407,19 @@ LOCATION:1750 Fiesta Island Rd.\, San Diego\, CA 92124
 DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
  nt/canoeing-merit-badge-day-at-the-youth-aquatic-center/3129567\n\nCanoei
  ng\, Kayaking\, Lifesaving\, Rowing\, Swimming\n\nSan Diego-Imperial Coun
- cil presents Canoeing Merit Badge Saturday\, November 14\, 9:00 am- 4:00 
- pm Designed for ages 11-17 Scouts will have the opportunity to earn the C
- anoeing Merit Badge Youth Aquatic Center (1750 Fiesta Island Road) Cost: 
- $36 for youth Lunch is NOT included. You may bring a sack lunch Check-in 
- opens at 9:00 am Youth must be pre-registered. NO WALK-IN'S. SCOUTS MUST 
- BE ABLE TO PASS Scouting America SWIM TEST Per the merit badge requiremen
- ts Scouts are required to pass the Scouti
+ cil presents CANCELLED DUE TO WATER CONDITIONS Canoeing Merit Badge Satur
+ day\, November 14\, 9:00 am- 4:00 pm Designed for ages 11-17 Scouts will 
+ have the opportunity to earn the Canoeing Merit Badge Youth Aquatic Cente
+ r (1750 Fiesta Island Road) Cost: $36 for youth Lunch is NOT included. Yo
+ u may bring a sack lunch Check-in opens at 9:00 am Youth must be pre-regi
+ stered. NO WALK-IN'S. SCOUTS MUST BE ABLE TO PASS Scouting America SWIM T
+ EST Per the merit badge requirements Scou
 URL:https://sdicbsa.doubleknot.com/event/canoeing-merit-badge-day-at-the-y
  outh-aquatic-center/3129567
 END:VEVENT
 BEGIN:VEVENT
 UID:278057@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T180000Z
 DTEND:20261114T200000Z
 SUMMARY:Treasure Coast District Merit Badge of the Month - Reading
@@ -456,7 +437,7 @@ URL:https://global.scoutingevent.com/085-MBReading
 END:VEVENT
 BEGIN:VEVENT
 UID:272648@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T150000Z
 DTEND:20261115T163000Z
 SUMMARY:Environmental Science Merit Badge at the South Shore YMCA Nature C
@@ -476,7 +457,7 @@ URL:https://global.scoutingevent.com/251-EnvSciMBYMCA111526
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992515815441@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T160000Z
 DTEND:20261115T180000Z
 SUMMARY:Burpee Museum BSA: Geology Merit Badge - In Person
@@ -490,7 +471,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-geology-merit-badge-in-
 END:VEVENT
 BEGIN:VEVENT
 UID:272718@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T170000Z
 DTEND:20261115T183000Z
 SUMMARY:Citizenship in the World Merit Badge at the South Shore YMCA Natur
@@ -510,7 +491,7 @@ URL:https://global.scoutingevent.com/251-CitizenshipintheWorldMB111506
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2001890879510@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Citizenship in the World Merit Badge
@@ -524,7 +505,7 @@ URL:https://www.eventbrite.com/e/citizenship-in-the-world-merit-badge-tick
 END:VEVENT
 BEGIN:VEVENT
 UID:245395@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T180000Z
 DTEND:20261115T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -543,7 +524,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -562,7 +543,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:267692@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261120T210000Z
 DTEND:20261122T160000Z
 SUMMARY:Eagle Empire District Fall Camporee
@@ -580,7 +561,7 @@ URL:https://global.scoutingevent.com/083-EagleEmpireDistrictFallCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:273008@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T030000Z
 DTEND:20261121T060000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Friday Semin
@@ -600,7 +581,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:253358@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T120000Z
 DTEND:20261121T213000Z
 SUMMARY:Merit Badge University 2026 – Merit Badge University
@@ -625,7 +606,7 @@ URL:https://global.scoutingevent.com/763-Meritbadgeuniversity
 END:VEVENT
 BEGIN:VEVENT
 UID:273515@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T130000Z
 DTEND:20261121T210000Z
 SUMMARY:Scoutreach Merit Badge Clinic
@@ -645,7 +626,7 @@ URL:https://global.scoutingevent.com/092-SRMeritBadge2026
 END:VEVENT
 BEGIN:VEVENT
 UID:277961@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T140000Z
 DTEND:20261121T180000Z
 SUMMARY:Compsite Materials MB with Hull Lifesaving museum – Composite Ma
@@ -665,7 +646,7 @@ URL:https://global.scoutingevent.com/251-CompositeMaterialsMB112126
 END:VEVENT
 BEGIN:VEVENT
 UID:272853@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T140000Z
 DTEND:20261121T180000Z
 SUMMARY:Geocaching with Hull Lifesaving museum
@@ -685,7 +666,7 @@ URL:https://global.scoutingevent.com/251-GeocachingMB101026
 END:VEVENT
 BEGIN:VEVENT
 UID:276401@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T140000Z
 DTEND:20261121T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 3
@@ -704,7 +685,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:235792@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T143000Z
 DTEND:20261121T220000Z
 SUMMARY:2026 Horse Program – Nov 21 Horsemanship Merit Badge
@@ -723,7 +704,7 @@ URL:https://global.scoutingevent.com/571-2026HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:275730@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T150000Z
 DTEND:20261121T173000Z
 SUMMARY:Art Merit Badge
@@ -741,7 +722,7 @@ URL:https://global.scoutingevent.com/375-121785
 END:VEVENT
 BEGIN:VEVENT
 UID:273115@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T150000Z
 DTEND:20261121T210000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -760,7 +741,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:271021@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T150000Z
 DTEND:20261121T190000Z
 SUMMARY:Mining in Society Merit Badge – Nov 2026
@@ -778,7 +759,7 @@ URL:https://global.scoutingevent.com/093-mining
 END:VEVENT
 BEGIN:VEVENT
 UID:253222@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T150000Z
 DTEND:20261121T200000Z
 SUMMARY:Ultimate First Aid Competition 2026
@@ -797,7 +778,7 @@ URL:https://global.scoutingevent.com/702-ultimatefirstaid
 END:VEVENT
 BEGIN:VEVENT
 UID:249111@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T160000Z
 DTEND:20261121T233000Z
 SUMMARY:2026 EWU Fall Merit Badge University – Day 1 - Saturday November
@@ -816,7 +797,7 @@ URL:https://global.scoutingevent.com/611-Fall_EWU_MBU
 END:VEVENT
 BEGIN:VEVENT
 UID:273009@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T160000Z
 DTEND:20261122T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Saturday Sem
@@ -836,7 +817,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-c454e57f1fa9@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T160000Z
 DTEND:20261121T160000Z
 SUMMARY:Patchtopia 2026
@@ -854,7 +835,7 @@ URL:https://scoutingevent.com/039-119793
 END:VEVENT
 BEGIN:VEVENT
 UID:267306@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T160000Z
 DTEND:20261121T220000Z
 SUMMARY:Stamp Collecting Merit Badge at ChicagoPex
@@ -872,7 +853,7 @@ URL:https://global.scoutingevent.com/127-Stamps26
 END:VEVENT
 BEGIN:VEVENT
 UID:278352@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T170000Z
 DTEND:20261121T210000Z
 SUMMARY:GSCU Personal Management Workshop – GSCU Personnel Management Wo
@@ -891,7 +872,7 @@ URL:https://global.scoutingevent.com/330-GSCUPMWorkshop
 END:VEVENT
 BEGIN:VEVENT
 UID:272350@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T170000Z
 DTEND:20261122T003000Z
 SUMMARY:The 14th Annual Law Merit Badge Day
@@ -909,7 +890,7 @@ URL:https://global.scoutingevent.com/033-LawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-b1a60b7658ff@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T180000Z
 DTEND:20261121T233000Z
 SUMMARY:Kayaking Merit Badge Day at the Youth Aquatic Center
@@ -917,20 +898,20 @@ LOCATION:1750 Fiesta Island Rd.\, San Diego\, CA 92124
 DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
  nt/kayaking-merit-badge-day-at-the-youth-aquatic-center/3129565\n\nCanoei
  ng\, Kayaking\, Lifesaving\, Rowing\, Swimming\, Aquatics (Lifeguard / Wa
- ter Rescue)\n\nSan Diego-Imperial Council presents Kayaking Merit Badge S
- aturday\, November 21\, 10:00 am- 3:30 pm Designed for ages 11-17 Scouts 
- will have the opportunity to earn the Kayaking Merit Badge Youth Aquatic 
- Center (1750 Fiesta Island Road) Cost: $36 for youth Lunch is NOT include
- d. You may bring a sack lunch Cost covers boat usage fee's\, Lifeguards\,
-  and Aquatics Director Check-in opens at 9:45 am Youth must pre-register.
-  NO WALK-IN'S. SCOUTS MUST BE ABLE TO PASS Scouting America SWIM TEST Per
-  the mer
+ ter Rescue)\n\nSan Diego-Imperial Council presents CANCELLED DUE TO WATER
+  CONDITIONS Kayaking Merit Badge Saturday\, November 21\, 10:00 am- 3:30 
+ pm Designed for ages 11-17 Scouts will have the opportunity to earn the K
+ ayaking Merit Badge Youth Aquatic Center (1750 Fiesta Island Road) Cost: 
+ $36 for youth Lunch is NOT included. You may bring a sack lunch Cost cove
+ rs boat usage fee's\, Lifeguards\, and Aquatics Director Check-in opens a
+ t 9:45 am Youth must pre-register. NO WALK-IN'S. SCOUTS MUST BE ABLE TO P
+ ASS Scou
 URL:https://sdicbsa.doubleknot.com/event/kayaking-merit-badge-day-at-the-y
  outh-aquatic-center/3129565
 END:VEVENT
 BEGIN:VEVENT
 UID:273763@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T180000Z
 DTEND:20261121T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -949,7 +930,7 @@ URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1980534099807@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Aviation Merit Badge — Live Online with Pearl Harbor Aviation Mu
@@ -965,7 +946,7 @@ URL:https://www.eventbrite.com/e/aviation-merit-badge-live-online-with-pea
 END:VEVENT
 BEGIN:VEVENT
 UID:236117@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T200000Z
 DTEND:20261124T160000Z
 SUMMARY:2026 Campsgiving
@@ -983,7 +964,7 @@ URL:https://global.scoutingevent.com/571-2026Campsgiving
 END:VEVENT
 BEGIN:VEVENT
 UID:273010@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261122T150000Z
 DTEND:20261123T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Sunday Field
@@ -1003,7 +984,7 @@ URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-10099094568d@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261122T163000Z
 DTEND:20261122T163000Z
 SUMMARY:Welding merit badge at Trask
@@ -1021,7 +1002,7 @@ URL:https://scoutingevent.com/033-welding
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2001892098155@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261122T180000Z
 DTEND:20261122T220000Z
 SUMMARY:Sustainability Merit Badge
@@ -1035,7 +1016,7 @@ URL:https://www.eventbrite.com/e/sustainability-merit-badge-tickets-200189
 END:VEVENT
 BEGIN:VEVENT
 UID:278384@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261123T140000Z
 DTEND:20261123T210000Z
 SUMMARY:Merit Badge Day - Citizenship in the World – Citizenship in the 
@@ -1054,7 +1035,7 @@ URL:https://global.scoutingevent.com/539-citwo
 END:VEVENT
 BEGIN:VEVENT
 UID:277411@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261125T140000Z
 DTEND:20261125T210000Z
 SUMMARY:Merit Badge Day - Weather – Weather Merit Badge
@@ -1072,7 +1053,7 @@ URL:https://global.scoutingevent.com/539-122678
 END:VEVENT
 BEGIN:VEVENT
 UID:233254@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261204T230000Z
 DTEND:20261206T170000Z
 SUMMARY:2026 - University of Scouting @ Purdue University – Saturday
@@ -1091,7 +1072,7 @@ URL:https://global.scoutingevent.com/162-100441
 END:VEVENT
 BEGIN:VEVENT
 UID:263017@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T130000Z
 DTEND:20261205T220000Z
 SUMMARY:2026 Barton County Merit Badge College
@@ -1112,7 +1093,7 @@ URL:https://global.scoutingevent.com/198-115109
 END:VEVENT
 BEGIN:VEVENT
 UID:248943@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T131500Z
 DTEND:20261205T220000Z
 SUMMARY:First Aid thru First Class Event – Register Here
@@ -1131,7 +1112,7 @@ URL:https://global.scoutingevent.com/525-108377
 END:VEVENT
 BEGIN:VEVENT
 UID:278751@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T140000Z
 DTEND:20261205T180000Z
 SUMMARY:Aviation Merit Badge Day
@@ -1150,7 +1131,7 @@ URL:https://global.scoutingevent.com/127-Aviationclinic26
 END:VEVENT
 BEGIN:VEVENT
 UID:271972@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T140000Z
 DTEND:20261205T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Oceanography Merit Bad
@@ -1170,7 +1151,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:274090@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T140000Z
 DTEND:20261205T220000Z
 SUMMARY:Outdoor Skills Series – 12/6: Fire & Steel
@@ -1189,7 +1170,7 @@ URL:https://global.scoutingevent.com/640-OSS
 END:VEVENT
 BEGIN:VEVENT
 UID:276403@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T140000Z
 DTEND:20261205T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 4
@@ -1208,7 +1189,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:249236@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T143000Z
 DTEND:20261205T101500Z
 SUMMARY:Northern Lights Merit Badge Academy - Oregon
@@ -1231,7 +1212,7 @@ URL:https://global.scoutingevent.com/620-NorthernLightsAcademy_Oregon_2026
 END:VEVENT
 BEGIN:VEVENT
 UID:271544@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T143000Z
 DTEND:20261205T180000Z
 SUMMARY:Railroading Merit Badge Winter 2026 - Presented by RailPros
@@ -1249,7 +1230,7 @@ URL:https://global.scoutingevent.com/312-rrmbwinter26
 END:VEVENT
 BEGIN:VEVENT
 UID:251669@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T150000Z
 DTEND:20261206T030000Z
 SUMMARY:Pacifica District 20 Mile Hike
@@ -1267,7 +1248,7 @@ URL:https://global.scoutingevent.com/033-20MileHike
 END:VEVENT
 BEGIN:VEVENT
 UID:276785@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261205T150000Z
 DTEND:20261205T181500Z
 SUMMARY:Quiver Fest – Cub Scouts 10:45-12:15 PM
@@ -1285,7 +1266,7 @@ URL:https://global.scoutingevent.com/129-QuiverFestDec2026
 END:VEVENT
 BEGIN:VEVENT
 UID:274181@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261206T140000Z
 DTEND:20261206T190000Z
 SUMMARY:USAA Archery Level 1 Training
@@ -1303,7 +1284,7 @@ URL:https://global.scoutingevent.com/564-121071
 END:VEVENT
 BEGIN:VEVENT
 UID:277651@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261206T150000Z
 DTEND:20261206T163000Z
 SUMMARY:Reptile and Amphibian Study Merit Badge at the South Shore YMCA Na
@@ -1323,7 +1304,7 @@ URL:https://global.scoutingevent.com/251-ReptileAmphibianMB120626
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992516713126@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261206T160000Z
 DTEND:20261206T180000Z
 SUMMARY:Burpee Museum BSA: Environmental Science Merit Badge- In Person
@@ -1337,7 +1318,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-environmental-science-m
 END:VEVENT
 BEGIN:VEVENT
 UID:277653@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261206T170000Z
 DTEND:20261206T183000Z
 SUMMARY:Sustainability Merit Badge at the South Shore YMCA Nature Center 
@@ -1357,7 +1338,7 @@ URL:https://global.scoutingevent.com/251-SustainabilityMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:245396@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261206T180000Z
 DTEND:20261206T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -1376,7 +1357,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:269911@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261209T000000Z
 DTEND:20261209T033000Z
 SUMMARY:Climbing Level 2 Training on real rock surfaces – In person meet
@@ -1395,7 +1376,7 @@ URL:https://global.scoutingevent.com/576-ClimbingLevel2realrock
 END:VEVENT
 BEGIN:VEVENT
 UID:269910@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261211T180000Z
 DTEND:20261213T180000Z
 SUMMARY:Climbing Level 2 Training on real rock surfaces – Weekend Traini
@@ -1414,7 +1395,7 @@ URL:https://global.scoutingevent.com/576-ClimbingLevel2realrock
 END:VEVENT
 BEGIN:VEVENT
 UID:241085@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T133000Z
 DTEND:20261212T220000Z
 SUMMARY:Skilled Trades Day – December 2026 Skilled Trades Day
@@ -1432,7 +1413,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:257428@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T140000Z
 DTEND:20261212T210000Z
 SUMMARY:Game On!
@@ -1450,7 +1431,7 @@ URL:https://global.scoutingevent.com/438-GameOn
 END:VEVENT
 BEGIN:VEVENT
 UID:276404@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T140000Z
 DTEND:20261212T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 5
@@ -1469,7 +1450,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276413@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T143000Z
 DTEND:20261212T220000Z
 SUMMARY:STEM University 2026 - UMSL Scouts BSA College – STEM U UMSL: Sc
@@ -1490,7 +1471,7 @@ URL:https://global.scoutingevent.com/312-stemuumslsbsa26
 END:VEVENT
 BEGIN:VEVENT
 UID:277533@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T150000Z
 DTEND:20261212T200000Z
 SUMMARY:2026 Wildland Fire Management Merit Badge
@@ -1508,7 +1489,7 @@ URL:https://global.scoutingevent.com/562-2026WildlandFireManagement
 END:VEVENT
 BEGIN:VEVENT
 UID:273117@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T150000Z
 DTEND:20261212T210000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -1527,7 +1508,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:268990@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T150000Z
 DTEND:20261212T170000Z
 SUMMARY:Personal Management Merit Badge - Presented by Thrivent – Sessio
@@ -1546,7 +1527,7 @@ URL:https://global.scoutingevent.com/312-PersonalManagement
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-067ea509d916@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T170000Z
 DTEND:20261212T170000Z
 SUMMARY:Scouts Range Merit Badge at Trask
@@ -1564,7 +1545,7 @@ URL:https://scoutingevent.com/033-rangemeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:270370@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261213T160000Z
 DTEND:20261213T200000Z
 SUMMARY:Indoor Rifle Merit Badge Day
@@ -1583,7 +1564,7 @@ URL:https://global.scoutingevent.com/129-IndoorRifleMB2026Dec
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1222989778349@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261213T160000Z
 DTEND:20261214T020000Z
 SUMMARY:Multiple MB: Game Design + Community with the Physics at Disney Pa
@@ -1599,7 +1580,7 @@ URL:https://www.eventbrite.com/e/multiple-mb-game-design-community-with-th
 END:VEVENT
 BEGIN:VEVENT
 UID:273861@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261218T220000Z
 DTEND:20261221T220000Z
 SUMMARY:Winter Camp 2026 – Winter Camp
@@ -1623,7 +1604,7 @@ URL:https://global.scoutingevent.com/553-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:248818@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261219T000000Z
 DTEND:20261221T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session One
@@ -1641,7 +1622,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:276409@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261219T140000Z
 DTEND:20261219T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 6
@@ -1660,7 +1641,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:249112@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261219T160000Z
 DTEND:20261219T230000Z
 SUMMARY:2026 EWU Fall Merit Badge University – Day 2 - Saturday December
@@ -1679,7 +1660,7 @@ URL:https://global.scoutingevent.com/611-Fall_EWU_MBU
 END:VEVENT
 BEGIN:VEVENT
 UID:258007@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261220T150000Z
 DTEND:20261223T180000Z
 SUMMARY:Winter Camp 2026 – Session 1
@@ -1698,7 +1679,7 @@ URL:https://global.scoutingevent.com/564-LPSRWinter2026
 END:VEVENT
 BEGIN:VEVENT
 UID:278211@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261222T140000Z
 DTEND:20261222T173000Z
 SUMMARY:Wildland Fire Management Merit Badge Session – Wildlands Fire Ma
@@ -1717,7 +1698,7 @@ URL:https://global.scoutingevent.com/553-wildlandfirembday26
 END:VEVENT
 BEGIN:VEVENT
 UID:273313@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T140000Z
 DTEND:20261231T180000Z
 SUMMARY:2026 Winter Camp – Staff
@@ -1735,7 +1716,7 @@ URL:https://global.scoutingevent.com/306-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:258008@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T150000Z
 DTEND:20261230T180000Z
 SUMMARY:Winter Camp 2026 – Session 2
@@ -1754,7 +1735,7 @@ URL:https://global.scoutingevent.com/564-LPSRWinter2026
 END:VEVENT
 BEGIN:VEVENT
 UID:255890@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T154500Z
 DTEND:20261230T220000Z
 SUMMARY:2026 Winter Camp – Winter Camp
@@ -1772,7 +1753,7 @@ URL:https://global.scoutingevent.com/089-111522
 END:VEVENT
 BEGIN:VEVENT
 UID:269353@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T180000Z
 DTEND:20261231T140000Z
 SUMMARY:Bert Adams Winter Camp 2026 – Winter Camp 2026
@@ -1791,7 +1772,7 @@ URL:https://global.scoutingevent.com/092-Winter26
 END:VEVENT
 BEGIN:VEVENT
 UID:269833@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T190000Z
 DTEND:20261229T230000Z
 SUMMARY:2026 Eagle Trek Winter Camp – Eagle Trek Winter Camp
@@ -1809,7 +1790,7 @@ URL:https://global.scoutingevent.com/559-2026EagleTrek
 END:VEVENT
 BEGIN:VEVENT
 UID:271176@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T190000Z
 DTEND:20261231T160000Z
 SUMMARY:2026 Scouts BSA Winter Camp
@@ -1827,7 +1808,7 @@ URL:https://global.scoutingevent.com/773-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:267384@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T190000Z
 DTEND:20261230T230000Z
 SUMMARY:Winter Camp 2026 + Dec 27-30\, 2026 – Register
@@ -1847,7 +1828,7 @@ URL:https://global.scoutingevent.com/070-wintercamp
 END:VEVENT
 BEGIN:VEVENT
 UID:237628@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T210000Z
 DTEND:20261230T170000Z
 SUMMARY:Winter Camp – Winter Camp 2026
@@ -1867,7 +1848,7 @@ URL:https://global.scoutingevent.com/251-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:257994@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261227T230000Z
 DTEND:20270104T225900Z
 SUMMARY:Camp Kenya '26 – Camp Kenya '26 Staff
@@ -1885,7 +1866,7 @@ URL:https://global.scoutingevent.com/802-CampKenya26
 END:VEVENT
 BEGIN:VEVENT
 UID:273311@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261228T140000Z
 DTEND:20261231T180000Z
 SUMMARY:2026 Winter Camp – Winter Camp - Early Bird
@@ -1903,7 +1884,7 @@ URL:https://global.scoutingevent.com/306-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:274098@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter Merit Badge Camp Dec. 2026 - Scouts – Winter Merit Badge 
@@ -1925,7 +1906,7 @@ URL:https://global.scoutingevent.com/032-wintermeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:257993@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261228T230000Z
 DTEND:20270104T225900Z
 SUMMARY:Camp Kenya '26 – Camp Kenya
@@ -1943,7 +1924,7 @@ URL:https://global.scoutingevent.com/802-CampKenya26
 END:VEVENT
 BEGIN:VEVENT
 UID:277415@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261229T140000Z
 DTEND:20261229T210000Z
 SUMMARY:Merit Badge Day - Movie Making – Movie Making Merit Badge
@@ -1961,7 +1942,7 @@ URL:https://global.scoutingevent.com/539-122682
 END:VEVENT
 BEGIN:VEVENT
 UID:276476@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270102T140000Z
 DTEND:20270104T220000Z
 SUMMARY:2027 Winter Camp – Winter Camp
@@ -1979,7 +1960,7 @@ URL:https://global.scoutingevent.com/006-wintercamp
 END:VEVENT
 BEGIN:VEVENT
 UID:277507@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270105T143000Z
 DTEND:20270105T190000Z
 SUMMARY:Art Merit Badge – Jan 2027 Art
@@ -1998,7 +1979,7 @@ URL:https://global.scoutingevent.com/093-artmb
 END:VEVENT
 BEGIN:VEVENT
 UID:272396@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270108T000000Z
 DTEND:20270110T000000Z
 SUMMARY:Big Sky Ski Weekend
@@ -2016,7 +1997,7 @@ URL:https://global.scoutingevent.com/315-bigsky
 END:VEVENT
 BEGIN:VEVENT
 UID:277464@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270108T230000Z
 DTEND:20270110T200000Z
 SUMMARY:Operation Icicle (Scout Weekend) – Operation Icicle BSA 2027
@@ -2034,7 +2015,7 @@ URL:https://global.scoutingevent.com/299-opice27s
 END:VEVENT
 BEGIN:VEVENT
 UID:248819@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T000000Z
 DTEND:20270111T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session Two
@@ -2052,7 +2033,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:278376@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T130000Z
 DTEND:20270109T210000Z
 SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 1 - 
@@ -2072,7 +2053,7 @@ URL:https://global.scoutingevent.com/081-ELKTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:271164@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T130000Z
 DTEND:20270109T210000Z
 SUMMARY:Merit Badge College 2027 – Merit Badge College
@@ -2090,7 +2071,7 @@ URL:https://global.scoutingevent.com/546-119459
 END:VEVENT
 BEGIN:VEVENT
 UID:245397@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T133000Z
 DTEND:20270110T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
@@ -2109,7 +2090,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:270696@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T140000Z
 DTEND:20270109T230000Z
 SUMMARY:Delta Area Merit Badge College
@@ -2127,7 +2108,7 @@ URL:https://global.scoutingevent.com/558-DeltaareaMBC27
 END:VEVENT
 BEGIN:VEVENT
 UID:271910@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T143000Z
 DTEND:20270109T220000Z
 SUMMARY:2027 Horse Program – Jan 9 Veterinary Medicine/Animal Science
@@ -2146,7 +2127,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:278088@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T143000Z
 DTEND:20270109T220000Z
 SUMMARY:STEM University 2027 - SEMO Scouts BSA College – STEM U SEMO - S
@@ -2168,7 +2149,7 @@ URL:https://global.scoutingevent.com/312-STEMUSEMOBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:275930@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T144500Z
 DTEND:20270109T214500Z
 SUMMARY:STEM University 2027 - SEMO Cub Scout College – STEM U SEMO: Cub
@@ -2188,7 +2169,7 @@ URL:https://global.scoutingevent.com/312-SEMOcubs27
 END:VEVENT
 BEGIN:VEVENT
 UID:273119@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T150000Z
 DTEND:20270109T210000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -2207,7 +2188,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:265558@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T164500Z
 DTEND:20270109T200000Z
 SUMMARY:Peninsulas Merit Badge Events – Merit Badge Clinic Day 1/3
@@ -2225,7 +2206,7 @@ URL:https://global.scoutingevent.com/609-PeninsulaMBC
 END:VEVENT
 BEGIN:VEVENT
 UID:273764@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T180000Z
 DTEND:20270109T220000Z
 SUMMARY:Scouting America National Capital Area Council Chess Workshop – 
@@ -2244,7 +2225,7 @@ URL:https://global.scoutingevent.com/082-120846
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993715229922@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270112T233000Z
 DTEND:20270113T013000Z
 SUMMARY:Burpee Museum BSA: Weather - Virtual
@@ -2257,7 +2238,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-weather-virtual-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:253360@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270115T050000Z
 DTEND:20270118T180000Z
 SUMMARY:Winter Camp 2027
@@ -2276,7 +2257,7 @@ URL:https://global.scoutingevent.com/763-wintercamp27
 END:VEVENT
 BEGIN:VEVENT
 UID:270381@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270116T130000Z
 DTEND:20270116T220000Z
 SUMMARY:Scouting in the Wild at Lion Country Safari
@@ -2294,7 +2275,7 @@ URL:https://global.scoutingevent.com/085-EGSITW
 END:VEVENT
 BEGIN:VEVENT
 UID:274988@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270116T150000Z
 DTEND:20270116T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -2313,7 +2294,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:274989@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -2332,7 +2313,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992519616811@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270117T160000Z
 DTEND:20270117T170000Z
 SUMMARY:Burpee Museum BSA: Mammal Study Merit Badge - In Person
@@ -2346,7 +2327,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-mammal-study-merit-badg
 END:VEVENT
 BEGIN:VEVENT
 UID:258351@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T133000Z
 DTEND:20270123T220000Z
 SUMMARY:Skilled Trades Day – January 2027 Skilled Trades Day
@@ -2364,7 +2345,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:278388@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T133000Z
 DTEND:20270123T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Welding
@@ -2384,7 +2365,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:271900@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T143000Z
 DTEND:20270123T220000Z
 SUMMARY:2027 Horse Program – Jan 23 Horsemanship Merit Badge
@@ -2403,7 +2384,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:265559@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T164500Z
 DTEND:20270123T200000Z
 SUMMARY:Peninsulas Merit Badge Events – Merit Badge Clinic Day 2/3
@@ -2421,7 +2402,7 @@ URL:https://global.scoutingevent.com/609-PeninsulaMBC
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-7b925e7e6096@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -2439,7 +2420,7 @@ URL:https://scoutingevent.com/039-118868
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-126e2476cc4c@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -2457,7 +2438,7 @@ URL:https://scoutingevent.com/039-119427
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-01-23-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T170000Z
 DTEND:20270123T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -2472,7 +2453,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-1d00ad0c4e4a@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T180000Z
 DTEND:20270124T000000Z
 SUMMARY:Search and Rescue (SAR) Merit Badge Day at MSR
@@ -2491,7 +2472,7 @@ URL:https://sdicbsa.doubleknot.com/event/search-and-rescue-sar-merit-badge
 END:VEVENT
 BEGIN:VEVENT
 UID:276971@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270130T130000Z
 DTEND:20270130T210000Z
 SUMMARY:2027 Colonial Virginia Council Merit Badge University – Weekend 
@@ -2515,7 +2496,7 @@ URL:https://global.scoutingevent.com/595-cvcmbu2027
 END:VEVENT
 BEGIN:VEVENT
 UID:278206@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270130T130000Z
 DTEND:20270130T213000Z
 SUMMARY:Scouts BSA Law Merit Badge Day
@@ -2533,7 +2514,7 @@ URL:https://global.scoutingevent.com/553-lawday27
 END:VEVENT
 BEGIN:VEVENT
 UID:271905@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270130T143000Z
 DTEND:20270130T220000Z
 SUMMARY:2027 Horse Program – Jan 30 Horsemanship Merit Badge
@@ -2552,7 +2533,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:277194@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270131T140000Z
 DTEND:20270131T190000Z
 SUMMARY:Willard Mountain Scout Day
@@ -2569,7 +2550,7 @@ URL:https://global.scoutingevent.com/364-122569
 END:VEVENT
 BEGIN:VEVENT
 UID:255726@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270205T220000Z
 DTEND:20270206T230000Z
 SUMMARY:Lincolnway Klondike Derby 27
@@ -2587,7 +2568,7 @@ URL:https://global.scoutingevent.com/157-111464
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-77dcc036f180@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T000000Z
 DTEND:20270206T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2605,7 +2586,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:265808@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T000000Z
 DTEND:20270207T170000Z
 SUMMARY:Welding Merit Badge
@@ -2623,7 +2604,7 @@ URL:https://global.scoutingevent.com/373-WMBf27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6824b70b2033@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T020000Z
 DTEND:20270206T020000Z
 SUMMARY:Wiatava Lodge Annual Trade-O-Ree
@@ -2641,7 +2622,7 @@ URL:https://scoutingevent.com/039-TradeoRee2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274182@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T050000Z
 DTEND:20270207T045900Z
 SUMMARY:Outdoor Skill Series 2027 – 2/6: First Aid
@@ -2659,8 +2640,28 @@ DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
 URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
+UID:278407@scout-event-finder
+DTSTAMP:20261113T180942Z
+DTSTART:20270206T130000Z
+DTEND:20270206T210000Z
+SUMMARY:Adult Trainings at the UMES Merit Badge College – Session 1 - Fe
+ bruary 6
+LOCATION:University of Maryland Eastern Shore\, Princess Anne\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-UMEST
+ rain\n\nCommunication\, First Aid\, CPR / AED / First Aid\, Leave No Trac
+ e\, Merit Badge Counselor\n\nAdult Trainings at the UMES Merit Badge Coll
+ ege\nWhile the Scouts are taking merit badge classes\, adult volunteers a
+ nd parents are invited to participate in a variety of training opportunit
+ ies.\nWho:\nAny registered adult who would like to attend (some open to p
+ arents\, as well)\nWhen:\nSaturday\, February 6\, and Saturday\, March 20
+ \, 2027\nCheck in begins:\n8:00 AM\nCost:\nFree of Charge unless otherwis
+ e noted with a ($)\nNote:\nMost classes may have a capacity limit\, so re
+ gistration is highly recommended. If
+URL:https://global.scoutingevent.com/081-UMESTrain
+END:VEVENT
+BEGIN:VEVENT
 UID:257463@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T130000Z
 DTEND:20270206T203000Z
 SUMMARY:Pioneer Trails Webelos & Arrow of Light Lock-In
@@ -2678,7 +2679,7 @@ URL:https://global.scoutingevent.com/165-112050
 END:VEVENT
 BEGIN:VEVENT
 UID:274861@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T133000Z
 DTEND:20270206T220000Z
 SUMMARY:Shooting Sports Merit Badge Day – Rifle Merit Badge
@@ -2696,7 +2697,7 @@ URL:https://global.scoutingevent.com/093-121383
 END:VEVENT
 BEGIN:VEVENT
 UID:278385@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T133000Z
 DTEND:20270206T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Plumbin
@@ -2716,7 +2717,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:272667@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T140000Z
 DTEND:20270206T190000Z
 SUMMARY:Merit Badge College - Frontier Trails – Session 1
@@ -2734,7 +2735,7 @@ URL:https://global.scoutingevent.com/662-FTMBC27
 END:VEVENT
 BEGIN:VEVENT
 UID:271932@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T143000Z
 DTEND:20270206T220000Z
 SUMMARY:2027 Horse Program – Feb 6 Veterianry Medicine/Animal Science
@@ -2753,7 +2754,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:265560@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270206T164500Z
 DTEND:20270206T200000Z
 SUMMARY:Peninsulas Merit Badge Events – Merit Badge Clinic Day 3/3
@@ -2771,7 +2772,7 @@ URL:https://global.scoutingevent.com/609-PeninsulaMBC
 END:VEVENT
 BEGIN:VEVENT
 UID:276821@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270212T223000Z
 DTEND:20270215T023000Z
 SUMMARY:GSR Cabin Camping Weekend
@@ -2789,7 +2790,7 @@ URL:https://global.scoutingevent.com/272-CabinCamping27
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19cadd47cc79@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T000000Z
 DTEND:20270213T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2807,7 +2808,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:269914@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T130000Z
 DTEND:20270213T170000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -2826,7 +2827,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ee67d24141bf@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -2844,7 +2845,7 @@ URL:https://scoutingevent.com/039-118906
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4ce248af6eab@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -2862,7 +2863,7 @@ URL:https://scoutingevent.com/039-119437
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19c0777c1206@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -2880,7 +2881,7 @@ URL:https://scoutingevent.com/039-118870
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003365681683@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T170000Z
 DTEND:20270213T230000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Sat\, Feb 13\, 2027
@@ -2895,7 +2896,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3c8fc1a5763e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -2913,7 +2914,7 @@ URL:https://scoutingevent.com/039-119278
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8064ea5fcc21@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
 SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
@@ -2931,7 +2932,7 @@ URL:https://scoutingevent.com/039-119303
 END:VEVENT
 BEGIN:VEVENT
 UID:276833@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270215T140000Z
 DTEND:20270215T210000Z
 SUMMARY:Merit Badge Day - Engineering – Engineering Merit Badge
@@ -2949,7 +2950,7 @@ URL:https://global.scoutingevent.com/539-122362
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-e78a90898290@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270220T000000Z
 DTEND:20270220T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -2967,7 +2968,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271973@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270220T140000Z
 DTEND:20270220T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Composite Materials Me
@@ -2987,7 +2988,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:272668@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270220T140000Z
 DTEND:20270220T190000Z
 SUMMARY:Merit Badge College - Frontier Trails – Session 2
@@ -3005,7 +3006,7 @@ URL:https://global.scoutingevent.com/662-FTMBC27
 END:VEVENT
 BEGIN:VEVENT
 UID:271916@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270220T143000Z
 DTEND:20270220T220000Z
 SUMMARY:2027 Horse Program – Feb 20 Horsemanship Merit Badge
@@ -3024,7 +3025,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:272858@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270220T143000Z
 DTEND:20270220T183000Z
 SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
@@ -3042,7 +3043,7 @@ URL:https://global.scoutingevent.com/089-120401
 END:VEVENT
 BEGIN:VEVENT
 UID:276795@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270220T150000Z
 DTEND:20270220T181500Z
 SUMMARY:Quiver Fest – Cub Scouts 10:45-12:15 PM
@@ -3060,7 +3061,7 @@ URL:https://global.scoutingevent.com/129-QuiverFestFeb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992520625829@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270223T233000Z
 DTEND:20270224T013000Z
 SUMMARY:Burpee Museum BSA: Soil & Water Conservation Merit Badge - Virtual
@@ -3074,7 +3075,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-soil-water-conservation
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b9f7e1ae4218@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T000000Z
 DTEND:20270227T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -3092,7 +3093,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276972@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T130000Z
 DTEND:20270227T210000Z
 SUMMARY:2027 Colonial Virginia Council Merit Badge University – Weekend 
@@ -3116,7 +3117,7 @@ URL:https://global.scoutingevent.com/595-cvcmbu2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271603@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T130000Z
 DTEND:20270227T190000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -3135,7 +3136,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:258361@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Skilled Trades Day – February 2027 Skilled Trades Day
@@ -3153,7 +3154,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:266830@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T140000Z
 DTEND:20270227T200000Z
 SUMMARY:Basic First Aid (FA) and CPR/AED Course – Basic First Aid and CP
@@ -3172,7 +3173,7 @@ URL:https://global.scoutingevent.com/397-117141
 END:VEVENT
 BEGIN:VEVENT
 UID:271917@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T143000Z
 DTEND:20270227T220000Z
 SUMMARY:2027 Horse Program – Feb 27 Horsemanship Merit Badge
@@ -3191,7 +3192,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:260539@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T143000Z
 DTEND:20270227T230000Z
 SUMMARY:Sea Scout TACK Training Day
@@ -3209,7 +3210,7 @@ URL:https://global.scoutingevent.com/127-TACK2027
 END:VEVENT
 BEGIN:VEVENT
 UID:273121@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T150000Z
 DTEND:20270227T180000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Environmental Science S
@@ -3228,7 +3229,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-02-27-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270227T170000Z
 DTEND:20270227T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -3243,7 +3244,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a45da12d6acc@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T000000Z
 DTEND:20270306T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -3261,7 +3262,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:278387@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T133000Z
 DTEND:20270306T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Electri
@@ -3281,7 +3282,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:270123@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T140000Z
 DTEND:20270306T230000Z
 SUMMARY:2027 Texas Fin-Fur-Con (TFFC)
@@ -3300,7 +3301,7 @@ URL:https://global.scoutingevent.com/571-2027TFFC
 END:VEVENT
 BEGIN:VEVENT
 UID:271934@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T143000Z
 DTEND:20270306T220000Z
 SUMMARY:2027 Horse Program – Mar 6 Veterinary Medicine/Animal Science
@@ -3319,7 +3320,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:275125@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T150000Z
 DTEND:20270306T210000Z
 SUMMARY:2027 Gravois Trail Citizenship in the Nation Merit Badge Class
@@ -3337,7 +3338,7 @@ URL:https://global.scoutingevent.com/312-27GTCINMB
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-cc4ca5e07867@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
@@ -3355,7 +3356,7 @@ URL:https://scoutingevent.com/039-118879
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a592c6f5d9cc@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -3373,7 +3374,7 @@ URL:https://scoutingevent.com/039-119438
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-fcd8f55b3404@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -3391,7 +3392,7 @@ URL:https://scoutingevent.com/039-118871
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8a01608dcb52@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -3409,7 +3410,7 @@ URL:https://scoutingevent.com/039-119428
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-316ce8fefa1b@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
@@ -3427,7 +3428,7 @@ URL:https://scoutingevent.com/039-118881
 END:VEVENT
 BEGIN:VEVENT
 UID:270365@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270307T160000Z
 DTEND:20270307T200000Z
 SUMMARY:Indoor Rifle Merit Badge Day
@@ -3445,7 +3446,7 @@ URL:https://global.scoutingevent.com/129-IndoorRifleMB2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4db47dce39b0@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T000000Z
 DTEND:20270313T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -3463,7 +3464,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274183@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T050000Z
 DTEND:20270314T045900Z
 SUMMARY:Outdoor Skill Series 2027 – 3/13: Fire & Steel
@@ -3482,7 +3483,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:278377@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T130000Z
 DTEND:20270313T210000Z
 SUMMARY:Adult Trainings at the Elkton Merit Badge College – Session 2 - 
@@ -3502,7 +3503,7 @@ URL:https://global.scoutingevent.com/081-ELKTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:271936@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T143000Z
 DTEND:20270313T220000Z
 SUMMARY:2027 Horse Program – Mar 13 Horsemanship Merit Badge
@@ -3521,7 +3522,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:275371@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T150000Z
 DTEND:20270313T180000Z
 SUMMARY:Railroad Merit Badge Day – March
@@ -3539,7 +3540,7 @@ URL:https://global.scoutingevent.com/620-Railroad
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993715810659@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270316T223000Z
 DTEND:20270317T003000Z
 SUMMARY:Burpee Museum BSA: Forestry - Virtual
@@ -3551,8 +3552,28 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-forestry-virtual-ticket
  s-1993715810659
 END:VEVENT
 BEGIN:VEVENT
+UID:278408@scout-event-finder
+DTSTAMP:20261113T180942Z
+DTSTART:20270320T120000Z
+DTEND:20270320T200000Z
+SUMMARY:Adult Trainings at the UMES Merit Badge College – Session 2 - Ma
+ rch 20
+LOCATION:University of Maryland Eastern Shore\, Princess Anne\, Maryland
+DESCRIPTION:Del-Mar-Va Council\nhttps://global.scoutingevent.com/081-UMEST
+ rain\n\nCommunication\, First Aid\, CPR / AED / First Aid\, Leave No Trac
+ e\, Merit Badge Counselor\n\nAdult Trainings at the UMES Merit Badge Coll
+ ege\nWhile the Scouts are taking merit badge classes\, adult volunteers a
+ nd parents are invited to participate in a variety of training opportunit
+ ies.\nWho:\nAny registered adult who would like to attend (some open to p
+ arents\, as well)\nWhen:\nSaturday\, February 6\, and Saturday\, March 20
+ \, 2027\nCheck in begins:\n8:00 AM\nCost:\nFree of Charge unless otherwis
+ e noted with a ($)\nNote:\nMost classes may have a capacity limit\, so re
+ gistration is highly recommended. If
+URL:https://global.scoutingevent.com/081-UMESTrain
+END:VEVENT
+BEGIN:VEVENT
 UID:271937@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270320T133000Z
 DTEND:20270320T210000Z
 SUMMARY:2027 Horse Program – Mar 20 Horsemanship Merit Badge
@@ -3571,7 +3592,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:275499@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270320T160000Z
 DTEND:20270320T190000Z
 SUMMARY:Fish & Wildlife Management Merit Badge (CWSC)
@@ -3589,7 +3610,7 @@ URL:https://global.scoutingevent.com/033-121701
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993714939052@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270321T150000Z
 DTEND:20270321T170000Z
 SUMMARY:Burpee Museum BSA: Oceanography - In Person
@@ -3602,7 +3623,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-oceanography-in-person-
 END:VEVENT
 BEGIN:VEVENT
 UID:261045@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T130000Z
 DTEND:20270327T230000Z
 SUMMARY:USA Archery LEVEL 1 – USA Archery LEVEL 1 Practical - Spring
@@ -3621,7 +3642,7 @@ URL:https://global.scoutingevent.com/662-113928
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-12d182f03cd8@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T160000Z
 DTEND:20270327T160000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -3639,7 +3660,7 @@ URL:https://scoutingevent.com/039-118907
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-1f61b17ba261@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T160000Z
 DTEND:20270327T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -3657,7 +3678,7 @@ URL:https://scoutingevent.com/039-118873
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003366936436@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T160000Z
 DTEND:20270327T220000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Mar 27\, 2027
@@ -3672,7 +3693,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-03-27-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T160000Z
 DTEND:20270327T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -3687,7 +3708,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6da2068be982@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T200000Z
 DTEND:20270327T200000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -3705,7 +3726,7 @@ URL:https://scoutingevent.com/039-119279
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-00fe62994a55@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270327T200000Z
 DTEND:20270327T200000Z
 SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
@@ -3723,7 +3744,7 @@ URL:https://scoutingevent.com/039-119431
 END:VEVENT
 BEGIN:VEVENT
 UID:274361@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270402T170000Z
 DTEND:20270403T020000Z
 SUMMARY:Midwest Tradefest – Friday
@@ -3742,7 +3763,7 @@ URL:https://global.scoutingevent.com/620-tradefest
 END:VEVENT
 BEGIN:VEVENT
 UID:276589@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270402T220000Z
 DTEND:20270404T210000Z
 SUMMARY:Orienteering Merit Badge Weekend
@@ -3760,7 +3781,7 @@ URL:https://global.scoutingevent.com/528-122215
 END:VEVENT
 BEGIN:VEVENT
 UID:265818@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270402T230000Z
 DTEND:20270404T160000Z
 SUMMARY:Metal Working Merit Badge
@@ -3777,7 +3798,7 @@ URL:https://global.scoutingevent.com/373-mwmba27
 END:VEVENT
 BEGIN:VEVENT
 UID:272207@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270403T000000Z
 DTEND:20270404T220000Z
 SUMMARY:2027 Climbing Tower Training Level 1 & 2 – Spring Session
@@ -3796,7 +3817,7 @@ URL:https://global.scoutingevent.com/571-2027Climbing
 END:VEVENT
 BEGIN:VEVENT
 UID:274362@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Midwest Tradefest – Saturday
@@ -3815,7 +3836,7 @@ URL:https://global.scoutingevent.com/620-tradefest
 END:VEVENT
 BEGIN:VEVENT
 UID:276578@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Youth Law Day
@@ -3833,7 +3854,7 @@ URL:https://global.scoutingevent.com/085-YouthLawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:270754@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270403T143000Z
 DTEND:20270403T213000Z
 SUMMARY:2027 Northeast Texas Merit Badge College
@@ -3852,7 +3873,7 @@ URL:https://global.scoutingevent.com/571-2027NETXMeritBadge
 END:VEVENT
 BEGIN:VEVENT
 UID:275498@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270403T170000Z
 DTEND:20270403T230000Z
 SUMMARY:Sustainability Merit Badge (CWSC)
@@ -3870,7 +3891,7 @@ URL:https://global.scoutingevent.com/033-sustainability
 END:VEVENT
 BEGIN:VEVENT
 UID:271938@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270410T133000Z
 DTEND:20270410T210000Z
 SUMMARY:2027 Horse Program – Apr 10 Veterinary Medicine/Animal Science
@@ -3889,7 +3910,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:275334@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270416T220000Z
 DTEND:20270418T170000Z
 SUMMARY:ZBASE Backpacking Shakedown Weekend – Backpacking Shakedown Week
@@ -3908,7 +3929,7 @@ URL:https://global.scoutingevent.com/488-121631
 END:VEVENT
 BEGIN:VEVENT
 UID:275333@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270416T230000Z
 DTEND:20270418T160000Z
 SUMMARY:ZBASE Canoeing Shakedown Weekend – Canoeing Shakedown Weekend
@@ -3926,7 +3947,7 @@ URL:https://global.scoutingevent.com/488-121630
 END:VEVENT
 BEGIN:VEVENT
 UID:261416@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T120000Z
 DTEND:20270417T210000Z
 SUMMARY:Wilderness First Aid Training
@@ -3945,7 +3966,7 @@ URL:https://global.scoutingevent.com/615-27Wilderness
 END:VEVENT
 BEGIN:VEVENT
 UID:271907@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T133000Z
 DTEND:20270417T210000Z
 SUMMARY:2027 Horse Program – Apr 24 Beyond the Badge
@@ -3964,7 +3985,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:264973@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T143000Z
 DTEND:20270417T200000Z
 SUMMARY:Grand Columbia Merit Badge Expos – Oroville Merit Badge Expo - T
@@ -3986,7 +4007,7 @@ URL:https://global.scoutingevent.com/609-111448
 END:VEVENT
 BEGIN:VEVENT
 UID:272327@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T150000Z
 DTEND:20270417T190000Z
 SUMMARY:2027 USAA Archery Level I Practical – Spring Archery I
@@ -4006,7 +4027,7 @@ URL:https://global.scoutingevent.com/571-2027ArcheryPractical
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8ef736f04d73@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
@@ -4024,7 +4045,7 @@ URL:https://scoutingevent.com/039-118880
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-959a3d1bfd57@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -4042,7 +4063,7 @@ URL:https://scoutingevent.com/039-119439
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5d69b9691de9@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -4060,7 +4081,7 @@ URL:https://scoutingevent.com/039-118876
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-471e801133cf@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -4078,7 +4099,7 @@ URL:https://scoutingevent.com/039-119429
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-102af97598f4@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T200000Z
 DTEND:20270417T200000Z
 SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
@@ -4096,7 +4117,7 @@ URL:https://scoutingevent.com/039-118896
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5a1866f5428f@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T200000Z
 DTEND:20270417T200000Z
 SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
@@ -4114,7 +4135,7 @@ URL:https://scoutingevent.com/039-119432
 END:VEVENT
 BEGIN:VEVENT
 UID:275263@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270417T220000Z
 DTEND:20270418T210000Z
 SUMMARY:Iowa- Illinois Challenge Training Consortium – COPE & Climbing F
@@ -4133,7 +4154,7 @@ URL:https://global.scoutingevent.com/177-Challengetraining
 END:VEVENT
 BEGIN:VEVENT
 UID:252772@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270423T113000Z
 DTEND:20270425T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend One
@@ -4151,7 +4172,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:268134@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270423T220000Z
 DTEND:20270425T170000Z
 SUMMARY:Lake of the Ozarks Merit Badge College 2027 – Lake of the Ozarks
@@ -4170,7 +4191,7 @@ URL:https://global.scoutingevent.com/653-MBC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274184@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270424T040000Z
 DTEND:20270425T035900Z
 SUMMARY:Outdoor Skill Series 2027 – 4/24 First Aid EMS
@@ -4189,7 +4210,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:273123@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270424T140000Z
 DTEND:20270424T200000Z
 SUMMARY:Merit Badges at the St. Louis Aquarium – Oceanography St. Louis 
@@ -4208,7 +4229,7 @@ URL:https://global.scoutingevent.com/312-aquarium26
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-04-24-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270424T160000Z
 DTEND:20270424T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -4223,7 +4244,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:265536@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270430T213000Z
 DTEND:20270502T150000Z
 SUMMARY:Bear Paw Spring Camporee 2027
@@ -4241,7 +4262,7 @@ URL:https://global.scoutingevent.com/635-bearpawspringcamporee2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275265@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270430T220000Z
 DTEND:20270502T210000Z
 SUMMARY:Iowa- Illinois Challenge Training Consortium – COPE Instructor T
@@ -4260,7 +4281,7 @@ URL:https://global.scoutingevent.com/177-Challengetraining
 END:VEVENT
 BEGIN:VEVENT
 UID:271912@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270501T140000Z
 DTEND:20270501T150000Z
 SUMMARY:2027 Horse Program – May 1 Trail Ride Session 1
@@ -4279,7 +4300,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:251578@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270507T040000Z
 DTEND:20270510T035900Z
 SUMMARY:Whitewater Basics - Canoe Handling Course
@@ -4297,7 +4318,7 @@ URL:https://global.scoutingevent.com/421-109694
 END:VEVENT
 BEGIN:VEVENT
 UID:275750@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T114500Z
 DTEND:20270508T193000Z
 SUMMARY:Spring Merit Badge Day 2027 – Merit Badge Classes
@@ -4319,7 +4340,7 @@ URL:https://global.scoutingevent.com/095-121802
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-193e3c19fa61@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -4337,7 +4358,7 @@ URL:https://scoutingevent.com/039-119273
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b90f3bb2f2e5@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -4355,7 +4376,7 @@ URL:https://scoutingevent.com/039-119441
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b33ef007cbfa@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -4373,7 +4394,7 @@ URL:https://scoutingevent.com/039-118877
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6bb9336d5c88@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -4391,7 +4412,7 @@ URL:https://scoutingevent.com/039-119430
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-37a6092a34d1@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T200000Z
 DTEND:20270508T200000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -4409,7 +4430,7 @@ URL:https://scoutingevent.com/039-119280
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ad25b7097a13@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270508T200000Z
 DTEND:20270508T200000Z
 SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
@@ -4427,7 +4448,7 @@ URL:https://scoutingevent.com/039-119425
 END:VEVENT
 BEGIN:VEVENT
 UID:252773@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270515T113000Z
 DTEND:20270516T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend Two
@@ -4445,7 +4466,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-05-22-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270522T160000Z
 DTEND:20270522T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -4460,7 +4481,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:277962@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270526T133000Z
 DTEND:20270528T213000Z
 SUMMARY:Konza District Day Camp
@@ -4478,7 +4499,7 @@ URL:https://global.scoutingevent.com/192-KonzaDayCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264373@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270530T170000Z
 DTEND:20270605T140000Z
 SUMMARY:Summer Camp 2027 – Week 1
@@ -4498,7 +4519,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:269054@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270604T190000Z
 DTEND:20270606T160000Z
 SUMMARY:Blue & Gray Camporee
@@ -4516,7 +4537,7 @@ URL:https://global.scoutingevent.com/615-27BlueGray
 END:VEVENT
 BEGIN:VEVENT
 UID:270651@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270606T170000Z
 DTEND:20270612T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 1
@@ -4534,7 +4555,7 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:264374@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270606T170000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Week 2
@@ -4554,7 +4575,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257836@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270606T180000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
@@ -4572,7 +4593,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272748@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270606T210000Z
 DTEND:20270612T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Summer Camp Week 1
@@ -4590,7 +4611,7 @@ URL:https://global.scoutingevent.com/011-ScoutCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:215563@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270612T113000Z
 DTEND:20270612T160000Z
 SUMMARY:Ranger's Fishing Derby 2027 – Fishing Derby
@@ -4608,7 +4629,7 @@ URL:https://global.scoutingevent.com/368-90941
 END:VEVENT
 BEGIN:VEVENT
 UID:266035@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T040000Z
 DTEND:20270620T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -4627,7 +4648,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:259293@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T040000Z
 DTEND:20270620T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 1
@@ -4645,7 +4666,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:265933@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
 SUMMARY:2027 Medicine Mountain Summer Camp – Week 1
@@ -4663,7 +4684,7 @@ URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:270652@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 2
@@ -4681,7 +4702,7 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:271737@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T170000Z
 DTEND:20270619T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 1
@@ -4699,7 +4720,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:272321@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T170000Z
 DTEND:20270619T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 1 (June 13- 19)
@@ -4717,7 +4738,7 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264375@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Week 3
@@ -4737,7 +4758,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:265899@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Pfeffer Scout Reservation Summer Camp – Week 1
@@ -4755,7 +4776,7 @@ URL:https://global.scoutingevent.com/205-116666
 END:VEVENT
 BEGIN:VEVENT
 UID:257837@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
@@ -4773,7 +4794,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270012@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 1: June 13 - June 19
@@ -4792,7 +4813,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:275820@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T200000Z
 DTEND:20270619T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 1
@@ -4811,7 +4832,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:272749@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270613T210000Z
 DTEND:20270619T170000Z
 SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Summer Camp Week 2
@@ -4829,7 +4850,7 @@ URL:https://global.scoutingevent.com/011-ScoutCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-06-19-326a@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270619T160000Z
 DTEND:20270619T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -4844,7 +4865,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:277985@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270619T180000Z
 DTEND:20270627T220000Z
 SUMMARY:Horse Trek – Eastbound
@@ -4862,7 +4883,7 @@ URL:https://global.scoutingevent.com/492-122999
 END:VEVENT
 BEGIN:VEVENT
 UID:266036@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T040000Z
 DTEND:20270627T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -4881,7 +4902,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:259294@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T040000Z
 DTEND:20270627T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 2
@@ -4899,7 +4920,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:266282@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T160000Z
 DTEND:20270626T160000Z
 SUMMARY:Camp Rotary Scouts BSA Resident Camp 2027 – Session #1
@@ -4917,7 +4938,7 @@ URL:https://global.scoutingevent.com/272-CRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:266296@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T160000Z
 DTEND:20270626T160000Z
 SUMMARY:Cole Canoe Base Scouts BSA Resident Camp 2027 – Session #1
@@ -4935,7 +4956,7 @@ URL:https://global.scoutingevent.com/272-CCBSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:265934@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:2027 Medicine Mountain Summer Camp – Week 2
@@ -4953,7 +4974,7 @@ URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:270653@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 3
@@ -4971,7 +4992,7 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:271738@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T170000Z
 DTEND:20270626T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 2
@@ -4989,7 +5010,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:272322@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T170000Z
 DTEND:20270626T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 2 (June 20-26)
@@ -5007,7 +5028,7 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264376@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:Summer Camp 2027 – Week 4
@@ -5027,7 +5048,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261789@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T170000Z
 DTEND:20270626T130000Z
 SUMMARY:Summer Camp 2027 at Camp Durant – Week 1 - Scouts BSA
@@ -5045,7 +5066,7 @@ URL:https://global.scoutingevent.com/421-CampDurant27
 END:VEVENT
 BEGIN:VEVENT
 UID:259236@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T180000Z
 DTEND:20270626T140000Z
 SUMMARY:2027 Scouts BSA Summer Camp – Week One
@@ -5063,7 +5084,7 @@ URL:https://global.scoutingevent.com/429-112960
 END:VEVENT
 BEGIN:VEVENT
 UID:265900@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T180000Z
 DTEND:20270626T140000Z
 SUMMARY:Pfeffer Scout Reservation Summer Camp – Week 2
@@ -5081,7 +5102,7 @@ URL:https://global.scoutingevent.com/205-116666
 END:VEVENT
 BEGIN:VEVENT
 UID:270010@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T180000Z
 DTEND:20270626T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 2: June 20 - June 26
@@ -5100,7 +5121,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:275821@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 2
@@ -5119,7 +5140,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276101@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270620T200000Z
 DTEND:20270623T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 1
@@ -5137,7 +5158,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276102@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270623T200000Z
 DTEND:20270626T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 2
@@ -5155,7 +5176,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-06-26-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270626T160000Z
 DTEND:20270626T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -5170,7 +5191,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:266037@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T040000Z
 DTEND:20270704T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -5189,7 +5210,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:267762@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T150000Z
 DTEND:20270717T140000Z
 SUMMARY:RSR Scouts BSA Resident Camp 2027 – CIT Program
@@ -5208,7 +5229,7 @@ URL:https://global.scoutingevent.com/364-RSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266283@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T160000Z
 DTEND:20270703T160000Z
 SUMMARY:Camp Rotary Scouts BSA Resident Camp 2027 – Session #2
@@ -5226,7 +5247,7 @@ URL:https://global.scoutingevent.com/272-CRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:266297@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T160000Z
 DTEND:20270703T160000Z
 SUMMARY:Cole Canoe Base Scouts BSA Resident Camp 2027 – Session #2
@@ -5244,7 +5265,7 @@ URL:https://global.scoutingevent.com/272-CCBSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:265935@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T170000Z
 DTEND:20270703T140000Z
 SUMMARY:2027 Medicine Mountain Summer Camp – Week 3
@@ -5262,7 +5283,7 @@ URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:274665@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T170000Z
 DTEND:20270702T210000Z
 SUMMARY:BHSC Scouts BSA Specialty Camps – Bridge Camp
@@ -5281,7 +5302,7 @@ URL:https://global.scoutingevent.com/386-bhscspecialty
 END:VEVENT
 BEGIN:VEVENT
 UID:271739@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T170000Z
 DTEND:20270703T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 3
@@ -5299,7 +5320,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:272323@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T170000Z
 DTEND:20270703T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 3 (June 27-July 3)
@@ -5317,7 +5338,7 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264377@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T170000Z
 DTEND:20270703T140000Z
 SUMMARY:Summer Camp 2027 – Week 5 - Please call 865-566-0645 if you want
@@ -5338,7 +5359,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261790@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T170000Z
 DTEND:20270703T130000Z
 SUMMARY:Summer Camp 2027 at Camp Durant – Week 2 - Scouts BSA
@@ -5356,7 +5377,7 @@ URL:https://global.scoutingevent.com/421-CampDurant27
 END:VEVENT
 BEGIN:VEVENT
 UID:267649@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T180000Z
 DTEND:20270703T110000Z
 SUMMARY:2027 Camp Marriott – Week 1
@@ -5374,7 +5395,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:259237@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T180000Z
 DTEND:20270703T140000Z
 SUMMARY:2027 Scouts BSA Summer Camp – Week Two
@@ -5392,7 +5413,7 @@ URL:https://global.scoutingevent.com/429-112960
 END:VEVENT
 BEGIN:VEVENT
 UID:265901@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T180000Z
 DTEND:20270703T140000Z
 SUMMARY:Pfeffer Scout Reservation Summer Camp – Week 3
@@ -5410,7 +5431,7 @@ URL:https://global.scoutingevent.com/205-116666
 END:VEVENT
 BEGIN:VEVENT
 UID:270011@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T180000Z
 DTEND:20270703T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 3: June 27 - July 3
@@ -5429,7 +5450,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:274566@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T190000Z
 DTEND:20270703T140000Z
 SUMMARY:Camp Cornhusker Brownsea Wilderness Camp
@@ -5448,7 +5469,7 @@ URL:https://global.scoutingevent.com/324-Brownsea27
 END:VEVENT
 BEGIN:VEVENT
 UID:268230@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T200000Z
 DTEND:20270703T160000Z
 SUMMARY:2027 Adventure Week Camp Hi-Sierra
@@ -5466,7 +5487,7 @@ URL:https://global.scoutingevent.com/055-Venturing27CHS
 END:VEVENT
 BEGIN:VEVENT
 UID:275822@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T200000Z
 DTEND:20270703T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 3
@@ -5485,7 +5506,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276106@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270627T200000Z
 DTEND:20270630T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 3
@@ -5503,7 +5524,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274647@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270628T040000Z
 DTEND:20270703T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 1
@@ -5521,7 +5542,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:276103@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270630T200000Z
 DTEND:20270703T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – AOL and Webelos Camp
@@ -5539,7 +5560,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266038@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T040000Z
 DTEND:20270711T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -5558,7 +5579,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:266284@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T160000Z
 DTEND:20270710T160000Z
 SUMMARY:Camp Rotary Scouts BSA Resident Camp 2027 – Session #3
@@ -5576,7 +5597,7 @@ URL:https://global.scoutingevent.com/272-CRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:266298@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T160000Z
 DTEND:20270710T160000Z
 SUMMARY:Cole Canoe Base Scouts BSA Resident Camp 2027 – Session #3
@@ -5594,7 +5615,7 @@ URL:https://global.scoutingevent.com/272-CCBSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:261791@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T160000Z
 DTEND:20270710T130000Z
 SUMMARY:Summer Camp 2027 at Camp Durant – Week 3 - Scouts BSA
@@ -5612,7 +5633,7 @@ URL:https://global.scoutingevent.com/421-CampDurant27
 END:VEVENT
 BEGIN:VEVENT
 UID:276935@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T170000Z
 DTEND:20270711T020000Z
 SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 1
@@ -5630,7 +5651,7 @@ URL:https://global.scoutingevent.com/397-Tusky2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271740@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T170000Z
 DTEND:20270710T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 4
@@ -5648,7 +5669,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:272324@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T170000Z
 DTEND:20270710T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 4 (July 4-10)
@@ -5666,7 +5687,7 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:267755@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T170000Z
 DTEND:20270710T140000Z
 SUMMARY:RSR Scouts BSA Resident Camp 2027 – Week 1
@@ -5685,7 +5706,7 @@ URL:https://global.scoutingevent.com/364-RSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:267650@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T180000Z
 DTEND:20270710T110000Z
 SUMMARY:2027 Camp Marriott – Week 2
@@ -5703,7 +5724,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:270013@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T180000Z
 DTEND:20270710T140000Z
 SUMMARY:Summer Camp 2027 TBrady Saunders – Week 4: July 4 - July 10
@@ -5722,7 +5743,7 @@ URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:275823@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 4
@@ -5741,7 +5762,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273327@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T200000Z
 DTEND:20270710T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 1
@@ -5759,7 +5780,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264836@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T200000Z
 DTEND:20270710T180000Z
 SUMMARY:Camp Parsons Summer Camp 2027 – Session 1
@@ -5777,7 +5798,7 @@ URL:https://global.scoutingevent.com/609-CampParsons2027
 END:VEVENT
 BEGIN:VEVENT
 UID:267884@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270704T210000Z
 DTEND:20270707T160000Z
 SUMMARY:Camp Pioneer - Summer Camp – Eagle Camp Session 1
@@ -5795,7 +5816,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:274648@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270705T040000Z
 DTEND:20270710T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 2
@@ -5813,7 +5834,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:267889@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270707T210000Z
 DTEND:20270710T160000Z
 SUMMARY:Camp Pioneer - Summer Camp – Eagle Camp Session 2
@@ -5831,7 +5852,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:246846@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270710T170000Z
 DTEND:20270717T160000Z
 SUMMARY:Birchbark - Algonquin Week 1 – Algonquin Week 1 Crew 1
@@ -5851,7 +5872,7 @@ URL:https://global.scoutingevent.com/375-107342
 END:VEVENT
 BEGIN:VEVENT
 UID:266039@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T040000Z
 DTEND:20270718T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -5870,7 +5891,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:263409@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T144500Z
 DTEND:20270717T164500Z
 SUMMARY:Aquatic School 2027 – Aquatic School
@@ -5889,7 +5910,7 @@ URL:https://global.scoutingevent.com/662-AS2027
 END:VEVENT
 BEGIN:VEVENT
 UID:260904@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T150000Z
 DTEND:20270717T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 1
@@ -5907,7 +5928,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266285@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T160000Z
 DTEND:20270717T160000Z
 SUMMARY:Camp Rotary Scouts BSA Resident Camp 2027 – Session #4
@@ -5925,7 +5946,7 @@ URL:https://global.scoutingevent.com/272-CRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:266299@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T160000Z
 DTEND:20270717T160000Z
 SUMMARY:Cole Canoe Base Scouts BSA Resident Camp 2027 – Session #4
@@ -5943,7 +5964,7 @@ URL:https://global.scoutingevent.com/272-CCBSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:267560@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T160000Z
 DTEND:20270717T160000Z
 SUMMARY:Gerber Scout Reservation Scouts BSA Resident Camp 2027 – Session
@@ -5962,7 +5983,7 @@ URL:https://global.scoutingevent.com/272-GSRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:261792@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T160000Z
 DTEND:20270717T130000Z
 SUMMARY:Summer Camp 2027 at Camp Durant – Week 4 - Scouts BSA
@@ -5980,7 +6001,7 @@ URL:https://global.scoutingevent.com/421-CampDurant27
 END:VEVENT
 BEGIN:VEVENT
 UID:265936@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270717T140000Z
 SUMMARY:2027 Medicine Mountain Summer Camp – Week 4
@@ -5998,7 +6019,7 @@ URL:https://global.scoutingevent.com/695-MMSR2027SummerCamp
 END:VEVENT
 BEGIN:VEVENT
 UID:276936@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270718T020000Z
 SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 2
@@ -6016,7 +6037,7 @@ URL:https://global.scoutingevent.com/397-Tusky2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274630@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270717T140000Z
 SUMMARY:BHSC Rising Sun Provo Camp – Week 1
@@ -6034,7 +6055,7 @@ URL:https://global.scoutingevent.com/386-bhscprovo
 END:VEVENT
 BEGIN:VEVENT
 UID:274668@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270724T140000Z
 SUMMARY:BHSC Scouts BSA Specialty Camps – Counselor in Training Camp (CI
@@ -6054,7 +6075,7 @@ URL:https://global.scoutingevent.com/386-bhscspecialty
 END:VEVENT
 BEGIN:VEVENT
 UID:269805@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270717T140000Z
 SUMMARY:BHSC Troop Summer Camp 2027 – Week 1
@@ -6072,7 +6093,7 @@ URL:https://global.scoutingevent.com/386-bhsctroop2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271741@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270717T130000Z
 SUMMARY:Blue Ridge Scout Reservation 2027 – Week 5
@@ -6090,7 +6111,7 @@ URL:https://global.scoutingevent.com/599-brmc27
 END:VEVENT
 BEGIN:VEVENT
 UID:267756@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T170000Z
 DTEND:20270717T140000Z
 SUMMARY:RSR Scouts BSA Resident Camp 2027 – Week 2
@@ -6109,7 +6130,7 @@ URL:https://global.scoutingevent.com/364-RSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:267651@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T180000Z
 DTEND:20270717T110000Z
 SUMMARY:2027 Camp Marriott – Week 3
@@ -6127,7 +6148,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:259239@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T180000Z
 DTEND:20270717T140000Z
 SUMMARY:2027 Scouts BSA Summer Camp – Week Three
@@ -6145,7 +6166,7 @@ URL:https://global.scoutingevent.com/429-112960
 END:VEVENT
 BEGIN:VEVENT
 UID:270768@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T183000Z
 DTEND:20270717T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 1
@@ -6163,7 +6184,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270905@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T190000Z
 DTEND:20270717T173000Z
 SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 1
@@ -6181,7 +6202,7 @@ URL:https://global.scoutingevent.com/492-baldwin27
 END:VEVENT
 BEGIN:VEVENT
 UID:275824@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 5
@@ -6200,7 +6221,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273328@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T200000Z
 DTEND:20270717T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 2
@@ -6218,7 +6239,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264831@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270711T200000Z
 DTEND:20270717T180000Z
 SUMMARY:Camp Parsons Summer Camp 2027 – Session 2
@@ -6236,7 +6257,7 @@ URL:https://global.scoutingevent.com/609-CampParsons2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274649@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270712T040000Z
 DTEND:20270717T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 3
@@ -6254,7 +6275,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:270867@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270712T130000Z
 DTEND:20270716T200000Z
 SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 1: 
@@ -6273,7 +6294,7 @@ URL:https://global.scoutingevent.com/525-2027MADC
 END:VEVENT
 BEGIN:VEVENT
 UID:246854@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270717T170000Z
 DTEND:20270724T160000Z
 SUMMARY:Birchbark - Algonquin Week 2 – Algonquin Week 2 Team 1
@@ -6293,7 +6314,7 @@ URL:https://global.scoutingevent.com/375-107344
 END:VEVENT
 BEGIN:VEVENT
 UID:266040@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T040000Z
 DTEND:20270725T035900Z
 SUMMARY:Aquabase High Adventure Sailing Program – Aquabase High Adventur
@@ -6312,7 +6333,7 @@ URL:https://global.scoutingevent.com/205-116755
 END:VEVENT
 BEGIN:VEVENT
 UID:261197@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T150000Z
 DTEND:20270724T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 2
@@ -6330,7 +6351,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266286@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T160000Z
 DTEND:20270724T160000Z
 SUMMARY:Camp Rotary Scouts BSA Resident Camp 2027 – Session #5
@@ -6348,7 +6369,7 @@ URL:https://global.scoutingevent.com/272-CRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:266300@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T160000Z
 DTEND:20270724T160000Z
 SUMMARY:Cole Canoe Base Scouts BSA Resident Camp 2027 – Session #5
@@ -6366,7 +6387,7 @@ URL:https://global.scoutingevent.com/272-CCBSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:267561@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T160000Z
 DTEND:20270724T160000Z
 SUMMARY:Gerber Scout Reservation Scouts BSA Resident Camp 2027 – Session
@@ -6385,7 +6406,7 @@ URL:https://global.scoutingevent.com/272-GSRSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:276727@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T160000Z
 DTEND:20270722T160000Z
 SUMMARY:Specialty Merit Badge Camp 2027 – Specialty Merit Badge Camp
@@ -6405,7 +6426,7 @@ URL:https://global.scoutingevent.com/497-122316
 END:VEVENT
 BEGIN:VEVENT
 UID:276937@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T170000Z
 DTEND:20270725T020000Z
 SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 3
@@ -6423,7 +6444,7 @@ URL:https://global.scoutingevent.com/397-Tusky2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274637@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T170000Z
 DTEND:20270724T140000Z
 SUMMARY:BHSC Rising Sun Provo Camp – Week 2
@@ -6441,7 +6462,7 @@ URL:https://global.scoutingevent.com/386-bhscprovo
 END:VEVENT
 BEGIN:VEVENT
 UID:274612@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T170000Z
 DTEND:20270724T140000Z
 SUMMARY:BHSC Troop Summer Camp 2027 – Week 2
@@ -6459,7 +6480,7 @@ URL:https://global.scoutingevent.com/386-bhsctroop2027
 END:VEVENT
 BEGIN:VEVENT
 UID:273643@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T170000Z
 DTEND:20270724T150000Z
 SUMMARY:Camp Wakpominee Scouts BSA Resident Camp 2027 – Scouts BSA Resid
@@ -6478,7 +6499,7 @@ URL:https://global.scoutingevent.com/364-WakRes27
 END:VEVENT
 BEGIN:VEVENT
 UID:267652@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T180000Z
 DTEND:20270724T110000Z
 SUMMARY:2027 Camp Marriott – Week 4
@@ -6496,7 +6517,7 @@ URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 BEGIN:VEVENT
 UID:259240@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T180000Z
 DTEND:20270724T140000Z
 SUMMARY:2027 Scouts BSA Summer Camp – Week Four
@@ -6514,7 +6535,7 @@ URL:https://global.scoutingevent.com/429-112960
 END:VEVENT
 BEGIN:VEVENT
 UID:270774@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T183000Z
 DTEND:20270724T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 2
@@ -6532,7 +6553,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270906@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T190000Z
 DTEND:20270724T173000Z
 SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 2
@@ -6550,7 +6571,7 @@ URL:https://global.scoutingevent.com/492-baldwin27
 END:VEVENT
 BEGIN:VEVENT
 UID:275825@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 6
@@ -6569,7 +6590,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273331@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T200000Z
 DTEND:20270724T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 3
@@ -6587,7 +6608,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264832@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270718T200000Z
 DTEND:20270724T180000Z
 SUMMARY:Camp Parsons Summer Camp 2027 – Session 3
@@ -6605,7 +6626,7 @@ URL:https://global.scoutingevent.com/609-CampParsons2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274650@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270719T040000Z
 DTEND:20270724T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 4
@@ -6623,7 +6644,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:270868@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270719T130000Z
 DTEND:20270723T200000Z
 SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 2: 
@@ -6642,7 +6663,7 @@ URL:https://global.scoutingevent.com/525-2027MADC
 END:VEVENT
 BEGIN:VEVENT
 UID:261198@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T150000Z
 DTEND:20270731T140000Z
 SUMMARY:Scout BSA Camp 2027 – Specialty Week
@@ -6660,7 +6681,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266301@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T160000Z
 DTEND:20270731T160000Z
 SUMMARY:Cole Canoe Base Scouts BSA Resident Camp 2027 – Session #6
@@ -6678,7 +6699,7 @@ URL:https://global.scoutingevent.com/272-CCBSBSA27
 END:VEVENT
 BEGIN:VEVENT
 UID:276938@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T170000Z
 DTEND:20270801T020000Z
 SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 4
@@ -6696,7 +6717,7 @@ URL:https://global.scoutingevent.com/397-Tusky2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274638@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T170000Z
 DTEND:20270731T140000Z
 SUMMARY:BHSC Rising Sun Provo Camp – Week 3
@@ -6714,7 +6735,7 @@ URL:https://global.scoutingevent.com/386-bhscprovo
 END:VEVENT
 BEGIN:VEVENT
 UID:274613@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T170000Z
 DTEND:20270731T140000Z
 SUMMARY:BHSC Troop Summer Camp 2027 – Week 3
@@ -6732,7 +6753,7 @@ URL:https://global.scoutingevent.com/386-bhsctroop2027
 END:VEVENT
 BEGIN:VEVENT
 UID:246861@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T170000Z
 DTEND:20270731T160000Z
 SUMMARY:Birchbark - Adirondack Week 1 – Adirondack Week 1 Team 1
@@ -6751,7 +6772,7 @@ URL:https://global.scoutingevent.com/375-107345
 END:VEVENT
 BEGIN:VEVENT
 UID:259241@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T180000Z
 DTEND:20270731T140000Z
 SUMMARY:2027 Scouts BSA Summer Camp – Week Five
@@ -6769,7 +6790,7 @@ URL:https://global.scoutingevent.com/429-112960
 END:VEVENT
 BEGIN:VEVENT
 UID:270775@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T183000Z
 DTEND:20270731T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 3
@@ -6787,7 +6808,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:270907@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T190000Z
 DTEND:20270731T173000Z
 SUMMARY:Camp Baldwin - Summer Camp Scouts BSA – Session 3
@@ -6805,7 +6826,7 @@ URL:https://global.scoutingevent.com/492-baldwin27
 END:VEVENT
 BEGIN:VEVENT
 UID:275826@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 7
@@ -6824,7 +6845,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:268572@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:2027 Camp Grizzly Summer Camp – Camp Grizzly - Session 1
@@ -6842,7 +6863,7 @@ URL:https://global.scoutingevent.com/611-CampGrizzly2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264833@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270725T200000Z
 DTEND:20270731T180000Z
 SUMMARY:Camp Parsons Summer Camp 2027 – Session 4
@@ -6860,7 +6881,7 @@ URL:https://global.scoutingevent.com/609-CampParsons2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274651@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270726T040000Z
 DTEND:20270731T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 5
@@ -6878,7 +6899,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:275687@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270726T123000Z
 DTEND:20270730T193000Z
 SUMMARY:2027 Musser Adventure Day Camp – STEM Adventure Day Camp: July
@@ -6896,7 +6917,7 @@ URL:https://global.scoutingevent.com/525-2027MADC
 END:VEVENT
 BEGIN:VEVENT
 UID:261400@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270729T170000Z
 DTEND:20270801T161500Z
 SUMMARY:Henson Summer Merit Badge College Camp – Weekend # 1
@@ -6914,7 +6935,7 @@ URL:https://global.scoutingevent.com/081-114146
 END:VEVENT
 BEGIN:VEVENT
 UID:246828@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270731T170000Z
 DTEND:20270807T160000Z
 SUMMARY:Birchbark - Adirondack Week 2 – Adirondack Week 1 Team 2
@@ -6933,7 +6954,7 @@ URL:https://global.scoutingevent.com/375-107337
 END:VEVENT
 BEGIN:VEVENT
 UID:276939@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T170000Z
 DTEND:20270808T020000Z
 SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 5
@@ -6951,7 +6972,7 @@ URL:https://global.scoutingevent.com/397-Tusky2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274639@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T170000Z
 DTEND:20270807T140000Z
 SUMMARY:BHSC Rising Sun Provo Camp – Week 4
@@ -6969,7 +6990,7 @@ URL:https://global.scoutingevent.com/386-bhscprovo
 END:VEVENT
 BEGIN:VEVENT
 UID:274614@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T170000Z
 DTEND:20270807T140000Z
 SUMMARY:BHSC Troop Summer Camp 2027 – Week 4
@@ -6987,7 +7008,7 @@ URL:https://global.scoutingevent.com/386-bhsctroop2027
 END:VEVENT
 BEGIN:VEVENT
 UID:246827@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T170000Z
 DTEND:20270807T160000Z
 SUMMARY:Birchbark - Adirondack Week 2 – Adirondack Week 2 Team 1
@@ -7006,7 +7027,7 @@ URL:https://global.scoutingevent.com/375-107337
 END:VEVENT
 BEGIN:VEVENT
 UID:267757@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T170000Z
 DTEND:20270807T140000Z
 SUMMARY:RSR Scouts BSA Resident Camp 2027 – Week 5 (STEM Week)
@@ -7025,7 +7046,7 @@ URL:https://global.scoutingevent.com/364-RSR2027
 END:VEVENT
 BEGIN:VEVENT
 UID:278737@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T171500Z
 DTEND:20270805T020000Z
 SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Tusky Trades & Te
@@ -7044,25 +7065,27 @@ URL:https://global.scoutingevent.com/397-Tusky2027
 END:VEVENT
 BEGIN:VEVENT
 UID:263987@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T180000Z
 DTEND:20270807T140000Z
 SUMMARY:2027 Scouts BSA Summer Camp – Week Six
 LOCATION:Camp Wilderness\, Park Rapids\, Minnesota
-DESCRIPTION:Northern Lights Council\nhttps://global.scoutingevent.com/429-
- 112960\n\nEnvironmental Science\, Swimming\n\n2027 Scouts BSA Summer Camp
- \nNestled in the heart of the Paul Bunyan State Forest in Central Minneso
- ta\, we are a premier 2\,400-acre Scouts BSA camp.  The camp is national
- ly recognized and fully accredited by the BSA.  Our programs have been f
- eatured in both Boys Life and Scouting Magazines.  In operation since
-  1945\, this beautiful camp has met the needs of Scouts and leaders for o
- ver 70 years.  We look forward to welcoming you and your troop to Camp W
- ilderness!\nCamp Dates:\nWeek 1\; June 20-26\nWeek
+DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
+  be closed. Confirm with the organizer.\n\nNorthern Lights Council\nhttps
+ ://global.scoutingevent.com/429-112960\n\nEnvironmental Science\, Swimmin
+ g\n\n2027 Scouts BSA Summer Camp\nNestled in the heart of the Paul Bunyan
+  State Forest in Central Minnesota\, we are a premier 2\,400-acre Scouts 
+ BSA camp.  The camp is nationally recognized and fully accredited by the
+  BSA.  Our programs have been featured in both Boys Life and Scouting
+  Magazines.  In operation since 1945\, this beautiful camp has met the n
+ eeds of Scouts and leaders for over 70 years.  We look forward to welcom
+ ing you and your troop to Camp Wilderness!\nCamp Dates:\nWeek 1\; June 20
+ -26\nWeek
 URL:https://global.scoutingevent.com/429-112960
 END:VEVENT
 BEGIN:VEVENT
 UID:270776@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T183000Z
 DTEND:20270807T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Scouts BSA Session 4
@@ -7080,7 +7103,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:268573@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T200000Z
 DTEND:20270807T170000Z
 SUMMARY:2027 Camp Grizzly Summer Camp – Camp Grizzly - Session 2
@@ -7098,7 +7121,7 @@ URL:https://global.scoutingevent.com/611-CampGrizzly2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264834@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270801T200000Z
 DTEND:20270807T180000Z
 SUMMARY:Camp Parsons Summer Camp 2027 – Session 5
@@ -7116,7 +7139,7 @@ URL:https://global.scoutingevent.com/609-CampParsons2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274652@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270802T040000Z
 DTEND:20270807T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 6
@@ -7134,7 +7157,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:270995@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270802T120000Z
 DTEND:20270806T210000Z
 SUMMARY:2027 Merit Badge Day Camp
@@ -7156,7 +7179,7 @@ URL:https://global.scoutingevent.com/525-119342
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-08-06-326a@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270806T160000Z
 DTEND:20270806T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -7171,7 +7194,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:277964@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270806T220000Z
 DTEND:20270808T163000Z
 SUMMARY:Kansas Sea Base 2027
@@ -7190,7 +7213,7 @@ URL:https://global.scoutingevent.com/192-KansasSeaBase2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274666@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270808T170000Z
 DTEND:20270813T210000Z
 SUMMARY:BHSC Scouts BSA Specialty Camps – Fishing Camp
@@ -7209,7 +7232,7 @@ URL:https://global.scoutingevent.com/386-bhscspecialty
 END:VEVENT
 BEGIN:VEVENT
 UID:264835@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270808T200000Z
 DTEND:20270814T180000Z
 SUMMARY:Camp Parsons Summer Camp 2027 – Session 6
@@ -7227,7 +7250,7 @@ URL:https://global.scoutingevent.com/609-CampParsons2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274653@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270809T040000Z
 DTEND:20270814T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 7
@@ -7245,7 +7268,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:267883@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270809T180000Z
 DTEND:20270813T163000Z
 SUMMARY:Camp Pioneer - Summer Camp – Cascade Chronicles - Forsaken Kingd
@@ -7264,7 +7287,7 @@ URL:https://global.scoutingevent.com/492-pioneer27
 END:VEVENT
 BEGIN:VEVENT
 UID:274664@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270815T170000Z
 DTEND:20270820T210000Z
 SUMMARY:BHSC Scouts BSA Specialty Camps – Aquatics Camp
@@ -7283,7 +7306,7 @@ URL:https://global.scoutingevent.com/386-bhscspecialty
 END:VEVENT
 BEGIN:VEVENT
 UID:274654@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270816T040000Z
 DTEND:20270821T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 8
@@ -7301,7 +7324,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:277986@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270821T180000Z
 DTEND:20270829T220000Z
 SUMMARY:Horse Trek – Westbound
@@ -7319,7 +7342,7 @@ URL:https://global.scoutingevent.com/492-122999
 END:VEVENT
 BEGIN:VEVENT
 UID:274655@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270823T040000Z
 DTEND:20270828T035900Z
 SUMMARY:BHSC Scouts BSA Day Camp – Week 9
@@ -7337,7 +7360,7 @@ URL:https://global.scoutingevent.com/386-bhscscoutday
 END:VEVENT
 BEGIN:VEVENT
 UID:277097@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270828T130000Z
 DTEND:20270828T210000Z
 SUMMARY:Merit Badge College at Camp Cedars
@@ -7356,7 +7379,7 @@ URL:https://global.scoutingevent.com/326-122510
 END:VEVENT
 BEGIN:VEVENT
 UID:278520@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270828T150000Z
 DTEND:20270911T000000Z
 SUMMARY:2027 Yolano District Merit Badge Trail Drive – Merit Badge Trail
@@ -7380,7 +7403,7 @@ URL:https://global.scoutingevent.com/047-123287
 END:VEVENT
 BEGIN:VEVENT
 UID:271382@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270911T110000Z
 DTEND:20270911T180000Z
 SUMMARY:Eagle's Flight Field Archery Classic Tournament – Participants
@@ -7399,7 +7422,7 @@ URL:https://global.scoutingevent.com/397-FieldArcheryTournament2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271286@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270911T130000Z
 DTEND:20270911T190000Z
 SUMMARY:Anawanna Trails Merit Badge Day – Automotive Maintence
@@ -7418,7 +7441,7 @@ URL:https://global.scoutingevent.com/527-119546
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-09-11-326a@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270911T160000Z
 DTEND:20270911T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -7433,7 +7456,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:272328@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270918T150000Z
 DTEND:20270918T190000Z
 SUMMARY:2027 USAA Archery Level I Practical – Fall Archery I
@@ -7453,7 +7476,7 @@ URL:https://global.scoutingevent.com/571-2027ArcheryPractical
 END:VEVENT
 BEGIN:VEVENT
 UID:275266@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271001T220000Z
 DTEND:20271002T210000Z
 SUMMARY:Iowa- Illinois Challenge Training Consortium – Natural Rock Clim
@@ -7472,7 +7495,7 @@ URL:https://global.scoutingevent.com/177-Challengetraining
 END:VEVENT
 BEGIN:VEVENT
 UID:272208@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271002T000000Z
 DTEND:20271003T220000Z
 SUMMARY:2027 Climbing Tower Training Level 1 & 2 – Fall Session
@@ -7491,7 +7514,7 @@ URL:https://global.scoutingevent.com/571-2027Climbing
 END:VEVENT
 BEGIN:VEVENT
 UID:274185@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271002T040000Z
 DTEND:20271003T035900Z
 SUMMARY:Outdoor Skill Series 2027 – 10/2 First Aid
@@ -7510,7 +7533,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:265816@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271008T230000Z
 DTEND:20271010T160000Z
 SUMMARY:Welding Merit Badge
@@ -7528,7 +7551,7 @@ URL:https://global.scoutingevent.com/373-116622
 END:VEVENT
 BEGIN:VEVENT
 UID:277721@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271009T150000Z
 DTEND:20271009T200000Z
 SUMMARY:Monster Mountain at Camp Terrorquitz 2027 – Tahquitz - Sat. MB C
@@ -7549,7 +7572,7 @@ URL:https://global.scoutingevent.com/032-MonsterMountain2027
 END:VEVENT
 BEGIN:VEVENT
 UID:265457@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271015T230000Z
 DTEND:20271017T150000Z
 SUMMARY:Score-O 2027
@@ -7567,7 +7590,7 @@ URL:https://global.scoutingevent.com/662-ScoreO27
 END:VEVENT
 BEGIN:VEVENT
 UID:264737@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271016T000000Z
 DTEND:20271017T150000Z
 SUMMARY:2027 WIS Camporee #8
@@ -7586,7 +7609,7 @@ URL:https://global.scoutingevent.com/571-2027WisCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:271918@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271016T133000Z
 DTEND:20271016T210000Z
 SUMMARY:2027 Horse Program – Oct 16 Veterinary Medicine/Animal Science
@@ -7605,7 +7628,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271679@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271022T210000Z
 DTEND:20271024T140000Z
 SUMMARY:2027 Cub-O-Ween hosted by the Chicora District
@@ -7623,7 +7646,7 @@ URL:https://global.scoutingevent.com/553-119763
 END:VEVENT
 BEGIN:VEVENT
 UID:271906@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271023T133000Z
 DTEND:20271023T210000Z
 SUMMARY:2027 Horse Program – Oct 23 Horsemanship Merit Badge
@@ -7641,8 +7664,30 @@ DESCRIPTION:Circle Ten Council\nhttps://global.scoutingevent.com/571-2027H
 URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
+UID:bp-ce2cc2b9e5f0@scout-event-finder
+DTSTAMP:20261113T180942Z
+DTSTART:20271023T144500Z
+DTEND:20271023T144500Z
+SUMMARY:Merit Badge Saturday (PX)
+LOCATION:Dry Creek Ranch House\, Rio Linda / Elverta Historical Society\, 
+ Rio Linda\, California
+DESCRIPTION:Greater California Council\nhttps://scoutingevent.com/047-1235
+ 86\n\nAnimal Science\, Automotive Maintenance\, Chess\, Coin Collecting\,
+  Communication\, Cooking\, Dog Care\, Emergency Preparedness\, Family Lif
+ e\, First Aid\, Geocaching\, Health Care Professions\, Personal Fitness\,
+  Personal Management\n\nEvent Details Pioneer Express District Merit Badg
+ e Saturday Where : Rio Linda / Elverta Historical Society 6852 Dry Creek 
+ Road Rio Linda\, CA 95673 When : October 23\, 2027\, 7:45 am to 4:45 pm I
+ n case of inclement weather\, information about cancelation will be sent 
+ out 48 hours in advance. Cost : $TBD per youth participant What to bring 
+ : Lunch\, snacks\, water\, chair\, merit badge supplies\, blue cards sign
+ ed by unit leader for each merit badge. This will be a Class A event\; al
+ l attendees are expecte
+URL:https://scoutingevent.com/047-123586
+END:VEVENT
+BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-10-23-519e@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271023T160000Z
 DTEND:20271023T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -7657,7 +7702,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:274186@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271106T040000Z
 DTEND:20271107T035900Z
 SUMMARY:Outdoor Skill Series 2027 – 11/6 Bushcraft
@@ -7676,7 +7721,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:262334@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271106T050000Z
 DTEND:20271107T045900Z
 SUMMARY:USA Archery LEVEL 1 – USA Archery LEVEL 1 Practical - Fall
@@ -7695,7 +7740,7 @@ URL:https://global.scoutingevent.com/662-113928
 END:VEVENT
 BEGIN:VEVENT
 UID:275747@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271106T114500Z
 DTEND:20271106T193000Z
 SUMMARY:Fall Merit Badge Day 2027 – Merit Badge Classes
@@ -7717,7 +7762,7 @@ URL:https://global.scoutingevent.com/095-121800
 END:VEVENT
 BEGIN:VEVENT
 UID:271940@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271106T133000Z
 DTEND:20271106T210000Z
 SUMMARY:2027 Horse Program – Nov 6 Veterinary Medicine/Animal Science
@@ -7736,7 +7781,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:268625@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271107T180000Z
 DTEND:20271107T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
@@ -7755,7 +7800,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:277201@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271112T230000Z
 DTEND:20271114T180000Z
 SUMMARY:Fall Encampment 2027 – Fall Encampment
@@ -7773,7 +7818,7 @@ URL:https://global.scoutingevent.com/480-122579
 END:VEVENT
 BEGIN:VEVENT
 UID:271533@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271113T140000Z
 DTEND:20271113T230000Z
 SUMMARY:2027 Law MBU
@@ -7791,7 +7836,7 @@ URL:https://global.scoutingevent.com/571-2027LawMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:271908@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271113T143000Z
 DTEND:20271113T220000Z
 SUMMARY:2027 Horse Program – Nov 13 Beyond the Badge
@@ -7810,7 +7855,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:264949@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271119T200000Z
 DTEND:20271122T160000Z
 SUMMARY:2027 Campsgiving
@@ -7832,7 +7877,7 @@ URL:https://global.scoutingevent.com/571-2027Campsgiving
 END:VEVENT
 BEGIN:VEVENT
 UID:271911@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271120T143000Z
 DTEND:20271120T220000Z
 SUMMARY:2027 Horse Program – Nov 20 Horsemanship Merit Badge
@@ -7851,7 +7896,7 @@ URL:https://global.scoutingevent.com/571-2027HorseProgram
 END:VEVENT
 BEGIN:VEVENT
 UID:271834@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271120T160000Z
 DTEND:20271121T000000Z
 SUMMARY:2027 EWU Fall Merit Badge University – Day 1 - Saturday November
@@ -7871,7 +7916,7 @@ URL:https://global.scoutingevent.com/611-EWUMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:268626@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271121T180000Z
 DTEND:20271121T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
@@ -7890,7 +7935,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:265820@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271204T000000Z
 DTEND:20271205T170000Z
 SUMMARY:Metal Working Merit Badge
@@ -7907,7 +7952,7 @@ URL:https://global.scoutingevent.com/373-mwmbo27
 END:VEVENT
 BEGIN:VEVENT
 UID:274187@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271204T050000Z
 DTEND:20271205T045900Z
 SUMMARY:Outdoor Skill Series 2027 – 12/4: Fire & Steel
@@ -7926,7 +7971,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:268627@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271205T180000Z
 DTEND:20271205T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -7945,7 +7990,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:277414@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271212T160000Z
 DTEND:20271212T200000Z
 SUMMARY:Indoor Rifle Merit Badge Day
@@ -7963,7 +8008,7 @@ URL:https://global.scoutingevent.com/129-IndoorRifleDec2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271835@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271218T160000Z
 DTEND:20271218T230000Z
 SUMMARY:2027 EWU Fall Merit Badge University – Day 2 - Saturday December
@@ -7983,7 +8028,7 @@ URL:https://global.scoutingevent.com/611-EWUMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:257857@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271227T180000Z
 DTEND:20271231T153000Z
 SUMMARY:2027 Scouts BSA Winter Camp
@@ -8001,7 +8046,7 @@ URL:https://global.scoutingevent.com/773-WC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:268628@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280108T133000Z
 DTEND:20280109T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
@@ -8020,7 +8065,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2028
 END:VEVENT
 BEGIN:VEVENT
 UID:277293@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280421T120000Z
 DTEND:20280423T220000Z
 SUMMARY:Wood Badge 5-653-28 – Wood Badge Weekends April 21-23 and May 6-
@@ -8040,7 +8085,7 @@ URL:https://global.scoutingevent.com/653-WoodBadge2028
 END:VEVENT
 BEGIN:VEVENT
 UID:277294@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280506T120000Z
 DTEND:20280507T220000Z
 SUMMARY:Wood Badge 5-653-28 – Wood Badge Weekend 2
@@ -8059,7 +8104,7 @@ URL:https://global.scoutingevent.com/653-WoodBadge2028
 END:VEVENT
 BEGIN:VEVENT
 UID:261854@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280512T040000Z
 DTEND:20280515T035900Z
 SUMMARY:Whitewater Basics - Canoe Handling Course
@@ -8077,7 +8122,7 @@ URL:https://global.scoutingevent.com/421-114434
 END:VEVENT
 BEGIN:VEVENT
 UID:255144@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280610T113000Z
 DTEND:20280610T160000Z
 SUMMARY:Ranger's Fishing Derby 2028 – Fishing Derby
@@ -8095,7 +8140,7 @@ URL:https://global.scoutingevent.com/368-111121
 END:VEVENT
 BEGIN:VEVENT
 UID:255157@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280702T170000Z
 DTEND:20280708T140000Z
 SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 1
@@ -8113,7 +8158,7 @@ URL:https://global.scoutingevent.com/368-111125
 END:VEVENT
 BEGIN:VEVENT
 UID:277994@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280702T210000Z
 DTEND:20280705T160000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Eagle Camp Session 1
@@ -8131,7 +8176,7 @@ URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 BEGIN:VEVENT
 UID:277995@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280705T210000Z
 DTEND:20280708T160000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Eagle Camp Session 2
@@ -8149,7 +8194,7 @@ URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 BEGIN:VEVENT
 UID:255156@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280709T170000Z
 DTEND:20280715T140000Z
 SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 2
@@ -8167,7 +8212,7 @@ URL:https://global.scoutingevent.com/368-111125
 END:VEVENT
 BEGIN:VEVENT
 UID:277996@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280709T183000Z
 DTEND:20280715T163000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 1
@@ -8185,7 +8230,7 @@ URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 BEGIN:VEVENT
 UID:277990@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280709T190000Z
 DTEND:20280715T173000Z
 SUMMARY:Camp Baldwin Summer Camp 2028 – Session 1
@@ -8203,7 +8248,7 @@ URL:https://global.scoutingevent.com/492-123000
 END:VEVENT
 BEGIN:VEVENT
 UID:255158@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280716T170000Z
 DTEND:20280722T140000Z
 SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 3
@@ -8221,7 +8266,7 @@ URL:https://global.scoutingevent.com/368-111125
 END:VEVENT
 BEGIN:VEVENT
 UID:277997@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280716T183000Z
 DTEND:20280722T163000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 2
@@ -8239,7 +8284,7 @@ URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 BEGIN:VEVENT
 UID:277991@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280716T190000Z
 DTEND:20280722T173000Z
 SUMMARY:Camp Baldwin Summer Camp 2028 – Session 2
@@ -8257,7 +8302,7 @@ URL:https://global.scoutingevent.com/492-123000
 END:VEVENT
 BEGIN:VEVENT
 UID:255159@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280723T170000Z
 DTEND:20280729T140000Z
 SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 4
@@ -8275,7 +8320,7 @@ URL:https://global.scoutingevent.com/368-111125
 END:VEVENT
 BEGIN:VEVENT
 UID:277998@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280723T183000Z
 DTEND:20280729T163000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 3
@@ -8293,7 +8338,7 @@ URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 BEGIN:VEVENT
 UID:277992@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280723T190000Z
 DTEND:20280729T173000Z
 SUMMARY:Camp Baldwin Summer Camp 2028 – Session 3
@@ -8311,7 +8356,7 @@ URL:https://global.scoutingevent.com/492-123000
 END:VEVENT
 BEGIN:VEVENT
 UID:255160@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280730T050000Z
 DTEND:20280805T150000Z
 SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 5
@@ -8329,7 +8374,7 @@ URL:https://global.scoutingevent.com/368-111125
 END:VEVENT
 BEGIN:VEVENT
 UID:277999@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280730T183000Z
 DTEND:20280805T163000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Scouts BSA Session 4
@@ -8347,7 +8392,7 @@ URL:https://global.scoutingevent.com/492-123001
 END:VEVENT
 BEGIN:VEVENT
 UID:277993@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20280807T180000Z
 DTEND:20280811T163000Z
 SUMMARY:Camp Pioneer Summer Camp 2028 – Cascade Chronicles - Forsaken Ki

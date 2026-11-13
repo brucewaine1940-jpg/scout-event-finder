@@ -6,27 +6,8 @@ X-WR-CALNAME:Scout Events – Online
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:275546@scout-event-finder
-DTSTAMP:20261112T184625Z
-DTSTART:20261113T010000Z
-DTEND:20261113T020000Z
-SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
-  Scoutbook/Scoutbook Plus for Merit Badge Counselors
-LOCATION:Virtual Classrooms\, Ft Snelling\, Minnesota
-DESCRIPTION:Northern Star Scouting\nhttps://global.scoutingevent.com/250-l
- ivewebinarsOct2026Feb2027\n\nProgramming\, Merit Badge Counselor\n\nABOUT
-  THE Education Outpost LIVE webinars\nAs part of our commitment to reach 
- the widest possible audience\, Northern Star Scouting offers a series of 
- Instructor-led Zoom/TEAMS classes for Adult Leaders online. Webinars wil
- l take place on a weekday evening starting at 7pm and will last around an
-  hour\, unless a different duration is specified. They will include a pre
- sentation\, followed by Q&A time.\nThere is no cost for these sessions.\n
- We will be updating the class listings regularly as we confirm n
-URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
-END:VEVENT
-BEGIN:VEVENT
 UID:276864@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261114T140000Z
 DTEND:20261114T170000Z
 SUMMARY:Virtual Merit Badge College | Greater Finger Lakes Council – Mor
@@ -48,7 +29,7 @@ URL:https://global.scoutingevent.com/397-vmbc
 END:VEVENT
 BEGIN:VEVENT
 UID:277176@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261115T180000Z
 DTEND:20261115T220000Z
 SUMMARY:Online Merit Badge College – Mammal Study - November 15 - 1:00 p
@@ -67,7 +48,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:275574@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261118T010000Z
 DTEND:20261118T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -86,7 +67,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1980534099807@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261121T190000Z
 DTEND:20261121T220000Z
 SUMMARY:Aviation Merit Badge — Live Online with Pearl Harbor Aviation Mu
@@ -102,7 +83,7 @@ URL:https://www.eventbrite.com/e/aviation-merit-badge-live-online-with-pea
 END:VEVENT
 BEGIN:VEVENT
 UID:277213@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261202T010000Z
 DTEND:20261202T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -121,7 +102,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277214@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261203T010000Z
 DTEND:20261203T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -140,7 +121,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275543@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261204T010000Z
 DTEND:20261204T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -159,7 +140,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-f15c4b7b52ad@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261204T030000Z
 DTEND:20261204T040000Z
 SUMMARY:LEB Meeting
@@ -176,8 +157,26 @@ DESCRIPTION:Wiatava Lodge 13 (Order of the Arrow\, Orange County)\nhttps:/
 URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
+UID:278966@scout-event-finder
+DTSTAMP:20261113T180942Z
+DTSTART:20261209T230000Z
+DTEND:20261210T010000Z
+SUMMARY:Piedmont District Life to Eagle Seminar - Virtual
+LOCATION:Via Zoom\, Bethesda\, Maryland
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-123551\n\n\n\nNo Registration Needed\nNo Registration Needed - VIRT
+ UAL EVENT\nNo Registration Needed - VIRTUAL EVENT\nLIFE TO EAGLE ORIENTAT
+ ION FOR SCOUTS AND FAMILIES\, UNIT LEADERS\, EAGLE ADVISERS\, AND COACHES
+ \nThis seminar is focused on Life Scouts or advanced Star Scouts who want
+  to pursue the Eagle Rank. It also is useful for Eagle advisers\, coaches
+  or unit leaders who haven't attended a seminar in the last two years. Pa
+ rents of Scouts working on the Eagle Rank or other adults interested in S
+ couting can also 
+URL:https://global.scoutingevent.com/082-123551
+END:VEVENT
+BEGIN:VEVENT
 UID:277215@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261211T010000Z
 DTEND:20261211T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -196,7 +195,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9d44ccc12ef1@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20261212T030000Z
 DTEND:20261212T040000Z
 SUMMARY:Trail to Eagle
@@ -208,7 +207,7 @@ URL:https://www.scoutingamericavc.org/content/130128/Trail-to-Eagle
 END:VEVENT
 BEGIN:VEVENT
 UID:278519@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270106T010000Z
 DTEND:20270106T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -227,7 +226,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-67c99468533c@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270108T030000Z
 DTEND:20270108T040000Z
 SUMMARY:LEB Meeting
@@ -245,7 +244,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:258716@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270109T150000Z
 DTEND:20270109T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training First Day Instructio
@@ -264,7 +263,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:272010@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270110T010000Z
 DTEND:20270110T023000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – January
@@ -283,7 +282,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:258717@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270110T150000Z
 DTEND:20270110T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Second Day Instructi
@@ -302,7 +301,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:272011@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270111T010000Z
 DTEND:20270111T023000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – January
@@ -321,7 +320,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993715229922@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270112T233000Z
 DTEND:20270113T013000Z
 SUMMARY:Burpee Museum BSA: Weather - Virtual
@@ -334,7 +333,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-weather-virtual-tickets
 END:VEVENT
 BEGIN:VEVENT
 UID:275544@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270113T010000Z
 DTEND:20270113T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -353,7 +352,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:x-9f8a3029933d@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270113T030000Z
 DTEND:20270113T040000Z
 SUMMARY:Merit Badge Counselor Training
@@ -365,7 +364,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:258719@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270123T150000Z
 DTEND:20270123T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Fourth Day Instructi
@@ -384,7 +383,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:258718@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270124T150000Z
 DTEND:20270124T210000Z
 SUMMARY:Seabadge Virtual Course – Seabadge Training Third Day Instructio
@@ -403,7 +402,7 @@ URL:https://global.scoutingevent.com/651-SeabadgeVirtualCourse
 END:VEVENT
 BEGIN:VEVENT
 UID:276222@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270203T000000Z
 DTEND:20270203T020000Z
 SUMMARY:Angling Educator - Online Class - Must attend both nights – Part
@@ -423,7 +422,7 @@ URL:https://global.scoutingevent.com/303-Feb27AnglingEducator
 END:VEVENT
 BEGIN:VEVENT
 UID:276235@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270205T000000Z
 DTEND:20270205T020000Z
 SUMMARY:Angling Educator - Online Class - Must attend both nights – Part
@@ -443,7 +442,7 @@ URL:https://global.scoutingevent.com/303-Feb27AnglingEducator
 END:VEVENT
 BEGIN:VEVENT
 UID:x-a4d7fa916c73@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270205T030000Z
 DTEND:20270205T040000Z
 SUMMARY:LEB Meeting
@@ -461,7 +460,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:275545@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270212T010000Z
 DTEND:20270212T020000Z
 SUMMARY:Education Outpost Live Webinars - October 2026 - February 2026 –
@@ -480,7 +479,7 @@ URL:https://global.scoutingevent.com/250-livewebinarsOct2026Feb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992520625829@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270223T233000Z
 DTEND:20270224T013000Z
 SUMMARY:Burpee Museum BSA: Soil & Water Conservation Merit Badge - Virtual
@@ -494,7 +493,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-soil-water-conservation
 END:VEVENT
 BEGIN:VEVENT
 UID:x-5fe96b99aaa2@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270305T030000Z
 DTEND:20270305T040000Z
 SUMMARY:LEB Meeting
@@ -512,7 +511,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:275637@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270306T170000Z
 DTEND:20270307T230000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 1
@@ -530,7 +529,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:275638@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270313T170000Z
 DTEND:20270314T220000Z
 SUMMARY:Seabadge Leadership Course (SB-93-CA-2027) – Sea Badge Weekend 2
@@ -548,7 +547,7 @@ URL:https://global.scoutingevent.com/055-SeaB27
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993715810659@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270316T223000Z
 DTEND:20270317T003000Z
 SUMMARY:Burpee Museum BSA: Forestry - Virtual
@@ -561,7 +560,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-forestry-virtual-ticket
 END:VEVENT
 BEGIN:VEVENT
 UID:x-20a041289b68@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270402T020000Z
 DTEND:20270402T030000Z
 SUMMARY:LEB Meeting
@@ -579,7 +578,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:272012@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270411T000000Z
 DTEND:20270411T013000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – April 1
@@ -598,7 +597,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:272013@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270412T000000Z
 DTEND:20270412T013000Z
 SUMMARY:National Virtual Sea Scout Academy [delivered by Zoom] – April 1
@@ -617,7 +616,7 @@ URL:https://global.scoutingevent.com/564-119838
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ac7ee65fad5f@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270414T020000Z
 DTEND:20270414T030000Z
 SUMMARY:Merit Badge Counselor Training
@@ -629,7 +628,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-ad4c06148e03@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270507T020000Z
 DTEND:20270507T030000Z
 SUMMARY:LEB Meeting
@@ -647,7 +646,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-19f8eb278008@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270604T020000Z
 DTEND:20270604T030000Z
 SUMMARY:LEB Meeting
@@ -665,7 +664,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-68bbea47387c@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270702T020000Z
 DTEND:20270702T030000Z
 SUMMARY:LEB Meeting
@@ -683,7 +682,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6c492747ddea@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270714T020000Z
 DTEND:20270714T030000Z
 SUMMARY:Merit Badge Counselor Training
@@ -695,7 +694,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-3f5acfbc8a80@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270806T020000Z
 DTEND:20270806T030000Z
 SUMMARY:LEB Meeting
@@ -713,7 +712,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-4a2c3b17c29b@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20270903T020000Z
 DTEND:20270903T030000Z
 SUMMARY:LEB Meeting
@@ -731,7 +730,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-6097ad29146d@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271008T020000Z
 DTEND:20271008T030000Z
 SUMMARY:LEB Meeting
@@ -749,7 +748,7 @@ URL:https://cpp.zoom.us/j/83676042424
 END:VEVENT
 BEGIN:VEVENT
 UID:x-d1949dabb41c@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271013T020000Z
 DTEND:20271013T030000Z
 SUMMARY:Merit Badge Counselor Training
@@ -761,7 +760,7 @@ URL:https://www.longbeachbsa.org/calendar/
 END:VEVENT
 BEGIN:VEVENT
 UID:x-cee4f79501eb@scout-event-finder
-DTSTAMP:20261112T184625Z
+DTSTAMP:20261113T180942Z
 DTSTART:20271105T020000Z
 DTEND:20271105T030000Z
 SUMMARY:LEB Meeting
