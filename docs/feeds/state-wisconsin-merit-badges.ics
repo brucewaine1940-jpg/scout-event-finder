@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:272471@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20261114T150000Z
 DTEND:20261114T220000Z
 SUMMARY:Adventure Saturday November 2026
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/620-NovemberAdventure
 END:VEVENT
 BEGIN:VEVENT
 UID:249236@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20261205T143000Z
 DTEND:20261205T101500Z
 SUMMARY:Northern Lights Merit Badge Academy - Oregon
@@ -48,7 +48,7 @@ URL:https://global.scoutingevent.com/620-NorthernLightsAcademy_Oregon_2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276785@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20261205T150000Z
 DTEND:20261205T181500Z
 SUMMARY:Quiver Fest – Cub Scouts 10:45-12:15 PM
@@ -66,7 +66,7 @@ URL:https://global.scoutingevent.com/129-QuiverFestDec2026
 END:VEVENT
 BEGIN:VEVENT
 UID:270370@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20261213T160000Z
 DTEND:20261213T200000Z
 SUMMARY:Indoor Rifle Merit Badge Day
@@ -85,7 +85,7 @@ URL:https://global.scoutingevent.com/129-IndoorRifleMB2026Dec
 END:VEVENT
 BEGIN:VEVENT
 UID:276795@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20270220T150000Z
 DTEND:20270220T181500Z
 SUMMARY:Quiver Fest – Cub Scouts 10:45-12:15 PM
@@ -103,7 +103,7 @@ URL:https://global.scoutingevent.com/129-QuiverFestFeb2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270365@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20270307T160000Z
 DTEND:20270307T200000Z
 SUMMARY:Indoor Rifle Merit Badge Day
@@ -121,7 +121,7 @@ URL:https://global.scoutingevent.com/129-IndoorRifleMB2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275371@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20270313T150000Z
 DTEND:20270313T180000Z
 SUMMARY:Railroad Merit Badge Day – March
@@ -139,7 +139,7 @@ URL:https://global.scoutingevent.com/620-Railroad
 END:VEVENT
 BEGIN:VEVENT
 UID:274361@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20270402T170000Z
 DTEND:20270403T020000Z
 SUMMARY:Midwest Tradefest – Friday
@@ -158,7 +158,7 @@ URL:https://global.scoutingevent.com/620-tradefest
 END:VEVENT
 BEGIN:VEVENT
 UID:274362@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Midwest Tradefest – Saturday
@@ -177,7 +177,7 @@ URL:https://global.scoutingevent.com/620-tradefest
 END:VEVENT
 BEGIN:VEVENT
 UID:265536@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20270430T213000Z
 DTEND:20270502T150000Z
 SUMMARY:Bear Paw Spring Camporee 2027
@@ -194,8 +194,62 @@ DESCRIPTION:Bay-Lakes Council\nhttps://global.scoutingevent.com/635-bearpa
 URL:https://global.scoutingevent.com/635-bearpawspringcamporee2027
 END:VEVENT
 BEGIN:VEVENT
+UID:275403@scout-event-finder
+DTSTAMP:20261114T170356Z
+DTSTART:20270514T230000Z
+DTEND:20270516T190000Z
+SUMMARY:2027 Whitewater Weekends – Session 1
+LOCATION:Gardner Dam Adventure Base\, White Lake\, Wisconsin
+DESCRIPTION:Bay-Lakes Council\nhttps://global.scoutingevent.com/635-121665
+ \n\nKayaking\, Whitewater\, Safeguarding Youth / YPT\n\nExperience Whitew
+ ater in a Weekend!\nJoin us for 1\, 2\, or all 3 Whitewater Weekends and 
+ experience some of the best Whitewater in Wisconsin at Gardner Dam Advent
+ ure Base!\nOpen to all Scouts BSA and Venturing participants over 13 year
+ s old or 12 and accompanied by an adult.  This introduction class is des
+ ignated for anyone who has always wanted to try whitewater kayaking. The 
+ class begins indoors with basic safety instructions and then moves to the
+  water.  A team of certified instructors will assi
+URL:https://global.scoutingevent.com/635-121665
+END:VEVENT
+BEGIN:VEVENT
+UID:275406@scout-event-finder
+DTSTAMP:20261114T170356Z
+DTSTART:20270807T230000Z
+DTEND:20270808T190000Z
+SUMMARY:2027 Whitewater Weekends – Session 2
+LOCATION:Gardner Dam Adventure Base\, White Lake\, Wisconsin
+DESCRIPTION:Bay-Lakes Council\nhttps://global.scoutingevent.com/635-121665
+ \n\nKayaking\, Whitewater\, Safeguarding Youth / YPT\n\nExperience Whitew
+ ater in a Weekend!\nJoin us for 1\, 2\, or all 3 Whitewater Weekends and 
+ experience some of the best Whitewater in Wisconsin at Gardner Dam Advent
+ ure Base!\nOpen to all Scouts BSA and Venturing participants over 13 year
+ s old or 12 and accompanied by an adult.  This introduction class is des
+ ignated for anyone who has always wanted to try whitewater kayaking. The 
+ class begins indoors with basic safety instructions and then moves to the
+  water.  A team of certified instructors will assi
+URL:https://global.scoutingevent.com/635-121665
+END:VEVENT
+BEGIN:VEVENT
+UID:275405@scout-event-finder
+DTSTAMP:20261114T170356Z
+DTSTART:20270917T230000Z
+DTEND:20270919T190000Z
+SUMMARY:2027 Whitewater Weekends – Session 3
+LOCATION:Gardner Dam Adventure Base\, White Lake\, Wisconsin
+DESCRIPTION:Bay-Lakes Council\nhttps://global.scoutingevent.com/635-121665
+ \n\nKayaking\, Whitewater\, Safeguarding Youth / YPT\n\nExperience Whitew
+ ater in a Weekend!\nJoin us for 1\, 2\, or all 3 Whitewater Weekends and 
+ experience some of the best Whitewater in Wisconsin at Gardner Dam Advent
+ ure Base!\nOpen to all Scouts BSA and Venturing participants over 13 year
+ s old or 12 and accompanied by an adult.  This introduction class is des
+ ignated for anyone who has always wanted to try whitewater kayaking. The 
+ class begins indoors with basic safety instructions and then moves to the
+  water.  A team of certified instructors will assi
+URL:https://global.scoutingevent.com/635-121665
+END:VEVENT
+BEGIN:VEVENT
 UID:277414@scout-event-finder
-DTSTAMP:20261113T180942Z
+DTSTAMP:20261114T170356Z
 DTSTART:20271212T160000Z
 DTEND:20271212T200000Z
 SUMMARY:Indoor Rifle Merit Badge Day

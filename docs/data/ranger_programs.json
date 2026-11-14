@@ -1,33 +1,6 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "programs": [
-  {
-   "park": "Cabrillo National Monument",
-   "parkCode": "cabr",
-   "title": "The Story of Cabrillo National Monument",
-   "where": "",
-   "time": "10:00 AM - 10:30 AM",
-   "nextDates": [
-    "2026-11-13",
-    "2026-11-20",
-    "2026-11-27",
-    "2026-12-04",
-    "2026-12-11",
-    "2026-12-18",
-    "2026-12-25",
-    "2027-01-01",
-    "2027-01-08",
-    "2027-01-15",
-    "2027-01-22",
-    "2027-01-29"
-   ],
-   "count": 164,
-   "free": true,
-   "lat": null,
-   "lng": null,
-   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
-   "about": "Behind every landmark at Cabrillo National Monument is a story. Join a ranger for a 30-minute guided walk introducing the people, places, and events that shaped Cabrillo National Monument. From Juan Rodríguez Cabrillo's 1542 expedition and the history of the Old Point Loma Lighthouse to the creation and growth of the monument itself, discover how this remarkable landscape became the park visitors "
-  },
   {
    "park": "Cabrillo National Monument",
    "parkCode": "cabr",
@@ -90,6 +63,33 @@
   {
    "park": "Cabrillo National Monument",
    "parkCode": "cabr",
+   "title": "The Story of Cabrillo National Monument",
+   "where": "",
+   "time": "10:00 AM - 10:30 AM",
+   "nextDates": [
+    "2026-11-20",
+    "2026-11-27",
+    "2026-12-04",
+    "2026-12-11",
+    "2026-12-18",
+    "2026-12-25",
+    "2027-01-01",
+    "2027-01-08",
+    "2027-01-15",
+    "2027-01-22",
+    "2027-01-29",
+    "2027-02-05"
+   ],
+   "count": 163,
+   "free": true,
+   "lat": null,
+   "lng": null,
+   "url": "https://www.nps.gov/cabr/planyourvisit/calendar.htm",
+   "about": "Behind every landmark at Cabrillo National Monument is a story. Join a ranger for a 30-minute guided walk introducing the people, places, and events that shaped Cabrillo National Monument. From Juan Rodríguez Cabrillo's 1542 expedition and the history of the Old Point Loma Lighthouse to the creation and growth of the monument itself, discover how this remarkable landscape became the park visitors "
+  },
+  {
+   "park": "Cabrillo National Monument",
+   "parkCode": "cabr",
    "title": "Guided Bird Watching",
    "where": "Tidepool parking lot one of the coastal area.",
    "time": "09:30 AM - 10:30 AM",
@@ -137,7 +137,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-13",
     "2026-11-14",
     "2026-11-15",
     "2026-11-16",
@@ -148,9 +147,10 @@
     "2026-11-21",
     "2026-11-22",
     "2026-11-23",
-    "2026-11-24"
+    "2026-11-24",
+    "2026-11-25"
    ],
-   "count": 1337,
+   "count": 1336,
    "free": true,
    "lat": null,
    "lng": null,
@@ -164,22 +164,6 @@
    "where": "Furnace Creek Visitor Center back parking lot - park in the main lot in front of the visitor center and follow the red lights to the viewing location",
    "time": "07:30 PM - 08:15 PM",
    "nextDates": [
-    "2026-11-13"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.462711,
-   "lng": -116.866851,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Death Valley National Park has some of the darkest night skies in the country. Join a ranger to explore the night sky and learn about the cosmos. You may want to bring a flashlight with a red light to protect your night vision, a chair and/or binoculars. Plan to arrive early as the program is a short walk from the parking area."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Night Sky Ranger Talk",
-   "where": "Furnace Creek Visitor Center back parking lot - park in the main lot in front of the visitor center and follow the red lights to the viewing location",
-   "time": "07:30 PM - 08:15 PM",
-   "nextDates": [
     "2026-11-14"
    ],
    "count": 1,
@@ -284,33 +268,6 @@
    "lng": -116.873346,
    "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
    "about": "Learn about fascinating mining history in Death Valley. 20 mule team wagons, borax, fortunes and more! Easy 1/3 mile walk on a paved path."
-  },
-  {
-   "park": "Joshua Tree National Park",
-   "parkCode": "jotr",
-   "title": "Astronomy Program",
-   "where": "Accessibility Information:\nThe Sky’s The Limit Campus includes both paved and gravel walkways. Bleacher seating for night‑sky presentations is located on a gravel surface that ranges from 1 to 3 inches deep. A paved walkway connects the restrooms to the telescope area and continues to within about 30 feet of the bleachers.\nThe constellation program takes place in the Orrery, a circular, rock‑lined space within the campus. The pathway to the Orrery and the standing area inside are both gravel.\nIf you need seating accommodations during the constellation program, please let a staff member know. Assisted‑listening devices are available on request for visitors who are deaf or hard of hearing.\nADA parking is available on request next to the paved walkway leading through the telescope area.\nIf you have questions or want to discuss specific accommodations, contact jotr_info@nps.gov",
-   "time": "06:00 PM - 08:00 PM",
-   "nextDates": [
-    "2026-11-13",
-    "2026-11-18",
-    "2026-11-20",
-    "2026-11-25",
-    "2026-11-27",
-    "2026-12-09",
-    "2026-12-11",
-    "2026-12-16",
-    "2026-12-18",
-    "2026-12-23",
-    "2026-12-30",
-    "2027-01-15"
-   ],
-   "count": 28,
-   "free": false,
-   "lat": 34.080171,
-   "lng": -116.036278,
-   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
-   "about": "RESERVATIONS REQUIRED Join Joshua Tree National Park Astronomy Rangers to learn about star clusters, planets, nebulae, and experience a naturally dark night sky! Our Wednesday programs will feature an astronomy talk and a constellation tour. There will be no telescopes on Wednesday nights. Our Friday programs will feature telescopes in addition to an astronomy talk and constellation tour. Only Fri"
   },
   {
    "park": "Joshua Tree National Park",
@@ -358,6 +315,33 @@
    "lng": -116.162181,
    "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
    "about": "Join us on a ranger-led tour and learn about the cultural history of Keys Ranch. Topics include Native American history, mining, ranching, homesteading, the Keys family, and the site’s transition into a protected historical site. Joshua Tree National Park acknowledges the 15 associated tribal communities as the original stewards of the land on which Joshua Tree National Park now sits. We are grate"
+  },
+  {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Astronomy Program",
+   "where": "Accessibility Information:\nThe Sky’s The Limit Campus includes both paved and gravel walkways. Bleacher seating for night‑sky presentations is located on a gravel surface that ranges from 1 to 3 inches deep. A paved walkway connects the restrooms to the telescope area and continues to within about 30 feet of the bleachers.\nThe constellation program takes place in the Orrery, a circular, rock‑lined space within the campus. The pathway to the Orrery and the standing area inside are both gravel.\nIf you need seating accommodations during the constellation program, please let a staff member know. Assisted‑listening devices are available on request for visitors who are deaf or hard of hearing.\nADA parking is available on request next to the paved walkway leading through the telescope area.\nIf you have questions or want to discuss specific accommodations, contact jotr_info@nps.gov",
+   "time": "06:00 PM - 08:00 PM",
+   "nextDates": [
+    "2026-11-18",
+    "2026-11-20",
+    "2026-11-25",
+    "2026-11-27",
+    "2026-12-09",
+    "2026-12-11",
+    "2026-12-16",
+    "2026-12-18",
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-15",
+    "2027-01-20"
+   ],
+   "count": 27,
+   "free": false,
+   "lat": 34.080171,
+   "lng": -116.036278,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "RESERVATIONS REQUIRED Join Joshua Tree National Park Astronomy Rangers to learn about star clusters, planets, nebulae, and experience a naturally dark night sky! Our Wednesday programs will feature an astronomy talk and a constellation tour. There will be no telescopes on Wednesday nights. Our Friday programs will feature telescopes in addition to an astronomy talk and constellation tour. Only Fri"
   },
   {
    "park": "Pinnacles National Park",
@@ -420,7 +404,6 @@
    "where": "Meet at the Grant Tree Trailhead",
    "time": "11:00 AM - 12:00 PM",
    "nextDates": [
-    "2026-11-13",
     "2026-11-14",
     "2026-11-18",
     "2026-11-20",
@@ -429,7 +412,7 @@
     "2026-11-27",
     "2026-11-28"
    ],
-   "count": 8,
+   "count": 7,
    "free": true,
    "lat": 36.747062,
    "lng": -118.973092,
@@ -439,38 +422,10 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Forest Feature (Giant Forest Area)",
-   "where": "Meet in front of the Giant Forest Museum",
-   "time": "11:00 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-13",
-    "2026-11-16",
-    "2026-11-17",
-    "2026-11-18",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-25",
-    "2026-11-26",
-    "2026-11-27",
-    "2026-11-30"
-   ],
-   "count": 12,
-   "free": true,
-   "lat": 36.564688,
-   "lng": -118.772683,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Ranger's Choice Talk (Grant Grove Area)",
    "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
    "time": "02:00 PM - 02:30 PM",
    "nextDates": [
-    "2026-11-13",
     "2026-11-14",
     "2026-11-15",
     "2026-11-16",
@@ -481,9 +436,10 @@
     "2026-11-22",
     "2026-11-23",
     "2026-11-24",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
    ],
-   "count": 16,
+   "count": 15,
    "free": true,
    "lat": 36.74023,
    "lng": -118.962665,
@@ -570,6 +526,32 @@
    "lng": -118.971258,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Forest Feature (Giant Forest Area)",
+   "where": "Meet in front of the Giant Forest Museum",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-30"
+   ],
+   "count": 11,
+   "free": true,
+   "lat": 36.564688,
+   "lng": -118.772683,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
   }
  ]
 }
