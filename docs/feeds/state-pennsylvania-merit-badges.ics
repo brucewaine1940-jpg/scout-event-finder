@@ -6,28 +6,8 @@ X-WR-CALNAME:Scout Events – Pennsylvania Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:271970@scout-event-finder
-DTSTAMP:20261114T170356Z
-DTSTART:20261114T140000Z
-DTEND:20261114T210000Z
-SUMMARY:DaVinci Science Center Merit Badge Days – Artificial Intelligenc
- e Merit Badge
-LOCATION:DaVinci Science Center at PPL Pavlion\, Allentown\, Pennsylvania
-DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-DaV
- inciMBdays\n\nComposite Materials\, Digital Technology\, Geology\, Oceano
- graphy\, Merit Badge Counselor\n\nRegistration information coming soon.\n
- Merit Badge Days\nIn partnership with Minsi Trails Council Da Vinci Cente
- r is presenting the following exciting merit badge opportunities!\nOctobe
- r 17\, 2026: Digital Technology Merit Badge\nLearn about digital technolo
- gy—past\, present and future! We’ll look at intellectual property\, t
- he 1’s and 0’s of how digital technology works\, and use coding to cr
- eate programs that are useful...and fun!\nScouts will complete Requiremen
- ts 3\, 4 \, 5\, 6(a) (c) and (f)\, 7\, 8 (a) 
-URL:https://global.scoutingevent.com/502-DaVinciMBdays
-END:VEVENT
-BEGIN:VEVENT
 UID:278384@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261123T140000Z
 DTEND:20261123T210000Z
 SUMMARY:Merit Badge Day - Citizenship in the World – Citizenship in the 
@@ -46,7 +26,7 @@ URL:https://global.scoutingevent.com/539-citwo
 END:VEVENT
 BEGIN:VEVENT
 UID:277411@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261125T140000Z
 DTEND:20261125T210000Z
 SUMMARY:Merit Badge Day - Weather – Weather Merit Badge
@@ -64,7 +44,7 @@ URL:https://global.scoutingevent.com/539-122678
 END:VEVENT
 BEGIN:VEVENT
 UID:248943@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261205T131500Z
 DTEND:20261205T220000Z
 SUMMARY:First Aid thru First Class Event – Register Here
@@ -83,7 +63,7 @@ URL:https://global.scoutingevent.com/525-108377
 END:VEVENT
 BEGIN:VEVENT
 UID:271972@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261205T140000Z
 DTEND:20261205T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Oceanography Merit Bad
@@ -103,7 +83,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:277415@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261229T140000Z
 DTEND:20261229T210000Z
 SUMMARY:Merit Badge Day - Movie Making – Movie Making Merit Badge
@@ -121,7 +101,7 @@ URL:https://global.scoutingevent.com/539-122682
 END:VEVENT
 BEGIN:VEVENT
 UID:276833@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270215T140000Z
 DTEND:20270215T210000Z
 SUMMARY:Merit Badge Day - Engineering – Engineering Merit Badge
@@ -139,7 +119,7 @@ URL:https://global.scoutingevent.com/539-122362
 END:VEVENT
 BEGIN:VEVENT
 UID:271973@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270220T140000Z
 DTEND:20270220T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Composite Materials Me
@@ -159,7 +139,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:276589@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270402T220000Z
 DTEND:20270404T210000Z
 SUMMARY:Orienteering Merit Badge Weekend
@@ -177,7 +157,7 @@ URL:https://global.scoutingevent.com/528-122215
 END:VEVENT
 BEGIN:VEVENT
 UID:270867@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270712T130000Z
 DTEND:20270716T200000Z
 SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 1: 
@@ -196,7 +176,7 @@ URL:https://global.scoutingevent.com/525-2027MADC
 END:VEVENT
 BEGIN:VEVENT
 UID:276727@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270718T160000Z
 DTEND:20270722T160000Z
 SUMMARY:Specialty Merit Badge Camp 2027 – Specialty Merit Badge Camp
@@ -216,7 +196,7 @@ URL:https://global.scoutingevent.com/497-122316
 END:VEVENT
 BEGIN:VEVENT
 UID:270868@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270719T130000Z
 DTEND:20270723T200000Z
 SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 2: 
@@ -235,7 +215,7 @@ URL:https://global.scoutingevent.com/525-2027MADC
 END:VEVENT
 BEGIN:VEVENT
 UID:275687@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270726T123000Z
 DTEND:20270730T193000Z
 SUMMARY:2027 Musser Adventure Day Camp – STEM Adventure Day Camp: July
@@ -253,7 +233,7 @@ URL:https://global.scoutingevent.com/525-2027MADC
 END:VEVENT
 BEGIN:VEVENT
 UID:270995@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270802T120000Z
 DTEND:20270806T210000Z
 SUMMARY:2027 Merit Badge Day Camp
@@ -275,7 +255,7 @@ URL:https://global.scoutingevent.com/525-119342
 END:VEVENT
 BEGIN:VEVENT
 UID:271286@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270911T130000Z
 DTEND:20270911T190000Z
 SUMMARY:Anawanna Trails Merit Badge Day – Automotive Maintence

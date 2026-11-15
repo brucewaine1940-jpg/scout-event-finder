@@ -6,26 +6,8 @@ X-WR-CALNAME:Scout Events – Ohio Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:241084@scout-event-finder
-DTSTAMP:20261114T170356Z
-DTSTART:20261114T133000Z
-DTEND:20261114T220000Z
-SUMMARY:Skilled Trades Day – November 2026 Skilled Trades Day
-LOCATION:Camp Friedlander\, Loveland\, Ohio
-DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-skille
- dtradesday\n\nElectricity\, Home Repairs\, Painting\, Robotics\, Welding\
- n\nSkilled Trades Merit Badge Workshops and Career Connections\nWe are th
- rilled to announce that our brand new\, state-of-the-art Dever Family Fou
- ndation Skilled Trades Education Center at Camp Friedlander is open! This
-  center provides a safe\, effective\, and unique venue to introduce\, edu
- cate\, and instruct Scouts in skilled trades and the fulfilling careers t
- hey offer.\nJoin us for a fun and hands-on workshop dedicated to explorin
- g the world of trade skills. This event will provide an opportunity to l
-URL:https://global.scoutingevent.com/438-skilledtradesday
-END:VEVENT
-BEGIN:VEVENT
 UID:241085@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261212T133000Z
 DTEND:20261212T220000Z
 SUMMARY:Skilled Trades Day – December 2026 Skilled Trades Day
@@ -43,7 +25,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:257428@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261212T140000Z
 DTEND:20261212T210000Z
 SUMMARY:Game On!
@@ -61,7 +43,7 @@ URL:https://global.scoutingevent.com/438-GameOn
 END:VEVENT
 BEGIN:VEVENT
 UID:258351@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270123T133000Z
 DTEND:20270123T220000Z
 SUMMARY:Skilled Trades Day – January 2027 Skilled Trades Day
@@ -79,7 +61,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:278388@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270123T133000Z
 DTEND:20270123T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Welding
@@ -99,7 +81,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:278385@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270206T133000Z
 DTEND:20270206T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Plumbin
@@ -119,7 +101,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:258361@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Skilled Trades Day – February 2027 Skilled Trades Day
@@ -137,7 +119,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:278387@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270306T133000Z
 DTEND:20270306T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Electri

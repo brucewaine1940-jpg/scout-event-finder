@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:276948@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261114T030000Z
 DTEND:20261115T190000Z
 SUMMARY:Winter Camp Training
@@ -24,27 +24,8 @@ DESCRIPTION:Midnight Sun Council\nhttps://global.scoutingevent.com/696-win
 URL:https://global.scoutingevent.com/696-wintertraining
 END:VEVENT
 BEGIN:VEVENT
-UID:264041@scout-event-finder
-DTSTAMP:20261114T170356Z
-DTSTART:20270410T170000Z
-DTEND:20270411T000000Z
-SUMMARY:2027 Council Championship Pinewood Derby – Pinewood Derby Champi
- onship Race
-LOCATION:Camp Gorsuch\, Chugiak\, Alaska
-DESCRIPTION:Great Alaska Council\nhttps://global.scoutingevent.com/610-27P
- inewoodDerby\n\n\n\nJoin us at Camp Gorsuch in Chugiak on April 10\, 2027
-  for the Great Alaska Council Championship Pinewood Derby! Cub Scouts\, S
- couts BSA\, plus siblings\, parents\, and friends are all invited to race
-  their cars for top honors\, including fastest car in each division\, Bes
- t in Show\, Most Creative Design\, and Overall Council Champion—every r
- acer receives a participation patch.\nEntry is $10 for the qualification 
- round with pre-registration or $20 at the door. Come enjoy a day of frien
- dly competition\, chee
-URL:https://global.scoutingevent.com/610-27PinewoodDerby
-END:VEVENT
-BEGIN:VEVENT
 UID:270813@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270516T080000Z
 DTEND:20270523T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 1
@@ -62,7 +43,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270814@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270523T080000Z
 DTEND:20270530T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 2
@@ -80,7 +61,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270815@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270530T080000Z
 DTEND:20270606T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 3
@@ -98,7 +79,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270816@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270606T080000Z
 DTEND:20270613T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 4
@@ -116,7 +97,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270817@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270613T080000Z
 DTEND:20270620T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 5
@@ -134,7 +115,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270818@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270620T080000Z
 DTEND:20270627T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 6
@@ -152,7 +133,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:261251@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270620T210000Z
 DTEND:20270626T050000Z
 SUMMARY:Gorsuch Scouts BSA Resident Camp – Week 1
@@ -170,7 +151,7 @@ URL:https://global.scoutingevent.com/610-GorsuchScoutCamp27
 END:VEVENT
 BEGIN:VEVENT
 UID:270819@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270627T080000Z
 DTEND:20270704T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 7
@@ -188,7 +169,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:261252@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270627T210000Z
 DTEND:20270703T050000Z
 SUMMARY:Gorsuch Scouts BSA Resident Camp – Week 2
@@ -206,7 +187,7 @@ URL:https://global.scoutingevent.com/610-GorsuchScoutCamp27
 END:VEVENT
 BEGIN:VEVENT
 UID:270820@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270704T080000Z
 DTEND:20270711T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 8
@@ -224,7 +205,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270821@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270711T080000Z
 DTEND:20270718T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 9
@@ -242,7 +223,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:263976@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270711T210000Z
 DTEND:20270717T180000Z
 SUMMARY:2027 Lost Lake Summer Camp
@@ -258,7 +239,7 @@ URL:https://global.scoutingevent.com/696-2027lostlakesummercamp
 END:VEVENT
 BEGIN:VEVENT
 UID:270822@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270718T080000Z
 DTEND:20270725T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 10
@@ -276,7 +257,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270823@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270725T080000Z
 DTEND:20270801T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 11
@@ -294,7 +275,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270824@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270801T080000Z
 DTEND:20270808T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 12

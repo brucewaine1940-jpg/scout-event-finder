@@ -6,78 +6,8 @@ X-WR-CALNAME:Scout Events – Indiana Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:277199@scout-event-finder
-DTSTAMP:20261114T170356Z
-DTSTART:20261114T130000Z
-DTEND:20261114T220000Z
-SUMMARY:Lincolnway Merit Badge College 2026
-LOCATION:Tekventure Makerspace\, Fort Wayne\, Indiana
-DESCRIPTION:Anthony Wayne Area Council\nhttps://global.scoutingevent.com/1
- 57-122576\n\nAutomotive Maintenance\, Citizenship in the Community\, Grap
- hic Arts\, Personal Management\, Photography\n\nMERIT BADGE COLLEGE\n(PLE
- ASE DO NOT REGISTER CUB SCOUTS. CUB SCOUTS CANNOT EARN MERIT BADGES)\nDat
- e:  Saturday\, November 14\, 2026\nArrival Time/Check-In: 7:30 am-7:55 a
- m\n**  MUST REGISTER ONLINE  **\n** REGISTRATION DEADLINE:  Monday\, N
- ovember 9th\nAM Merit Badges:  8 am-Noon\nLunch:  Noon-1 p.m. - Lunch P
- rovided\nPM Merit Badges: 1 p.m. - 5 p.m.\nNote prerequisites for some cl
- asses. Participants should bring a photo or other evidence of completion\
- , signed by a parent/guardian or Scoutmaster. Classes wi
-URL:https://global.scoutingevent.com/157-122576
-END:VEVENT
-BEGIN:VEVENT
-UID:232759@scout-event-finder
-DTSTAMP:20261114T170356Z
-DTSTART:20261114T133000Z
-DTEND:20261114T201500Z
-SUMMARY:2026 Five Creeks Fall Merit Badge Midway – Merit Badges / Adult 
- Classes / Counselors
-LOCATION:Avon High School\, Avon\, Indiana
-DESCRIPTION:Crossroads of America Council\nhttps://global.scoutingevent.co
- m/160-MEGA_Midway26\n\nAmerican Business\, American Heritage\, Backpackin
- g\, Chemistry\, Chess\, Coin Collecting\, Collections\, Digital Technolog
- y\, Electricity\, Energy\, Engineering\, Environmental Science\, Family L
- ife\, First Aid\, Genealogy\, Geology\, Graphic Arts\, Health Care Profes
- sions\, Hiking\, Lifesaving\, Mining in Society\, Music\, Personal Manage
- ment\, Photography\, Plant Science\, Railroading\, Reading\, Reptile and 
- Amphibian Study\, Sustainability\, Swimming\, Traffic Safety\, Truck Tran
- sportation\, Weather\, Woodwork\, Position-Specific Leader Training\n\nME
- GA Midway\nJoin us for an exciting day of learning and adventure! Activit
- ies include Scouts BSA Merit Badges\, Cub Scout adventures\, and Leader p
- osition-specific training. Scouts of all ages and districts welcome!\nSat
- urday\, November 14\, 2026\nLocation: Avon High School\, 7575 E County R
- oad 150 S\, Avon\, IN 46123\nCheck-in: 7:00am - 8:00am\nWelcome in Cafete
- ria: 8:00am\nAM Session: 8:30am - 11:30am\nLunch: 11:30am - 1:00pm\nFires
- ide Chat with Commissioners (for adults): 12:30pm - 1:00pm\nPM Session: 1
- :00p
-URL:https://global.scoutingevent.com/160-MEGA_Midway26
-END:VEVENT
-BEGIN:VEVENT
-UID:247305@scout-event-finder
-DTSTAMP:20261114T170356Z
-DTSTART:20261114T140000Z
-DTEND:20261114T220000Z
-SUMMARY:Merit Badge College 2026
-LOCATION:Purdue Northwest Student Union & Library Building\, Hammond\, Ind
- iana
-DESCRIPTION:Pathway to Adventure Council\nhttps://global.scoutingevent.com
- /456-MBC2026\n\nArchitecture\, Aviation\, Chemistry\, Citizenship in the 
- Nation\, Citizenship in the World\, Communication\, Digital Technology\, 
- Disabilities Awareness\, Emergency Preparedness\, Engineering\, Fingerpri
- nting\, Moviemaking\, Music\, Photography\, Pulp and Paper\, Salesmanship
- \, Space Exploration\, Sustainability\, Theater\, Weather\, Merit Badge C
- ounselor\n\nPathway to Adventure Council's Merit Badge College\nSaturday\
- , November 14\, 2026\nPurdue University Northwest\n2200 169th Street\, Ha
- mmond\, IN\nJoin us for an opportunity to complete a variety of merit bad
- ges\, both Eagle-required and elective! Check-in begins at 8:00am. There 
- are four periods in the schedule. This event is on Central time.\nCheck-i
- n:\n8:00am - 8:30am\nOpening Orientation:\n8:340am-8:50am\nSession 1:\n9:
- 00am - 10:25am\nSession 2:\n10:35am - 12:00pm\nLunch:\n12:00pm - 1:00pm\n
- Session 3:\n1:00pm - 2
-URL:https://global.scoutingevent.com/456-MBC2026
-END:VEVENT
-BEGIN:VEVENT
 UID:233254@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20261204T230000Z
 DTEND:20261206T170000Z
 SUMMARY:2026 - University of Scouting @ Purdue University – Saturday
@@ -96,7 +26,7 @@ URL:https://global.scoutingevent.com/162-100441
 END:VEVENT
 BEGIN:VEVENT
 UID:255726@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270205T220000Z
 DTEND:20270206T230000Z
 SUMMARY:Lincolnway Klondike Derby 27
@@ -114,7 +44,7 @@ URL:https://global.scoutingevent.com/157-111464
 END:VEVENT
 BEGIN:VEVENT
 UID:257463@scout-event-finder
-DTSTAMP:20261114T170356Z
+DTSTAMP:20261115T173617Z
 DTSTART:20270206T130000Z
 DTEND:20270206T203000Z
 SUMMARY:Pioneer Trails Webelos & Arrow of Light Lock-In
