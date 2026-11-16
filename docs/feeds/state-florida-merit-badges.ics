@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:267692@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20261120T210000Z
 DTEND:20261122T160000Z
 SUMMARY:Eagle Empire District Fall Camporee
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/083-EagleEmpireDistrictFallCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:255890@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20261227T154500Z
 DTEND:20261230T220000Z
 SUMMARY:2026 Winter Camp – Winter Camp
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/089-111522
 END:VEVENT
 BEGIN:VEVENT
 UID:271176@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20261227T190000Z
 DTEND:20261231T160000Z
 SUMMARY:2026 Scouts BSA Winter Camp
@@ -61,7 +61,7 @@ URL:https://global.scoutingevent.com/773-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:270381@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270116T130000Z
 DTEND:20270116T220000Z
 SUMMARY:Scouting in the Wild at Lion Country Safari
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/085-EGSITW
 END:VEVENT
 BEGIN:VEVENT
 UID:274988@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270116T150000Z
 DTEND:20270116T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -98,7 +98,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:274989@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -116,8 +116,27 @@ DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-IRMB
 URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
+UID:270512@scout-event-finder
+DTSTAMP:20261116T205226Z
+DTSTART:20270219T220000Z
+DTEND:20270221T160000Z
+SUMMARY:Rescueree – Rescuree
+LOCATION:Flaming Arrow Scout Reservation\, Lake Wales\, Florida
+DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
+ om/089-119039\n\nEmergency Preparedness\, First Aid\, Wilderness Survival
+ \n\nRESCUEREE 2027 - Be Prepared\, Be a Leader\, Be a Rescueree!\nRESCUE
+ REE 2027\nis an emergency preparedness\, first aid\, and rescue-themed Sc
+ outing Camporee organized by Heartland District\, Greater Tampa Bay Area 
+ Council. The event will take place February 19–21\, 2027\, at Flaming A
+ rrow Scout Reservation in Polk County\, Florida.\nThe event brings togeth
+ er\nArrow of Light (AOL) Cub Scouts\n\,\nScouts BSA Troops\n\,\nVenturing
+  Crews\n\, and\nSea Scout Ships\nfor a weekend focused on leadership\, te
+ amwork\, emergency p
+URL:https://global.scoutingevent.com/089-119039
+END:VEVENT
+BEGIN:VEVENT
 UID:272858@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270220T143000Z
 DTEND:20270220T183000Z
 SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
@@ -135,7 +154,7 @@ URL:https://global.scoutingevent.com/089-120401
 END:VEVENT
 BEGIN:VEVENT
 UID:276578@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Youth Law Day
@@ -153,7 +172,7 @@ URL:https://global.scoutingevent.com/085-YouthLawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:257836@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270606T180000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
@@ -171,7 +190,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257837@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
@@ -189,7 +208,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257857@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20271227T180000Z
 DTEND:20271231T153000Z
 SUMMARY:2027 Scouts BSA Winter Camp

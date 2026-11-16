@@ -6,26 +6,8 @@ X-WR-CALNAME:Scout Events – Oklahoma Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:233107@scout-event-finder
-DTSTAMP:20261115T173617Z
-DTSTART:20261113T230000Z
-DTEND:20261115T180000Z
-SUMMARY:Fall Encampment 2026 – Fall Encampment
-LOCATION:Diamond H Scout Ranch\, Cookson\, Oklahoma
-DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-Fa
- llEncampment2026\n\nGeocaching\, Surveying\n\nFall Encampment is an encam
- pment for Scouts BSA Boy and Girl Troops and Venturers to learn in-depth 
- skills and unique opportunities. A wide variety of experiences are offere
- d each year. Past events have included shooting sports\, fishing & fly fi
- shing\, wilderness survival\, outdoor cooking\, geocashing and surveying.
-  Youth participants will choose their weekend program. The youth working 
- on fly fishing\, fishing\, search and rescue\, wilderness survival\, geoc
- aching and surveying will cover requirement
-URL:https://global.scoutingevent.com/480-FallEncampment2026
-END:VEVENT
-BEGIN:VEVENT
 UID:275334@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270416T220000Z
 DTEND:20270418T170000Z
 SUMMARY:ZBASE Backpacking Shakedown Weekend – Backpacking Shakedown Week
@@ -44,7 +26,7 @@ URL:https://global.scoutingevent.com/488-121631
 END:VEVENT
 BEGIN:VEVENT
 UID:275333@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20270416T230000Z
 DTEND:20270418T160000Z
 SUMMARY:ZBASE Canoeing Shakedown Weekend – Canoeing Shakedown Weekend
@@ -62,7 +44,7 @@ URL:https://global.scoutingevent.com/488-121630
 END:VEVENT
 BEGIN:VEVENT
 UID:277201@scout-event-finder
-DTSTAMP:20261115T173617Z
+DTSTAMP:20261116T205226Z
 DTSTART:20271112T230000Z
 DTEND:20271114T180000Z
 SUMMARY:Fall Encampment 2027 – Fall Encampment
