@@ -96,6 +96,13 @@
   function inRange(e, w) {
     return e.start.slice(0, 10) <= w.hi && (e.end || e.start).slice(0, 10) >= w.lo;
   }
+  // hide anything already finished (end time, or end of day if no time given)
+  function over(e) {
+    const s = e.end || e.start;
+    const d = s.length > 10 && s.slice(11, 16) !== "00:00" ? new Date(s)
+      : new Date(+s.slice(0, 4), +s.slice(5, 7) - 1, +s.slice(8, 10), 23, 59);
+    return d < new Date();
+  }
   function near(e) {
     if (e.online) return state.online;
     return e.miles == null || e.miles <= state.mi;
@@ -104,7 +111,7 @@
   function render() {
     const w = weekend(state.wk);
     $("dates").textContent = `${DAY[5]} ${MON[w.fri.getMonth()]} ${w.fri.getDate()} – ${DAY[0]} ${MON[w.sun.getMonth()]} ${w.sun.getDate()}`;
-    const scout = data.scout.filter((e) => inRange(e, w) && near(e));
+    const scout = data.scout.filter((e) => !over(e) && inRange(e, w) && near(e));
     const has = (e, list) => e.programs.some((p) => list.includes(p));
     const pack = scout.filter((e) => has(e, ["Cub Scouts"]));
     const troop = scout.filter((e) => has(e, TROOP));
@@ -116,7 +123,7 @@
     $("adults").innerHTML = adults.map(card).join("") || empty("None.");
 
     // public programs: ranger programs collapse into one line per program
-    const pub = data.public.filter((e) => inRange(e, w) && (e.kind !== "ranger" || e.miles == null || e.miles <= Math.max(state.mi, 300)));
+    const pub = data.public.filter((e) => !over(e) && inRange(e, w) && (e.kind !== "ranger" || e.miles == null || e.miles <= Math.max(state.mi, 300)));
     const others = pub.filter((e) => e.kind !== "ranger" && near(e));
     const rangers = {};
     pub.filter((e) => e.kind === "ranger").forEach((e) => {
