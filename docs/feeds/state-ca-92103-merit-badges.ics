@@ -6,16 +6,16 @@ X-WR-CALNAME:Scout Events – CA 92103 Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:dk-80c1013d7eb1@scout-event-finder
-DTSTAMP:20261116T205226Z
-DTSTART:20270509T160000Z
-DTEND:20270509T220000Z
-SUMMARY:First Aid/CPR/AED May 9
+UID:dk-84d25c8ecbdf@scout-event-finder
+DTSTAMP:20261117T193730Z
+DTSTART:20270508T160000Z
+DTEND:20270508T220000Z
+SUMMARY:First Aid/CPR/AED May 8
 LOCATION:1207 Upas Street\, San Diego\, CA 92103
 DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
  nt/first-aidcpraed-may-8/3159832\n\nFirst Aid\, CPR / AED / First Aid\n\n
  San Diego Imperial Council and American Red Cross presents First Aid\, Ad
- ult CPR\, and AED May 9\, 2027 (from 9 am -3 pm) Camp Balboa\, Atherton H
+ ult CPR\, and AED May 8\, 2027 (from 9 am -3 pm) Camp Balboa\, Atherton H
  all (1207 Upas St\, San Diego 92103) Cost: $50 Class Size is Limited to 2
  0 students and fills up quickly! Topics include: Adult CPR and The Emerge
  ncy Action Steps Automated External Defibrillator (AED) and Prioritizing 
@@ -25,7 +25,7 @@ URL:https://sdicbsa.doubleknot.com/event/first-aidcpraed-may-8/3159832
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-bddcf5ebd842@scout-event-finder
-DTSTAMP:20261116T205226Z
+DTSTAMP:20261117T193730Z
 DTSTART:20270522T160000Z
 DTEND:20270522T220000Z
 SUMMARY:First Aid/CPR/AED May 22
@@ -43,7 +43,7 @@ URL:https://sdicbsa.doubleknot.com/event/first-aidcpraed-may-22/3159833
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-4da972598b92@scout-event-finder
-DTSTAMP:20261116T205226Z
+DTSTAMP:20261117T193730Z
 DTSTART:20271016T160000Z
 DTEND:20271016T220000Z
 SUMMARY:First Aid/CPR/AED October 16
