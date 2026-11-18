@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:273515@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20261121T130000Z
 DTEND:20261121T210000Z
 SUMMARY:Scoutreach Merit Badge Clinic
@@ -27,7 +27,7 @@ URL:https://global.scoutingevent.com/092-SRMeritBadge2026
 END:VEVENT
 BEGIN:VEVENT
 UID:271021@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20261121T150000Z
 DTEND:20261121T190000Z
 SUMMARY:Mining in Society Merit Badge – Nov 2026
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/093-mining
 END:VEVENT
 BEGIN:VEVENT
 UID:269353@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20261227T180000Z
 DTEND:20261231T140000Z
 SUMMARY:Bert Adams Winter Camp 2026 – Winter Camp 2026
@@ -63,27 +63,8 @@ DESCRIPTION:Atlanta Area Council\nhttps://global.scoutingevent.com/092-Win
 URL:https://global.scoutingevent.com/092-Winter26
 END:VEVENT
 BEGIN:VEVENT
-UID:277507@scout-event-finder
-DTSTAMP:20261117T193730Z
-DTSTART:20270105T143000Z
-DTEND:20270105T190000Z
-SUMMARY:Art Merit Badge – Jan 2027 Art
-LOCATION:Morris Museum of Art\, Augusta\, Georgia
-DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
-  be closed. Confirm with the organizer.\n\nGeorgia-Carolina Council\nhttp
- s://global.scoutingevent.com/093-artmb\n\nArt\, Graphic Arts\n\nThe Art m
- erit badge concentrates on two-dimensional art\, specifically drawing and
-  painting in various media\, including an introduction to design applicat
- ions in the fields of graphic arts and industrial design\, history and de
- sign principles\, and how these fields relate to fine art.\nWhen & Where\
- nRegister HERE\nJan 2027 Art\nMorris Museum of Art\nTuesday 01-05-2027\n9
- :30 AM ET to 2:00 PM ET\nMore Information\nMap of Event\n$\nView Pricing\
- n1 10th St\nAugusta\, Georgia 30901\nPhone: 706-724-7501\nRegistration C
-URL:https://global.scoutingevent.com/093-artmb
-END:VEVENT
-BEGIN:VEVENT
 UID:274861@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270206T133000Z
 DTEND:20270206T220000Z
 SUMMARY:Shooting Sports Merit Badge Day – Rifle Merit Badge
@@ -100,8 +81,26 @@ DESCRIPTION:Georgia-Carolina Council\nhttps://global.scoutingevent.com/093
 URL:https://global.scoutingevent.com/093-121383
 END:VEVENT
 BEGIN:VEVENT
+UID:277507@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20270212T150000Z
+DTEND:20270212T183000Z
+SUMMARY:Art Merit Badge – Jan 2027 Art
+LOCATION:Morris Museum of Art\, Augusta\, Georgia
+DESCRIPTION:Georgia-Carolina Council\nhttps://global.scoutingevent.com/093
+ -artmb\n\nArt\, Graphic Arts\n\nThe Art merit badge concentrates on two-d
+ imensional art\, specifically drawing and painting in various media\, inc
+ luding an introduction to design applications in the fields of graphic ar
+ ts and industrial design\, history and design principles\, and how these 
+ fields relate to fine art.\nWhen & Where\nRegistration Opens 11-18-2026 3
+ :30 PM\nJan 2027 Art\nMorris Museum of Art\nFriday 02-12-2027\n10:00 AM E
+ T to 1:30 PM ET\nMore Information\nMap of Event\n$\nView Pricing\nCoords:
+  33.4794199\, -81.968522\n1 10th St\nAu
+URL:https://global.scoutingevent.com/093-artmb
+END:VEVENT
+BEGIN:VEVENT
 UID:269914@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270213T130000Z
 DTEND:20270213T170000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -120,7 +119,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:271603@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270227T130000Z
 DTEND:20270227T190000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -139,7 +138,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:275750@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270508T114500Z
 DTEND:20270508T193000Z
 SUMMARY:Spring Merit Badge Day 2027 – Merit Badge Classes
@@ -161,7 +160,7 @@ URL:https://global.scoutingevent.com/095-121802
 END:VEVENT
 BEGIN:VEVENT
 UID:259293@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270613T040000Z
 DTEND:20270620T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 1
@@ -179,7 +178,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:259294@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270620T040000Z
 DTEND:20270627T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 2
@@ -196,8 +195,49 @@ DESCRIPTION:Chattahoochee Council\nhttps://global.scoutingevent.com/091-11
 URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
+UID:279308@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20270828T120000Z
+DTEND:20270828T200000Z
+SUMMARY:Personal Management Merit Badge Day
+LOCATION:Kennesaw State University Kennesaw Campus Social Sciences Buildin
+ g\, Kennesaw\, Georgia
+DESCRIPTION:Atlanta Area Council\nhttps://global.scoutingevent.com/092-123
+ 736\n\nPersonal Management\n\nASFIP/CFA Society Personal Management Meri
+ t Badge Day\nREGISTRATION OPENS JULY 13\nDate:\nSeptember 12\, 2026\nLoca
+ tion:\nTBA\nCost:\n$20\nRequirements completed in class: 1\, 3-7\, and 10
+ .\nCheck-in: 8:00am-8:25am\nPick-up: 4pm\nLunch: optional Chick-Fil-A San
+ dwich or nuggets $13 on your registration\nWhen & Where\nSave the Date\nK
+ ennesaw State University Kennesaw Campus Social Sciences Building\nSaturd
+ ay 08-28-2027\n8:00 AM ET to 4:00 PM ET\nMore Information\nMap of Event\n
+ Coords: 34.0373193\, -84.5858322\n3510 Campu
+URL:https://global.scoutingevent.com/092-123736
+END:VEVENT
+BEGIN:VEVENT
+UID:279310@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20270924T220000Z
+DTEND:20270926T160000Z
+SUMMARY:Scout Skills
+LOCATION:Woodruff Scout Camp\, Blairsville\, Georgia
+DESCRIPTION:Atlanta Area Council\nhttps://global.scoutingevent.com/092-123
+ 738\n\nArchery\, Astronomy\, Automotive Maintenance\, Camping\, Chess\, C
+ ommunication\, Composite Materials\, Digital Technology\, Engineering\, F
+ irst Aid\, Home Repairs\, Orienteering\, Painting\, Pioneering\, Plumbing
+ \, Robotics\, Swimming\, Welding\, CPR / AED / First Aid\, Merit Badge Co
+ unselor\, Safeguarding Youth / YPT\n\nSCOUT SKILLS WEEKEND\nWhen: Septem
+ ber 11-13\, 2026\nWhere: Woodruff Scout Camp\nCost: $80 per Scout $20 p
+ er Scouter\nRegistration Closed to Particpants\nCalling All New and Retur
+ ning Scouts\nWhether you're just beginning your Scouting journey or worki
+ ng toward your next rank or merit badge\, Scout Skills Weekend has someth
+ ing for everyone. Join us for a weekend of learning\, adventure\, and fun
+ !\nWhat's Included\nRegistration includes all meals and program materials
+ . Youth participants receive a commemorati
+URL:https://global.scoutingevent.com/092-123738
+END:VEVENT
+BEGIN:VEVENT
 UID:275747@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20271106T114500Z
 DTEND:20271106T193000Z
 SUMMARY:Fall Merit Badge Day 2027 – Merit Badge Classes
@@ -216,5 +256,24 @@ DESCRIPTION:Flint River Council\nhttps://global.scoutingevent.com/095-1218
  mistry\nCitizenship in the Community\nCitizenship in the Nation\nCitizens
  hip in the World\nCommu
 URL:https://global.scoutingevent.com/095-121800
+END:VEVENT
+BEGIN:VEVENT
+UID:279306@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20271112T220000Z
+DTEND:20271114T170000Z
+SUMMARY:Conservation Weekend 2027
+LOCATION:Woodruff Scout Camp\, Blairsville\, Georgia
+DESCRIPTION:Atlanta Area Council\nhttps://global.scoutingevent.com/092-123
+ 734\n\nCamping\, Forestry\, Scouting Heritage\, Sustainability\, Leave No
+  Trace\, Range Officer / Shooting Instructor\n\nJoin us for a weekend ev
+ ent dedicated to conservation and learning.\nThe 2026 Conservation Weeke
+ nd will be held from November 13 - 15\nat Camp Woodruff\n.\nThis weekend 
+ offers something for every scout. There are 3 sessions available to fill 
+ with your choice of 19 Merit Badges\, conservation projects and other tra
+ inings. All sessions will be staffed by dynamic instructors that are expe
+ rts in their field. Some sessions will fill up faster than others\, so re
+ gister today!  This event also includes a con
+URL:https://global.scoutingevent.com/092-123734
 END:VEVENT
 END:VCALENDAR

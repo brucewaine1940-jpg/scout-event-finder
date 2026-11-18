@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:257994@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20261227T230000Z
 DTEND:20270104T225900Z
 SUMMARY:Camp Kenya '26 – Camp Kenya '26 Staff
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/802-CampKenya26
 END:VEVENT
 BEGIN:VEVENT
 UID:257993@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20261228T230000Z
 DTEND:20270104T225900Z
 SUMMARY:Camp Kenya '26 – Camp Kenya
@@ -42,8 +42,44 @@ DESCRIPTION:Transatlantic Council\nhttps://global.scoutingevent.com/802-Ca
 URL:https://global.scoutingevent.com/802-CampKenya26
 END:VEVENT
 BEGIN:VEVENT
+UID:279436@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20270130T150000Z
+DTEND:20270130T170000Z
+SUMMARY:AE (Angling Educator) Course – Session 1 of 2
+LOCATION:Virtual Class\, Brussels\, U.S. Armed Forces – Europe
+DESCRIPTION:Transatlantic Council\nhttps://global.scoutingevent.com/802-AE
+ 27\n\nFish and Wildlife Management\, Fishing\, Fly Fishing\n\nANGLING EDU
+ CATOR COURSE\nJanaury 30 and February 6\, 2027\nThe course was developed 
+ and is directed by the Scouting America National Fishing Team\nHelp Your 
+ Council or Unit Deliver a Quality Fishing Program.\nThis course is design
+ ed to give Scouts and Scouters tools and ideas to get Scouts fishing. We 
+ will ignite your desire to introduce Scouts to the wonderful world of fis
+ hing. A Scout’s Life recent survey found that Scouts chose fishing as t
+ he fourth most preferred outdoor activity\, yet only 35% go
+URL:https://global.scoutingevent.com/802-AE27
+END:VEVENT
+BEGIN:VEVENT
+UID:279437@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20270206T150000Z
+DTEND:20270206T170000Z
+SUMMARY:AE (Angling Educator) Course – Session 2 of 2
+LOCATION:Virtual Class\, Brussels\, U.S. Armed Forces – Europe
+DESCRIPTION:Transatlantic Council\nhttps://global.scoutingevent.com/802-AE
+ 27\n\nFish and Wildlife Management\, Fishing\, Fly Fishing\n\nANGLING EDU
+ CATOR COURSE\nJanaury 30 and February 6\, 2027\nThe course was developed 
+ and is directed by the Scouting America National Fishing Team\nHelp Your 
+ Council or Unit Deliver a Quality Fishing Program.\nThis course is design
+ ed to give Scouts and Scouters tools and ideas to get Scouts fishing. We 
+ will ignite your desire to introduce Scouts to the wonderful world of fis
+ hing. A Scout’s Life recent survey found that Scouts chose fishing as t
+ he fourth most preferred outdoor activity\, yet only 35% go
+URL:https://global.scoutingevent.com/802-AE27
+END:VEVENT
+BEGIN:VEVENT
 UID:270044@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270627T120000Z
 DTEND:20270703T100000Z
 SUMMARY:Camp Alpine 2027 – Week 1
@@ -61,7 +97,7 @@ URL:https://global.scoutingevent.com/802-CampAlpine2027
 END:VEVENT
 BEGIN:VEVENT
 UID:268444@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270703T080000Z
 DTEND:20270704T120000Z
 SUMMARY:Camp Alpine 2027 – Week 1.5 (Weekend Stay-Over at Camp)
@@ -79,7 +115,7 @@ URL:https://global.scoutingevent.com/802-CampAlpine2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270046@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270704T120000Z
 DTEND:20270710T100000Z
 SUMMARY:Camp Alpine 2027 – Week 2

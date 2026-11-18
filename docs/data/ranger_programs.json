@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -119,7 +119,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-17",
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
@@ -130,9 +129,10 @@
     "2026-11-25",
     "2026-11-26",
     "2026-11-27",
-    "2026-11-28"
+    "2026-11-28",
+    "2026-11-29"
    ],
-   "count": 1333,
+   "count": 1332,
    "free": true,
    "lat": null,
    "lng": null,
@@ -146,38 +146,6 @@
    "where": "Meet at the Golden Canyon Trailhead Parking Lot",
    "time": "08:30 AM - 09:30 AM",
    "nextDates": [
-    "2026-11-17"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.420758,
-   "lng": -116.846719,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Hike with a ranger through one of Death Valley’s most popular and beautiful canyons. Easy walk with one small scramble. Approximately 1 mile. Bring water, a hat and hiking shoes."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Harmony Borax Works Ranger Program",
-   "where": "Meet at Harmony Borax Works Parking Area",
-   "time": "01:00 PM - 01:45 PM",
-   "nextDates": [
-    "2026-11-17"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.480004,
-   "lng": -116.873346,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Learn about fascinating mining history in Death Valley. 20 mule team wagons, borax, fortunes and more! Easy 1/3 mile walk on a paved path."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Golden Canyon Hike",
-   "where": "Meet at the Golden Canyon Trailhead Parking Lot",
-   "time": "08:30 AM - 09:30 AM",
-   "nextDates": [
     "2026-11-18"
    ],
    "count": 1,
@@ -410,25 +378,6 @@
    "lng": -116.873346,
    "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
    "about": "Learn about fascinating mining history in Death Valley. 20 mule team wagons, borax, fortunes and more! Easy 1/3 mile walk on a paved path."
-  },
-  {
-   "park": "Joshua Tree National Park",
-   "parkCode": "jotr",
-   "title": "Keys Ranch Tour",
-   "where": "Reservations Required\n\nKeys Ranch tours begin at the Keys Ranch locked gate and parking area (not at the visitor center).",
-   "time": "09:30 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-17",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-30"
-   ],
-   "count": 4,
-   "free": false,
-   "lat": 34.029989,
-   "lng": -116.162181,
-   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
-   "about": "Join us on a ranger-led tour and learn about the cultural history of Keys Ranch. Topics include Native American history, mining, ranching, homesteading, the Keys family, and the site’s transition into a protected historical site. Joshua Tree National Park acknowledges the 15 associated tribal communities as the original stewards of the land on which Joshua Tree National Park now sits. We are grate"
   },
   {
    "park": "Joshua Tree National Park",
@@ -483,6 +432,24 @@
    "lng": -116.162846,
    "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
    "about": "Enjoy some from free coffee, tea, or hot coco while chatting with fellow climbers about best climbing routes, shady or sunny crags, or learn about the park's resources. Meet the Climber Stewards, play some trivia, and meet up with your friends and community. Bring your own mug!"
+  },
+  {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Keys Ranch Tour",
+   "where": "Reservations Required\n\nKeys Ranch tours begin at the Keys Ranch locked gate and parking area (not at the visitor center).",
+   "time": "09:30 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-30"
+   ],
+   "count": 3,
+   "free": false,
+   "lat": 34.029989,
+   "lng": -116.162181,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "Join us on a ranger-led tour and learn about the cultural history of Keys Ranch. Topics include Native American history, mining, ranching, homesteading, the Keys family, and the site’s transition into a protected historical site. Joshua Tree National Park acknowledges the 15 associated tribal communities as the original stewards of the land on which Joshua Tree National Park now sits. We are grate"
   },
   {
    "park": "Pinnacles National Park",
@@ -541,58 +508,6 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Forest Feature (Giant Forest Area)",
-   "where": "Meet in front of the Giant Forest Museum",
-   "time": "11:00 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-17",
-    "2026-11-18",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-25",
-    "2026-11-26",
-    "2026-11-27",
-    "2026-11-30"
-   ],
-   "count": 10,
-   "free": true,
-   "lat": 36.564688,
-   "lng": -118.772683,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Ranger's Choice Talk (Grant Grove Area)",
-   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
-   "time": "02:00 PM - 02:30 PM",
-   "nextDates": [
-    "2026-11-17",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21",
-    "2026-11-22",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-26",
-    "2026-11-27",
-    "2026-11-28",
-    "2026-11-29",
-    "2026-11-30"
-   ],
-   "count": 12,
-   "free": true,
-   "lat": 36.74023,
-   "lng": -118.962665,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Among the Giants Walk (Grant Grove Area)",
    "where": "Meet at the Grant Tree Trailhead",
    "time": "11:00 AM - 12:00 PM",
@@ -610,6 +525,56 @@
    "lng": -118.973092,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Forest Feature (Giant Forest Area)",
+   "where": "Meet in front of the Giant Forest Museum",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-30"
+   ],
+   "count": 9,
+   "free": true,
+   "lat": 36.564688,
+   "lng": -118.772683,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description A brief yet enriching program that highlights a remarkable natural process or cultural story from the Giant Forest. This short talk offers a focused glimpse into what makes the grove extraordinary. Program Details Length: 20 to 30 minute talk Location: Outside the Giant Forest Museum Seating: Limited seating may be available Getting There Drive: The Giant Forest Museum is along"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Ranger's Choice Talk (Grant Grove Area)",
+   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
+   "time": "02:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-11-30"
+   ],
+   "count": 11,
+   "free": true,
+   "lat": 36.74023,
+   "lng": -118.962665,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",

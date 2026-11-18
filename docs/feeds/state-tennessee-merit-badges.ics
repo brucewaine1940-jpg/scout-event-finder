@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:269833@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20261227T190000Z
 DTEND:20261229T230000Z
 SUMMARY:2026 Eagle Trek Winter Camp – Eagle Trek Winter Camp
@@ -25,10 +25,10 @@ URL:https://global.scoutingevent.com/559-2026EagleTrek
 END:VEVENT
 BEGIN:VEVENT
 UID:264373@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270530T170000Z
 DTEND:20270605T140000Z
-SUMMARY:Summer Camp 2027 – Week 1
+SUMMARY:Summer Camp 2027 – Staff Week
 LOCATION:Camp Buck Toms\, Rockwood\, Tennessee
 DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
  /557-Summercamp2027\n\nCycling\, Robotics\, Shotgun Shooting\, Welding\, 
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270651@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270606T170000Z
 DTEND:20270612T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 1
@@ -63,10 +63,10 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:264374@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270606T170000Z
 DTEND:20270612T140000Z
-SUMMARY:Summer Camp 2027 – Week 2
+SUMMARY:Summer Camp 2027 – Week 1
 LOCATION:Camp Buck Toms\, Rockwood\, Tennessee
 DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
  /557-Summercamp2027\n\nCycling\, Robotics\, Shotgun Shooting\, Welding\, 
@@ -83,7 +83,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270652@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 2
@@ -101,7 +101,7 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:272321@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270613T170000Z
 DTEND:20270619T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 1 (June 13- 19)
@@ -119,10 +119,10 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264375@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
-SUMMARY:Summer Camp 2027 – Week 3
+SUMMARY:Summer Camp 2027 – Week 2
 LOCATION:Camp Buck Toms\, Rockwood\, Tennessee
 DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
  /557-Summercamp2027\n\nCycling\, Robotics\, Shotgun Shooting\, Welding\, 
@@ -139,7 +139,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270653@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 3
@@ -157,7 +157,7 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:272322@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270620T170000Z
 DTEND:20270626T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 2 (June 20-26)
@@ -175,10 +175,10 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264376@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
-SUMMARY:Summer Camp 2027 – Week 4
+SUMMARY:Summer Camp 2027 – Week 3
 LOCATION:Camp Buck Toms\, Rockwood\, Tennessee
 DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
  /557-Summercamp2027\n\nCycling\, Robotics\, Shotgun Shooting\, Welding\, 
@@ -195,7 +195,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272323@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270627T170000Z
 DTEND:20270703T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 3 (June 27-July 3)
@@ -213,11 +213,10 @@ URL:https://global.scoutingevent.com/713-CDC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264377@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270627T170000Z
 DTEND:20270703T140000Z
-SUMMARY:Summer Camp 2027 – Week 5 - Please call 865-566-0645 if you want
-  to camp in Week 5.
+SUMMARY:Summer Camp 2027 – Week 4
 LOCATION:Camp Buck Toms\, Rockwood\, Tennessee
 DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
  /557-Summercamp2027\n\nCycling\, Robotics\, Shotgun Shooting\, Welding\, 
@@ -234,7 +233,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272324@scout-event-finder
-DTSTAMP:20261117T193730Z
+DTSTAMP:20261118T192031Z
 DTSTART:20270704T170000Z
 DTEND:20270710T133000Z
 SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 4 (July 4-10)
@@ -249,5 +248,26 @@ DESCRIPTION:Sequoyah Council\nhttps://global.scoutingevent.com/713-CDC2027
  ers.\nSome great things about Camp Davy Crockett are:\nFrontier Camp is a
   program rich in the traditions of th
 URL:https://global.scoutingevent.com/713-CDC2027
+END:VEVENT
+BEGIN:VEVENT
+UID:279295@scout-event-finder
+DTSTAMP:20261118T192031Z
+DTSTART:20270704T170000Z
+DTEND:20270710T140000Z
+SUMMARY:Summer Camp 2027 – Week 5 - Please call 865-566-0645 if you are 
+ interested in attending week 5
+LOCATION:Camp Buck Toms\, Rockwood\, Tennessee
+DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
+ /557-Summercamp2027\n\nCycling\, Robotics\, Shotgun Shooting\, Welding\, 
+ Aquatics (Lifeguard / Water Rescue)\, Safeguarding Youth / YPT\n\nCome Jo
+ in us\nfor Summer Camp 2027\nat\nCamp Buck Toms\nWeek 1 – May 30-June 5
+ \nWeek 2 – June 6-12\nWeek 3 – June 13-19\nWeek 4 –  June 20-26\nW
+ eek 5 –  June 27-July 3\n(Please contact us at natasha.leahey@scouting
+ .org if you are interested in camping Week 5)\nNestled in East Tennessee 
+ on the shore of Watts Bar Lake\, Camp Buck Toms is 750+ acres of beautifu
+ l landscape filled with forests\, fields\, and adventure. We offer progra
+ ms specifically designed for each age group within your Troop.\nScouts ca
+ n attend
+URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 END:VCALENDAR
