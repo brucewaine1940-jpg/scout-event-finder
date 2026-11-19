@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -119,7 +119,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-21",
@@ -130,46 +129,15 @@
     "2026-11-26",
     "2026-11-27",
     "2026-11-28",
-    "2026-11-29"
+    "2026-11-29",
+    "2026-11-30"
    ],
-   "count": 1332,
+   "count": 1331,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Golden Canyon Hike",
-   "where": "Meet at the Golden Canyon Trailhead Parking Lot",
-   "time": "08:30 AM - 09:30 AM",
-   "nextDates": [
-    "2026-11-18"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.420758,
-   "lng": -116.846719,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Hike with a ranger through one of Death Valley’s most popular and beautiful canyons. Easy walk with one small scramble. Approximately 1 mile. Bring water, a hat and hiking shoes."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Harmony Borax Works Ranger Program",
-   "where": "Meet at Harmony Borax Works Parking Area",
-   "time": "01:00 PM - 01:45 PM",
-   "nextDates": [
-    "2026-11-18"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.480004,
-   "lng": -116.873346,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Learn about fascinating mining history in Death Valley. 20 mule team wagons, borax, fortunes and more! Easy 1/3 mile walk on a paved path."
   },
   {
    "park": "Death Valley National Park",
@@ -386,7 +354,6 @@
    "where": "Skys The Limit Observatory \nRESERVATIONS REQUIRED\nJoin Joshua Tree National Park Astronomy Rangers to learn about star clusters, planets, nebulae, and experience a naturally dark night sky!\nOur Wednesday programs will feature an astronomy talk and a constellation tour. There will be no telescopes on Wednesday nights.\nOur Friday programs will feature telescopes in addition to an astronomy talk and constellation tour. Only Friday programs will have telescopes.",
    "time": "06:00 PM - 08:00 PM",
    "nextDates": [
-    "2026-11-18",
     "2026-11-20",
     "2026-11-25",
     "2026-11-27",
@@ -397,9 +364,10 @@
     "2026-12-23",
     "2026-12-30",
     "2027-01-15",
-    "2027-01-20"
+    "2027-01-20",
+    "2027-01-22"
    ],
-   "count": 27,
+   "count": 26,
    "free": false,
    "lat": 34.080171,
    "lng": -116.036278,
@@ -508,32 +476,10 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Among the Giants Walk (Grant Grove Area)",
-   "where": "Meet at the Grant Tree Trailhead",
-   "time": "11:00 AM - 12:00 PM",
-   "nextDates": [
-    "2026-11-18",
-    "2026-11-20",
-    "2026-11-21",
-    "2026-11-25",
-    "2026-11-27",
-    "2026-11-28"
-   ],
-   "count": 6,
-   "free": true,
-   "lat": 36.747062,
-   "lng": -118.973092,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Forest Feature (Giant Forest Area)",
    "where": "Meet in front of the Giant Forest Museum",
    "time": "11:00 AM - 11:30 AM",
    "nextDates": [
-    "2026-11-18",
     "2026-11-19",
     "2026-11-20",
     "2026-11-23",
@@ -543,7 +489,7 @@
     "2026-11-27",
     "2026-11-30"
    ],
-   "count": 9,
+   "count": 8,
    "free": true,
    "lat": 36.564688,
    "lng": -118.772683,
@@ -575,6 +521,26 @@
    "lng": -118.962665,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Among the Giants Walk (Grant Grove Area)",
+   "where": "Meet at the Grant Tree Trailhead",
+   "time": "11:00 AM - 12:00 PM",
+   "nextDates": [
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-25",
+    "2026-11-27",
+    "2026-11-28"
+   ],
+   "count": 5,
+   "free": true,
+   "lat": 36.747062,
+   "lng": -118.973092,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",
