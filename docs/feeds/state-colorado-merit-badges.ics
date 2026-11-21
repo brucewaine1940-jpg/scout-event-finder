@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:279309@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270102T170000Z
 DTEND:20270102T203000Z
 SUMMARY:Personal Management and Family Life Merit Badges via ZOOM!
@@ -22,5 +22,23 @@ DESCRIPTION:Scouting Colorado\nhttps://global.scoutingevent.com/061-123737
  completed will be sent after the class to Scouts.After finishing the home
  work for this class\, send in to CA
 URL:https://global.scoutingevent.com/061-123737
+END:VEVENT
+BEGIN:VEVENT
+UID:279377@scout-event-finder
+DTSTAMP:20261121T175832Z
+DTSTART:20270120T230000Z
+DTEND:20270121T013000Z
+SUMMARY:Citizenship in the Nation Merit Badge via Zoom
+LOCATION:Colorado Adventure Point\, Lakewood\, Colorado
+DESCRIPTION:Scouting Colorado\nhttps://global.scoutingevent.com/061-123754
+ \n\nCitizenship in the Nation\n\nThis class is offering Citizenship in th
+ e Nation over Zoom. The course will focus on engaging\, fun\, group work 
+ for an informative way of learning this Eagle Required merit badges.\nPle
+ ase note the following:\nScout uniform is not required.\nScout’s will n
+ eed to have their camera turned on during the class and will be required 
+ to participate (verbally or written) throughout the class to get credit.\
+ nScouts will be emailed blue cards after the class\, all requirements com
+ pleted during class will be mar
+URL:https://global.scoutingevent.com/061-123754
 END:VEVENT
 END:VCALENDAR

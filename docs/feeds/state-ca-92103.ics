@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:dk-c88caef01f2c@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20261205T180000Z
 DTEND:20261205T233000Z
 SUMMARY:Holiday at the Bay
@@ -25,7 +25,7 @@ URL:https://sdicbsa.doubleknot.com/event/holiday-at-the-bay/3157727
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-662a1dddf83e@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20261212T170000Z
 DTEND:20261212T200000Z
 SUMMARY:Knife Safety Day
@@ -36,8 +36,27 @@ DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
 URL:https://sdicbsa.doubleknot.com/event/knife-safety-day/3166267
 END:VEVENT
 BEGIN:VEVENT
+UID:dk-aead2617cc31@scout-event-finder
+DTSTAMP:20261121T175832Z
+DTSTART:20270102T170000Z
+DTEND:20270102T230000Z
+SUMMARY:First Aid/CPR/AED January 2
+LOCATION:1207 Upas Street\, San Diego\, CA 92103
+DESCRIPTION:San Diego-Imperial Council\nhttps://sdicbsa.doubleknot.com/eve
+ nt/first-aidcpraed-january-2/3167780\n\nFirst Aid\, CPR / AED / First Aid
+ \n\nSan Diego Imperial Council and American Red Cross presents First Aid\
+ , Adult CPR\, and AED January 2\, 2027 (from 9 am -3 pm) Camp Balboa\, At
+ herton Hall (1207 Upas St\, San Diego 92103) Cost: $50 Class Size is Limi
+ ted to 20 students and fills up quickly! Topics include: Adult CPR and Th
+ e Emergency Action Steps Automated External Defibrillator (AED) and Prior
+ itizing Care Use of Barrier devices… Bleeding Control…Tourniquets Con
+ scious and Unconscious Choking\, Burns and Shock Heat and Cold related em
+ erg
+URL:https://sdicbsa.doubleknot.com/event/first-aidcpraed-january-2/3167780
+END:VEVENT
+BEGIN:VEVENT
 UID:dk-92cbc3b536e9@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270109T170000Z
 DTEND:20270111T020000Z
 SUMMARY:WARFA Wilderness and Remote First Aid January 9 & 10
@@ -57,7 +76,7 @@ URL:https://sdicbsa.doubleknot.com/event/warfa-wilderness-and-remote-first
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-a2cca32924ee@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270306T170000Z
 DTEND:20270308T020000Z
 SUMMARY:WARFA Wilderness and Remote First Aid March 6 & 7
@@ -77,7 +96,7 @@ URL:https://sdicbsa.doubleknot.com/event/warfa-wilderness-and-remote-first
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-84d25c8ecbdf@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270508T160000Z
 DTEND:20270508T220000Z
 SUMMARY:First Aid/CPR/AED May 8
@@ -95,7 +114,7 @@ URL:https://sdicbsa.doubleknot.com/event/first-aidcpraed-may-8/3159832
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-ad1e3a4577dc@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270515T160000Z
 DTEND:20270517T010000Z
 SUMMARY:WARFA Wilderness and Remote First Aid May 15 & 16
@@ -115,7 +134,7 @@ URL:https://sdicbsa.doubleknot.com/event/warfa-wilderness-and-remote-first
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-bddcf5ebd842@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270522T160000Z
 DTEND:20270522T220000Z
 SUMMARY:First Aid/CPR/AED May 22
@@ -133,7 +152,7 @@ URL:https://sdicbsa.doubleknot.com/event/first-aidcpraed-may-22/3159833
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-e824baee4c49@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270605T160000Z
 DTEND:20270607T010000Z
 SUMMARY:WARFA Wilderness and Remote First Aid June 5 & 6
@@ -153,7 +172,7 @@ URL:https://sdicbsa.doubleknot.com/event/warfa-wilderness-and-remote-first
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-48e1008e6810@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270618T070000Z
 DTEND:20270623T070000Z
 SUMMARY:Swamp Base 2027 - SDIC Contingent
@@ -172,7 +191,7 @@ URL:https://sdicbsa.doubleknot.com/event/swamp-base-2027-sdic-contingent/3
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-b32222c64280@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20270710T160000Z
 DTEND:20270712T010000Z
 SUMMARY:WARFA Wilderness and Remote First Aid July 10 & 11
@@ -192,7 +211,7 @@ URL:https://sdicbsa.doubleknot.com/event/warfa-wilderness-and-remote-first
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-4da972598b92@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20271016T160000Z
 DTEND:20271016T220000Z
 SUMMARY:First Aid/CPR/AED October 16
@@ -212,7 +231,7 @@ URL:https://sdicbsa.doubleknot.com/event/first-aidcpraed-october-16/315983
 END:VEVENT
 BEGIN:VEVENT
 UID:dk-05f1e51f414e@scout-event-finder
-DTSTAMP:20261120T190425Z
+DTSTAMP:20261121T175832Z
 DTSTART:20271023T160000Z
 DTEND:20271025T010000Z
 SUMMARY:WARFA Wilderness and Remote First Aid October 23 & 24
