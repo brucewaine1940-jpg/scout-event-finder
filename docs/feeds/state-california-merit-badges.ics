@@ -6,51 +6,13 @@ X-WR-CALNAME:Scout Events – California Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:273009@scout-event-finder
-DTSTAMP:20261121T175832Z
-DTSTART:20261121T160000Z
-DTEND:20261122T000000Z
-SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Saturday Sem
- inar
-LOCATION:Cushman Watt Scout Center\, Los Angeles\, California
-DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
- .com/033-HATClimbingInstructor2\n\nClimbing\, Climbing Instructor\, Merit
-  Badge Counselor\, Safeguarding Youth / YPT\n\nPURPOSE:\nProvide training
-  for people who are interested in teaching Scouts how to climb and rappel
-  at the Unit\, District or Council level. This group might include those 
- interested in becoming Climbing Merit Badge Counselors\, Camp Staff and S
- couters.\nDATES & TIMES:\nSeminar: Friday\, November 20\, 2026 (7:00 p.
- m. to 10:00 p.m.)\nSeminar: Saturday\, November 21\, 2026 (8:00 a.m. to 4
- :00 p.m.)\nField Trip: Sunday\, November 22\, 2026 (7:00 a.m. to 4:00 p
- .m.)\nLOCATION:\nSeminar:\nCushman Watt Service Center\n\,
-URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
-END:VEVENT
-BEGIN:VEVENT
-UID:272350@scout-event-finder
-DTSTAMP:20261121T175832Z
-DTSTART:20261121T170000Z
-DTEND:20261122T003000Z
-SUMMARY:The 14th Annual Law Merit Badge Day
-LOCATION:Loyola Law School\, Los Angeles\, California
-DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
- .com/033-LawDay\n\nLaw\n\nThe Legal Eagles - Law Merit Badge Day\noffers 
- a unique and enriching experience for Scouts with an interest in legal ca
- reers. This event enables Scouts to fulfill the requirements for Scouting
- 's Law Merit Badge while gaining a comprehensive understanding of crimina
- l law\, civil law\, and legal history. Additionally\, participants will h
- ave the chance to engage in a mock trial\, providing them with practical\
- , hands-on experience in a courtroom setting.\nThe Legal Eagles are a ded
- icated group of legal 
-URL:https://global.scoutingevent.com/033-LawDay
-END:VEVENT
-BEGIN:VEVENT
 UID:273010@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261122T150000Z
 DTEND:20261123T000000Z
 SUMMARY:HAT - Climbing Instructor Training Level 2 (CWSC) – Sunday Field
   Outing: Stoney Point
-LOCATION:Cushman Watt Scout Center\, Los Angeles\, California
+LOCATION:Stoney Point\, Chatsworth\, California
 DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
  .com/033-HATClimbingInstructor2\n\nClimbing\, Climbing Instructor\, Merit
   Badge Counselor\, Safeguarding Youth / YPT\n\nPURPOSE:\nProvide training
@@ -64,46 +26,8 @@ DESCRIPTION:Greater Los Angeles Area Council\nhttps://global.scoutingevent
 URL:https://global.scoutingevent.com/033-HATClimbingInstructor2
 END:VEVENT
 BEGIN:VEVENT
-UID:bp-10099094568d@scout-event-finder
-DTSTAMP:20261121T175832Z
-DTSTART:20261122T163000Z
-DTEND:20261122T163000Z
-SUMMARY:Welding merit badge at Trask
-LOCATION:Trask Scout Reservation\, Monrovia\, California
-DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
- 3-welding\n\nWelding\n\nEvent Details $75/scout (Max 6 scouts each sessio
- n) The welding merit badge at Camp Trask is a great opportunity to learn 
- a new skill. No experience is necessary! Welding is the process of joinin
- g with a weld – joining or combining similar pieces of metal by heating
-  them with a flame torch or an electric current\, then hammering or press
- ing them together while they are soft. Welding plays a major role in our 
- modern world\, and mastery of the skill can lead to exciting career oppor
- tunities. Someday
-URL:https://scoutingevent.com/033-welding
-END:VEVENT
-BEGIN:VEVENT
-UID:bp-7b3ba3e442de@scout-event-finder
-DTSTAMP:20261121T175832Z
-DTSTART:20261122T170000Z
-DTEND:20261122T170000Z
-SUMMARY:Fall Break Merit Badge Programs at Trask
-LOCATION:Trask Scout Reservation\, Monrovia\, California
-DESCRIPTION:Greater Los Angeles Area Council\nhttps://scoutingevent.com/03
- 3-fallbreak\n\nAnimal Science\, Camping\, Citizenship in the Community\, 
- Cooking\, Engineering\, Family Life\, Home Repairs\, Personal Management\
- , Scholarship\, Welding\n\nEvent Details Fall Break Merit Badge Program a
- t Trask Expand your skills and earn new badges this winter at Camp Trask!
-  Scouts can take up to two classes per day. Cost: $65–$75 per class (Ea
- ch day has two class periods. Some badges require both periods.) Class Sc
- hedule am-morning class pm-afternoon class Sunday\, November 22\, 2026 We
- lding: am- FULL\, pm-limited space Engineering: all day Wildland Fire Man
- agement: all day Citizenship in the Community: pm Monday\, November 23\, 
- 2026 Communications: am
-URL:https://scoutingevent.com/033-fallbreak
-END:VEVENT
-BEGIN:VEVENT
 UID:bp-05598d0c06c3@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261123T170000Z
 DTEND:20261123T170000Z
 SUMMARY:Fall Break Merit Badge Programs at Trask
@@ -123,7 +47,7 @@ URL:https://scoutingevent.com/033-fallbreak
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-cde10592fbb1@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261124T170000Z
 DTEND:20261124T170000Z
 SUMMARY:Fall Break Merit Badge Programs at Trask
@@ -143,7 +67,7 @@ URL:https://scoutingevent.com/033-fallbreak
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8d72bbba94dc@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261125T170000Z
 DTEND:20261125T170000Z
 SUMMARY:Fall Break Merit Badge Programs at Trask
@@ -163,7 +87,7 @@ URL:https://scoutingevent.com/033-fallbreak
 END:VEVENT
 BEGIN:VEVENT
 UID:251669@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261205T150000Z
 DTEND:20261206T030000Z
 SUMMARY:Pacifica District 20 Mile Hike
@@ -181,7 +105,7 @@ URL:https://global.scoutingevent.com/033-20MileHike
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-067ea509d916@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261212T170000Z
 DTEND:20261212T170000Z
 SUMMARY:Scouts Range Merit Badge at Trask
@@ -199,7 +123,7 @@ URL:https://scoutingevent.com/033-rangemeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1222989778349@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261213T160000Z
 DTEND:20261214T020000Z
 SUMMARY:Multiple MB: Game Design + Community with the Physics at Disney Pa
@@ -215,7 +139,7 @@ URL:https://www.eventbrite.com/e/multiple-mb-game-design-community-with-th
 END:VEVENT
 BEGIN:VEVENT
 UID:248818@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261219T000000Z
 DTEND:20261221T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session One
@@ -233,7 +157,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:274098@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261228T164500Z
 DTEND:20261231T000000Z
 SUMMARY:Winter Merit Badge Camp Dec. 2026 - Scouts – Winter Merit Badge 
@@ -255,7 +179,7 @@ URL:https://global.scoutingevent.com/032-wintermeritbadges
 END:VEVENT
 BEGIN:VEVENT
 UID:248819@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270109T000000Z
 DTEND:20270111T013000Z
 SUMMARY:National Youth Leadership Training (NYLT) Course – Session Two
@@ -273,7 +197,7 @@ URL:https://global.scoutingevent.com/033-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:279735@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270116T010000Z
 DTEND:20270116T050000Z
 SUMMARY:CPR/AED & First Aid 2027 – Jan - CPR/AED & First Aid
@@ -291,7 +215,7 @@ URL:https://global.scoutingevent.com/055-123926
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-7b925e7e6096@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -309,7 +233,7 @@ URL:https://scoutingevent.com/039-118868
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-126e2476cc4c@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270123T170000Z
 DTEND:20270123T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -327,7 +251,7 @@ URL:https://scoutingevent.com/039-119427
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-01-23-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270123T170000Z
 DTEND:20270123T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -342,7 +266,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-77dcc036f180@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270206T000000Z
 DTEND:20270206T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -360,7 +284,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6824b70b2033@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270206T020000Z
 DTEND:20270206T020000Z
 SUMMARY:Wiatava Lodge Annual Trade-O-Ree
@@ -378,7 +302,7 @@ URL:https://scoutingevent.com/039-TradeoRee2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19cadd47cc79@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T000000Z
 DTEND:20270213T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -396,7 +320,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ee67d24141bf@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -414,7 +338,7 @@ URL:https://scoutingevent.com/039-118906
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4ce248af6eab@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -432,7 +356,7 @@ URL:https://scoutingevent.com/039-119437
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-19c0777c1206@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T170000Z
 DTEND:20270213T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -450,7 +374,7 @@ URL:https://scoutingevent.com/039-118870
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003365681683@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T170000Z
 DTEND:20270213T230000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Sat\, Feb 13\, 2027
@@ -465,7 +389,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-3c8fc1a5763e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -483,7 +407,7 @@ URL:https://scoutingevent.com/039-119278
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8064ea5fcc21@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270213T210000Z
 DTEND:20270213T210000Z
 SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
@@ -501,7 +425,7 @@ URL:https://scoutingevent.com/039-119303
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-e78a90898290@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270220T000000Z
 DTEND:20270220T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -519,7 +443,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:279736@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270220T010000Z
 DTEND:20270220T050000Z
 SUMMARY:CPR/AED & First Aid 2027 – Feb - CPR/AED & First Aid
@@ -537,7 +461,7 @@ URL:https://global.scoutingevent.com/055-123926
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b9f7e1ae4218@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270227T000000Z
 DTEND:20270227T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -555,7 +479,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-02-27-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270227T170000Z
 DTEND:20270227T210000Z
 SUMMARY:Railroading Merit Badge Program
@@ -570,7 +494,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a45da12d6acc@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270306T000000Z
 DTEND:20270306T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -588,7 +512,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-cc4ca5e07867@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
@@ -606,7 +530,7 @@ URL:https://scoutingevent.com/039-118879
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-a592c6f5d9cc@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -624,7 +548,7 @@ URL:https://scoutingevent.com/039-119438
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-fcd8f55b3404@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -642,7 +566,7 @@ URL:https://scoutingevent.com/039-118871
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8a01608dcb52@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270306T170000Z
 DTEND:20270306T170000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -660,7 +584,7 @@ URL:https://scoutingevent.com/039-119428
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-316ce8fefa1b@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270306T210000Z
 DTEND:20270306T210000Z
 SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
@@ -678,7 +602,7 @@ URL:https://scoutingevent.com/039-118881
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-4db47dce39b0@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270313T000000Z
 DTEND:20270313T000000Z
 SUMMARY:HESR Camp Pollock Winter Camp 2027
@@ -696,7 +620,7 @@ URL:https://scoutingevent.com/033-wintercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-c78a21ba9740@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270313T160000Z
 DTEND:20270313T160000Z
 SUMMARY:2027 OA - Trade-O-Ree & Merit Badge Day
@@ -715,7 +639,7 @@ URL:https://scoutingevent.com/033-OA_TRADEOREE
 END:VEVENT
 BEGIN:VEVENT
 UID:279737@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270320T000000Z
 DTEND:20270320T040000Z
 SUMMARY:CPR/AED & First Aid 2027 – Mar - CPR/AED & First Aid
@@ -733,7 +657,7 @@ URL:https://global.scoutingevent.com/055-123926
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-12d182f03cd8@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270327T160000Z
 DTEND:20270327T160000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -751,7 +675,7 @@ URL:https://scoutingevent.com/039-118907
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-1f61b17ba261@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270327T160000Z
 DTEND:20270327T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -769,7 +693,7 @@ URL:https://scoutingevent.com/039-118873
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-2003366936436@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270327T160000Z
 DTEND:20270327T220000Z
 SUMMARY:Merit Badge Day at the Printing Museum - Mar 27\, 2027
@@ -784,7 +708,7 @@ URL:https://www.eventbrite.com/e/merit-badge-day-at-the-printing-museum-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-03-27-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270327T160000Z
 DTEND:20270327T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -799,7 +723,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6da2068be982@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270327T200000Z
 DTEND:20270327T200000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -817,7 +741,7 @@ URL:https://scoutingevent.com/039-119279
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-00fe62994a55@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270327T200000Z
 DTEND:20270327T200000Z
 SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
@@ -835,7 +759,7 @@ URL:https://scoutingevent.com/039-119431
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-8ef736f04d73@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Canoeing Merit Badge AM (Ages 11 to 17)
@@ -853,7 +777,7 @@ URL:https://scoutingevent.com/039-118880
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-959a3d1bfd57@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -871,7 +795,7 @@ URL:https://scoutingevent.com/039-119439
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5d69b9691de9@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -889,7 +813,7 @@ URL:https://scoutingevent.com/039-118876
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-471e801133cf@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270417T160000Z
 DTEND:20270417T160000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -907,7 +831,7 @@ URL:https://scoutingevent.com/039-119429
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-102af97598f4@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270417T200000Z
 DTEND:20270417T200000Z
 SUMMARY:Kayaking Merit Badge PM (Ages 11 to 17)
@@ -925,7 +849,7 @@ URL:https://scoutingevent.com/039-118896
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-5a1866f5428f@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270417T200000Z
 DTEND:20270417T200000Z
 SUMMARY:Motorboating Merit Badge PM (Ages 11 to 17)
@@ -943,7 +867,7 @@ URL:https://scoutingevent.com/039-119432
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-04-24-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270424T160000Z
 DTEND:20270424T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -958,7 +882,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:279738@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270501T000000Z
 DTEND:20270501T040000Z
 SUMMARY:CPR/AED & First Aid 2027 – Apr - CPR/AED & First Aid
@@ -976,7 +900,7 @@ URL:https://global.scoutingevent.com/055-123926
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-193e3c19fa61@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Citizenship in the Nation Merit Badge AM (Ages 11 to 17)
@@ -994,7 +918,7 @@ URL:https://scoutingevent.com/039-119273
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b90f3bb2f2e5@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Communication Merit Badge AM (Ages 11 to 17)
@@ -1012,7 +936,7 @@ URL:https://scoutingevent.com/039-119441
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-b33ef007cbfa@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:Cooking Merit Badge AM (Ages 11 to 17)
@@ -1030,7 +954,7 @@ URL:https://scoutingevent.com/039-118877
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-6bb9336d5c88@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270508T160000Z
 DTEND:20270508T160000Z
 SUMMARY:First Aid Merit Badge AM (Ages 11 to 17)
@@ -1048,7 +972,7 @@ URL:https://scoutingevent.com/039-119430
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-37a6092a34d1@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270508T200000Z
 DTEND:20270508T200000Z
 SUMMARY:Citizenship in the World Merit Badge PM (Ages 11 to 17)
@@ -1066,7 +990,7 @@ URL:https://scoutingevent.com/039-119280
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ad25b7097a13@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270508T200000Z
 DTEND:20270508T200000Z
 SUMMARY:Environmental Science Merit Badge PM (Ages 11 to 17)
@@ -1084,7 +1008,7 @@ URL:https://scoutingevent.com/039-119425
 END:VEVENT
 BEGIN:VEVENT
 UID:279739@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270522T000000Z
 DTEND:20270522T040000Z
 SUMMARY:CPR/AED & First Aid 2027 – May - CPR/AED & First Aid
@@ -1102,7 +1026,7 @@ URL:https://global.scoutingevent.com/055-123926
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-05-22-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270522T160000Z
 DTEND:20270522T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -1117,7 +1041,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:279740@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270612T000000Z
 DTEND:20270612T040000Z
 SUMMARY:CPR/AED & First Aid 2027 – June - CPR/AED & First Aid
@@ -1135,7 +1059,7 @@ URL:https://global.scoutingevent.com/055-123926
 END:VEVENT
 BEGIN:VEVENT
 UID:275820@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270613T200000Z
 DTEND:20270619T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 1
@@ -1154,7 +1078,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-06-19-326a@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270619T160000Z
 DTEND:20270619T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -1169,7 +1093,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:275821@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270620T200000Z
 DTEND:20270626T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 2
@@ -1188,7 +1112,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276101@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270620T200000Z
 DTEND:20270623T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 1
@@ -1206,7 +1130,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276102@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270623T200000Z
 DTEND:20270626T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 2
@@ -1224,7 +1148,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-06-26-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270626T160000Z
 DTEND:20270626T200000Z
 SUMMARY:Railroading Merit Badge Program
@@ -1239,7 +1163,7 @@ URL:https://socalrailway.org/scrm-events/merit-badge-program/
 END:VEVENT
 BEGIN:VEVENT
 UID:268230@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270627T200000Z
 DTEND:20270703T160000Z
 SUMMARY:2027 Adventure Week Camp Hi-Sierra
@@ -1257,7 +1181,7 @@ URL:https://global.scoutingevent.com/055-Venturing27CHS
 END:VEVENT
 BEGIN:VEVENT
 UID:275822@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270627T200000Z
 DTEND:20270703T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 3
@@ -1276,7 +1200,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:276106@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270627T200000Z
 DTEND:20270630T170000Z
 SUMMARY:CAMP WINTON CUBS 2027 – Cub Camp Session 3
@@ -1294,7 +1218,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276103@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270630T200000Z
 DTEND:20270703T163000Z
 SUMMARY:CAMP WINTON CUBS 2027 – AOL and Webelos Camp
@@ -1312,7 +1236,7 @@ URL:https://global.scoutingevent.com/047-CampWintonCubs2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275823@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270704T200000Z
 DTEND:20270710T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 4
@@ -1331,7 +1255,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273327@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270704T200000Z
 DTEND:20270710T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 1
@@ -1349,7 +1273,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275824@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270711T200000Z
 DTEND:20270717T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 5
@@ -1368,7 +1292,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273328@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270711T200000Z
 DTEND:20270717T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 2
@@ -1386,7 +1310,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275825@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270718T200000Z
 DTEND:20270724T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 6
@@ -1405,7 +1329,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:273331@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270718T200000Z
 DTEND:20270724T163000Z
 SUMMARY:CAMP WINTON SCOUTS BSA 2027 – Scouts BSA Camp Week 3
@@ -1423,7 +1347,7 @@ URL:https://global.scoutingevent.com/047-CampWintonSBSA2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275826@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270725T200000Z
 DTEND:20270731T170000Z
 SUMMARY:2027 Camp Chawanakee – Week 7
@@ -1442,7 +1366,7 @@ URL:https://global.scoutingevent.com/027-27Chawanakee
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-08-06-326a@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270806T160000Z
 DTEND:20270806T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -1457,7 +1381,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:278520@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270828T150000Z
 DTEND:20270911T000000Z
 SUMMARY:2027 Yolano District Merit Badge Trail Drive – Merit Badge Trail
@@ -1481,7 +1405,7 @@ URL:https://global.scoutingevent.com/047-123287
 END:VEVENT
 BEGIN:VEVENT
 UID:p-international-printing-museum-2027-09-11-326a@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270911T160000Z
 DTEND:20270911T220000Z
 SUMMARY:BSA Merit Badge Day: Graphic Arts + Pulp and Paper
@@ -1496,7 +1420,7 @@ URL:https://www.printmuseum.org/meritbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:277721@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20271009T150000Z
 DTEND:20271009T200000Z
 SUMMARY:Monster Mountain at Camp Terrorquitz 2027 – Tahquitz - Sat. MB C
@@ -1517,7 +1441,7 @@ URL:https://global.scoutingevent.com/032-MonsterMountain2027
 END:VEVENT
 BEGIN:VEVENT
 UID:bp-ce2cc2b9e5f0@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20271023T144500Z
 DTEND:20271023T144500Z
 SUMMARY:Merit Badge Saturday (PX)
@@ -1539,7 +1463,7 @@ URL:https://scoutingevent.com/047-123586
 END:VEVENT
 BEGIN:VEVENT
 UID:p-southern-california-railway-museum-2027-10-23-519e@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20271023T160000Z
 DTEND:20271023T200000Z
 SUMMARY:Railroading Merit Badge Program

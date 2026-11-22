@@ -6,48 +6,8 @@ X-WR-CALNAME:Scout Events – Massachusetts Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:277961@scout-event-finder
-DTSTAMP:20261121T175832Z
-DTSTART:20261121T140000Z
-DTEND:20261121T180000Z
-SUMMARY:Compsite Materials MB with Hull Lifesaving museum – Composite Ma
- terials with Hull Lifesaving museum
-LOCATION:Hull Lifesaving Museum\, Hull\, Massachusetts
-DESCRIPTION:Mayflower Council\nhttps://global.scoutingevent.com/251-Compos
- iteMaterialsMB112126\n\nComposite Materials\, Engineering\, Lifesaving\n\
- nUnleash Your Inner Engineer: Earn Your Composite Materials Merit Badge w
- ith the Hull Lifesaving Museum!\nWhat do racing kayaks\, modern aircraft\
- , space shuttles\, and historical boat restoration all have in common? Hi
- gh-tech Composite Materials! Join us on Saturday\, November 21st\, at the
-  Hull Lifesaving Museum Boathouse for an incredible\, hands-on day of sci
- ence\, engineering\, and craftsmanship.\nSet right on the waterfront wher
- e tradition meets innovation\, this workshop lets Scouts dive deep into t
- h
-URL:https://global.scoutingevent.com/251-CompositeMaterialsMB112126
-END:VEVENT
-BEGIN:VEVENT
-UID:272853@scout-event-finder
-DTSTAMP:20261121T175832Z
-DTSTART:20261121T140000Z
-DTEND:20261121T180000Z
-SUMMARY:Geocaching with Hull Lifesaving museum
-LOCATION:Hull Lifesaving Museum\, Hull\, Massachusetts
-DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
-  be closed. Confirm with the organizer.\n\nMayflower Council\nhttps://glo
- bal.scoutingevent.com/251-GeocachingMB101026\n\nFirst Aid\, Geocaching\, 
- Lifesaving\, Weather\, Leave No Trace\n\nReady for a Real-Life Treasure H
- unt? Earn Your Geocaching Merit Badge with the Hull Lifesaving Museum!\nC
- alling all adventurous Scouts!\nAre you ready to turn navigation into a h
- igh-tech\, outdoor treasure hunt? Join us at the Hull Lifesaving Museum B
- oathouse on Saturday\, October 10th for an exciting\, hands-on day of exp
- loration\, learning\, and fun as we conquer the Geocaching Merit Badge!\n
- Set against the beautiful backdrop of Hull's historic waterfront\, this a
- ction-packed event combines modern GPS 
-URL:https://global.scoutingevent.com/251-GeocachingMB101026
-END:VEVENT
-BEGIN:VEVENT
 UID:276403@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261205T140000Z
 DTEND:20261205T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 4
@@ -66,7 +26,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:277651@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261206T150000Z
 DTEND:20261206T163000Z
 SUMMARY:Reptile and Amphibian Study Merit Badge at the South Shore YMCA Na
@@ -86,7 +46,7 @@ URL:https://global.scoutingevent.com/251-ReptileAmphibianMB120626
 END:VEVENT
 BEGIN:VEVENT
 UID:277653@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261206T170000Z
 DTEND:20261206T183000Z
 SUMMARY:Sustainability Merit Badge at the South Shore YMCA Nature Center 
@@ -106,7 +66,7 @@ URL:https://global.scoutingevent.com/251-SustainabilityMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276404@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261212T140000Z
 DTEND:20261212T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 5
@@ -125,7 +85,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:276409@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261219T140000Z
 DTEND:20261219T163000Z
 SUMMARY:Radio Merit Badge with NE Sci-Tech – Radio Merit Badge Session 6
@@ -144,7 +104,7 @@ URL:https://global.scoutingevent.com/251-RadioMB2026
 END:VEVENT
 BEGIN:VEVENT
 UID:237628@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20261227T210000Z
 DTEND:20261230T170000Z
 SUMMARY:Winter Camp – Winter Camp 2026
@@ -164,7 +124,7 @@ URL:https://global.scoutingevent.com/251-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:279288@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270116T143000Z
 DTEND:20270116T170000Z
 SUMMARY:Photography Merit Badge with Ken Berman – Photography Merit Badg
@@ -183,7 +143,7 @@ URL:https://global.scoutingevent.com/251-PhotographyMB01162027
 END:VEVENT
 BEGIN:VEVENT
 UID:260904@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270711T150000Z
 DTEND:20270717T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 1
@@ -201,7 +161,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261197@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270718T150000Z
 DTEND:20270724T140000Z
 SUMMARY:Scout BSA Camp 2027 – Week 2
@@ -219,7 +179,7 @@ URL:https://global.scoutingevent.com/234-ScoutBSACamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261198@scout-event-finder
-DTSTAMP:20261121T175832Z
+DTSTAMP:20261122T181340Z
 DTSTART:20270725T150000Z
 DTEND:20270731T140000Z
 SUMMARY:Scout BSA Camp 2027 – Specialty Week
