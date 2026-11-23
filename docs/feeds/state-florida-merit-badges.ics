@@ -6,26 +6,8 @@ X-WR-CALNAME:Scout Events – Florida Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:267692@scout-event-finder
-DTSTAMP:20261122T181340Z
-DTSTART:20261120T210000Z
-DTEND:20261122T160000Z
-SUMMARY:Eagle Empire District Fall Camporee
-LOCATION:Camp La No Che\, Paisley\, Florida
-DESCRIPTION:Central Florida Council\nhttps://global.scoutingevent.com/083-
- EagleEmpireDistrictFallCamporee\n\nCanoeing\n\nThe Fall Camporee is theme
- d to celebrate the 250th Annniversary of the US. Please join us for a wee
- kend of scout skills and fellowship! See below for details on the events.
- \nCrossing the Delaware: Canoe skills. Patrols will compete using a varie
- ty of skills from Canoeing Merit Badge including a figure 8 course\, swap
- ping positions\, and capsizing. Scoring by time trials.\nScout Spirit: Ov
- erall competition. The patrol who best exemplifies Scout Spirit through t
- heir yells\, cheers\, costuming\, and sport
-URL:https://global.scoutingevent.com/083-EagleEmpireDistrictFallCamporee
-END:VEVENT
-BEGIN:VEVENT
 UID:255890@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20261227T154500Z
 DTEND:20261230T220000Z
 SUMMARY:2026 Winter Camp – Winter Camp
@@ -43,7 +25,7 @@ URL:https://global.scoutingevent.com/089-111522
 END:VEVENT
 BEGIN:VEVENT
 UID:271176@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20261227T190000Z
 DTEND:20261231T160000Z
 SUMMARY:2026 Scouts BSA Winter Camp
@@ -60,8 +42,26 @@ DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-winte
 URL:https://global.scoutingevent.com/773-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
+UID:260659@scout-event-finder
+DTSTAMP:20261123T222849Z
+DTSTART:20270109T190000Z
+DTEND:20270110T010000Z
+SUMMARY:Astronomy Merit Badge
+LOCATION:Sand Hill Scout Reservation\, Brooksville\, Florida
+DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
+ om/089-113694\n\nAstronomy\n\nEVENT IS FROM 2 to 8pm at Sand Hill Scout R
+ eservation- Dining Hall\nIn learning about astronomy\, Scouts study how a
+ ctivities in space affect our own planet and bear witness to the wonders 
+ of the night sky: the nebulae\, or giant clouds of gas and dust where new
+  stars are born\; old stars dying and exploding\; meteor showers and shoo
+ ting stars\; the moon\, planets\, and a dazzling array of stars.\nThe Vil
+ lages Astronomy Club will be hosting this merit badge.  They will be bri
+ nging in telescopes for the s
+URL:https://global.scoutingevent.com/089-113694
+END:VEVENT
+BEGIN:VEVENT
 UID:270381@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270116T130000Z
 DTEND:20270116T220000Z
 SUMMARY:Scouting in the Wild at Lion Country Safari
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/085-EGSITW
 END:VEVENT
 BEGIN:VEVENT
 UID:274988@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270116T150000Z
 DTEND:20270116T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -98,7 +98,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:274989@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -116,8 +116,44 @@ DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-IRMB
 URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
+UID:260373@scout-event-finder
+DTSTAMP:20261123T222849Z
+DTSTART:20270118T130000Z
+DTEND:20270118T200000Z
+SUMMARY:Merit Badge Day- CEMEX
+LOCATION:Cemex\, Brooksville\, Florida
+DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
+ om/089-113504\n\nGeology\, Mining in Society\, Safeguarding Youth / YPT\n
+ \nGet ready\, Scouts! On January 18th from 8:00AM - 3:00PM\, we'll be hea
+ ding out to the CEMEX quarry for a day of adventure! Cemex is hosting Geo
+ logy and Mining in Society Merit Badge Class.\nAll Scouts will meet us at
+  the parking of  Applebee's is located at 20090 Cortez Blvd\, Brooksvill
+ e. The bus departs at 8:30 am sharp\, so don't be late! Personal vehicles
+  aren't allowed on quarry property\, so that is the reason we meet at App
+ lebees.  The scouts will be using a charter bus provided by CEMEX.\nPare
+URL:https://global.scoutingevent.com/089-113504
+END:VEVENT
+BEGIN:VEVENT
+UID:279633@scout-event-finder
+DTSTAMP:20261123T222849Z
+DTSTART:20270123T000000Z
+DTEND:20270124T170000Z
+SUMMARY:Rifle Merit Badge Weekend
+LOCATION:Sand Hill Scout Reservation\, Brooksville\, Florida
+DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
+ om/089-123876\n\nRifle Shooting\n\nReady\, Aim\, Earn!\nRifle Shooting Me
+ rit Badge Weekend\nJanuary 22–24\, 2027 | Sand Hill Scout Reservation\n
+ Take aim at adventure and earn your Rifle Shooting Merit Badge!\nGet read
+ y for an action-packed weekend of marksmanship\, skill-building\, and Sco
+ uting fun at Sand Hill Scout Reservation! Whether you're new to rifle sho
+ oting or looking to sharpen your skills\, this weekend is your chance to 
+ learn from experienced instructors\, improve your accuracy\, and build co
+ nfidence on the range.\nScouts will lea
+URL:https://global.scoutingevent.com/089-123876
+END:VEVENT
+BEGIN:VEVENT
 UID:270512@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270219T220000Z
 DTEND:20270221T160000Z
 SUMMARY:Rescueree
@@ -136,7 +172,7 @@ URL:https://global.scoutingevent.com/089-119039
 END:VEVENT
 BEGIN:VEVENT
 UID:272858@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270220T143000Z
 DTEND:20270220T183000Z
 SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
@@ -154,7 +190,7 @@ URL:https://global.scoutingevent.com/089-120401
 END:VEVENT
 BEGIN:VEVENT
 UID:276578@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Youth Law Day
@@ -172,7 +208,7 @@ URL:https://global.scoutingevent.com/085-YouthLawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:257836@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270606T180000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
@@ -190,7 +226,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257837@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
@@ -208,7 +244,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:257857@scout-event-finder
-DTSTAMP:20261122T181340Z
+DTSTAMP:20261123T222849Z
 DTSTART:20271227T180000Z
 DTEND:20271231T153000Z
 SUMMARY:2027 Scouts BSA Winter Camp

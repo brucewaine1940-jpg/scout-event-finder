@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -117,7 +117,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-22",
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
@@ -128,78 +127,15 @@
     "2026-11-30",
     "2026-12-01",
     "2026-12-02",
-    "2026-12-03"
+    "2026-12-03",
+    "2026-12-04"
    ],
-   "count": 1328,
+   "count": 1327,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Badwater Basin Ranger Talk",
-   "where": "Badwater Basin",
-   "time": "10:00 AM - 10:45 AM",
-   "nextDates": [
-    "2026-11-22"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.229805,
-   "lng": -116.767413,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Visit an extreme part of the park and learn about the unique forces that create the lowest, hottest and driest place in North America."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Golden Canyon Hike",
-   "where": "Meet at the Golden Canyon Trailhead Parking Lot",
-   "time": "08:30 AM - 09:30 AM",
-   "nextDates": [
-    "2026-11-22"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.420758,
-   "lng": -116.846719,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Hike with a ranger through one of Death Valley’s most popular and beautiful canyons. Easy walk with one small scramble. Approximately 1 mile. Bring water, a hat and hiking shoes."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Harmony Borax Works Ranger Program",
-   "where": "Meet at Harmony Borax Works Parking Area",
-   "time": "01:00 PM - 01:45 PM",
-   "nextDates": [
-    "2026-11-22"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.480004,
-   "lng": -116.873346,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Learn about fascinating mining history in Death Valley. 20 mule team wagons, borax, fortunes and more! Easy 1/3 mile walk on a paved path."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Junior Ranger Ceremony",
-   "where": "Furnace Creek Visitor Center",
-   "time": "08:30 AM - 08:45 AM",
-   "nextDates": [
-    "2026-11-22"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": null,
-   "lng": null,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Be sworn in as an offical Death Valley Junior Ranger! Bring a completed Junior Ranger Book to earn a badge."
   },
   {
    "park": "Death Valley National Park",
@@ -716,42 +652,24 @@
   {
    "park": "Joshua Tree National Park",
    "parkCode": "jotr",
-   "title": "Climber Coffee",
-   "where": "The program is set up in between the intersection Rock parking area and Hidden Valley Campground.",
-   "time": "08:00 AM - 10:00 AM",
-   "nextDates": [
-    "2026-11-22",
-    "2026-11-28",
-    "2026-11-29",
-    "2026-12-05",
-    "2026-12-06",
-    "2026-12-12",
-    "2026-12-13",
-    "2026-12-19",
-    "2026-12-20",
-    "2026-12-26",
-    "2026-12-27",
-    "2027-01-02"
-   ],
-   "count": 37,
-   "free": true,
-   "lat": 34.016073,
-   "lng": -116.162846,
-   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
-   "about": "Enjoy some from free coffee, tea, or hot coco while chatting with fellow climbers about best climbing routes, shady or sunny crags, or learn about the park's resources. Meet the Climber Stewards, play some trivia, and meet up with your friends and community. Bring your own mug!"
-  },
-  {
-   "park": "Joshua Tree National Park",
-   "parkCode": "jotr",
    "title": "Keys Ranch Tour",
    "where": "Reservations Required\n\nKeys Ranch tours begin at the Keys Ranch locked gate and parking area (not at the visitor center).",
    "time": "09:30 AM - 11:30 AM",
    "nextDates": [
     "2026-11-23",
     "2026-11-24",
-    "2026-11-30"
+    "2026-11-25",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-11-30",
+    "2026-12-01",
+    "2026-12-03",
+    "2026-12-04",
+    "2026-12-05"
    ],
-   "count": 3,
+   "count": 32,
    "free": false,
    "lat": 34.029989,
    "lng": -116.162181,
@@ -786,13 +704,120 @@
    "about": "RESERVATIONS REQUIRED Join Joshua Tree National Park Astronomy Rangers to learn about star clusters, planets, nebulae, and experience a naturally dark night sky! Programs will feature an astronomy talk, a constellation tour and telescopes. Pets are not permitted on the Observatory campus and cannot be left unattended in vehicles."
   },
   {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Climber Coffee",
+   "where": "The program is set up in between the intersection Rock parking area and Hidden Valley Campground.",
+   "time": "08:00 AM - 10:00 AM",
+   "nextDates": [
+    "2026-11-28",
+    "2026-11-29",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-12",
+    "2026-12-13",
+    "2026-12-19",
+    "2026-12-20",
+    "2026-12-26",
+    "2026-12-27",
+    "2027-01-02",
+    "2027-01-03"
+   ],
+   "count": 36,
+   "free": true,
+   "lat": 34.016073,
+   "lng": -116.162846,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "Enjoy some from free coffee, tea, or hot coco while chatting with fellow climbers about best climbing routes, shady or sunny crags, or learn about the park's resources. Meet the Climber Stewards, play some trivia, and meet up with your friends and community. Bring your own mug!"
+  },
+  {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Keys Ranch Tour",
+   "where": "Reservations Required\n\nKeys Ranch tours begin at the Keys Ranch locked gate and parking area (not at the visitor center).",
+   "time": "01:00 PM - 03:00 PM",
+   "nextDates": [
+    "2026-11-30",
+    "2026-12-01",
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-07",
+    "2026-12-08",
+    "2026-12-09",
+    "2026-12-11",
+    "2026-12-12",
+    "2026-12-13",
+    "2026-12-14",
+    "2026-12-15"
+   ],
+   "count": 23,
+   "free": false,
+   "lat": 34.03028,
+   "lng": -116.161983,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "Join us on a ranger-led tour and learn about the cultural history of Keys Ranch. Topics include Native American history, mining, ranching, homesteading, the Keys family, and the site’s transition into a protected historical site. Joshua Tree National Park acknowledges the 15 associated tribal communities as the original stewards of the land on which Joshua Tree National Park now sits. We are grate"
+  },
+  {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Ranger Stroll",
+   "where": "Cap Rock Parking Lot",
+   "time": "10:00 AM - 10:45 AM",
+   "nextDates": [
+    "2026-12-01",
+    "2026-12-02",
+    "2026-12-03",
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07",
+    "2026-12-08",
+    "2026-12-09",
+    "2026-12-11",
+    "2026-12-12",
+    "2026-12-13"
+   ],
+   "count": 25,
+   "free": true,
+   "lat": null,
+   "lng": null,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "Join a ranger to learn about various topics like plants, animals, geology, cultural history, and more."
+  },
+  {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Ranger Stroll",
+   "where": "Cap Rock Parking Lot",
+   "time": "03:00 PM - 03:45 PM",
+   "nextDates": [
+    "2026-12-01",
+    "2026-12-02",
+    "2026-12-03",
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07",
+    "2026-12-08",
+    "2026-12-09",
+    "2026-12-11",
+    "2026-12-12",
+    "2026-12-13"
+   ],
+   "count": 25,
+   "free": true,
+   "lat": null,
+   "lng": null,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "Join a ranger to learn about various topics like plants, animals, geology, cultural history, and more."
+  },
+  {
    "park": "Pinnacles National Park",
    "parkCode": "pinn",
    "title": "Prewett Point Guided Hike",
    "where": "Join us at the West Visitor Contact Station near the Prewett Point Trailhead on the west side of the park.",
    "time": "10:30 AM - 12:00 PM",
    "nextDates": [
-    "2026-11-22",
     "2026-11-28",
     "2026-11-29",
     "2026-12-05",
@@ -804,7 +829,7 @@
     "2026-12-26",
     "2026-12-27"
    ],
-   "count": 11,
+   "count": 10,
    "free": true,
    "lat": 36.477513,
    "lng": -121.225882,
@@ -818,7 +843,6 @@
    "where": "Join us at the Bear Gulch Nature Center on the east side of the park.",
    "time": "01:00 PM - 01:30 PM",
    "nextDates": [
-    "2026-11-22",
     "2026-11-28",
     "2026-11-29",
     "2026-12-05",
@@ -830,106 +854,12 @@
     "2026-12-26",
     "2026-12-27"
    ],
-   "count": 11,
+   "count": 10,
    "free": true,
    "lat": 36.481363,
    "lng": -121.180805,
    "url": "https://www.nps.gov/pinn/planyourvisit/calendar.htm",
    "about": "Learn about Pinnacles' amazing resources with a ranger as they discuss topics varying from wildlife to geology, to history."
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Get to Know Sequoias (Grant Grove Area)",
-   "where": "Meet at the base of the General Grant Tree.",
-   "time": "11:00 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-22",
-    "2026-11-29"
-   ],
-   "count": 2,
-   "free": true,
-   "lat": 36.748213,
-   "lng": -118.971258,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Ranger's Choice Talk (Grant Grove Area)",
-   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
-   "time": "02:00 PM - 02:30 PM",
-   "nextDates": [
-    "2026-11-22",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-26",
-    "2026-11-27",
-    "2026-11-28",
-    "2026-11-29",
-    "2026-11-30"
-   ],
-   "count": 8,
-   "free": true,
-   "lat": 36.74023,
-   "lng": -118.962665,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Sequoia Basics (Giant Forest Area)",
-   "where": "Meet at the base of the General Sherman Tree.",
-   "time": "11:00 AM - 11:30 AM",
-   "nextDates": [
-    "2026-11-22",
-    "2026-11-28",
-    "2026-11-29"
-   ],
-   "count": 3,
-   "free": true,
-   "lat": 36.581552,
-   "lng": -118.751526,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Program Description Visitors from around the world come to marvel at the most massive trees on Earth. This short program explores giant sequoias—their size, traits, and challenges—while highlighting the General Sherman Tree. Program Details Length: 15–20 minutes Location: General Sherman Tree Seating: No seating provided; this is a standing program. Getting There Parking: General parking at the Ma"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Sign of the Times (Foothills Area)",
-   "where": "Sequoia Entrance Sign (0.25 miles from Three Rivers entrance station)",
-   "time": "10:00 AM - 11:00 AM",
-   "nextDates": [
-    "2026-11-22",
-    "2026-11-28",
-    "2026-11-29"
-   ],
-   "count": 3,
-   "free": true,
-   "lat": 36.487057,
-   "lng": -118.836772,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Program Description Learn the story behind Sequoia’s iconic entrance sign and how its meaning has evolved over time. Chat with a ranger to explore its origins, cultural context, and what it represents today. Program Details Length: Anytime between 10 am and 11 am Location: Along the sidewalk by the Sequoia Entrance Sign (0.25 miles from Three Rivers entrance station) Seating: No seating is provide"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
-   "title": "Stories in Stone (Foothills Area)",
-   "where": "Hospital Rock Picnic Area",
-   "time": "02:00 PM - 03:00 PM",
-   "nextDates": [
-    "2026-11-22",
-    "2026-11-28",
-    "2026-11-29"
-   ],
-   "count": 3,
-   "free": true,
-   "lat": null,
-   "lng": null,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Explore Pah‑din , once a vibrant village inhabited by Native Americans, to discover ancient pictographs and enduring cultural connections that thrive in this remarkable riverside place. Come visit us at Hospital Rock Picnic Area for 5 minutes or for an hour, anytime between 2 pm and 3 pm."
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",
@@ -955,6 +885,28 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
+   "title": "Ranger's Choice Talk (Grant Grove Area)",
+   "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
+   "time": "02:00 PM - 02:30 PM",
+   "nextDates": [
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-26",
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29",
+    "2026-11-30"
+   ],
+   "count": 7,
+   "free": true,
+   "lat": 36.74023,
+   "lng": -118.962665,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
    "title": "Among the Giants Walk (Grant Grove Area)",
    "where": "Meet at the Grant Tree Trailhead",
    "time": "11:00 AM - 12:00 PM",
@@ -969,6 +921,89 @@
    "lng": -118.973092,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Sequoia Basics (Giant Forest Area)",
+   "where": "Meet at the base of the General Sherman Tree.",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "count": 2,
+   "free": true,
+   "lat": 36.581552,
+   "lng": -118.751526,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description Visitors from around the world come to marvel at the most massive trees on Earth. This short program explores giant sequoias—their size, traits, and challenges—while highlighting the General Sherman Tree. Program Details Length: 15–20 minutes Location: General Sherman Tree Seating: No seating provided; this is a standing program. Getting There Parking: General parking at the Ma"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Sign of the Times (Foothills Area)",
+   "where": "Sequoia Entrance Sign (0.25 miles from Three Rivers entrance station)",
+   "time": "10:00 AM - 11:00 AM",
+   "nextDates": [
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "count": 2,
+   "free": true,
+   "lat": 36.487057,
+   "lng": -118.836772,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Program Description Learn the story behind Sequoia’s iconic entrance sign and how its meaning has evolved over time. Chat with a ranger to explore its origins, cultural context, and what it represents today. Program Details Length: Anytime between 10 am and 11 am Location: Along the sidewalk by the Sequoia Entrance Sign (0.25 miles from Three Rivers entrance station) Seating: No seating is provide"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Stories in Stone (Foothills Area)",
+   "where": "Hospital Rock Picnic Area",
+   "time": "02:00 PM - 03:00 PM",
+   "nextDates": [
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "count": 2,
+   "free": true,
+   "lat": null,
+   "lng": null,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Explore Pah‑din , once a vibrant village inhabited by Native Americans, to discover ancient pictographs and enduring cultural connections that thrive in this remarkable riverside place. Come visit us at Hospital Rock Picnic Area for 5 minutes or for an hour, anytime between 2 pm and 3 pm."
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Get to Know Sequoias (Grant Grove Area)",
+   "where": "Meet at the base of the General Grant Tree.",
+   "time": "11:00 AM - 11:30 AM",
+   "nextDates": [
+    "2026-11-29"
+   ],
+   "count": 1,
+   "free": true,
+   "lat": 36.748213,
+   "lng": -118.971258,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Gain a new appreciation for the significance of giant sequoias. Meet at the General Grant Tree for this ranger-led talk. Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that leads around the General Grant Tree includes stairs, b"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "101st Annual Trek to the Nation's Christmas Tree",
+   "where": "General Grant Tree, Grant Grove, Kings Canyon National Park.\n\nShoe traction may be needed if there is ice or snow on the trail. Call 559-565-3341 (1,1) to check road conditions before driving up. Wheelchair access may not be possible this time of year due to snow and ice.",
+   "time": "02:30 PM - 04:00 PM",
+   "nextDates": [
+    "2026-12-13"
+   ],
+   "count": 1,
+   "free": true,
+   "lat": 36.74804,
+   "lng": -118.971414,
+   "url": "https://www.sanger.org/nation-christmas-tree-city-history/",
+   "about": "Join us, in partnership with Sanger District Chamber of Commerce, for the 101 st Annual Trek to the Nation's Christmas Tree celebration. The General Grant Tree is recognized as the Nation's Christmas Tree and a National Shrine in memory of the men and women of the Armed Forces who have served and fought and died to keep this Nation free. The event program will include caroling, remarks from the pa"
   }
  ]
 }
