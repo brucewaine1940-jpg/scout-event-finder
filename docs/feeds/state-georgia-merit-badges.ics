@@ -6,8 +6,26 @@ X-WR-CALNAME:Scout Events – Georgia Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:280019@scout-event-finder
+DTSTAMP:20261124T210621Z
+DTSTART:20261221T140000Z
+DTEND:20261221T180000Z
+SUMMARY:Military Service and Veterans Merit Badge – Jan 2027 Art
+LOCATION:Georgia-Carolina Nature & Adventure Center\, Evans\, Georgia
+DESCRIPTION:Georgia-Carolina Council\nhttps://global.scoutingevent.com/093
+ -mil\n\nArt\, Nature\n\nThe Military Service & Veterans Badge invites Sco
+ uts to explore the values\, history\, and human stories behind military s
+ ervice. Designed to deepen understanding and foster respect\, this badge 
+ connects Scouts with the heritage of our Armed Forces and the individuals
+  who have served our nation with courage and commitment.\nThrough hands-o
+ n learning\, meaningful conversations\, and active community involvement\
+ , Scouts develop a richer appreciation for service\, leadership\, peace\,
+  and patriotism.\nWhen &
+URL:https://global.scoutingevent.com/093-mil
+END:VEVENT
+BEGIN:VEVENT
 UID:269353@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20261227T180000Z
 DTEND:20261231T140000Z
 SUMMARY:Bert Adams Winter Camp 2026 – Winter Camp 2026
@@ -26,7 +44,7 @@ URL:https://global.scoutingevent.com/092-Winter26
 END:VEVENT
 BEGIN:VEVENT
 UID:274861@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270206T133000Z
 DTEND:20270206T220000Z
 SUMMARY:Shooting Sports Merit Badge Day – Rifle Merit Badge
@@ -44,7 +62,7 @@ URL:https://global.scoutingevent.com/093-121383
 END:VEVENT
 BEGIN:VEVENT
 UID:277507@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270212T150000Z
 DTEND:20270212T183000Z
 SUMMARY:Art Merit Badge – Jan 2027 Art
@@ -62,7 +80,7 @@ URL:https://global.scoutingevent.com/093-artmb
 END:VEVENT
 BEGIN:VEVENT
 UID:269914@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270213T130000Z
 DTEND:20270213T170000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -81,7 +99,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:271603@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270227T130000Z
 DTEND:20270227T190000Z
 SUMMARY:Porsche Automotive Maintenance Merit Badge Day – Porsche Automot
@@ -100,7 +118,7 @@ URL:https://global.scoutingevent.com/092-porscheautomotive
 END:VEVENT
 BEGIN:VEVENT
 UID:275750@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270508T114500Z
 DTEND:20270508T193000Z
 SUMMARY:Spring Merit Badge Day 2027 – Merit Badge Classes
@@ -122,7 +140,7 @@ URL:https://global.scoutingevent.com/095-121802
 END:VEVENT
 BEGIN:VEVENT
 UID:259293@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270613T040000Z
 DTEND:20270620T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 1
@@ -140,7 +158,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:259294@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270620T040000Z
 DTEND:20270627T035900Z
 SUMMARY:Frank G. Lumpkin 2027 Summer Camp – Summer Camp Week 2
@@ -158,7 +176,7 @@ URL:https://global.scoutingevent.com/091-112999
 END:VEVENT
 BEGIN:VEVENT
 UID:279308@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270828T120000Z
 DTEND:20270828T200000Z
 SUMMARY:Personal Management Merit Badge Day
@@ -177,29 +195,31 @@ URL:https://global.scoutingevent.com/092-123736
 END:VEVENT
 BEGIN:VEVENT
 UID:279310@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20270924T220000Z
 DTEND:20270926T160000Z
 SUMMARY:Scout Skills
 LOCATION:Woodruff Scout Camp\, Blairsville\, Georgia
-DESCRIPTION:Atlanta Area Council\nhttps://global.scoutingevent.com/092-123
- 738\n\nArchery\, Astronomy\, Automotive Maintenance\, Camping\, Chess\, C
- ommunication\, Composite Materials\, Digital Technology\, Engineering\, F
- irst Aid\, Home Repairs\, Orienteering\, Painting\, Pioneering\, Plumbing
- \, Robotics\, Swimming\, Welding\, CPR / AED / First Aid\, Merit Badge Co
- unselor\, Safeguarding Youth / YPT\n\nSCOUT SKILLS WEEKEND\nWhen: Septem
- ber 11-13\, 2026\nWhere: Woodruff Scout Camp\nCost: $80 per Scout $20 p
- er Scouter\nRegistration Closed to Particpants\nCalling All New and Retur
- ning Scouts\nWhether you're just beginning your Scouting journey or worki
- ng toward your next rank or merit badge\, Scout Skills Weekend has someth
- ing for everyone. Join us for a weekend of learning\, adventure\, and fun
- !\nWhat's Included\nRegistration includes all meals and program materials
- . Youth participants receive a commemorati
+DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
+  be closed. Confirm with the organizer.\n\nAtlanta Area Council\nhttps://
+ global.scoutingevent.com/092-123738\n\nArchery\, Astronomy\, Automotive M
+ aintenance\, Camping\, Chess\, Communication\, Composite Materials\, Digi
+ tal Technology\, Engineering\, First Aid\, Home Repairs\, Orienteering\, 
+ Painting\, Pioneering\, Plumbing\, Robotics\, Swimming\, Welding\, CPR / 
+ AED / First Aid\, Merit Badge Counselor\, Safeguarding Youth / YPT\n\nSCO
+ UT SKILLS WEEKEND\nWhen: September 11-13\, 2026\nWhere: Woodruff Scout 
+ Camp\nCost: $80 per Scout $20 per Scouter\nRegistration Closed to Partic
+ pants\nCalling All New and Returning Scouts\nWhether you're just beginnin
+ g your Scouting journey or working toward your next rank or merit badge\,
+  Scout Skills Weekend has something for everyone. Join us for a weekend o
+ f learning\, adventure\, and fun!\nWhat's Included\nRegistration includes
+  all meals and program materials. Youth participants receive a commemor
+ ati
 URL:https://global.scoutingevent.com/092-123738
 END:VEVENT
 BEGIN:VEVENT
 UID:275747@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20271106T114500Z
 DTEND:20271106T193000Z
 SUMMARY:Fall Merit Badge Day 2027 – Merit Badge Classes
@@ -221,7 +241,7 @@ URL:https://global.scoutingevent.com/095-121800
 END:VEVENT
 BEGIN:VEVENT
 UID:279306@scout-event-finder
-DTSTAMP:20261123T222849Z
+DTSTAMP:20261124T210621Z
 DTSTART:20271112T220000Z
 DTEND:20271114T170000Z
 SUMMARY:Conservation Weekend 2027

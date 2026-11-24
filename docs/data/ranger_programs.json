@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -117,7 +117,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-23",
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
@@ -128,30 +127,15 @@
     "2026-12-01",
     "2026-12-02",
     "2026-12-03",
-    "2026-12-04"
+    "2026-12-04",
+    "2026-12-05"
    ],
-   "count": 1327,
+   "count": 1326,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Junior Ranger Ceremony",
-   "where": "Furnace Creek Visitor Center",
-   "time": "08:30 AM - 08:45 AM",
-   "nextDates": [
-    "2026-11-23"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": null,
-   "lng": null,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Be sworn in as an offical Death Valley Junior Ranger! Bring a completed Junior Ranger Book to earn a badge."
   },
   {
    "park": "Death Valley National Park",
@@ -656,7 +640,6 @@
    "where": "Reservations Required\n\nKeys Ranch tours begin at the Keys Ranch locked gate and parking area (not at the visitor center).",
    "time": "09:30 AM - 11:30 AM",
    "nextDates": [
-    "2026-11-23",
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
@@ -667,9 +650,10 @@
     "2026-12-01",
     "2026-12-03",
     "2026-12-04",
-    "2026-12-05"
+    "2026-12-05",
+    "2026-12-06"
    ],
-   "count": 32,
+   "count": 31,
    "free": false,
    "lat": 34.029989,
    "lng": -116.162181,
@@ -868,14 +852,13 @@
    "where": "Meet in front of the Giant Forest Museum",
    "time": "11:00 AM - 11:30 AM",
    "nextDates": [
-    "2026-11-23",
     "2026-11-24",
     "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-30"
    ],
-   "count": 6,
+   "count": 5,
    "free": true,
    "lat": 36.564688,
    "lng": -118.772683,
@@ -889,7 +872,6 @@
    "where": "Bradley Meadow Benches in Grant Grove Village, across from Kings Canyon Visitor Center",
    "time": "02:00 PM - 02:30 PM",
    "nextDates": [
-    "2026-11-23",
     "2026-11-24",
     "2026-11-26",
     "2026-11-27",
@@ -897,7 +879,7 @@
     "2026-11-29",
     "2026-11-30"
    ],
-   "count": 7,
+   "count": 6,
    "free": true,
    "lat": 36.74023,
    "lng": -118.962665,
