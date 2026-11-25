@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:279147@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261206T180000Z
 DTEND:20261206T200000Z
 SUMMARY:Online Merit Badge College – Cit in Community - Dec 6th - 1:00 p
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:279149@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261213T180000Z
 DTEND:20261213T200000Z
 SUMMARY:Online Merit Badge College – Scouting Heritage - Dec 13th - 1:00
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/549-onlinembc
 END:VEVENT
 BEGIN:VEVENT
 UID:273861@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261218T220000Z
 DTEND:20261221T220000Z
 SUMMARY:Winter Camp 2026 – Winter Camp
@@ -69,7 +69,7 @@ URL:https://global.scoutingevent.com/553-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:278211@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261222T140000Z
 DTEND:20261222T173000Z
 SUMMARY:Wildland Fire Management Merit Badge Session – Wildlands Fire Ma
@@ -88,7 +88,7 @@ URL:https://global.scoutingevent.com/553-wildlandfirembday26
 END:VEVENT
 BEGIN:VEVENT
 UID:279971@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T140000Z
 DTEND:20270123T180000Z
 SUMMARY:Nuclear Science Merit Badge – Jan 2027 Nuclear Science
@@ -106,7 +106,7 @@ URL:https://global.scoutingevent.com/093-nucsci
 END:VEVENT
 BEGIN:VEVENT
 UID:278206@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270130T130000Z
 DTEND:20270130T213000Z
 SUMMARY:Scouts BSA Law Merit Badge Day
@@ -121,23 +121,5 @@ DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-la
  l be put into patrols during the day\, as well as parents who want to sta
  y and participate
 URL:https://global.scoutingevent.com/553-lawday27
-END:VEVENT
-BEGIN:VEVENT
-UID:271679@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271022T210000Z
-DTEND:20271024T140000Z
-SUMMARY:2027 Cub-O-Ween hosted by the Chicora District
-LOCATION:Thompson Farm\, Conway\, South Carolina
-DESCRIPTION:Indian Waters Council\nhttps://global.scoutingevent.com/553-11
- 9763\n\nCamping\n\n2027 Chicora District\nCUB-O-WEEN\nOctober 22-24\, 202
- 7\nCheck-in Friday Night 5 pm to 7 pm\nCost: Cub Scouts $30 Adults: $30 S
- iblings: $30\nThere is no on-site registration. All participants MUST pre
- -register.\nCost includes Event Patch\, Friday and Saturday night Camping
- \, Corn Maze\, Petting Zoo\, Tractor Wagon Ride\, Playground\, Jump Pads\
- , Craft Table\, target sports\, and more.\nEvery adult/child/sibling must
-  print\, complete\, and bring the Thompson Farm and Nursery Waiver attach
- ed to the event page. You w
-URL:https://global.scoutingevent.com/553-119763
 END:VEVENT
 END:VCALENDAR

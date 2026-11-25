@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:257247@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T133000Z
 DTEND:20261205T213000Z
 SUMMARY:Cherokee Service Day - December 5\, 2026 – Cherokee Service Day
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/070-deccsrserviceday
 END:VEVENT
 BEGIN:VEVENT
 UID:273451@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261212T130000Z
 DTEND:20261213T230000Z
 SUMMARY:NRA Basic & Instructor for Muzzleloading Rifle – NRA Muzzle Load
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/070-nramuzzleloading
 END:VEVENT
 BEGIN:VEVENT
 UID:267384@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261227T190000Z
 DTEND:20261230T230000Z
 SUMMARY:Winter Camp 2026 + Dec 27-30\, 2026 – Register
@@ -65,7 +65,7 @@ URL:https://global.scoutingevent.com/070-wintercamp
 END:VEVENT
 BEGIN:VEVENT
 UID:255938@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261228T150000Z
 DTEND:20261228T200000Z
 SUMMARY:Basic Life Support (BLS) and Standard First Aid Interactive 2026 
@@ -85,7 +85,7 @@ URL:https://global.scoutingevent.com/070-bls
 END:VEVENT
 BEGIN:VEVENT
 UID:267386@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261228T190000Z
 DTEND:20261230T220000Z
 SUMMARY:National Youth Leadership Training (NYLT) 2026 – Course XV: Week
@@ -104,7 +104,7 @@ URL:https://global.scoutingevent.com/070-nylt
 END:VEVENT
 BEGIN:VEVENT
 UID:255942@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261229T130000Z
 DTEND:20261229T220000Z
 SUMMARY:Wilderness First Aid (WFA) 2026 – December 29 WFA
@@ -123,7 +123,7 @@ URL:https://global.scoutingevent.com/070-wfa
 END:VEVENT
 BEGIN:VEVENT
 UID:276708@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T050000Z
 DTEND:20270118T045900Z
 SUMMARY:Polar Bear Winter Camp
@@ -141,7 +141,7 @@ URL:https://global.scoutingevent.com/426-PolarBear2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261892@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T220000Z
 DTEND:20270118T003000Z
 SUMMARY:2027 Winter Blast
@@ -159,7 +159,7 @@ URL:https://global.scoutingevent.com/421-WinterBlast27
 END:VEVENT
 BEGIN:VEVENT
 UID:278644@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T000000Z
 DTEND:20270117T170000Z
 SUMMARY:Wilderness First Aid Training (Winter 2027)
@@ -177,7 +177,7 @@ URL:https://global.scoutingevent.com/421-WFAWinter
 END:VEVENT
 BEGIN:VEVENT
 UID:278101@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T133000Z
 DTEND:20270116T214500Z
 SUMMARY:Polar Cub Day Camp + January 16\, 2027
@@ -195,7 +195,7 @@ URL:https://global.scoutingevent.com/070-polarcubday
 END:VEVENT
 BEGIN:VEVENT
 UID:263542@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T140000Z
 DTEND:20270118T220000Z
 SUMMARY:NYLT 2027
@@ -213,7 +213,7 @@ URL:https://global.scoutingevent.com/425-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:267387@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T180000Z
 DTEND:20270118T210000Z
 SUMMARY:National Youth Leadership Training (NYLT) 2026 – Course XV: Week
@@ -232,7 +232,7 @@ URL:https://global.scoutingevent.com/070-nylt
 END:VEVENT
 BEGIN:VEVENT
 UID:268786@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T140000Z
 DTEND:20270123T210000Z
 SUMMARY:Fundamentals of Training  Part 2 - Sponsored by North Star Distric
@@ -251,7 +251,7 @@ URL:https://global.scoutingevent.com/421-118162
 END:VEVENT
 BEGIN:VEVENT
 UID:273384@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270130T050000Z
 DTEND:20270131T045900Z
 SUMMARY:Buccaneer District Cub Fun Day
@@ -269,7 +269,7 @@ URL:https://global.scoutingevent.com/426-BDCFD26
 END:VEVENT
 BEGIN:VEVENT
 UID:271484@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270212T130000Z
 DTEND:20270214T220000Z
 SUMMARY:Tuscarora Council Wood Badge 15-424-27 – Weekend One
@@ -287,7 +287,7 @@ URL:https://global.scoutingevent.com/424-woodbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:246239@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270220T130000Z
 DTEND:20270220T213000Z
 SUMMARY:Trainers EDGE (Train the Trainer Series\, part 2)
@@ -305,7 +305,7 @@ URL:https://global.scoutingevent.com/421-107021
 END:VEVENT
 BEGIN:VEVENT
 UID:266350@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270226T050000Z
 DTEND:20270301T045900Z
 SUMMARY:Coastal Shores District Winter Camporee
@@ -323,7 +323,7 @@ URL:https://global.scoutingevent.com/426-WinterCamporee27
 END:VEVENT
 BEGIN:VEVENT
 UID:266735@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270305T223000Z
 DTEND:20270307T000000Z
 SUMMARY:IOLS Sponsored by North Star District
@@ -341,7 +341,7 @@ URL:https://global.scoutingevent.com/421-117078
 END:VEVENT
 BEGIN:VEVENT
 UID:232695@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T140000Z
 DTEND:20270306T170000Z
 SUMMARY:Cub Scout Open Program Spring – Morning
@@ -359,7 +359,7 @@ URL:https://global.scoutingevent.com/421-100095
 END:VEVENT
 BEGIN:VEVENT
 UID:259317@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270313T120000Z
 DTEND:20270313T220000Z
 SUMMARY:Carolina Commissioner College 2027
@@ -378,7 +378,7 @@ URL:https://global.scoutingevent.com/421-ccc2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271485@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270313T130000Z
 DTEND:20270314T210000Z
 SUMMARY:Tuscarora Council Wood Badge 15-424-27 – Weekend Two
@@ -396,7 +396,7 @@ URL:https://global.scoutingevent.com/424-woodbadge
 END:VEVENT
 BEGIN:VEVENT
 UID:276254@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270314T163000Z
 DTEND:20270314T210000Z
 SUMMARY:Bike Rodeo - North Star District – Bike Rodeo
@@ -414,7 +414,7 @@ URL:https://global.scoutingevent.com/421-122071
 END:VEVENT
 BEGIN:VEVENT
 UID:278647@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270319T230000Z
 DTEND:20270321T160000Z
 SUMMARY:Wilderness First Aid Training (Mar)
@@ -432,7 +432,7 @@ URL:https://global.scoutingevent.com/421-123377
 END:VEVENT
 BEGIN:VEVENT
 UID:232684@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270409T040000Z
 DTEND:20270412T035900Z
 SUMMARY:Leave No Trace (LNT) Training
@@ -450,7 +450,7 @@ URL:https://global.scoutingevent.com/421-100088
 END:VEVENT
 BEGIN:VEVENT
 UID:278481@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270423T210000Z
 DTEND:20270425T140000Z
 SUMMARY:Spring Cuboree – Weekend Registration
@@ -468,7 +468,7 @@ URL:https://global.scoutingevent.com/421-SpringCuboree27
 END:VEVENT
 BEGIN:VEVENT
 UID:232113@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270423T213000Z
 DTEND:20270425T140000Z
 SUMMARY:Council Spring Cuboree 2027 – Council Spring Cuboree
@@ -487,7 +487,7 @@ URL:https://global.scoutingevent.com/421-99780
 END:VEVENT
 BEGIN:VEVENT
 UID:278482@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270424T120000Z
 DTEND:20270425T010000Z
 SUMMARY:Spring Cuboree – Saturday Only Registration
@@ -505,7 +505,7 @@ URL:https://global.scoutingevent.com/421-SpringCuboree27
 END:VEVENT
 BEGIN:VEVENT
 UID:268789@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270430T220000Z
 DTEND:20270501T233000Z
 SUMMARY:BALOO Hosted by North Star District
@@ -523,7 +523,7 @@ URL:https://global.scoutingevent.com/421-118163
 END:VEVENT
 BEGIN:VEVENT
 UID:278651@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270501T130000Z
 DTEND:20270501T213000Z
 SUMMARY:Wilderness First Aid Training (Blended) [May]
@@ -539,725 +539,5 @@ DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1233
  ll learn essential skills and knowledge to respond effectively to medical
   emergencies when professional help is not imme
 URL:https://global.scoutingevent.com/421-123379
-END:VEVENT
-BEGIN:VEVENT
-UID:261855@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270617T170000Z
-DTEND:20270619T140000Z
-SUMMARY:Summer Adventure Cuboree 2027 – Cub Scout Summer Cuboree
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-CubS
- ummerCamp27\n\n\n\nGet ready for an unforgettable family adventure!\nAt C
- amp Durant’s Summer Adventure Camp\, Cub Scouts\, Webelos\, Arrow of Li
- ght Scouts\, and their families can enjoy exciting outdoor activities\, a
- quatic activities\, nature exploration\, target sports\, crafts\, and cam
- pfire programs in a welcoming Scouting environment. Make lasting memories
- \, try new adventures\, and experience the magic of camp together while b
- uilding friendships and confidence along the way. Join us for a summer ex
- perience your family w
-URL:https://global.scoutingevent.com/421-CubSummerCamp27
-END:VEVENT
-BEGIN:VEVENT
-UID:261789@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T170000Z
-DTEND:20270626T130000Z
-SUMMARY:Summer Camp 2027 at Camp Durant – Week 1 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Camp
- Durant27\n\nClimbing\n\nCamp Durant provides Scouts with a safe\, fun\, a
- nd challenging outdoor experience designed to build leadership\, confiden
- ce\, and lifelong friendships. Campers can choose from a wide range of pr
- ogram opportunities\, including merit badge classes\, aquatics\, climbing
- \, shooting sports\, ATV programs\, first-year camper\, STEM activities\,
-  outdoor skills\, rank advancement\, and specialized programs for both ne
- w and experienced Scouts. Through hands-on adventures\, patrol-based acti
- vities\, and unique camp-wide
-URL:https://global.scoutingevent.com/421-CampDurant27
-END:VEVENT
-BEGIN:VEVENT
-UID:267297@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T170000Z
-DTEND:20270626T140000Z
-SUMMARY:Summer Camp at Cherokee Scout Reservation 2027 – Week 1 (June 20
-  - 26)
-LOCATION:Cherokee Scout Reservation\, Yanceyville\, North Carolina
-DESCRIPTION:Old North State Council\nhttps://global.scoutingevent.com/070-
- csrsummer2027\n\n\n\n2027 Summer Camp\nCherokee Scout Reservation\n3296 B
- oy Scout Camp Road\nYanceyville\, NC\n2027 Dates\nWeek 1: June 20 - 26\nW
- eek 2: June 27 - July 3\nWeek 3: July 4 - 10\nWeek 4: July 11 - 17\nWeek 
- 5: July 18 - 24\nWeek 6: July 25 - 31\n*If the week you plan to attend ca
- mp is marked FULL\, please email bud.harrelson@scouting.org sharing your 
- situation with us before looking elsewhere.\nSummer Camp 2027 Campsite Re
- servation Chart\nView the Campsite Reservation Chart to see which campsit
- es are available by week.
-URL:https://global.scoutingevent.com/070-csrsummer2027
-END:VEVENT
-BEGIN:VEVENT
-UID:263603@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T180000Z
-DTEND:20270626T140000Z
-SUMMARY:Camp Boddie Summer Camp 2027 – Week 1
-LOCATION:Camp Boddie\, Blounts Creek\, North Carolina
-DESCRIPTION:East Carolina Council\nhttps://global.scoutingevent.com/426-ca
- mpboddie27\n\n\n\nSummer Camp at Camp Boddie\nEast Carolina Council | Sum
- mer 2027 4 Weekly Sessions (Sunday – Saturday): June 20 – July 17\, 2
- 027\nWeek 1: June 20 – June 26\, 2027\nWeek 2: June 27 – July 3\, 202
- 7\nWeek 3: July 4 – July 10\, 2027\nWeek 4: July 11 – July 17\, 2027\
- nGet ready for a week of high-energy adventure\, troop pride\, and nonsto
- p fun at Camp Boddie as the East Carolina Council presents Camp Boddie Sp
- irit Week for Summer 2027! Every single week from June 20 through July 17
-  transforms camp into a celebrat
-URL:https://global.scoutingevent.com/426-campboddie27
-END:VEVENT
-BEGIN:VEVENT
-UID:261790@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T170000Z
-DTEND:20270703T130000Z
-SUMMARY:Summer Camp 2027 at Camp Durant – Week 2 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Camp
- Durant27\n\nClimbing\n\nCamp Durant provides Scouts with a safe\, fun\, a
- nd challenging outdoor experience designed to build leadership\, confiden
- ce\, and lifelong friendships. Campers can choose from a wide range of pr
- ogram opportunities\, including merit badge classes\, aquatics\, climbing
- \, shooting sports\, ATV programs\, first-year camper\, STEM activities\,
-  outdoor skills\, rank advancement\, and specialized programs for both ne
- w and experienced Scouts. Through hands-on adventures\, patrol-based acti
- vities\, and unique camp-wide
-URL:https://global.scoutingevent.com/421-CampDurant27
-END:VEVENT
-BEGIN:VEVENT
-UID:267298@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T170000Z
-DTEND:20270703T140000Z
-SUMMARY:Summer Camp at Cherokee Scout Reservation 2027 – Week 2 (June 27
-  - July 3)
-LOCATION:Cherokee Scout Reservation\, Yanceyville\, North Carolina
-DESCRIPTION:Old North State Council\nhttps://global.scoutingevent.com/070-
- csrsummer2027\n\n\n\n2027 Summer Camp\nCherokee Scout Reservation\n3296 B
- oy Scout Camp Road\nYanceyville\, NC\n2027 Dates\nWeek 1: June 20 - 26\nW
- eek 2: June 27 - July 3\nWeek 3: July 4 - 10\nWeek 4: July 11 - 17\nWeek 
- 5: July 18 - 24\nWeek 6: July 25 - 31\n*If the week you plan to attend ca
- mp is marked FULL\, please email bud.harrelson@scouting.org sharing your 
- situation with us before looking elsewhere.\nSummer Camp 2027 Campsite Re
- servation Chart\nView the Campsite Reservation Chart to see which campsit
- es are available by week.
-URL:https://global.scoutingevent.com/070-csrsummer2027
-END:VEVENT
-BEGIN:VEVENT
-UID:263604@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T180000Z
-DTEND:20270703T140000Z
-SUMMARY:Camp Boddie Summer Camp 2027 – Week 2
-LOCATION:Camp Boddie\, Blounts Creek\, North Carolina
-DESCRIPTION:East Carolina Council\nhttps://global.scoutingevent.com/426-ca
- mpboddie27\n\n\n\nSummer Camp at Camp Boddie\nEast Carolina Council | Sum
- mer 2027 4 Weekly Sessions (Sunday – Saturday): June 20 – July 17\, 2
- 027\nWeek 1: June 20 – June 26\, 2027\nWeek 2: June 27 – July 3\, 202
- 7\nWeek 3: July 4 – July 10\, 2027\nWeek 4: July 11 – July 17\, 2027\
- nGet ready for a week of high-energy adventure\, troop pride\, and nonsto
- p fun at Camp Boddie as the East Carolina Council presents Camp Boddie Sp
- irit Week for Summer 2027! Every single week from June 20 through July 17
-  transforms camp into a celebrat
-URL:https://global.scoutingevent.com/426-campboddie27
-END:VEVENT
-BEGIN:VEVENT
-UID:261791@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270704T160000Z
-DTEND:20270710T130000Z
-SUMMARY:Summer Camp 2027 at Camp Durant – Week 3 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Camp
- Durant27\n\nClimbing\n\nCamp Durant provides Scouts with a safe\, fun\, a
- nd challenging outdoor experience designed to build leadership\, confiden
- ce\, and lifelong friendships. Campers can choose from a wide range of pr
- ogram opportunities\, including merit badge classes\, aquatics\, climbing
- \, shooting sports\, ATV programs\, first-year camper\, STEM activities\,
-  outdoor skills\, rank advancement\, and specialized programs for both ne
- w and experienced Scouts. Through hands-on adventures\, patrol-based acti
- vities\, and unique camp-wide
-URL:https://global.scoutingevent.com/421-CampDurant27
-END:VEVENT
-BEGIN:VEVENT
-UID:267299@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270704T170000Z
-DTEND:20270710T140000Z
-SUMMARY:Summer Camp at Cherokee Scout Reservation 2027 – Week 3 (July 4 
- - 10)
-LOCATION:Cherokee Scout Reservation\, Yanceyville\, North Carolina
-DESCRIPTION:Old North State Council\nhttps://global.scoutingevent.com/070-
- csrsummer2027\n\n\n\n2027 Summer Camp\nCherokee Scout Reservation\n3296 B
- oy Scout Camp Road\nYanceyville\, NC\n2027 Dates\nWeek 1: June 20 - 26\nW
- eek 2: June 27 - July 3\nWeek 3: July 4 - 10\nWeek 4: July 11 - 17\nWeek 
- 5: July 18 - 24\nWeek 6: July 25 - 31\n*If the week you plan to attend ca
- mp is marked FULL\, please email bud.harrelson@scouting.org sharing your 
- situation with us before looking elsewhere.\nSummer Camp 2027 Campsite Re
- servation Chart\nView the Campsite Reservation Chart to see which campsit
- es are available by week.
-URL:https://global.scoutingevent.com/070-csrsummer2027
-END:VEVENT
-BEGIN:VEVENT
-UID:263605@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270704T180000Z
-DTEND:20270710T140000Z
-SUMMARY:Camp Boddie Summer Camp 2027 – Week 3
-LOCATION:Camp Boddie\, Blounts Creek\, North Carolina
-DESCRIPTION:East Carolina Council\nhttps://global.scoutingevent.com/426-ca
- mpboddie27\n\n\n\nSummer Camp at Camp Boddie\nEast Carolina Council | Sum
- mer 2027 4 Weekly Sessions (Sunday – Saturday): June 20 – July 17\, 2
- 027\nWeek 1: June 20 – June 26\, 2027\nWeek 2: June 27 – July 3\, 202
- 7\nWeek 3: July 4 – July 10\, 2027\nWeek 4: July 11 – July 17\, 2027\
- nGet ready for a week of high-energy adventure\, troop pride\, and nonsto
- p fun at Camp Boddie as the East Carolina Council presents Camp Boddie Sp
- irit Week for Summer 2027! Every single week from June 20 through July 17
-  transforms camp into a celebrat
-URL:https://global.scoutingevent.com/426-campboddie27
-END:VEVENT
-BEGIN:VEVENT
-UID:261792@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270711T160000Z
-DTEND:20270717T130000Z
-SUMMARY:Summer Camp 2027 at Camp Durant – Week 4 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Camp
- Durant27\n\nClimbing\n\nCamp Durant provides Scouts with a safe\, fun\, a
- nd challenging outdoor experience designed to build leadership\, confiden
- ce\, and lifelong friendships. Campers can choose from a wide range of pr
- ogram opportunities\, including merit badge classes\, aquatics\, climbing
- \, shooting sports\, ATV programs\, first-year camper\, STEM activities\,
-  outdoor skills\, rank advancement\, and specialized programs for both ne
- w and experienced Scouts. Through hands-on adventures\, patrol-based acti
- vities\, and unique camp-wide
-URL:https://global.scoutingevent.com/421-CampDurant27
-END:VEVENT
-BEGIN:VEVENT
-UID:267300@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270711T170000Z
-DTEND:20270717T140000Z
-SUMMARY:Summer Camp at Cherokee Scout Reservation 2027 – Week 4 (July 11
-  - 17)
-LOCATION:Cherokee Scout Reservation\, Yanceyville\, North Carolina
-DESCRIPTION:Old North State Council\nhttps://global.scoutingevent.com/070-
- csrsummer2027\n\n\n\n2027 Summer Camp\nCherokee Scout Reservation\n3296 B
- oy Scout Camp Road\nYanceyville\, NC\n2027 Dates\nWeek 1: June 20 - 26\nW
- eek 2: June 27 - July 3\nWeek 3: July 4 - 10\nWeek 4: July 11 - 17\nWeek 
- 5: July 18 - 24\nWeek 6: July 25 - 31\n*If the week you plan to attend ca
- mp is marked FULL\, please email bud.harrelson@scouting.org sharing your 
- situation with us before looking elsewhere.\nSummer Camp 2027 Campsite Re
- servation Chart\nView the Campsite Reservation Chart to see which campsit
- es are available by week.
-URL:https://global.scoutingevent.com/070-csrsummer2027
-END:VEVENT
-BEGIN:VEVENT
-UID:268515@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270711T180000Z
-DTEND:20270717T140000Z
-SUMMARY:Camp Boddie Summer Camp 2027 – Week 4
-LOCATION:Camp Boddie\, Blounts Creek\, North Carolina
-DESCRIPTION:East Carolina Council\nhttps://global.scoutingevent.com/426-ca
- mpboddie27\n\n\n\nSummer Camp at Camp Boddie\nEast Carolina Council | Sum
- mer 2027 4 Weekly Sessions (Sunday – Saturday): June 20 – July 17\, 2
- 027\nWeek 1: June 20 – June 26\, 2027\nWeek 2: June 27 – July 3\, 202
- 7\nWeek 3: July 4 – July 10\, 2027\nWeek 4: July 11 – July 17\, 2027\
- nGet ready for a week of high-energy adventure\, troop pride\, and nonsto
- p fun at Camp Boddie as the East Carolina Council presents Camp Boddie Sp
- irit Week for Summer 2027! Every single week from June 20 through July 17
-  transforms camp into a celebrat
-URL:https://global.scoutingevent.com/426-campboddie27
-END:VEVENT
-BEGIN:VEVENT
-UID:267301@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270718T170000Z
-DTEND:20270724T140000Z
-SUMMARY:Summer Camp at Cherokee Scout Reservation 2027 – Week 5 (July 18
-  - 24)
-LOCATION:Cherokee Scout Reservation\, Yanceyville\, North Carolina
-DESCRIPTION:Old North State Council\nhttps://global.scoutingevent.com/070-
- csrsummer2027\n\n\n\n2027 Summer Camp\nCherokee Scout Reservation\n3296 B
- oy Scout Camp Road\nYanceyville\, NC\n2027 Dates\nWeek 1: June 20 - 26\nW
- eek 2: June 27 - July 3\nWeek 3: July 4 - 10\nWeek 4: July 11 - 17\nWeek 
- 5: July 18 - 24\nWeek 6: July 25 - 31\n*If the week you plan to attend ca
- mp is marked FULL\, please email bud.harrelson@scouting.org sharing your 
- situation with us before looking elsewhere.\nSummer Camp 2027 Campsite Re
- servation Chart\nView the Campsite Reservation Chart to see which campsit
- es are available by week.
-URL:https://global.scoutingevent.com/070-csrsummer2027
-END:VEVENT
-BEGIN:VEVENT
-UID:267302@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270725T170000Z
-DTEND:20270731T140000Z
-SUMMARY:Summer Camp at Cherokee Scout Reservation 2027 – Week 6 (July 25
-  - 31)
-LOCATION:Cherokee Scout Reservation\, Yanceyville\, North Carolina
-DESCRIPTION:Old North State Council\nhttps://global.scoutingevent.com/070-
- csrsummer2027\n\n\n\n2027 Summer Camp\nCherokee Scout Reservation\n3296 B
- oy Scout Camp Road\nYanceyville\, NC\n2027 Dates\nWeek 1: June 20 - 26\nW
- eek 2: June 27 - July 3\nWeek 3: July 4 - 10\nWeek 4: July 11 - 17\nWeek 
- 5: July 18 - 24\nWeek 6: July 25 - 31\n*If the week you plan to attend ca
- mp is marked FULL\, please email bud.harrelson@scouting.org sharing your 
- situation with us before looking elsewhere.\nSummer Camp 2027 Campsite Re
- servation Chart\nView the Campsite Reservation Chart to see which campsit
- es are available by week.
-URL:https://global.scoutingevent.com/070-csrsummer2027
-END:VEVENT
-BEGIN:VEVENT
-UID:274479@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270910T110000Z
-DTEND:20270912T220000Z
-SUMMARY:Wood Badge - 15-421-27 – Weekend 1
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Wood
- Badge1542127\n\nWood Badge\n\nAdapt\, Build\, Connect.\nAt Wood Badge we 
- want you to:\nAdapt your leadership to serve today's youth.\nBuild pract
- ical skills and dynamic programs.\nConnect with a network of passionate 
- scouters.\nIt's as easy as A B C - Adapt for today\, Build for tomorrow\,
-  Connect for life.\nThe Occoneechee Council Wood Badge training is a five
- -day course held over two weekends at Camp Durant.\nYou must attend both 
- weekends to successfully complete the course.\nThis year's Wood Badge cou
- rse will be held Sept. 10-12\, 202
-URL:https://global.scoutingevent.com/421-WoodBadge1542127
-END:VEVENT
-BEGIN:VEVENT
-UID:274480@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271002T110000Z
-DTEND:20271003T220000Z
-SUMMARY:Wood Badge - 15-421-27 – Weekend 2
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Wood
- Badge1542127\n\nWood Badge\n\nAdapt\, Build\, Connect.\nAt Wood Badge we 
- want you to:\nAdapt your leadership to serve today's youth.\nBuild pract
- ical skills and dynamic programs.\nConnect with a network of passionate 
- scouters.\nIt's as easy as A B C - Adapt for today\, Build for tomorrow\,
-  Connect for life.\nThe Occoneechee Council Wood Badge training is a five
- -day course held over two weekends at Camp Durant.\nYou must attend both 
- weekends to successfully complete the course.\nThis year's Wood Badge cou
- rse will be held Sept. 10-12\, 202
-URL:https://global.scoutingevent.com/421-WoodBadge1542127
-END:VEVENT
-BEGIN:VEVENT
-UID:278654@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271002T130000Z
-DTEND:20271002T213000Z
-SUMMARY:Wilderness First Aid Training (Blended) [Oct]
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1233
- 82\n\nCPR / AED / First Aid\, Wilderness First Aid\n\nThis is a blended c
- ourse which includes online sessions and an 8-hour evaluation session on-
- site. ALL parts must be successfully completed.\nThis course is designed 
- for outdoor enthusiasts\, adventurers\, and anyone who enjoys spending ti
- me in remote or rugged environments. This is a blended learning course wh
- ich includes an online portion as well as a hands-on evaluation.  You wi
- ll learn essential skills and knowledge to respond effectively to medical
-  emergencies when professional help is not imme
-URL:https://global.scoutingevent.com/421-123382
-END:VEVENT
-BEGIN:VEVENT
-UID:272368@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271008T210000Z
-DTEND:20271010T140000Z
-SUMMARY:2027 Eno River / Sandhills Fall Camporee
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1201
- 10\n\n\n\nSave the Date!\nEno River and Sandhills Distrcts are joining fo
- rces for a scout camporee at Camp Durant!\nWhen & Where\nSave the Date\nC
- amp Durant\nFriday 10-08-2027 5:00 PM ET to\nSunday 10-10-2027 10:00 AM E
- T\nLimit One Registration Per Unit\nMore Information\nMap of Event\nCoord
- s: 35.3421553\, -79.5534724\n4637 Old Carthage Rd.\nCarthage\, North Caro
- lina 28327\nPhone: 910-948-2382\nRegistration Closes:\n&nbsp10-08-2027 12
- :00 AM\nContact\nAttachments\nMedical Form AB
-URL:https://global.scoutingevent.com/421-120110
-END:VEVENT
-BEGIN:VEVENT
-UID:232685@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271022T040000Z
-DTEND:20271025T035900Z
-SUMMARY:Leave No Trace (LNT) Training
-LOCATION:Camp Reeves\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1000
- 89\n\nLeave No Trace\, NYLT\, Powder Horn\, Wood Badge\n\nNo Registration
-  Needed\nLeave No Trace Trainer\nThis is an informative\, practical\, and
-  fun 16-hour\, overnight course on the ethics and practice of\nminimum-im
- pact recreation. This course is designed to train Scouts BSA (age 14 and 
- older)\, Venturers\,\nSea Scouts\, summer camp staff\, crews attending tr
- eks/sessions at any of the BSA High Adventure\nBases\, advanced training 
- course instructors (Wood Badge\, Powder Horn\, NYLT\, etc.) and Adult Sco
- ut\nleaders in all program areas to serve as Leave No Trace Trai
-URL:https://global.scoutingevent.com/421-100089
-END:VEVENT
-BEGIN:VEVENT
-UID:273647@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271022T200000Z
-DTEND:20271024T143000Z
-SUMMARY:Cub Scout Spookoree 2027 – Weekend Registration
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Sppo
- koree27\n\n\n\nThe Spook-O-Ree is a premier fall camping adventure for Cu
- b Scouts and their families.\nThis exciting Halloween-themed weekend comb
- ines outdoor fun\, Scouting activities\, costumes\, campfires\, games\, a
- nd just the right amount of spooky excitement in a safe and family-friend
- ly setting. Scouts will enjoy a variety of traditional camp programs\, se
- asonal activities\, and opportunities to create lasting memories with fri
- ends and family while experiencing the beauty of Camp Durant in the fall.
- \nHighlights 
-URL:https://global.scoutingevent.com/421-Sppokoree27
-END:VEVENT
-BEGIN:VEVENT
-UID:273648@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271023T120000Z
-DTEND:20271024T010000Z
-SUMMARY:Cub Scout Spookoree 2027 – Saturday Only Registration
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Sppo
- koree27\n\n\n\nThe Spook-O-Ree is a premier fall camping adventure for Cu
- b Scouts and their families.\nThis exciting Halloween-themed weekend comb
- ines outdoor fun\, Scouting activities\, costumes\, campfires\, games\, a
- nd just the right amount of spooky excitement in a safe and family-friend
- ly setting. Scouts will enjoy a variety of traditional camp programs\, se
- asonal activities\, and opportunities to create lasting memories with fri
- ends and family while experiencing the beauty of Camp Durant in the fall.
- \nHighlights 
-URL:https://global.scoutingevent.com/421-Sppokoree27
-END:VEVENT
-BEGIN:VEVENT
-UID:232115@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271106T120000Z
-DTEND:20271106T200000Z
-SUMMARY:University of Scouting
-LOCATION:Occoneechee Council Service Center\, Raleigh\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-9978
- 2\n\nCommissioner / University of Scouting\n\nNo Registration Needed\nUni
- versity of Scouting\nSave the date for our University of Scouting! More d
- etails and registration link to come.\nWhen & Where\nOcconeechee Council 
- Service Center\nSaturday 11-06-2027\n8:00 AM ET to 4:00 PM ET\nMore Infor
- mation\nMap of Event\nCoords: 35.8252695\, -78.6074766\n3231 Atlantic Ave
- \nRaleigh\, North Carolina 27604\nPhone: 919-872-4884\nContact
-URL:https://global.scoutingevent.com/421-99782
-END:VEVENT
-BEGIN:VEVENT
-UID:232689@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271113T140000Z
-DTEND:20271113T170000Z
-SUMMARY:Cub Scout Open Program Fall – Morning
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1000
- 93\n\n\n\nProgram\n: AM Session 9 AM to 12 Noon / PM Session 1 PM to 4 PM
- \nCost\n: $20 Per Scout  (Registration is limited to 48 per session)\nRe
- quired\n: Please wear proper footwear - closed toe shoes are required. Ac
- tivity uniform is dress for the day. Please wear weather appropriate gear
- .\nContact\nWhen & Where\nSave the Date\nMorning\nCamp Durant\nSaturday 1
- 1-13-2027\n9:00 AM ET to 12:00 PM ET\nMore Information\nMap of Session\nC
- oords: 35.3421553\, -79.5534724\n4637 Old Carthage Rd.\nCarthage\, North 
- Carolina 28327\nPhon
-URL:https://global.scoutingevent.com/421-100093
-END:VEVENT
-BEGIN:VEVENT
-UID:261893@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280114T140000Z
-DTEND:20280116T170000Z
-SUMMARY:2028 Winter Blast
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 62\n\n\n\nGet ready for an unforgettable weekend of cold-weather adventur
- e! Camp Durant is gearing up for another epic experience\, packed with ch
- allenging merit badge classes\, the famous Polar Bear Splash\, and plenty
-  of camaraderie around the campfire. Whether Scouts are working on a new 
- badge or braving the icy plunge\, there’s no shortage of stories waitin
- g to be made at Durant this winter.\nSee you at Camp Durant for a weekend
-  of fun\, learning\, and adventure!\nWhen & Where\nSave the Date\nCamp Du
- rant\nFriday
-URL:https://global.scoutingevent.com/421-114462
-END:VEVENT
-BEGIN:VEVENT
-UID:246241@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280219T130000Z
-DTEND:20280219T213000Z
-SUMMARY:Trainers EDGE (Train the Trainer Series\, part 2)
-LOCATION:Westminster Presbyterian Church\, Durham\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1070
- 22\n\nNYLT\, Wood Badge\n\nTrained leaders provide better programs for th
- e young men and women they serve in their units.  The purpose of the Tra
- iner's EDGE course is to provide and develop the platform skills of a tra
- iner.  It is meant to supplement the practice offered trhough Wood Badge
-  and NYLT (National Youth Leadership Training) staff development\, with a
-  focus on the participant\, while raising the level of skill a trainer br
- ings to the staff experience.  This course is inteded to "train the trai
- ner" in behaviors and
-URL:https://global.scoutingevent.com/421-107022
-END:VEVENT
-BEGIN:VEVENT
-UID:261839@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280304T140000Z
-DTEND:20280304T170000Z
-SUMMARY:Cub Scout Open Program Spring – Morning
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 25\n\n\n\nCub Open Program & Shooting Sports Electives\nActivities\n: 3 S
- pecial Elective Adventures Archery\, BB Guns\, and Slingshots along with 
- Climbing\nProgram\n: AM Session 9 AM to 12 Noon / PM Session 1 PM to 4 PM
- \nCost\n: $20 Per Scout  (Registration is limited to 48 per session)\nSc
- outs\n: Lion Scouts do not shoot BB Guns. They will have an alternate act
- ivity. Tigers\, Bears\, Wolves Webelos & AOL Scouts will participate in A
- rchery\, BB’s and Slingshots.\nRequired\n: Please wear proper footwear 
- - closed toe shoe
-URL:https://global.scoutingevent.com/421-114425
-END:VEVENT
-BEGIN:VEVENT
-UID:261848@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280407T040000Z
-DTEND:20280410T035900Z
-SUMMARY:Leave No Trace (LNT) Training
-LOCATION:Camp Reeves\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 28\n\nLeave No Trace\, NYLT\, Powder Horn\, Wood Badge\n\nNo Registration
-  Needed\nLeave No Trace Trainer\nThis is an informative\, practical\, and
-  fun 16-hour\, overnight course on the ethics and practice of\nminimum-im
- pact recreation. This course is designed to train Scouts BSA (age 14 and 
- older)\, Venturers\,\nSea Scouts\, summer camp staff\, crews attending tr
- eks/sessions at any of the BSA High Adventure\nBases\, advanced training 
- course instructors (Wood Badge\, Powder Horn\, NYLT\, etc.) and Adult Sco
- ut\nleaders in all program areas to serve as Leave No Trace Trai
-URL:https://global.scoutingevent.com/421-114428
-END:VEVENT
-BEGIN:VEVENT
-UID:261853@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280421T213000Z
-DTEND:20280423T140000Z
-SUMMARY:Council Spring Cuboree 2028 – Council Spring Cuboree
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 33\n\n\n\nCub Scout Spring Cuboree is fun for the whole family.  Check b
- ack for details.\nWhen & Where\nSave the Date\nCouncil Spring Cuboree\nCa
- mp Durant\nFriday 04-21-2028 5:30 PM ET to\nSunday 04-23-2028 10:00 AM ET
- \nMore Information\nMap of Event\nCoords: 35.3421553\, -79.5534724\n4637 
- Old Carthage Rd.\nCarthage\, North Carolina 28327\nPhone: 910-948-2382\nR
- egistration Closes:\n&nbsp04-02-2028 11:59 PM\nContact
-URL:https://global.scoutingevent.com/421-114433
-END:VEVENT
-BEGIN:VEVENT
-UID:261797@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280618T170000Z
-DTEND:20280624T130000Z
-SUMMARY:Summer Camp 2028 at Camp Durant – Week 1 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1143
- 93\n\n\n\nSummer Camp at Camp Durant offers an unforgettable outdoor expe
- rience where campers build confidence\, friendships\, and lifelong memori
- es. Nestled in nature\, campers enjoy hands-on adventures like swimming\,
-  hiking\, crafts\, and team-building activities in a safe\, supportive en
- vironment. Guided by caring staff\, each week inspires fun\, personal gro
- wth\, and a deeper connection to the outdoors.\nCheck back for more infor
- mation.\nwww.CampDurant.com\nContact\nWhen & Where\nSave the Date\nWeek 1
-  - Scouts BSA\nC
-URL:https://global.scoutingevent.com/421-114393
-END:VEVENT
-BEGIN:VEVENT
-UID:261798@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280625T170000Z
-DTEND:20280701T130000Z
-SUMMARY:Summer Camp 2028 at Camp Durant – Week 2 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1143
- 93\n\n\n\nSummer Camp at Camp Durant offers an unforgettable outdoor expe
- rience where campers build confidence\, friendships\, and lifelong memori
- es. Nestled in nature\, campers enjoy hands-on adventures like swimming\,
-  hiking\, crafts\, and team-building activities in a safe\, supportive en
- vironment. Guided by caring staff\, each week inspires fun\, personal gro
- wth\, and a deeper connection to the outdoors.\nCheck back for more infor
- mation.\nwww.CampDurant.com\nContact\nWhen & Where\nSave the Date\nWeek 1
-  - Scouts BSA\nC
-URL:https://global.scoutingevent.com/421-114393
-END:VEVENT
-BEGIN:VEVENT
-UID:261799@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280702T160000Z
-DTEND:20280708T130000Z
-SUMMARY:Summer Camp 2028 at Camp Durant – Week 3 - Scouts BSA & Venturin
- g
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1143
- 93\n\n\n\nSummer Camp at Camp Durant offers an unforgettable outdoor expe
- rience where campers build confidence\, friendships\, and lifelong memori
- es. Nestled in nature\, campers enjoy hands-on adventures like swimming\,
-  hiking\, crafts\, and team-building activities in a safe\, supportive en
- vironment. Guided by caring staff\, each week inspires fun\, personal gro
- wth\, and a deeper connection to the outdoors.\nCheck back for more infor
- mation.\nwww.CampDurant.com\nContact\nWhen & Where\nSave the Date\nWeek 1
-  - Scouts BSA\nC
-URL:https://global.scoutingevent.com/421-114393
-END:VEVENT
-BEGIN:VEVENT
-UID:261800@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280709T160000Z
-DTEND:20280715T130000Z
-SUMMARY:Summer Camp 2028 at Camp Durant – Week 4 - Scouts BSA
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1143
- 93\n\n\n\nSummer Camp at Camp Durant offers an unforgettable outdoor expe
- rience where campers build confidence\, friendships\, and lifelong memori
- es. Nestled in nature\, campers enjoy hands-on adventures like swimming\,
-  hiking\, crafts\, and team-building activities in a safe\, supportive en
- vironment. Guided by caring staff\, each week inspires fun\, personal gro
- wth\, and a deeper connection to the outdoors.\nCheck back for more infor
- mation.\nwww.CampDurant.com\nContact\nWhen & Where\nSave the Date\nWeek 1
-  - Scouts BSA\nC
-URL:https://global.scoutingevent.com/421-114393
-END:VEVENT
-BEGIN:VEVENT
-UID:261862@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280908T110000Z
-DTEND:20280910T220000Z
-SUMMARY:Wood Badge 2028 – Weekend 1
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 40\n\nWood Badge\n\nThe Occoneechee Council Wood Badge training is a five
- -day course held over two weekends at Camp Durant.\nYou must attend both 
- weekends to successfully complete the course.\nAre you an adult who wants
-  to lead the way\, inspire youth\, and finally understand why Scouting do
- es things the way it does?\nThen you need Wood Badge!\nWhat’s Wood Badg
- e?\nOnly the ultimate adult leadership adventure in Scouting! It’s 5 da
- ys of hands-on team-building\, communication\, and leadership training th
- at’ll level up your sk
-URL:https://global.scoutingevent.com/421-114440
-END:VEVENT
-BEGIN:VEVENT
-UID:261863@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280930T110000Z
-DTEND:20281001T220000Z
-SUMMARY:Wood Badge 2028 – Weekend 2
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 40\n\nWood Badge\n\nThe Occoneechee Council Wood Badge training is a five
- -day course held over two weekends at Camp Durant.\nYou must attend both 
- weekends to successfully complete the course.\nAre you an adult who wants
-  to lead the way\, inspire youth\, and finally understand why Scouting do
- es things the way it does?\nThen you need Wood Badge!\nWhat’s Wood Badg
- e?\nOnly the ultimate adult leadership adventure in Scouting! It’s 5 da
- ys of hands-on team-building\, communication\, and leadership training th
- at’ll level up your sk
-URL:https://global.scoutingevent.com/421-114440
-END:VEVENT
-BEGIN:VEVENT
-UID:261849@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20281020T040000Z
-DTEND:20281023T035900Z
-SUMMARY:Leave No Trace (LNT) Training
-LOCATION:Camp Reeves\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 29\n\nLeave No Trace\, NYLT\, Powder Horn\, Wood Badge\n\nNo Registration
-  Needed\nLeave No Trace Trainer\nThis is an informative\, practical\, and
-  fun 16-hour\, overnight course on the ethics and practice of\nminimum-im
- pact recreation. This course is designed to train Scouts BSA (age 14 and 
- older)\, Venturers\,\nSea Scouts\, summer camp staff\, crews attending tr
- eks/sessions at any of the BSA High Adventure\nBases\, advanced training 
- course instructors (Wood Badge\, Powder Horn\, NYLT\, etc.) and Adult Sco
- ut\nleaders in all program areas to serve as Leave No Trace Trai
-URL:https://global.scoutingevent.com/421-114429
-END:VEVENT
-BEGIN:VEVENT
-UID:273650@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20281027T200000Z
-DTEND:20281029T143000Z
-SUMMARY:Cub Scout Spookoree 2028 – Weekend Registration
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Spoo
- koree28\n\n\n\nThe Spook-O-Ree is a premier fall camping adventure for Cu
- b Scouts and their families.\nThis exciting Halloween-themed weekend comb
- ines outdoor fun\, Scouting activities\, costumes\, campfires\, games\, a
- nd just the right amount of spooky excitement in a safe and family-friend
- ly setting. Scouts will enjoy a variety of traditional camp programs\, se
- asonal activities\, and opportunities to create lasting memories with fri
- ends and family while experiencing the beauty of Camp Durant in the fall.
- \nHighlights 
-URL:https://global.scoutingevent.com/421-Spookoree28
-END:VEVENT
-BEGIN:VEVENT
-UID:273651@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20281028T120000Z
-DTEND:20281029T010000Z
-SUMMARY:Cub Scout Spookoree 2028 – Saturday Only Registration
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-Spoo
- koree28\n\n\n\nThe Spook-O-Ree is a premier fall camping adventure for Cu
- b Scouts and their families.\nThis exciting Halloween-themed weekend comb
- ines outdoor fun\, Scouting activities\, costumes\, campfires\, games\, a
- nd just the right amount of spooky excitement in a safe and family-friend
- ly setting. Scouts will enjoy a variety of traditional camp programs\, se
- asonal activities\, and opportunities to create lasting memories with fri
- ends and family while experiencing the beauty of Camp Durant in the fall.
- \nHighlights 
-URL:https://global.scoutingevent.com/421-Spookoree28
-END:VEVENT
-BEGIN:VEVENT
-UID:261875@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20281104T120000Z
-DTEND:20281104T200000Z
-SUMMARY:University of Scouting
-LOCATION:Occoneechee Council Service Center\, Raleigh\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 45\n\nCommissioner / University of Scouting\n\nNo Registration Needed\nUn
- iversity of Scouting\nSave the date for our University of Scouting! More 
- details and registration link to come.\nWhen & Where\nOcconeechee Council
-  Service Center\nSaturday 11-04-2028\n8:00 AM ET to 4:00 PM ET\nMore Info
- rmation\nMap of Event\nCoords: 35.8252695\, -78.6074766\n3231 Atlantic Av
- e\nRaleigh\, North Carolina 27604\nPhone: 919-872-4884\nContact
-URL:https://global.scoutingevent.com/421-114445
-END:VEVENT
-BEGIN:VEVENT
-UID:261842@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20281111T140000Z
-DTEND:20281111T170000Z
-SUMMARY:Cub Scout Open Program Fall – Morning
-LOCATION:Camp Durant\, Carthage\, North Carolina
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-1144
- 26\n\n\n\nProgram\n: AM Session 9 AM to 12 Noon / PM Session 1 PM to 4 PM
- \nCost\n: $20 Per Scout  (Registration is limited to 48 per session)\nRe
- quired\n: Please wear proper footwear - closed toe shoes are required. Ac
- tivity uniform is dress for the day. Please wear weather appropriate gear
- .\nContact\nWhen & Where\nSave the Date\nMorning\nCamp Durant\nSaturday 1
- 1-11-2028\n9:00 AM ET to 12:00 PM ET\nMore Information\nMap of Session\nC
- oords: 35.3421553\, -79.5534724\n4637 Old Carthage Rd.\nCarthage\, North 
- Carolina 28327\nPhon
-URL:https://global.scoutingevent.com/421-114426
 END:VEVENT
 END:VCALENDAR

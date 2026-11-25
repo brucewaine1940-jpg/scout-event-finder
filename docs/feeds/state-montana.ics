@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:277960@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261212T200000Z
 DTEND:20261212T230000Z
 SUMMARY:Central District BB Gun Range Day
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/315-122987
 END:VEVENT
 BEGIN:VEVENT
 UID:272396@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270108T000000Z
 DTEND:20270110T000000Z
 SUMMARY:Big Sky Ski Weekend
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/315-bigsky
 END:VEVENT
 BEGIN:VEVENT
 UID:277281@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T210000Z
 DTEND:20270117T170000Z
 SUMMARY:2027 Grizzly Base Mountain Man Rendezvous
@@ -61,7 +61,7 @@ URL:https://global.scoutingevent.com/315-122615
 END:VEVENT
 BEGIN:VEVENT
 UID:271343@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T160000Z
 DTEND:20270123T213000Z
 SUMMARY:Mullan Trail Cub Scout Klondike – Cub Scout Klondike
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/315-119581
 END:VEVENT
 BEGIN:VEVENT
 UID:271472@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T000000Z
 DTEND:20270307T010000Z
 SUMMARY:Mullan Trail District Merit Badge University – TBD
@@ -95,7 +95,7 @@ URL:https://global.scoutingevent.com/315-119643
 END:VEVENT
 BEGIN:VEVENT
 UID:280052@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270417T150000Z
 DTEND:20270418T200000Z
 SUMMARY:Chainsaw Basic Training Course
@@ -110,318 +110,5 @@ DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-124077\n
  uring any Scouting activity. Training points include selecting and using
   the correct safety 
 URL:https://global.scoutingevent.com/315-124077
-END:VEVENT
-BEGIN:VEVENT
-UID:275291@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270613T180000Z
-DTEND:20270619T150000Z
-SUMMARY:NYLT 2027
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-NYLT27\n
- \nNYLT\n\nNATIONAL YOUTH LEADERSHIP TRAINING\nK-M Scout Ranch\nJune 13th-
- 19th\, 2027\nPrice: $315\nNational Youth Leadership Training is an exciti
- ng\, action-packed program designed for councils to provide youth memb
- ers with leadership skills and experience they can use in their home unit
- s and in other situations demanding leadership of self and others. The c
- ourse will be held at\nK-M Scout Ranch near Lewistown\, MT\nTransportatio
- n to/from camp will not be provided\nParticipant Requirements:\nBy the s
- tart date of th
-URL:https://global.scoutingevent.com/315-NYLT27
-END:VEVENT
-BEGIN:VEVENT
-UID:274868@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270630T190000Z
-DTEND:20270703T150000Z
-SUMMARY:2027 K-M Cub Scout Camp – Cub Scout Camp Session 1
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-CUBCAMP2
- 7\n\n\n\nCub Scout Camp\nat\nK-M Scout Ranch\nNew for 2027: Both sessions
-  are for all ages of Cub Scouts!\nA world-class camp in the heart of Big 
- Sky Country\, K-M Scout Ranch is a one-of-a-kind opportunity for adventur
- e in Montana\nCub Scout Camp:\nOpen To Cub Scouts Entering Grades 1 – 5
-  In The Fall of 2027.\nParent/Guardian Attendance is required for every S
- cout - or - Webelos and Arrow of Light dens can attend as a den following
-  safe scouting leadership requirements.\nJoin us for Cub Scout Camp at K-
- M Scout R
-URL:https://global.scoutingevent.com/315-CUBCAMP27
-END:VEVENT
-BEGIN:VEVENT
-UID:252473@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270704T180000Z
-DTEND:20270710T150000Z
-SUMMARY:Melita Island 2027 – Session 1
-LOCATION:Camp Melita Island\, Big Arm\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-Melita20
- 27\n\n\n\nCamp Melita Island\nSummer Camp 2027\nIn the middle of the pris
- tine waters of Flathead Lake lies an island gem called Melita.\nMelita Is
- land is wholly owned by Scouting America\, Montana Council\, and is a lit
- tle piece of paradise reserved just for Scouts to have the adventure of a
-  lifetime. Programs at Melita Island are heavily water-based and are ide
- al for seasoned Scouts that are looking for something a little different 
- than the traditional summer camp. We also have land-based activities for 
- those
-URL:https://global.scoutingevent.com/315-Melita2027
-END:VEVENT
-BEGIN:VEVENT
-UID:274869@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270705T190000Z
-DTEND:20270708T150000Z
-SUMMARY:2027 K-M Cub Scout Camp – Cub Scout Camp Session 2
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-CUBCAMP2
- 7\n\n\n\nCub Scout Camp\nat\nK-M Scout Ranch\nNew for 2027: Both sessions
-  are for all ages of Cub Scouts!\nA world-class camp in the heart of Big 
- Sky Country\, K-M Scout Ranch is a one-of-a-kind opportunity for adventur
- e in Montana\nCub Scout Camp:\nOpen To Cub Scouts Entering Grades 1 – 5
-  In The Fall of 2027.\nParent/Guardian Attendance is required for every S
- cout - or - Webelos and Arrow of Light dens can attend as a den following
-  safe scouting leadership requirements.\nJoin us for Cub Scout Camp at K-
- M Scout R
-URL:https://global.scoutingevent.com/315-CUBCAMP27
-END:VEVENT
-BEGIN:VEVENT
-UID:252474@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270711T180000Z
-DTEND:20270717T150000Z
-SUMMARY:Melita Island 2027 – Session 2
-LOCATION:Camp Melita Island\, Big Arm\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-Melita20
- 27\n\n\n\nCamp Melita Island\nSummer Camp 2027\nIn the middle of the pris
- tine waters of Flathead Lake lies an island gem called Melita.\nMelita Is
- land is wholly owned by Scouting America\, Montana Council\, and is a lit
- tle piece of paradise reserved just for Scouts to have the adventure of a
-  lifetime. Programs at Melita Island are heavily water-based and are ide
- al for seasoned Scouts that are looking for something a little different 
- than the traditional summer camp. We also have land-based activities for 
- those
-URL:https://global.scoutingevent.com/315-Melita2027
-END:VEVENT
-BEGIN:VEVENT
-UID:252480@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270711T190000Z
-DTEND:20270717T160000Z
-SUMMARY:K-M Scout Ranch 2027 – Session 1
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-KM2027\n
- \n\n\nK-M Scout Ranch\nSummer Camp 2027\nA world-class camp in the heart
-  of Big Sky country\, K-M Scout Ranch is a one-of-a-kind opportunity for 
- adventure in Montana.\nMiles of ATV and mountain bike trails\, a newly re
- novated spring-fed pond with underwater cameras for STEM and trout study\
- , climbing wall\, shooting sports\, nature and much more. The state-of-t
- he-art lodge and dining hall come equipped with a Scoutmaster Lounge for 
- study\, work or escape.\nThere's even an opportunity for a “Haunted Ove
- rnight” a
-URL:https://global.scoutingevent.com/315-KM2027
-END:VEVENT
-BEGIN:VEVENT
-UID:252475@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270718T180000Z
-DTEND:20270724T150000Z
-SUMMARY:Melita Island 2027 – Session 3
-LOCATION:Camp Melita Island\, Big Arm\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-Melita20
- 27\n\n\n\nCamp Melita Island\nSummer Camp 2027\nIn the middle of the pris
- tine waters of Flathead Lake lies an island gem called Melita.\nMelita Is
- land is wholly owned by Scouting America\, Montana Council\, and is a lit
- tle piece of paradise reserved just for Scouts to have the adventure of a
-  lifetime. Programs at Melita Island are heavily water-based and are ide
- al for seasoned Scouts that are looking for something a little different 
- than the traditional summer camp. We also have land-based activities for 
- those
-URL:https://global.scoutingevent.com/315-Melita2027
-END:VEVENT
-BEGIN:VEVENT
-UID:252481@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270718T190000Z
-DTEND:20270724T160000Z
-SUMMARY:K-M Scout Ranch 2027 – Session 2
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-KM2027\n
- \n\n\nK-M Scout Ranch\nSummer Camp 2027\nA world-class camp in the heart
-  of Big Sky country\, K-M Scout Ranch is a one-of-a-kind opportunity for 
- adventure in Montana.\nMiles of ATV and mountain bike trails\, a newly re
- novated spring-fed pond with underwater cameras for STEM and trout study\
- , climbing wall\, shooting sports\, nature and much more. The state-of-t
- he-art lodge and dining hall come equipped with a Scoutmaster Lounge for 
- study\, work or escape.\nThere's even an opportunity for a “Haunted Ove
- rnight” a
-URL:https://global.scoutingevent.com/315-KM2027
-END:VEVENT
-BEGIN:VEVENT
-UID:252476@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270725T180000Z
-DTEND:20270731T150000Z
-SUMMARY:Melita Island 2027 – Session 4
-LOCATION:Camp Melita Island\, Big Arm\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-Melita20
- 27\n\n\n\nCamp Melita Island\nSummer Camp 2027\nIn the middle of the pris
- tine waters of Flathead Lake lies an island gem called Melita.\nMelita Is
- land is wholly owned by Scouting America\, Montana Council\, and is a lit
- tle piece of paradise reserved just for Scouts to have the adventure of a
-  lifetime. Programs at Melita Island are heavily water-based and are ide
- al for seasoned Scouts that are looking for something a little different 
- than the traditional summer camp. We also have land-based activities for 
- those
-URL:https://global.scoutingevent.com/315-Melita2027
-END:VEVENT
-BEGIN:VEVENT
-UID:252482@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270725T190000Z
-DTEND:20270731T160000Z
-SUMMARY:K-M Scout Ranch 2027 – Session 3
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-KM2027\n
- \n\n\nK-M Scout Ranch\nSummer Camp 2027\nA world-class camp in the heart
-  of Big Sky country\, K-M Scout Ranch is a one-of-a-kind opportunity for 
- adventure in Montana.\nMiles of ATV and mountain bike trails\, a newly re
- novated spring-fed pond with underwater cameras for STEM and trout study\
- , climbing wall\, shooting sports\, nature and much more. The state-of-t
- he-art lodge and dining hall come equipped with a Scoutmaster Lounge for 
- study\, work or escape.\nThere's even an opportunity for a “Haunted Ove
- rnight” a
-URL:https://global.scoutingevent.com/315-KM2027
-END:VEVENT
-BEGIN:VEVENT
-UID:252477@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270801T180000Z
-DTEND:20270807T150000Z
-SUMMARY:Melita Island 2027 – Session 5
-LOCATION:Camp Melita Island\, Big Arm\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-Melita20
- 27\n\n\n\nCamp Melita Island\nSummer Camp 2027\nIn the middle of the pris
- tine waters of Flathead Lake lies an island gem called Melita.\nMelita Is
- land is wholly owned by Scouting America\, Montana Council\, and is a lit
- tle piece of paradise reserved just for Scouts to have the adventure of a
-  lifetime. Programs at Melita Island are heavily water-based and are ide
- al for seasoned Scouts that are looking for something a little different 
- than the traditional summer camp. We also have land-based activities for 
- those
-URL:https://global.scoutingevent.com/315-Melita2027
-END:VEVENT
-BEGIN:VEVENT
-UID:265813@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270816T133000Z
-DTEND:20270820T210000Z
-SUMMARY:Wood Badge 2027
-LOCATION:K-M Scout Ranch\, Hilger\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-WoodBadg
- e27\n\nWood Badge\n\nMontana Council\nWood Badge 2027\nAugust 16-20\, 202
- 7\nK-M Scout Ranch\nAll Scout leaders are invited to Montana Council's 20
- 27 Wood Badge\, which will be held at the beautiful\nK-M Scout Ranch\nin 
- Central Montana.  This is the top leadership course in Scouting America 
- for both volunteers and professionals. You will have fun!\nWhen:\nAugust 
- 16-20\, 2027. Participants are encouraged to arrive and camp the evening 
- before the course begins. Dinner will not be provided for early arrival\;
-  please eat before arri
-URL:https://global.scoutingevent.com/315-WoodBadge27
-END:VEVENT
-BEGIN:VEVENT
-UID:276199@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270911T143000Z
-DTEND:20270911T230000Z
-SUMMARY:Lewis & Clark District Cub Scout Day Camp
-LOCATION:Great Falls Field Office and Scout Store\, Great Falls\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-122031\n
- \n\n\nLewis & Clark District\nCub Scout Day Camp\n~Under the Waves~\nWHEN
- :\nSaturday September 11\, 2027\n\, 8:30am - 5pm\nWHERE:\nGreat Falls Sco
- ut Office\n820 17th Ave S Great Falls MT 59405\nCOST:\n$25 per Scout/ $0 
- Per Adult/$0 Den Chiefs\nAll Cubs are welcome to attend!!\nWHAT TO EXPECT
- :\nCHECK IN STARTS AT 8:30\nOPENING CEREMONY/FLAGS AT 9:30\nSTATIONS STAR
- T AT 9:45\nLIONS &TIGERS\n- Please bring your Adult Companions!\nParents 
- are requested to attend with their Scouts\, If you are unable to attend\,
-  please check wit
-URL:https://global.scoutingevent.com/315-122031
-END:VEVENT
-BEGIN:VEVENT
-UID:272268@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280304T000000Z
-DTEND:20280306T010000Z
-SUMMARY:Western Montana Merit Badge University – TBD
-LOCATION:TBD\, TBD\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-120065\n
- \n\n\nWestern Montana\nMERIT BADGE UNIVERSITY\nWhen:\nFriday\, March 3rd-
-  Sunday\, March 5th\, 2027\nWhere:\nTBD\nCost:\nTBD\nStay Tuned! More Det
- ails to Come!\nWhen & Where\nSave the Date\nTBD\nTBD\nFriday 03-03-2028 5
- :00 PM MT to\nSunday 03-05-2028 6:00 PM MT\nMore Information\nTBD\nTBD\, 
- Montana\nRegistration Closes:\n&nbsp02-25-2028 7:00 PM\nContact
-URL:https://global.scoutingevent.com/315-120065
-END:VEVENT
-BEGIN:VEVENT
-UID:272271@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280311T160000Z
-DTEND:20280311T230000Z
-SUMMARY:Mullan Trail Scout BSA Position Training and Summit
-LOCATION:TBD\, TBD\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-120067\n
- \n\n\nMullan Trail District\nScout BSA Position Training & Summit\nWhen:\
- nSaturday\, March 11th\, 2028\nTime:\n9:00am-4:00pm\nLocation:\nTBD\nCost
- :\nFREE! Fees for leader position-required training are included in counc
- il annual adult registration fee.\nWhen & Where\nSave the Date\nTBD\nSatu
- rday 03-11-2028\n9:00 AM MT to 4:00 PM MT\nMore Information\nTBD\nTBD\, M
- ontana\nRegistration Closes:\n&nbsp03-09-2028 11:59 PM\nContact
-URL:https://global.scoutingevent.com/315-120067
-END:VEVENT
-BEGIN:VEVENT
-UID:272607@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280610T160000Z
-DTEND:20280610T233000Z
-SUMMARY:Mullan Trail District Cub Scout Day Camp – Cub Scout Day Camp
-LOCATION:TBD\, TBD\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-120260\n
- \n\n\nMullan Trail District\nCub Scout Day Camp\nCalling all Cubs! Join u
- s for a full day of hands-on fun and awesome adventures at Cub Scout Day
-  Camp!\nStay Tuned... More details to come!!\nSaturday\, June 10th\, 2028
- \nThis is a day of discovery your Scout won’t want to miss—perfect f
- or new Cub Scouts\, returning adventurers\, and friends who want to see w
- hat Scouting is all about.\nSpaces are limited\, so register now and get 
- ready to invent something amazing!\nWhen & Where\nSave the Date\nCub Scou
- t Day Camp\nTBD\n
-URL:https://global.scoutingevent.com/315-120260
-END:VEVENT
-BEGIN:VEVENT
-UID:272614@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280923T150000Z
-DTEND:20280924T220000Z
-SUMMARY:Mullan Trail District Cub Scout Fall Camporee – Fall Camporee
-LOCATION:TBD\, TBD\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-120266\n
- \n\n\nMullan Trail District\nCub Scout Fall Camporee\nSeptember 23rd-24th
- \, 2028\nWhere: TBD\nMore Details to come!!\nWhen & Where\nSave the Date\
- nFall Camporee\nTBD\nSaturday 09-23-2028 9:00 AM MT to\nSunday 09-24-2028
-  4:00 PM MT\nMore Information\nTBD\nTBD\, Montana\nRegistration Closes:\n
- &nbsp09-21-2028 11:59 PM\nContact\nAttachments\nMed Form A-B
-URL:https://global.scoutingevent.com/315-120266
-END:VEVENT
-BEGIN:VEVENT
-UID:272658@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20281104T060000Z
-DTEND:20281105T055900Z
-SUMMARY:Mullan Trail Chartered Organization Representative Summit
-LOCATION:TBD\, TBD\, Montana
-DESCRIPTION:Montana Council\nhttps://global.scoutingevent.com/315-120297\n
- \n\n\nMULLAN TRAIL DISTRICT\nChartered Organization Representative Summit
- \nDate:\nSaturday\, November 4th\, 2028\nTime:\nTBD\nLocation:\nTBD\nMore
-  Information Coming Soon!\nWhen & Where\nSave the Date\nTBD\nSaturday 11-
- 04-2028\n12:00 AM MT to 11:59 PM MT\nMore Information\nTBD\nTBD\, Montana
- \nRegistration Closes:\n&nbsp11-03-2028 11:59 PM\nContact
-URL:https://global.scoutingevent.com/315-120297
 END:VEVENT
 END:VCALENDAR

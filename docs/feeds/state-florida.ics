@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:278153@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261201T150000Z
 DTEND:20261201T200000Z
 SUMMARY:Homeschool STEM Day
@@ -22,7 +22,7 @@ URL:https://global.scoutingevent.com/089-STEMDay
 END:VEVENT
 BEGIN:VEVENT
 UID:270344@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T000000Z
 DTEND:20261206T160000Z
 SUMMARY:Order of the Arrow (OA) Winter Fellowship
@@ -38,7 +38,7 @@ URL:https://global.scoutingevent.com/085-OAWF
 END:VEVENT
 BEGIN:VEVENT
 UID:255552@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261211T210000Z
 DTEND:20261213T160000Z
 SUMMARY:Cub Holiday 2026 - "Lights\, Movies\, & Holiday ACTION!" – Cub H
@@ -57,7 +57,7 @@ URL:https://global.scoutingevent.com/083-CubHoliday
 END:VEVENT
 BEGIN:VEVENT
 UID:255553@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261212T123000Z
 DTEND:20261213T040000Z
 SUMMARY:Cub Holiday 2026 - "Lights\, Movies\, & Holiday ACTION!" – Cub H
@@ -76,7 +76,7 @@ URL:https://global.scoutingevent.com/083-CubHoliday
 END:VEVENT
 BEGIN:VEVENT
 UID:269507@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261218T220000Z
 DTEND:20261220T160000Z
 SUMMARY:National Youth Leadership Training (NYLT) Staff Training
@@ -91,7 +91,7 @@ URL:https://global.scoutingevent.com/085-NYLTSTW
 END:VEVENT
 BEGIN:VEVENT
 UID:278888@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261219T150000Z
 DTEND:20261219T170000Z
 SUMMARY:Cub Day at Patti Johnson's Farm
@@ -109,7 +109,7 @@ URL:https://global.scoutingevent.com/089-123496
 END:VEVENT
 BEGIN:VEVENT
 UID:253023@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261226T140000Z
 DTEND:20261231T190000Z
 SUMMARY:National Youth Leadership Training (NYLT) Winter 2026 Course – N
@@ -128,7 +128,7 @@ URL:https://global.scoutingevent.com/083-NYLTwinter
 END:VEVENT
 BEGIN:VEVENT
 UID:255889@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261226T180000Z
 DTEND:20261231T200000Z
 SUMMARY:NYLT - Winter 2026
@@ -146,7 +146,7 @@ URL:https://global.scoutingevent.com/089-NYLT23
 END:VEVENT
 BEGIN:VEVENT
 UID:269566@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261227T140000Z
 DTEND:20270101T140000Z
 SUMMARY:National Youth Leadership Training (NYLT) - CST16-85-26
@@ -164,7 +164,7 @@ URL:https://global.scoutingevent.com/085-NYLT168526
 END:VEVENT
 BEGIN:VEVENT
 UID:255890@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261227T154500Z
 DTEND:20261230T220000Z
 SUMMARY:2026 Winter Camp – Winter Camp
@@ -182,7 +182,7 @@ URL:https://global.scoutingevent.com/089-111522
 END:VEVENT
 BEGIN:VEVENT
 UID:261299@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261227T171500Z
 DTEND:20261230T230000Z
 SUMMARY:Winter Camp
@@ -200,7 +200,7 @@ URL:https://global.scoutingevent.com/664-WinterCamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:271176@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261227T190000Z
 DTEND:20261231T160000Z
 SUMMARY:2026 Scouts BSA Winter Camp
@@ -218,7 +218,7 @@ URL:https://global.scoutingevent.com/773-wintercamp26
 END:VEVENT
 BEGIN:VEVENT
 UID:270064@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270108T220000Z
 DTEND:20270111T040000Z
 SUMMARY:Fun\, Fire & Fellowship
@@ -236,7 +236,7 @@ URL:https://global.scoutingevent.com/085-FFF2027
 END:VEVENT
 BEGIN:VEVENT
 UID:260659@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T190000Z
 DTEND:20270110T010000Z
 SUMMARY:Astronomy Merit Badge
@@ -254,7 +254,7 @@ URL:https://global.scoutingevent.com/089-113694
 END:VEVENT
 BEGIN:VEVENT
 UID:277738@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T230000Z
 DTEND:20270117T210000Z
 SUMMARY:Level 2 COPE Training
@@ -272,7 +272,7 @@ URL:https://global.scoutingevent.com/083-122870
 END:VEVENT
 BEGIN:VEVENT
 UID:260368@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T230000Z
 DTEND:20270117T160000Z
 SUMMARY:Philmont Contingent Skills Weekend
@@ -290,7 +290,7 @@ URL:https://global.scoutingevent.com/089-philmontskills
 END:VEVENT
 BEGIN:VEVENT
 UID:270381@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T130000Z
 DTEND:20270116T220000Z
 SUMMARY:Scouting in the Wild at Lion Country Safari
@@ -308,7 +308,7 @@ URL:https://global.scoutingevent.com/085-EGSITW
 END:VEVENT
 BEGIN:VEVENT
 UID:173473@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T140000Z
 DTEND:20270118T220000Z
 SUMMARY:National Youth Leadership Training (NYLT) – Session 1
@@ -326,7 +326,7 @@ URL:https://global.scoutingevent.com/664-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:274988@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T150000Z
 DTEND:20270116T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -345,7 +345,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:274989@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Indian River District Merit Badge of the Month - Coin Collecting 
@@ -364,7 +364,7 @@ URL:https://global.scoutingevent.com/085-IRMBOTMCC
 END:VEVENT
 BEGIN:VEVENT
 UID:260373@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270118T130000Z
 DTEND:20270118T200000Z
 SUMMARY:Merit Badge Day- CEMEX
@@ -382,7 +382,7 @@ URL:https://global.scoutingevent.com/089-113504
 END:VEVENT
 BEGIN:VEVENT
 UID:276329@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T220000Z
 DTEND:20270124T170000Z
 SUMMARY:COPE Skills Weekend - hosted Heartland District – COPE Weekend
@@ -400,7 +400,7 @@ URL:https://global.scoutingevent.com/089-COPE
 END:VEVENT
 BEGIN:VEVENT
 UID:260374@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T220000Z
 DTEND:20270124T220000Z
 SUMMARY:Wilderness First Aid Training
@@ -418,7 +418,7 @@ URL:https://global.scoutingevent.com/089-113505
 END:VEVENT
 BEGIN:VEVENT
 UID:279178@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T230000Z
 DTEND:20270124T170000Z
 SUMMARY:Leave No Trace - Level 1 Instructor Course
@@ -436,7 +436,7 @@ URL:https://global.scoutingevent.com/089-123679
 END:VEVENT
 BEGIN:VEVENT
 UID:279633@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T000000Z
 DTEND:20270124T170000Z
 SUMMARY:Rifle Merit Badge Weekend
@@ -454,7 +454,7 @@ URL:https://global.scoutingevent.com/089-123876
 END:VEVENT
 BEGIN:VEVENT
 UID:251617@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270205T050000Z
 DTEND:20270208T045900Z
 SUMMARY:2027 TNAW – TNAW - Overnight Camping
@@ -472,7 +472,7 @@ URL:https://global.scoutingevent.com/083-TNAW
 END:VEVENT
 BEGIN:VEVENT
 UID:251618@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270206T120000Z
 DTEND:20270207T030000Z
 SUMMARY:2027 TNAW – TNAW - Day Visitor
@@ -490,7 +490,7 @@ URL:https://global.scoutingevent.com/083-TNAW
 END:VEVENT
 BEGIN:VEVENT
 UID:260709@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270213T140000Z
 DTEND:20270215T220000Z
 SUMMARY:National Youth Leadership Training (NYLT) – Session 2
@@ -508,7 +508,7 @@ URL:https://global.scoutingevent.com/664-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:270512@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270219T220000Z
 DTEND:20270221T160000Z
 SUMMARY:Rescueree
@@ -527,7 +527,7 @@ URL:https://global.scoutingevent.com/089-119039
 END:VEVENT
 BEGIN:VEVENT
 UID:272858@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270220T143000Z
 DTEND:20270220T183000Z
 SUMMARY:Stamp Collecting Merit Badge- Clearwater Stamp Club
@@ -545,7 +545,7 @@ URL:https://global.scoutingevent.com/089-120401
 END:VEVENT
 BEGIN:VEVENT
 UID:276359@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270226T220000Z
 DTEND:20270228T160000Z
 SUMMARY:Lighthouse District Mosquitoree
@@ -563,7 +563,7 @@ URL:https://global.scoutingevent.com/085-LHMosquitoree
 END:VEVENT
 BEGIN:VEVENT
 UID:279969@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270313T130000Z
 DTEND:20270313T220000Z
 SUMMARY:Summer Camp Staff Training Weekend – Session 1
@@ -581,7 +581,7 @@ URL:https://global.scoutingevent.com/085-SCSTW
 END:VEVENT
 BEGIN:VEVENT
 UID:269092@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270319T210000Z
 DTEND:20270321T140000Z
 SUMMARY:Timuqua District Twilight The Camp O Ree
@@ -600,7 +600,7 @@ URL:https://global.scoutingevent.com/083-TimuquaDistrictTwilightTheCampORe
 END:VEVENT
 BEGIN:VEVENT
 UID:276578@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270403T130000Z
 DTEND:20270403T200000Z
 SUMMARY:Youth Law Day
@@ -618,7 +618,7 @@ URL:https://global.scoutingevent.com/085-YouthLawDay
 END:VEVENT
 BEGIN:VEVENT
 UID:272533@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270423T210000Z
 DTEND:20270425T150000Z
 SUMMARY:Summer Camp Staff Training Weekend – Session 2
@@ -636,7 +636,7 @@ URL:https://global.scoutingevent.com/085-SCSTW
 END:VEVENT
 BEGIN:VEVENT
 UID:279968@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270521T210000Z
 DTEND:20270523T150000Z
 SUMMARY:Summer Camp Staff Training Weekend – Session 3
@@ -654,7 +654,7 @@ URL:https://global.scoutingevent.com/085-SCSTW
 END:VEVENT
 BEGIN:VEVENT
 UID:257836@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270606T180000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 1
@@ -672,7 +672,7 @@ URL:https://global.scoutingevent.com/773-SC2027
 END:VEVENT
 BEGIN:VEVENT
 UID:261315@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270607T130000Z
 DTEND:20270611T200000Z
 SUMMARY:Cub Scout Day Camp
@@ -690,7 +690,7 @@ URL:https://global.scoutingevent.com/664-CSDC27
 END:VEVENT
 BEGIN:VEVENT
 UID:257837@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270613T180000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Scouts BSA Week 2
@@ -705,166 +705,5 @@ DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-SC202
  0 PM CT to\nSaturday 06-19-2027 9:00 AM CT\nLimit One Registration Per Un
  it\nMore Information\nMap of Se
 URL:https://global.scoutingevent.com/773-SC2027
-END:VEVENT
-BEGIN:VEVENT
-UID:257839@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T180000Z
-DTEND:20270623T140000Z
-SUMMARY:Cub Scout Resident Camp 2027 – Cub Scout Resident Camp
-LOCATION:Camp Euchee\, Defuniak Springs\, Florida
-DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-RC202
- 7\n\n\n\nSave The Date!\nWhen & Where\nSave the Date\nCub Scout Resident 
- Camp\nCamp Euchee\nSunday 06-20-2027 1:00 PM CT to\nWednesday 06-23-2027 
- 9:00 AM CT\nMore Information\nMap of Event\nCoords: 30.7318897\, -86.2090
- 237\n315 Pat Covell Rd\nDefuniak Springs\, Florida 32435\nRegistration Cl
- oses:\n&nbsp06-14-2027 11:59 PM\nContact\nAttachments\nCub Adventure Sche
- dule\nCub Resident Camp Flyer\nCub Resident Camp Leader\\'s Guide 2025\nM
- edical Form ABC
-URL:https://global.scoutingevent.com/773-RC2027
-END:VEVENT
-BEGIN:VEVENT
-UID:279883@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270711T210000Z
-DTEND:20270717T210000Z
-SUMMARY:Sea Scout Summer Port
-LOCATION:Camp Tanah Keeta\, Jupiter\, Florida
-DESCRIPTION:Gulf Stream Council\nhttps://global.scoutingevent.com/085-SeaS
- coutSummerPort\n\n\n\nSea Scout Summer Port\nScouts go to Summer Camp - S
- ea Scouts go to Summer Port.  The First Ever Sea Scout Summer Port 2027\
- nWhen & Where\nRegistration Opens 11-24-2026 12:00 AM\nCamp Tanah Keeta\n
- Sunday 07-11-2027 5:00 PM ET to\nSaturday 07-17-2027 5:00 PM ET\nMore Inf
- ormation\nMap of Event\n$\nView Pricing\nCoords: 26.9872971\, -80.1387607
- \n8501 Southeast Boy Scout Rd\nJupiter\, Florida 33469\nPhone: 561-694-85
- 85\nRegistration Closes:\n&nbsp07-11-2027 11:59 PM\nContact
-URL:https://global.scoutingevent.com/085-SeaScoutSummerPort
-END:VEVENT
-BEGIN:VEVENT
-UID:268721@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270713T090000Z
-DTEND:20270719T035900Z
-SUMMARY:2027 Council Sea Base Contingent
-LOCATION:Sea Base\, Islamorada\, Florida
-DESCRIPTION:Michigan Crossroads Council\nhttps://global.scoutingevent.com/
- 272-2027SeaBase\n\nAquatics (Lifeguard / Water Rescue)\, CPR / AED / Firs
- t Aid\, Hazardous Weather\, Safeguarding Youth / YPT\, Wilderness First A
- id\n\nMCC Council Sea Base Contingent\nCome Sail Away\, Come Sail Away!\n
- Michigan Crossroads Council is proud to present the 2027 Keys Adventure S
- ailing Sea Base Contingent. During this trek\, participants will enjoy th
- eir adventure in the most diverse ecosystem in North America.\n-The adven
- ture begins with snorkeling\, kayaking\, and learning about sailing. At n
- ight\, crews will be housed in glamping-style tents with bunk beds and ai
- r conditioning.\n-On day 4\, crews will embark on their adventure at sea.
-  Duri
-URL:https://global.scoutingevent.com/272-2027SeaBase
-END:VEVENT
-BEGIN:VEVENT
-UID:272636@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270731T040000Z
-DTEND:20270806T035900Z
-SUMMARY:Florida Sea Base 2027 Council Crew
-LOCATION:Florida Sea Base\, Islamorada\, Florida
-DESCRIPTION:Occoneechee Council\nhttps://global.scoutingevent.com/421-SeaB
- ase27\n\n\n\nKeys Adventure Islamorada\nwill show you the variety of expe
- riences the Florida Keys has to offer. Snorkeling\, paddling through mang
- rove forests\, fishing in the Florida Bay from 28ft. fishing vessels\, an
- d spending a day sailing aboard a catamaran sailboat! Each day is a new d
- ay\, and each night will be spent in air-conditioned dormitories. If you
- ’re looking for an action-packed variety of aquatic activities\, look n
- o further\nWhen & Where\nSave the Date\nFlorida Sea Base\nSaturday 07-31-
- 2027 12:00 AM E
-URL:https://global.scoutingevent.com/421-SeaBase27
-END:VEVENT
-BEGIN:VEVENT
-UID:275490@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270917T210000Z
-DTEND:20270919T150000Z
-SUMMARY:Venturing and Sea Scout Super Weekend
-LOCATION:Camp Euchee\, Defuniak Springs\, Florida
-DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-CrewS
- hip2027\n\n\n\nSave the date!\nVenturing & Sea Scout Super Weekend will b
- e an even for Crews\, Ships\, and Troops to experience rank advancement o
- pportunities and other activities that make the older youth programs fun.
- \nWhen & Where\nSave the Date\nCamp Euchee\nFriday 09-17-2027 4:00 PM CT 
- to\nSunday 09-19-2027 10:00 AM CT\nMore Information\nMap of Event\nCoords
- : 30.7318897\, -86.2090237\n315 Pat Covell Rd\nDefuniak Springs\, Florida
-  32435\nRegistration Closed:\n&nbsp09-27-2026 11:59 PM\nContact
-URL:https://global.scoutingevent.com/773-CrewShip2027
-END:VEVENT
-BEGIN:VEVENT
-UID:260745@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271105T213000Z
-DTEND:20271107T170000Z
-SUMMARY:Aiming for the Arrow
-LOCATION:Sand Hill Scout Reservation\, Brooksville\, Florida
-DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
- om/089-113766\n\n\n\nWebelos and Arrow of Light scouts\nare welcome to at
- tend the Withlacoochee District Aiming for the Arrow\, American Heritage.
-  Cubs will learn some new scout skills\, take time to remember our Americ
- an Heritage\, all while working in a patrol method setting. By working on
-  these skills they will gather new skills for their Webelos and Arrow of 
- Light ranks. This will give them an insight of the scouting traditions to
-  be successful in Scouts BSA. The Cub Scouts will be taught the patrol me
- thod and will 
-URL:https://global.scoutingevent.com/089-113766
-END:VEVENT
-BEGIN:VEVENT
-UID:260734@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271106T140000Z
-DTEND:20271106T190000Z
-SUMMARY:Cub Adventure Series- Sand Hill
-LOCATION:Sand Hill Scout Reservation\, Brooksville\, Florida
-DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
- om/089-113761\n\n\n\nGrab your towels\, slather on that sunscreen\, and b
- race yourself for a splashtastic extravaganza! Cub Scouts and their famil
- ies are gearing up for a wet and wild adventure at Sand Hill Scout Reserv
- ation\, where water meets Cub Scouts in a splashy showdown! Think water s
- lides\, bucket races\, sprinklers\, water art\, boat crafting\, bubbles g
- alore\, and more!\nWe will have the Cub Scout shooting ranges open for BB
- -guns\, archery and wrist rockets. The trading post will be open for all 
- your candy and ice cr
-URL:https://global.scoutingevent.com/089-113761
-END:VEVENT
-BEGIN:VEVENT
-UID:260748@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271119T230000Z
-DTEND:20271121T170000Z
-SUMMARY:Leave No Trace - Level 1 Course
-LOCATION:Camp Soule\, Clearwater\, Florida
-DESCRIPTION:Greater Tampa Bay Area Council\nhttps://global.scoutingevent.c
- om/089-113770\n\nLeave No Trace\n\nLeave No Trave Level 1 Training\nCost 
- Includes all Training Materials and Food\nThis BSA / Center for Outdoor E
- thics Leave No Trace Trainer Course will give attendees the necessary too
- ls to fulfill their duties as it relates to outdoor ethics. Age requireme
- nt 18 Years Old. Adults are encouraged and welcome to attend to learn how
-  to minimize your impact when recreating outdoors and become better stewa
- rds of the land.\nPlease bring a tent and your personal weekend camping g
- ear\, including a mess kit a
-URL:https://global.scoutingevent.com/089-113770
-END:VEVENT
-BEGIN:VEVENT
-UID:257857@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271227T180000Z
-DTEND:20271231T153000Z
-SUMMARY:2027 Scouts BSA Winter Camp
-LOCATION:Camp Euchee\, Defuniak Springs\, Florida
-DESCRIPTION:Gulf Coast Council\nhttps://global.scoutingevent.com/773-WC202
- 7\n\nAviation\n\nSave The Date!\nWhen & Where\nSave the Date\nCamp Euchee
- \nMonday 12-27-2027 12:00 PM CT to\nFriday 12-31-2027 9:30 AM CT\nMore In
- formation\nMap of Event\nCoords: 30.7318897\, -86.2090237\n315 Pat Covell
-  Rd\nDefuniak Springs\, Florida 32435\nRegistration Closes:\n&nbsp12-20-2
- 027 11:59 PM\nContact\nAttachments\n2025 Winter Camp Flyer\n2025 Winter C
- amp Schedule\n2025 Winter Camp Class Catalog\n2025 Winter Camp MB Grid\nW
- inter Camp Menu 2025.xlsx - Google Sheets\nATV GCC Waiver\nATV-ASI-RiderC
- ourse-Waiver-2025\nAviation Me
-URL:https://global.scoutingevent.com/773-WC2027
 END:VEVENT
 END:VCALENDAR

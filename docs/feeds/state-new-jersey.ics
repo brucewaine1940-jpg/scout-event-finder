@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:275283@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T130000Z
 DTEND:20261205T220000Z
 SUMMARY:Pine Hill District Merit Badge College
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/690-meritbadgecollege
 END:VEVENT
 BEGIN:VEVENT
 UID:249250@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T133000Z
 DTEND:20261205T173000Z
 SUMMARY:Den Chief Training – Winter 2026
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/690-108555
 END:VEVENT
 BEGIN:VEVENT
 UID:274090@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T140000Z
 DTEND:20261205T220000Z
 SUMMARY:Outdoor Skills Series – 12/5: Fire & Steel
@@ -62,7 +62,7 @@ URL:https://global.scoutingevent.com/640-OSS
 END:VEVENT
 BEGIN:VEVENT
 UID:226920@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261211T220000Z
 DTEND:20261213T160000Z
 SUMMARY:Klondike 2026 Pinelands District
@@ -81,7 +81,7 @@ URL:https://global.scoutingevent.com/690-PLDKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:251153@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261227T180000Z
 DTEND:20261230T180000Z
 SUMMARY:Winter Camp 2026
@@ -99,7 +99,7 @@ URL:https://global.scoutingevent.com/640-winter26
 END:VEVENT
 BEGIN:VEVENT
 UID:271086@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T230000Z
 DTEND:20270117T170000Z
 SUMMARY:2027 Crossroads Klondike Derby – Klondike Derby 2026
@@ -117,7 +117,7 @@ URL:https://global.scoutingevent.com/690-crossroadsklondike
 END:VEVENT
 BEGIN:VEVENT
 UID:266223@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270115T233000Z
 DTEND:20270117T170000Z
 SUMMARY:RVD Klondike Derby
@@ -135,7 +135,7 @@ URL:https://global.scoutingevent.com/333-RVDKlondike2027
 END:VEVENT
 BEGIN:VEVENT
 UID:278826@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T220000Z
 DTEND:20270124T170000Z
 SUMMARY:Klondike 2027 Pine Hill District
@@ -153,7 +153,7 @@ URL:https://global.scoutingevent.com/690-PHKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:266180@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T233000Z
 DTEND:20270124T170000Z
 SUMMARY:2027 3 Rivers District Klondike – 3 RIVERS KLONDIKE DERBY
@@ -171,7 +171,7 @@ URL:https://global.scoutingevent.com/333-3RKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:274182@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270206T050000Z
 DTEND:20270207T045900Z
 SUMMARY:Outdoor Skill Series 2027 – 2/6: First Aid
@@ -190,7 +190,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:266181@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270206T130000Z
 DTEND:20270206T210000Z
 SUMMARY:BSA Wilderness First Aid – WFA Day 1
@@ -208,7 +208,7 @@ URL:https://global.scoutingevent.com/333-116812
 END:VEVENT
 BEGIN:VEVENT
 UID:266182@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270207T130000Z
 DTEND:20270207T210000Z
 SUMMARY:BSA Wilderness First Aid – WFA Day 2
@@ -226,7 +226,7 @@ URL:https://global.scoutingevent.com/333-116812
 END:VEVENT
 BEGIN:VEVENT
 UID:278794@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270219T220000Z
 DTEND:20270221T160000Z
 SUMMARY:Klondike Pinelands District – February 19-21
@@ -244,7 +244,7 @@ URL:https://global.scoutingevent.com/690-PLDKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:274183@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270313T050000Z
 DTEND:20270314T045900Z
 SUMMARY:Outdoor Skill Series 2027 – 3/13: Fire & Steel
@@ -263,7 +263,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:274184@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270424T040000Z
 DTEND:20270425T035900Z
 SUMMARY:Outdoor Skill Series 2027 – 4/24 First Aid EMS
@@ -282,7 +282,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:266192@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270424T130000Z
 DTEND:20270424T200000Z
 SUMMARY:Introduction to Leadership Skills for Troops – Introduction to L
@@ -301,7 +301,7 @@ URL:https://global.scoutingevent.com/333-116817
 END:VEVENT
 BEGIN:VEVENT
 UID:244923@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270514T110000Z
 DTEND:20270516T210000Z
 SUMMARY:2027 Garden State Council Wood Badge – Part 1
@@ -319,7 +319,7 @@ URL:https://global.scoutingevent.com/690-106392
 END:VEVENT
 BEGIN:VEVENT
 UID:266194@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270521T230000Z
 DTEND:20270523T160000Z
 SUMMARY:IOLS - Intro to Outdoor Leader Skills – Fall Course
@@ -337,7 +337,7 @@ URL:https://global.scoutingevent.com/333-116819
 END:VEVENT
 BEGIN:VEVENT
 UID:265346@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270604T220000Z
 DTEND:20270606T150000Z
 SUMMARY:Cub World Family Fun Weekends 2027 – Family Fun Weekend - STEM T
@@ -356,7 +356,7 @@ URL:https://global.scoutingevent.com/640-116392
 END:VEVENT
 BEGIN:VEVENT
 UID:244922@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270605T120000Z
 DTEND:20270606T210000Z
 SUMMARY:2027 Garden State Council Wood Badge – Part 2
@@ -374,7 +374,7 @@ URL:https://global.scoutingevent.com/690-106392
 END:VEVENT
 BEGIN:VEVENT
 UID:265347@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270611T220000Z
 DTEND:20270613T150000Z
 SUMMARY:Cub World Family Fun Weekends 2027 – Family Fun Weekend - Into t
@@ -393,7 +393,7 @@ URL:https://global.scoutingevent.com/640-116392
 END:VEVENT
 BEGIN:VEVENT
 UID:265348@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270618T220000Z
 DTEND:20270620T150000Z
 SUMMARY:Cub World Family Fun Weekends 2027 – Family Fun Weekend - Range 
@@ -411,209 +411,8 @@ DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
 URL:https://global.scoutingevent.com/640-116392
 END:VEVENT
 BEGIN:VEVENT
-UID:273051@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270628T124500Z
-DTEND:20270702T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 1:Pine Tree Education and Environ
- mental Center
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:273045@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270705T124500Z
-DTEND:20270709T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 2: Pine Tree Education and Enviro
- nmental Center
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:273046@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270705T124500Z
-DTEND:20270709T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 2: Atlantic Cape Community Colleg
- e
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:273049@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270712T124500Z
-DTEND:20270716T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 3: Camp Roosevelt
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:273047@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270712T124500Z
-DTEND:20270716T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 3: Pine Hill Scout Reservation
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:273050@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270719T124500Z
-DTEND:20270723T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 4: Pine Hill Scout Reservation
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:273048@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270726T124500Z
-DTEND:20270730T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 5: Pine Hill Scout Reservation
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:280018@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270802T124500Z
-DTEND:20270806T200000Z
-SUMMARY:2027 Cub Scout Day Camp – Week 6: Pine Hill Scout Reservation
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 506\n\nSafeguarding Youth / YPT\n\nUnder the Waves\nCub Scout Day Camps 2
- 027!\nCub Scouts going into grades 1-5 are invited to join us for an unfo
- rgettable summer of fun\, adventure\, and discovery!\nNot a Cub Scout yet
- ? No problem. Visit BeAScout.org to find a Pack near you and join in the 
- excitement!\nCamp Theme  Under the Waves\nGrab your snorkel and dive int
- o adventure! Our 2027 theme\, Under the Waves\, will take Cub Scouts on a
- n exciting journey beneath the surface of the ocean to explore marine lif
- e\, underwater ecosystems\, nautical
-URL:https://global.scoutingevent.com/690-120506
-END:VEVENT
-BEGIN:VEVENT
-UID:266199@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270815T120000Z
-DTEND:20270821T150000Z
-SUMMARY:National Youth Leadership Training (NYLT) – NYLT
-LOCATION:Camp Yaw Paw\, Mahwah\, New Jersey
-DESCRIPTION:Northern New Jersey Council\nhttps://global.scoutingevent.com/
- 333-NYLT27\n\nNYLT\n\nNational Youth Leadership Training (NYLT) is an 
- exciting\, action-packed program developed by Scouting America and is pre
- sented by volunteer NNJC youth and adult staff to provide youth members w
- ith leadership skills\, methods and experiences to become better leaders 
- in their unit.\nThe course centers around the concept of what a leader mu
- st be\, what they must know\, and what they must do – with a clear focu
- s on how to accomplish all this. Through a wide range of activities\, gam
- es\, and adventures\, pa
-URL:https://global.scoutingevent.com/333-NYLT27
-END:VEVENT
-BEGIN:VEVENT
-UID:273042@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270815T180000Z
-DTEND:20270821T000000Z
-SUMMARY:2027 Kuweike Trek Camp
-LOCATION:Pine Tree Center\, Tabernacle\, New Jersey
-DESCRIPTION:Garden State Council\nhttps://global.scoutingevent.com/690-120
- 504\n\n\n\nKuweike Trek Camp\nAugust 15–20\, 2027\nKuweike Trek Camp re
- turns for its fifth year! This premier\nhigh-adventure\nprogram is design
- ed for Scouts BSA\,Venturers\, and Sea Scouts ages 13 and older who are r
- eady to challenge themselves\, explore the outdoors\, and take their Scou
- ting skills to the next level.\nExperience the beauty and challenge of Ne
- w Jersey’s legendary Pine Barrens as you hike\, bike\, and canoe throug
- h one of the most unique ecosystems in the United States. Along the way\,
-  participants wil
-URL:https://global.scoutingevent.com/690-120504
-END:VEVENT
-BEGIN:VEVENT
-UID:266205@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270918T130000Z
-DTEND:20270918T180000Z
-SUMMARY:Den Chief Training
-LOCATION:Northern New Jersey Council\, Oakland\, New Jersey
-DESCRIPTION:Northern New Jersey Council\nhttps://global.scoutingevent.com/
- 333-116830\n\n\n\nA Den Chief is a Scout\, Venturer or Sea Scout assistin
- g a Cub Scout den. But the story is far more important than those words s
- uggest as the Den Chief:\n• Serves as a Scouting role model for the Cub
-  Scouts in the den\, as well as the entire pack\;\n• Promotes Scouting 
- in general and the local troop in particular\;\n• Encourages the transi
- tion of Webelos Scouts into Scouts BSA\;\n• Holds a leadership position
-  in the troop or crew\, thus fulfilling an advancement requirement in the
-  unit. In addition\, a tra
-URL:https://global.scoutingevent.com/333-116830
-END:VEVENT
-BEGIN:VEVENT
 UID:274185@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271002T040000Z
 DTEND:20271003T035900Z
 SUMMARY:Outdoor Skill Series 2027 – 10/2 First Aid
@@ -632,7 +431,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:274186@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271106T040000Z
 DTEND:20271107T035900Z
 SUMMARY:Outdoor Skill Series 2027 – 11/6 Bushcraft
@@ -651,7 +450,7 @@ URL:https://global.scoutingevent.com/640-OSS27
 END:VEVENT
 BEGIN:VEVENT
 UID:274187@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271204T050000Z
 DTEND:20271205T045900Z
 SUMMARY:Outdoor Skill Series 2027 – 12/4: Fire & Steel

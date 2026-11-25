@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:270696@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T140000Z
 DTEND:20270109T230000Z
 SUMMARY:Delta Area Merit Badge College
@@ -22,5 +22,24 @@ DESCRIPTION:Chickasaw Council\nhttps://global.scoutingevent.com/558-Deltaa
  ippi 38732\nRegistration Closes:\n&nbsp01-05-2027 11:59 PM\nContact\nAtta
  chments\n2027 Merit Badge Colle
 URL:https://global.scoutingevent.com/558-DeltaareaMBC27
+END:VEVENT
+BEGIN:VEVENT
+UID:279727@scout-event-finder
+DTSTAMP:20261125T203656Z
+DTSTART:20270514T220000Z
+DTEND:20270516T200000Z
+SUMMARY:Certified Angling Instructor
+LOCATION:Hood Scout Reservation\, Hazlehurst\, Mississippi
+DESCRIPTION:Mississippi Riverlands Council\nhttps://global.scoutingevent.c
+ om/303-27HoodAnglingInstructor\n\nFishing\, Merit Badge Counselor\, Range
+  Officer / Shooting Instructor\n\nThis course is designed to give Scouts 
+ (15+) and Scouters tools and ideas to get Scouts fishing. We will ignite 
+ your desire for introducing Scouts to the wonderful world of fishing.\nFi
+ shing with Scouts is an outdoor activity providing Scouts with fun\, skil
+ ls development\, family participation\, and strongly supports sound conse
+ rvation awareness. And it’s a “Thrifty” Scout activity. Become a Ce
+ rtified Angling Instructor (CAI)\, and you can make fishing a priority wi
+ thin your Scouting world!\nWho:\nReg
+URL:https://global.scoutingevent.com/303-27HoodAnglingInstructor
 END:VEVENT
 END:VCALENDAR

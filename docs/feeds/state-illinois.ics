@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:235246@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T010000Z
 DTEND:20261205T040000Z
 SUMMARY:TFC – CPR/AED Training 2026: December 2026 CPR/AED
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/127-CPR2026
 END:VEVENT
 BEGIN:VEVENT
 UID:278751@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T140000Z
 DTEND:20261205T180000Z
 SUMMARY:Aviation Merit Badge Day
@@ -44,7 +44,7 @@ URL:https://global.scoutingevent.com/127-Aviationclinic26
 END:VEVENT
 BEGIN:VEVENT
 UID:235239@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T140000Z
 DTEND:20261206T230000Z
 SUMMARY:TFC – Wilderness First Aid Training 2026: December 2026 Wilderne
@@ -63,7 +63,7 @@ URL:https://global.scoutingevent.com/127-WFA2026
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992516713126@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261206T160000Z
 DTEND:20261206T180000Z
 SUMMARY:Burpee Museum BSA: Environmental Science Merit Badge- In Person
@@ -77,7 +77,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-environmental-science-m
 END:VEVENT
 BEGIN:VEVENT
 UID:245396@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261206T180000Z
 DTEND:20261206T233000Z
 SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
@@ -96,7 +96,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:252989@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261206T193000Z
 DTEND:20261206T233000Z
 SUMMARY:Okpik Winter Camping Adventure 2026/2027 – Classroom Session III
@@ -115,7 +115,7 @@ URL:https://global.scoutingevent.com/456-okpik2026
 END:VEVENT
 BEGIN:VEVENT
 UID:251786@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261209T003000Z
 DTEND:20261209T030000Z
 SUMMARY:OKPIK - Cold Weather Camping Training 2026/2027 – Virtual Orient
@@ -134,7 +134,7 @@ URL:https://global.scoutingevent.com/127-Okpik2627
 END:VEVENT
 BEGIN:VEVENT
 UID:251783@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261212T140000Z
 DTEND:20261212T190000Z
 SUMMARY:OKPIK - Cold Weather Camping Training 2026/2027 – Session One - 
@@ -153,7 +153,7 @@ URL:https://global.scoutingevent.com/127-Okpik2627
 END:VEVENT
 BEGIN:VEVENT
 UID:277963@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261217T150000Z
 DTEND:20261217T200000Z
 SUMMARY:Mazon Creek Homeschool Days - December
@@ -171,7 +171,7 @@ URL:https://global.scoutingevent.com/702-mazoncreekdec
 END:VEVENT
 BEGIN:VEVENT
 UID:263959@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261228T200000Z
 DTEND:20261231T150000Z
 SUMMARY:2026 Scouts BSA Winter Camp at Rhodes France
@@ -190,7 +190,7 @@ URL:https://global.scoutingevent.com/312-26wintercamp
 END:VEVENT
 BEGIN:VEVENT
 UID:277264@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270102T160000Z
 DTEND:20270102T200000Z
 SUMMARY:2027 Central Illinois Pinewood Derby Workshop
@@ -208,7 +208,7 @@ URL:https://global.scoutingevent.com/312-PWDWorkshop
 END:VEVENT
 BEGIN:VEVENT
 UID:277475@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270107T010000Z
 DTEND:20270107T030000Z
 SUMMARY:Youth Mental Health Course (MESH) – January 6
@@ -226,7 +226,7 @@ URL:https://global.scoutingevent.com/127-MESH27
 END:VEVENT
 BEGIN:VEVENT
 UID:268478@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T000000Z
 DTEND:20270110T000000Z
 SUMMARY:Wilderness First Aid Certification Classes – Jan 8-9\, 2027
@@ -244,7 +244,7 @@ URL:https://global.scoutingevent.com/456-118015
 END:VEVENT
 BEGIN:VEVENT
 UID:245397@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T133000Z
 DTEND:20270110T230000Z
 SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
@@ -263,7 +263,7 @@ URL:https://global.scoutingevent.com/129-OKPIK2627
 END:VEVENT
 BEGIN:VEVENT
 UID:251784@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T140000Z
 DTEND:20270109T190000Z
 SUMMARY:OKPIK - Cold Weather Camping Training 2026/2027 – Session Two - 
@@ -282,7 +282,7 @@ URL:https://global.scoutingevent.com/127-Okpik2627
 END:VEVENT
 BEGIN:VEVENT
 UID:262001@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T150000Z
 DTEND:20270109T213000Z
 SUMMARY:2027 Operation Cubscicle – January 9 Full Day
@@ -300,7 +300,7 @@ URL:https://global.scoutingevent.com/127-114559
 END:VEVENT
 BEGIN:VEVENT
 UID:264253@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T010000Z
 DTEND:20270116T040000Z
 SUMMARY:TFC – CPR/AED Training 2027: January 2027 CPR-AED
@@ -318,7 +318,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:252990@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T133000Z
 DTEND:20270117T180000Z
 SUMMARY:Okpik Winter Camping Adventure 2026/2027 – Overnight Practical C
@@ -338,7 +338,7 @@ URL:https://global.scoutingevent.com/456-okpik2026
 END:VEVENT
 BEGIN:VEVENT
 UID:264263@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T140000Z
 DTEND:20270117T230000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: January 2027 Wildernes
@@ -357,7 +357,7 @@ URL:https://global.scoutingevent.com/127-115814
 END:VEVENT
 BEGIN:VEVENT
 UID:262000@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270116T150000Z
 DTEND:20270116T180000Z
 SUMMARY:2027 Operation Cubscicle – January 16 Morning Session
@@ -375,7 +375,7 @@ URL:https://global.scoutingevent.com/127-114559
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1992519616811@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270117T160000Z
 DTEND:20270117T170000Z
 SUMMARY:Burpee Museum BSA: Mammal Study Merit Badge - In Person
@@ -389,7 +389,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-mammal-study-merit-badg
 END:VEVENT
 BEGIN:VEVENT
 UID:280051@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270121T150000Z
 DTEND:20270121T200000Z
 SUMMARY:Mazon Creek Homeschool Days - January
@@ -407,7 +407,7 @@ URL:https://global.scoutingevent.com/702-mazoncreekjan
 END:VEVENT
 BEGIN:VEVENT
 UID:278402@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T000000Z
 DTEND:20270124T170000Z
 SUMMARY:2027 Scouts BSA Klondike
@@ -425,7 +425,7 @@ URL:https://global.scoutingevent.com/702-klondike2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276232@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T140000Z
 DTEND:20270123T230000Z
 SUMMARY:Saukenuk District Klondike Derby – 2027 Saukenuk District Klondi
@@ -444,7 +444,7 @@ URL:https://global.scoutingevent.com/133-SAUKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:268479@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270206T000000Z
 DTEND:20270207T000000Z
 SUMMARY:Wilderness First Aid Certification Classes – Feb 5-6\, 2027
@@ -462,7 +462,7 @@ URL:https://global.scoutingevent.com/456-118015
 END:VEVENT
 BEGIN:VEVENT
 UID:276127@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270206T140000Z
 DTEND:20270206T200000Z
 SUMMARY:Kittan District Klondike Derby – 2027 Kittan District Klondike D
@@ -481,7 +481,7 @@ URL:https://global.scoutingevent.com/133-KTNKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:251785@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270212T230000Z
 DTEND:20270213T220000Z
 SUMMARY:OKPIK - Cold Weather Camping Training 2026/2027 – Session Three 
@@ -500,7 +500,7 @@ URL:https://global.scoutingevent.com/127-Okpik2627
 END:VEVENT
 BEGIN:VEVENT
 UID:264254@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270213T010000Z
 DTEND:20270213T040000Z
 SUMMARY:TFC – CPR/AED Training 2027: February 2027 CPR/AED
@@ -518,7 +518,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:264264@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270213T140000Z
 DTEND:20270214T230000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: February 2027 Wilderne
@@ -537,7 +537,7 @@ URL:https://global.scoutingevent.com/127-115814
 END:VEVENT
 BEGIN:VEVENT
 UID:266195@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270220T143000Z
 DTEND:20270220T223000Z
 SUMMARY:Merit Badge University - 2027 – Addison Trail HS
@@ -555,7 +555,7 @@ URL:https://global.scoutingevent.com/127-116820
 END:VEVENT
 BEGIN:VEVENT
 UID:260539@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270227T143000Z
 DTEND:20270227T230000Z
 SUMMARY:Sea Scout TACK Training Day
@@ -573,7 +573,7 @@ URL:https://global.scoutingevent.com/127-TACK2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272868@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270228T133000Z
 DTEND:20270228T220000Z
 SUMMARY:USA Archery Instructor Level #1
@@ -591,7 +591,7 @@ URL:https://global.scoutingevent.com/133-usaarchery
 END:VEVENT
 BEGIN:VEVENT
 UID:268480@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T000000Z
 DTEND:20270307T000000Z
 SUMMARY:Wilderness First Aid Certification Classes – Mar 5-6\, 2027
@@ -609,7 +609,7 @@ URL:https://global.scoutingevent.com/456-118015
 END:VEVENT
 BEGIN:VEVENT
 UID:271194@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T150000Z
 DTEND:20270306T180000Z
 SUMMARY:Cub Scout Den Leader Training
@@ -628,7 +628,7 @@ URL:https://global.scoutingevent.com/129-DenLeaderTrainingMarch2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271168@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T150000Z
 DTEND:20270306T180000Z
 SUMMARY:Cubmaster/Assistant Cubmaster Training
@@ -647,7 +647,7 @@ URL:https://global.scoutingevent.com/129-CubmasterTrainingMarch2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271211@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270312T000000Z
 DTEND:20270312T010000Z
 SUMMARY:Wilderness First Aid/CPR Training Campout – Pre-Camp Zoom Meetin
@@ -667,7 +667,7 @@ URL:https://global.scoutingevent.com/129-WFACampoutMarch2027
 END:VEVENT
 BEGIN:VEVENT
 UID:269570@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270313T180000Z
 DTEND:20270313T220000Z
 SUMMARY:First Aid Meet
@@ -685,7 +685,7 @@ URL:https://global.scoutingevent.com/129-FirstAidMeet2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277476@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270319T003000Z
 DTEND:20270319T023000Z
 SUMMARY:Youth Mental Health Course (MESH) – March 18
@@ -703,7 +703,7 @@ URL:https://global.scoutingevent.com/127-MESH27
 END:VEVENT
 BEGIN:VEVENT
 UID:271210@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270319T170000Z
 DTEND:20270321T170000Z
 SUMMARY:Wilderness First Aid/CPR Training Campout – Camping Weekend
@@ -722,7 +722,7 @@ URL:https://global.scoutingevent.com/129-WFACampoutMarch2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264255@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270320T000000Z
 DTEND:20270320T030000Z
 SUMMARY:TFC – CPR/AED Training 2027: March 2027 CPR/AED
@@ -740,7 +740,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:276915@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270320T130000Z
 DTEND:20270320T210000Z
 SUMMARY:2027 Rangemaster Training (BB\, Archery\, Slingshot\, Tomahawk)
@@ -758,7 +758,7 @@ URL:https://global.scoutingevent.com/702-2027rangemaster
 END:VEVENT
 BEGIN:VEVENT
 UID:264265@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270320T130000Z
 DTEND:20270321T220000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: March 2027 Wilderness 
@@ -777,7 +777,7 @@ URL:https://global.scoutingevent.com/127-115814
 END:VEVENT
 BEGIN:VEVENT
 UID:eb-1993714939052@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270321T150000Z
 DTEND:20270321T170000Z
 SUMMARY:Burpee Museum BSA: Oceanography - In Person
@@ -790,7 +790,7 @@ URL:https://www.eventbrite.com/e/burpee-museum-bsa-oceanography-in-person-
 END:VEVENT
 BEGIN:VEVENT
 UID:268484@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270402T230000Z
 DTEND:20270403T230000Z
 SUMMARY:Wilderness First Aid Certification Classes – Apr 2-3\, 2027
@@ -808,7 +808,7 @@ URL:https://global.scoutingevent.com/456-118015
 END:VEVENT
 BEGIN:VEVENT
 UID:278872@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270402T233000Z
 DTEND:20270404T220000Z
 SUMMARY:Climbing Instructor Training – Spring 2027 Climbing Instructor T
@@ -827,7 +827,7 @@ URL:https://global.scoutingevent.com/133-ClimbingInstructorTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:271196@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270403T140000Z
 DTEND:20270403T170000Z
 SUMMARY:Cub Scout Den Leader Training
@@ -846,7 +846,7 @@ URL:https://global.scoutingevent.com/129-DenLeaderTrainingApril2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271170@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270403T140000Z
 DTEND:20270403T170000Z
 SUMMARY:Cubmaster/Assistant Cubmaster Training
@@ -865,7 +865,7 @@ URL:https://global.scoutingevent.com/129-CubmasterTrainingApril2027
 END:VEVENT
 BEGIN:VEVENT
 UID:252771@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270404T180000Z
 DTEND:20270404T210000Z
 SUMMARY:2027 Wood Badge – Wood Badge Orientation
@@ -883,7 +883,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:271214@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270408T230000Z
 DTEND:20270409T000000Z
 SUMMARY:Wilderness First Aid/CPR Training Campout – Pre-Camp Zoom Meetin
@@ -903,7 +903,7 @@ URL:https://global.scoutingevent.com/129-WFACPRCampout2027April
 END:VEVENT
 BEGIN:VEVENT
 UID:264256@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270410T000000Z
 DTEND:20270410T030000Z
 SUMMARY:TFC – CPR/AED Training 2027: April 2027 CPR/AED
@@ -921,7 +921,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:264266@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270410T130000Z
 DTEND:20270411T220000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: April 2027 Wilderness 
@@ -940,7 +940,7 @@ URL:https://global.scoutingevent.com/127-115814
 END:VEVENT
 BEGIN:VEVENT
 UID:271213@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270416T170000Z
 DTEND:20270418T170000Z
 SUMMARY:Wilderness First Aid/CPR Training Campout – Camping Weekend
@@ -959,7 +959,7 @@ URL:https://global.scoutingevent.com/129-WFACPRCampout2027April
 END:VEVENT
 BEGIN:VEVENT
 UID:276678@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270417T130000Z
 DTEND:20270418T170000Z
 SUMMARY:BALOO - Basic Adult Leader Outdoor Orientation Training - C32
@@ -977,7 +977,7 @@ URL:https://global.scoutingevent.com/456-122278
 END:VEVENT
 BEGIN:VEVENT
 UID:252772@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270423T113000Z
 DTEND:20270425T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend One
@@ -995,7 +995,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:260492@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270423T200000Z
 DTEND:20270425T170000Z
 SUMMARY:2027 Lincoln Pilgrimage - A Scout is Obedient – Lincoln Pilgrima
@@ -1014,7 +1014,7 @@ URL:https://global.scoutingevent.com/144-httpsscoutingeventcom144113587
 END:VEVENT
 BEGIN:VEVENT
 UID:263686@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270501T130000Z
 DTEND:20270501T213000Z
 SUMMARY:Merit Badge University - CBT 2027 – Camp Big Timber Session
@@ -1032,7 +1032,7 @@ URL:https://global.scoutingevent.com/127-26MBUCBT
 END:VEVENT
 BEGIN:VEVENT
 UID:272239@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270506T000000Z
 DTEND:20270506T020000Z
 SUMMARY:Introduction to Outdoor Leader Skills – Pre-Camp Meeting
@@ -1050,7 +1050,7 @@ URL:https://global.scoutingevent.com/129-Spring2027IOLS
 END:VEVENT
 BEGIN:VEVENT
 UID:268482@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270507T230000Z
 DTEND:20270508T230000Z
 SUMMARY:Wilderness First Aid Certification Classes – May 7-8\, 2027
@@ -1068,7 +1068,7 @@ URL:https://global.scoutingevent.com/456-118015
 END:VEVENT
 BEGIN:VEVENT
 UID:264257@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270515T000000Z
 DTEND:20270515T030000Z
 SUMMARY:TFC – CPR/AED Training 2027: May 2027 CPR/AED
@@ -1086,7 +1086,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:252773@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270515T113000Z
 DTEND:20270516T220000Z
 SUMMARY:2027 Wood Badge – Wood Badge Weekend Two
@@ -1104,7 +1104,7 @@ URL:https://global.scoutingevent.com/127-WoodBadge27
 END:VEVENT
 BEGIN:VEVENT
 UID:272240@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270515T130000Z
 DTEND:20270516T170000Z
 SUMMARY:Introduction to Outdoor Leader Skills – Outdoor Session
@@ -1122,7 +1122,7 @@ URL:https://global.scoutingevent.com/129-Spring2027IOLS
 END:VEVENT
 BEGIN:VEVENT
 UID:264267@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270515T130000Z
 DTEND:20270516T220000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: May 2027 Wilderness Fi
@@ -1141,7 +1141,7 @@ URL:https://global.scoutingevent.com/127-115814
 END:VEVENT
 BEGIN:VEVENT
 UID:267114@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270613T170000Z
 DTEND:20270619T160000Z
 SUMMARY:2027 RSR Scouts BSA Resident Camp – Week 1
@@ -1158,26 +1158,8 @@ DESCRIPTION:Rainbow Council\nhttps://global.scoutingevent.com/702-2027scou
 URL:https://global.scoutingevent.com/702-2027scoutsbsacamp
 END:VEVENT
 BEGIN:VEVENT
-UID:265654@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270613T170000Z
-DTEND:20270619T170000Z
-SUMMARY:National Youth Leadership Training
-LOCATION:Camp Big Timber\, Elgin\, Illinois
-DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1165
- 39\n\nNYLT\n\nNATIONAL YOUTH LEADERSHIP TRAINING\nWHO:\nThe Current/Futur
- e leaders in your home unit\nWHAT:\nNational Youth Leadership Training\nW
- HEN:\nJune 13-19 2027\nWHERE:\nCamp Big Timber\nWHY:\nEnhance your leader
- ship skills through team building\, conflict resolution\, communication\,
-  and goal setting! All while having fun!\nOUT OF COUNCIL TROOPS WELCOME!\
- nParticipant Orientation:\nWill be held the week prior to the Course\nWhy
-  NLYT?\nNational Youth Leadership Training (NYLT) is designed to have you
- th staff teach leader
-URL:https://global.scoutingevent.com/127-116539
-END:VEVENT
-BEGIN:VEVENT
 UID:266545@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270613T180000Z
 DTEND:20270619T150000Z
 SUMMARY:2027 Ingersoll Scout Reservation Summer Camp – Week 1
@@ -1194,44 +1176,8 @@ DESCRIPTION:W. D. Boyce Council\nhttps://global.scoutingevent.com/138-2027
 URL:https://global.scoutingevent.com/138-2027ISRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
-UID:266580@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270613T180000Z
-DTEND:20270619T160000Z
-SUMMARY:2027 Summer Camp-Rhodes France – Session 1
-LOCATION:Rhodes France Scout Reservation\, Pana\, Illinois
-DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
- com/312-116993\n\n\n\nAt Rhodes France Scout Reservation we pride ourselv
- es on providing each scout who attends our camp with the best possible su
- mmer camp experience. Each Scout is important and if there is something w
- e can do to make their experience better\, we will do our best to do so. 
- We want each Scout to learn about themselves while at camp. Through our 
- program Scouts will learn self-reliance that can help them in school and 
- at home. They will also learn more about working together as a team which
-  will help th
-URL:https://global.scoutingevent.com/312-116993
-END:VEVENT
-BEGIN:VEVENT
-UID:264913@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270613T180000Z
-DTEND:20270619T150000Z
-SUMMARY:Scouts BSA Resident Camp at Loud Thunder – Week 1
-LOCATION:Camp Loud Thunder\, Illinois City\, Illinois
-DESCRIPTION:Illowa Council\nhttps://global.scoutingevent.com/133-ScoutsBSA
- ResidentCamp\n\nPosition-Specific Leader Training\n\nCamp Loud Thunder is
-  celebrating 80 years in 2027!\nOur summer camp program introduces young 
- Scouts to new and rewarding experiences\, and provides them with supporti
- ve and caring relationships. The Trailblazer program is a great way for a
-  young Scout to work on advancement to First Class while becoming familia
- r with Camp Loud Thunder.\nReturning older Scouts can participate in more
-  advanced programs such as the Camp Loud Thunder Polaris ATV Program and 
- Senior Patrol Leader training. Our C.O.P.E. c
-URL:https://global.scoutingevent.com/133-ScoutsBSAResidentCamp
-END:VEVENT
-BEGIN:VEVENT
 UID:277477@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270616T003000Z
 DTEND:20270616T023000Z
 SUMMARY:Youth Mental Health Course (MESH) – June 15
@@ -1248,26 +1194,8 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-MESH
 URL:https://global.scoutingevent.com/127-MESH27
 END:VEVENT
 BEGIN:VEVENT
-UID:270871@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T050000Z
-DTEND:20270627T045900Z
-SUMMARY:2027 Scout BSA Summer Camp – Week 1
-LOCATION:Camp Bunn\, Hettick\, Illinois
-DESCRIPTION:Abraham Lincoln Council\nhttps://global.scoutingevent.com/144-
- 119265\n\n\n\nAbraham Lincoln Productions\, a subsidiary of Scouting Amer
- ica Studios\, is proud to present our summer 2027 blockbuster production 
- of Summer Camp!\nWith Hollywood as our theme\, this summer's "prodcution"
-  at Camp Bunn will feature a traditional Scouts BSA summer camp experienc
- ed through the "lens" of a Hollywood movie producion. Movie-goers (aka Ca
- mpers!) will earn merit badges and create memories as the cast and crew o
- f Camp Bunn animate the show. This summer’s full-length feature will a
- lso includ
-URL:https://global.scoutingevent.com/144-119265
-END:VEVENT
-BEGIN:VEVENT
 UID:267115@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270620T170000Z
 DTEND:20270626T160000Z
 SUMMARY:2027 RSR Scouts BSA Resident Camp – Week 2
@@ -1285,7 +1213,7 @@ URL:https://global.scoutingevent.com/702-2027scoutsbsacamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266546@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270620T180000Z
 DTEND:20270626T150000Z
 SUMMARY:2027 Ingersoll Scout Reservation Summer Camp – Week 2
@@ -1302,62 +1230,8 @@ DESCRIPTION:W. D. Boyce Council\nhttps://global.scoutingevent.com/138-2027
 URL:https://global.scoutingevent.com/138-2027ISRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
-UID:266579@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T180000Z
-DTEND:20270626T160000Z
-SUMMARY:2027 Summer Camp-Rhodes France – Session 2
-LOCATION:Rhodes France Scout Reservation\, Pana\, Illinois
-DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
- com/312-116993\n\n\n\nAt Rhodes France Scout Reservation we pride ourselv
- es on providing each scout who attends our camp with the best possible su
- mmer camp experience. Each Scout is important and if there is something w
- e can do to make their experience better\, we will do our best to do so. 
- We want each Scout to learn about themselves while at camp. Through our 
- program Scouts will learn self-reliance that can help them in school and 
- at home. They will also learn more about working together as a team which
-  will help th
-URL:https://global.scoutingevent.com/312-116993
-END:VEVENT
-BEGIN:VEVENT
-UID:264914@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T180000Z
-DTEND:20270626T150000Z
-SUMMARY:Scouts BSA Resident Camp at Loud Thunder – Week 2
-LOCATION:Camp Loud Thunder\, Illinois City\, Illinois
-DESCRIPTION:Illowa Council\nhttps://global.scoutingevent.com/133-ScoutsBSA
- ResidentCamp\n\nPosition-Specific Leader Training\n\nCamp Loud Thunder is
-  celebrating 80 years in 2027!\nOur summer camp program introduces young 
- Scouts to new and rewarding experiences\, and provides them with supporti
- ve and caring relationships. The Trailblazer program is a great way for a
-  young Scout to work on advancement to First Class while becoming familia
- r with Camp Loud Thunder.\nReturning older Scouts can participate in more
-  advanced programs such as the Camp Loud Thunder Polaris ATV Program and 
- Senior Patrol Leader training. Our C.O.P.E. c
-URL:https://global.scoutingevent.com/133-ScoutsBSAResidentCamp
-END:VEVENT
-BEGIN:VEVENT
-UID:270872@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T130000Z
-DTEND:20270703T190000Z
-SUMMARY:2027 Scout BSA Summer Camp – Week 2
-LOCATION:Camp Bunn\, Hettick\, Illinois
-DESCRIPTION:Abraham Lincoln Council\nhttps://global.scoutingevent.com/144-
- 119265\n\n\n\nAbraham Lincoln Productions\, a subsidiary of Scouting Amer
- ica Studios\, is proud to present our summer 2027 blockbuster production 
- of Summer Camp!\nWith Hollywood as our theme\, this summer's "prodcution"
-  at Camp Bunn will feature a traditional Scouts BSA summer camp experienc
- ed through the "lens" of a Hollywood movie producion. Movie-goers (aka Ca
- mpers!) will earn merit badges and create memories as the cast and crew o
- f Camp Bunn animate the show. This summer’s full-length feature will a
- lso includ
-URL:https://global.scoutingevent.com/144-119265
-END:VEVENT
-BEGIN:VEVENT
 UID:267116@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270627T170000Z
 DTEND:20270703T160000Z
 SUMMARY:2027 RSR Scouts BSA Resident Camp – Week 3
@@ -1376,7 +1250,7 @@ URL:https://global.scoutingevent.com/702-2027scoutsbsacamp
 END:VEVENT
 BEGIN:VEVENT
 UID:266547@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270627T180000Z
 DTEND:20270703T150000Z
 SUMMARY:2027 Ingersoll Scout Reservation Summer Camp – Week 3
@@ -1393,354 +1267,8 @@ DESCRIPTION:W. D. Boyce Council\nhttps://global.scoutingevent.com/138-2027
 URL:https://global.scoutingevent.com/138-2027ISRSummerCamp
 END:VEVENT
 BEGIN:VEVENT
-UID:266578@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T180000Z
-DTEND:20270703T150000Z
-SUMMARY:2027 Summer Camp-Rhodes France – Session 3
-LOCATION:Rhodes France Scout Reservation\, Pana\, Illinois
-DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
- com/312-116993\n\n\n\nAt Rhodes France Scout Reservation we pride ourselv
- es on providing each scout who attends our camp with the best possible su
- mmer camp experience. Each Scout is important and if there is something w
- e can do to make their experience better\, we will do our best to do so. 
- We want each Scout to learn about themselves while at camp. Through our 
- program Scouts will learn self-reliance that can help them in school and 
- at home. They will also learn more about working together as a team which
-  will help th
-URL:https://global.scoutingevent.com/312-116993
-END:VEVENT
-BEGIN:VEVENT
-UID:264915@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T180000Z
-DTEND:20270703T150000Z
-SUMMARY:Scouts BSA Resident Camp at Loud Thunder – Week 3
-LOCATION:Camp Loud Thunder\, Illinois City\, Illinois
-DESCRIPTION:Illowa Council\nhttps://global.scoutingevent.com/133-ScoutsBSA
- ResidentCamp\n\nPosition-Specific Leader Training\n\nCamp Loud Thunder is
-  celebrating 80 years in 2027!\nOur summer camp program introduces young 
- Scouts to new and rewarding experiences\, and provides them with supporti
- ve and caring relationships. The Trailblazer program is a great way for a
-  young Scout to work on advancement to First Class while becoming familia
- r with Camp Loud Thunder.\nReturning older Scouts can participate in more
-  advanced programs such as the Camp Loud Thunder Polaris ATV Program and 
- Senior Patrol Leader training. Our C.O.P.E. c
-URL:https://global.scoutingevent.com/133-ScoutsBSAResidentCamp
-END:VEVENT
-BEGIN:VEVENT
-UID:279337@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270708T203000Z
-DTEND:20270711T150000Z
-SUMMARY:2027 Cub Scout Adventure Camp - Rhodes France – RFSR Cub Scout A
- dventure Camp
-LOCATION:Rhodes France Scout Reservation\, Pana\, Illinois
-DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
- com/312-123745\n\n\n\nA 3 night camp designed to provide advancement oppo
- rtunities for all Cub Scouts (Tigers\, Wolves\, Bears\, Webelos\, Arrow o
- f Light).\nDates:  July 8th - 11th\, 2027\nLocation:  Rhodes France Sco
- ut Reservation  (Pana\, Illinois)\nCost:  $185 Youth\,  $75 Adults\nRh
- odes France Scout Camp Specific Highlighted Experiences:\nSwim in the Rho
- des France Pool\, try your hand at range and target activities in some of
-  the best ranges in GSLAC\, and experience camp fire at the iconic Firebo
- wl.\nLearn More about all of ou
-URL:https://global.scoutingevent.com/312-123745
-END:VEVENT
-BEGIN:VEVENT
-UID:275962@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270716T190000Z
-DTEND:20270719T150000Z
-SUMMARY:2027 Cub Scout Resident Camp
-LOCATION:Rainbow Scout Reservation\, Morris\, Illinois
-DESCRIPTION:Rainbow Council\nhttps://global.scoutingevent.com/702-2027cubc
- amp\n\n\n\nExperience the Scouting program at a new level through the Cub
-  Scout Family Camp program. Get ready for a 4-day\, 3-night overnight cam
- ping experience full of thrilling activities and awesome open programming
- . Cub Scouts (Tiger - AOL) can take part in outdoor Scouting activities 
- in the beautiful woods of Rainbow Scout Reservation in  Morris\, IL. Exh
- ilarating campfires\, professional staff\, and endless fun can be expecte
- d  when at camp. Cub Scout Resident Camp is a great way to keep youth in
- tereste
-URL:https://global.scoutingevent.com/702-2027cubcamp
-END:VEVENT
-BEGIN:VEVENT
-UID:275963@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270723T190000Z
-DTEND:20270726T150000Z
-SUMMARY:2027 Cub Scout Resident Camp
-LOCATION:Rainbow Scout Reservation\, Morris\, Illinois
-DESCRIPTION:Rainbow Council\nhttps://global.scoutingevent.com/702-2027cubc
- amp\n\n\n\nExperience the Scouting program at a new level through the Cub
-  Scout Family Camp program. Get ready for a 4-day\, 3-night overnight cam
- ping experience full of thrilling activities and awesome open programming
- . Cub Scouts (Tiger - AOL) can take part in outdoor Scouting activities 
- in the beautiful woods of Rainbow Scout Reservation in  Morris\, IL. Exh
- ilarating campfires\, professional staff\, and endless fun can be expecte
- d  when at camp. Cub Scout Resident Camp is a great way to keep youth in
- tereste
-URL:https://global.scoutingevent.com/702-2027cubcamp
-END:VEVENT
-BEGIN:VEVENT
-UID:258955@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270724T040000Z
-DTEND:20270801T035900Z
-SUMMARY:NOAC 2027
-LOCATION:UNIVERSITY of Illinois Urbana-Champaign\, Urbana \, Illinois
-DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-NOAC20
- 27\n\n\n\nJoin us for NOAC 2027\nThe 2027 National Order of the Arrow Con
- ference (NOAC) will be held at the University of Illinois Urbana-Champai
- gn. The conference is scheduled to take place from July 26 to July 31\, 
- 2027.\nWhen & Where\nRegistration Opens 12-01-2026 12:00 AM\nNOAC 2027\nU
- NIVERSITY of Illinois Urbana-Champaign\nSaturday 07-24-2027 12:00 AM ET t
- o\nSaturday 07-31-2027 11:59 PM ET\nMore Information\nMap of Event\n$\nVi
- ew Pricing\nCoords: 40.1019217\, -88.2263288\n1304 W. Pennsylvania Ave\nU
- rbana\, Illinois 6
-URL:https://global.scoutingevent.com/373-NOAC2027
-END:VEVENT
-BEGIN:VEVENT
-UID:276377@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270725T160000Z
-DTEND:20270802T030000Z
-SUMMARY:NOAC 2027 Saklan Lodge Contingent
-LOCATION:University of Illinois Urbana-Champaign\, Urbana\, Illinois
-DESCRIPTION:Silicon Valley Monterey Bay Council\nhttps://global.scoutingev
- ent.com/055-NOAC2027\n\n\n\nLike a giant Conclave\, the National Order of
-  the Arrow Conference (NOAC) is a 6-day OA extravaganza with nonstop spor
- ts\, shows\, special events\, seminars\, and patch trading. This triannua
- l event is an opportunity for Lodges across the nation to not only compet
- e against one another in activities\, but also to join in fellowship in o
- ne location. In 2027\, it's at University of Illinois Urbana-Champaign.\
- nWe will be posting more information about the event soon on our lodge we
- bsite:\nhttps://saklanlodge
-URL:https://global.scoutingevent.com/055-NOAC2027
-END:VEVENT
-BEGIN:VEVENT
-UID:268477@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270725T230000Z
-DTEND:20270731T150000Z
-SUMMARY:The National Order of the Arrow Conference (NOAC)
-LOCATION:University of Illinois Urbana-Champaign\, Champaign\, Illinois
-DESCRIPTION:Cornhusker Council\nhttps://global.scoutingevent.com/324-NOAC2
- 027\n\n\n\nThe national Order of the Arrow Conference (NOAC) is the premi
- er event of the Order of the Arrow\, and is Scouting's second largest nat
- ional event.\nWhen & Where\nUniversity of Illinois Urbana-Champaign\nSund
- ay 07-25-2027 6:00 PM CT to\nSaturday 07-31-2027 10:00 AM CT\nMore Inform
- ation\nMap of Event\n$\nView Pricing\nCoords: 40.1088331\, -88.230034\n60
- 1 East John Street\nChampaign\, Illinois 61820\nRegistration Closes:\n&nb
- sp01-01-2027 11:59 PM\nContact
-URL:https://global.scoutingevent.com/324-NOAC2027
-END:VEVENT
-BEGIN:VEVENT
-UID:276083@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270726T040000Z
-DTEND:20270801T035900Z
-SUMMARY:2027 National Order of the Arrow Conference
-LOCATION:University of Illinois Urbana-Champaign\, Urbana\, Illinois
-DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1219
- 66\n\n\n\nThe National Order fo the Arrow Conference (NOAC) is the flagsh
- ip event hosted by the Order of the Arrow. This year the conference is ta
- king place on the campus of University of Illinois Urbana-Champaign. Duri
- ng the conference Arrowmen from all across the nation will be able to spe
- nd the week of July 26th\, 2027 to July 31st\, 2027 on the campus of Univ
- ersity of Illinois Urbana-Champaign. Arrowmen will be spending six nights
-  in the dorms on campus and will have the opportunity to make lasting con
- n
-URL:https://global.scoutingevent.com/364-121966
-END:VEVENT
-BEGIN:VEVENT
-UID:267320@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270726T040000Z
-DTEND:20270801T035900Z
-SUMMARY:NOAC 2027
-LOCATION:University of Illinois Urbana-Champaign\, Champaign\, Illinois
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-117401\
- n\n\n\nNOAC 2027 will take place July 26th - 31st at the University of
-  Illinois Urbana-Champaign.\nThe National Order of the Arrow Conference (
- NOAC) is the flagship national Order of the Arrow event. It is held every
-  two years at a major university campus and is attended by as many as 8\,
- 000 Arrowmen from all 50 states. It is second only to the National Scout 
- Jamboree in size and scope.\nSave your spot for $100 now!\nBook now to sa
- ve your spot!\nFinal pricing and event travel details will be released at
-  a l
-URL:https://global.scoutingevent.com/162-117401
-END:VEVENT
-BEGIN:VEVENT
-UID:269210@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270726T040000Z
-DTEND:20270801T035900Z
-SUMMARY:National Order of the Arrow Conference (NOAC)
-LOCATION:University of Illinois Urbana-Champaign\, Champaign\, Illinois
-DESCRIPTION:East Carolina Council\nhttps://global.scoutingevent.com/426-NO
- AC27\n\n\n\nNational Order of the Arrow Conference (NOAC)\nThe National O
- rder of the Arrow Conference (NOAC) is the flagship national Order of the
-  Arrow event. It is held every two years at a major university campus and
-  is attended by as many as 8\,000 Arrowmen from all 50 states. It is seco
- nd only to the National Scout Jamboree in size and scope. Our largest con
- ference was in 2015\, attended by more than 15\,000 Arrowmen to commemora
- te the 100th anniversary of the Order of the Arrow.\nWhen & Where\nRegist
- er Here
-URL:https://global.scoutingevent.com/426-NOAC27
-END:VEVENT
-BEGIN:VEVENT
-UID:255353@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270726T050000Z
-DTEND:20270801T045900Z
-SUMMARY:NOAC 2027
-LOCATION:University of Illinois Urbana-Champaign\, Champaign\, Illinois
-DESCRIPTION:Pine Burr Area Council\nhttps://global.scoutingevent.com/304-N
- OAC_2027\n\n\n\nTi’ak Lodge 2027 NOAC Contingent\nOur Time\nAll aboard!
-  Ti’ak Lodge is headed to the 2027 National Order of the Arrow Confere
- nce (NOAC)\, and we want you to join our contingent for an unforgettable 
- OA experience!\nOur adventure begins before we even arrive at NOAC. Ti
- ’ak Lodge will be traveling by train\, giving our contingent a unique o
- pportunity to enjoy the journey together and build fellowship along the w
- ay.\nOnce at NOAC\, Arrowmen from across the country will come together f
- or several exciting da
-URL:https://global.scoutingevent.com/304-NOAC_2027
-END:VEVENT
-BEGIN:VEVENT
-UID:275248@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270726T130000Z
-DTEND:20270731T180000Z
-SUMMARY:Nayawin RāR Lodge 296 2027 NOAC Contingent
-LOCATION:University of Illinois Urbana-Champaign\, Champaign\, Illinois
-DESCRIPTION:Tuscarora Council\nhttps://global.scoutingevent.com/424-2027NO
- AC\n\n\n\nNational Order of the Arrow Conference (NOAC) 2027\nThe\n2027 N
- ational Order of the Arrow Conference\, (NOAC)\n\, will be held from\nJul
- y 26th - 31st\nat\nUniversity of Illinois Urbana-Champaign\n.\nWhat is NO
- AC you say? NOAC is 6 days of classes\, shows\, competitions\, exhibits\,
-  fellowship\, patch trading\, and overall fun!\nNOAC\nis comparable to th
- e National Jamboree except that it is only for active OA members. It also
-  includes meals and lodging in a dorm setting\, so there's none of the c
- ampsite cooking or 
-URL:https://global.scoutingevent.com/424-2027NOAC
-END:VEVENT
-BEGIN:VEVENT
-UID:275290@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270806T220000Z
-DTEND:20270808T170000Z
-SUMMARY:Commissioner Connections Weekend
-LOCATION:Camp Big Timber\, Elgin\, Illinois
-DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1216
- 10\n\nCommissioner / University of Scouting\n\nJoin us for\nCommissioner 
- Connections Weekend\nat Camp Big Timber\, August 6–8\, 2027!\nThis is 
- your chance to dive into a weekend full of:\nHands-on workshops\nSpeciali
- zed commissioner training\nTeam building and great food\nNetworking and f
- ellowship with other Scouting leaders\nSpecial patch\nUnit Commissioner B
- asic Training (Sunday morning)\nWhether you're a seasoned commissioner or
-  curious about getting involved\, this weekend is about one question: 
- “How Can We Help?” — helping unit leaders thrive and gr
-URL:https://global.scoutingevent.com/127-121610
-END:VEVENT
-BEGIN:VEVENT
-UID:271555@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270806T233000Z
-DTEND:20270808T220000Z
-SUMMARY:2027 National Youth Leadership Training - 2-Weekend Course – Wee
- kend 1 of 2
-LOCATION:Camp Warren Levis\, Godfrey\, Illinois
-DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
- com/312-nyltcwl\n\nNYLT\n\nGrow and improve your leadership skills while 
- following the guidelines of the Scout Oath and Scout Law. Scouts earning 
- the National Youth Leadership Training shield are better prepared to inte
- ract with adult leaders and face the challenges and demands ahead.\nIt is
-  recommended that they have had at least one year of camping experience. 
- While NYLT is not an outdoor skills course\, it is important that each pa
- rticipant have basic camping and outdoor cooking experience.\nLand Based\
- nTo attend NYLT\, a S
-URL:https://global.scoutingevent.com/312-nyltcwl
-END:VEVENT
-BEGIN:VEVENT
-UID:271556@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270813T233000Z
-DTEND:20270815T220000Z
-SUMMARY:2027 National Youth Leadership Training - 2-Weekend Course – Wee
- kend 2 of 2
-LOCATION:Camp Warren Levis\, Godfrey\, Illinois
-DESCRIPTION:Greater St. Louis Area Scouting\nhttps://global.scoutingevent.
- com/312-nyltcwl\n\nNYLT\n\nGrow and improve your leadership skills while 
- following the guidelines of the Scout Oath and Scout Law. Scouts earning 
- the National Youth Leadership Training shield are better prepared to inte
- ract with adult leaders and face the challenges and demands ahead.\nIt is
-  recommended that they have had at least one year of camping experience. 
- While NYLT is not an outdoor skills course\, it is important that each pa
- rticipant have basic camping and outdoor cooking experience.\nLand Based\
- nTo attend NYLT\, a S
-URL:https://global.scoutingevent.com/312-nyltcwl
-END:VEVENT
-BEGIN:VEVENT
-UID:272236@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270909T000000Z
-DTEND:20270909T020000Z
-SUMMARY:Introduction to Outdoor Leader Skills – Pre-Camp Meeting
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-Fall2027IOLS\n\nIOLS\, Safeguarding Youth / YPT\n\nTWO REQUIRED DATES 
- TO COMPLETE TRAINING.\nRegistration for the Patrol Formation Meeting also
-  registers you for the outdoor component at Camp Crown.\nSeptember 8\, 20
- 27:\nThis required Patrol Formation Meeting is from 7:00 PM to 9:00 PM a
- t the Kasperson Center for Scouting in Vernon Hills. Make sure to registe
- r for the outdoor weekend before attending.\nSeptember 18\n–\n19\, 2027
- : Camp Crown's "Outdoor" component\nis for all Scoutmasters and Assistan
- t Scoutmasters. Once you complete this and the online or
-URL:https://global.scoutingevent.com/129-Fall2027IOLS
-END:VEVENT
-BEGIN:VEVENT
-UID:271197@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270911T140000Z
-DTEND:20270911T170000Z
-SUMMARY:Cub Scout Den Leader Training
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-DenLeaderTrainingSept2027\n\nHazardous Weather\, Position-Specific Lea
- der Training\, Safeguarding Youth / YPT\n\nPlease join us for Cub Scout
-  Den Leader Training!\nThis course is intended to provide new den leaders
-  with the information and tools they need to support a successful Cub Sco
- uting program.\nBefore attending:\nPlease ensure your Safeguarding Youth 
- Training (SYT) is current and include your SYT completion date when regis
- tering.\nLocation:\nKasperson Center for Scouting\nVernon Hills\, IL\nFee
- s:\n$5 (covers training materials)\nAfter completing the course\, NEIC ad
- ult participants will receive a refund of the
-URL:https://global.scoutingevent.com/129-DenLeaderTrainingSept2027
-END:VEVENT
-BEGIN:VEVENT
-UID:271171@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270911T140000Z
-DTEND:20270911T170000Z
-SUMMARY:Cubmaster/Assistant Cubmaster Training
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-CubmasterTrainingSept2027\n\nHazardous Weather\, Safeguarding Youth / 
- YPT\n\nPlease join us for Cubmaster & Assistant Cubmaster Training!\nTh
- is course is intended to provide Cubmasters and assistant Cubmasters with
-  the information and tools they need to support a successful Cub Scouting
-  program.\nBefore attending:\nPlease ensure your Safeguarding Youth Train
- ing (SYT) is current and include your SYT completion date when registerin
- g.\nLocation:\nKasperson Center for Scouting\nVernon Hills\, IL\nFees:\n$
- 5 (covers training materials)\nAfter completing the course\, NEIC adult p
- articipan
-URL:https://global.scoutingevent.com/129-CubmasterTrainingSept2027
-END:VEVENT
-BEGIN:VEVENT
 UID:277478@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270914T003000Z
 DTEND:20270914T023000Z
 SUMMARY:Youth Mental Health Course (MESH) – September 13
@@ -1757,45 +1285,8 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-MESH
 URL:https://global.scoutingevent.com/127-MESH27
 END:VEVENT
 BEGIN:VEVENT
-UID:272237@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270918T130000Z
-DTEND:20270919T170000Z
-SUMMARY:Introduction to Outdoor Leader Skills – Outdoor Session
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-Fall2027IOLS\n\nIOLS\, Safeguarding Youth / YPT\n\nTWO REQUIRED DATES 
- TO COMPLETE TRAINING.\nRegistration for the Patrol Formation Meeting also
-  registers you for the outdoor component at Camp Crown.\nSeptember 8\, 20
- 27:\nThis required Patrol Formation Meeting is from 7:00 PM to 9:00 PM a
- t the Kasperson Center for Scouting in Vernon Hills. Make sure to registe
- r for the outdoor weekend before attending.\nSeptember 18\n–\n19\, 2027
- : Camp Crown's "Outdoor" component\nis for all Scoutmasters and Assistan
- t Scoutmasters. Once you complete this and the online or
-URL:https://global.scoutingevent.com/129-Fall2027IOLS
-END:VEVENT
-BEGIN:VEVENT
-UID:268625@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271107T180000Z
-DTEND:20271107T233000Z
-SUMMARY:OKPIK Cold Weather Training – Classroom Session 1
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-OKPIK2028\n\nCamping\, Cold Weather (OKPIK)\, Safeguarding Youth / YPT
- \n\nOur OKPIK Cold Weather Camping Training Course is a “High Adventure
- ” training program that expands Scouts and Venturers plus adult Scout
- ers and advisors' knowledge of how to prepare themselves and plan for th
- e proper nutrition and equipment when the high temperature of the day is
-  50 degrees or below with inclement weather.\nBSA Health Form:\nThe PDF d
- ocument previously provided is no longer valid. Go to "Attachments" for t
- he link to the National web page.\nClick on "Are You Going Camping?" to c
- ompl
-URL:https://global.scoutingevent.com/129-OKPIK2028
-END:VEVENT
-BEGIN:VEVENT
 UID:264258@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271120T010000Z
 DTEND:20271120T040000Z
 SUMMARY:TFC – CPR/AED Training 2027: November 2027 CPR/AED
@@ -1813,7 +1304,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:264268@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271120T140000Z
 DTEND:20271121T230000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: November 2027 Wilderne
@@ -1831,27 +1322,8 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1158
 URL:https://global.scoutingevent.com/127-115814
 END:VEVENT
 BEGIN:VEVENT
-UID:268626@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271121T180000Z
-DTEND:20271121T233000Z
-SUMMARY:OKPIK Cold Weather Training – Classroom Session 2
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-OKPIK2028\n\nCamping\, Cold Weather (OKPIK)\, Safeguarding Youth / YPT
- \n\nOur OKPIK Cold Weather Camping Training Course is a “High Adventure
- ” training program that expands Scouts and Venturers plus adult Scout
- ers and advisors' knowledge of how to prepare themselves and plan for th
- e proper nutrition and equipment when the high temperature of the day is
-  50 degrees or below with inclement weather.\nBSA Health Form:\nThe PDF d
- ocument previously provided is no longer valid. Go to "Attachments" for t
- he link to the National web page.\nClick on "Are You Going Camping?" to c
- ompl
-URL:https://global.scoutingevent.com/129-OKPIK2028
-END:VEVENT
-BEGIN:VEVENT
 UID:264259@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271204T010000Z
 DTEND:20271204T040000Z
 SUMMARY:TFC – CPR/AED Training 2027: December 2027 CPR/AED
@@ -1869,7 +1341,7 @@ URL:https://global.scoutingevent.com/127-115811
 END:VEVENT
 BEGIN:VEVENT
 UID:264269@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20271204T140000Z
 DTEND:20271205T230000Z
 SUMMARY:TFC – Wilderness First Aid Training 2027: December 2027 Wilderne
@@ -1885,119 +1357,5 @@ DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1158
  tion on heat and cold emergencies\nUpdated guidelines for managing snake 
  bite emergencies\nNew information on managing diab
 URL:https://global.scoutingevent.com/127-115814
-END:VEVENT
-BEGIN:VEVENT
-UID:268627@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271205T180000Z
-DTEND:20271205T233000Z
-SUMMARY:OKPIK Cold Weather Training – Classroom Session 3
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-OKPIK2028\n\nCamping\, Cold Weather (OKPIK)\, Safeguarding Youth / YPT
- \n\nOur OKPIK Cold Weather Camping Training Course is a “High Adventure
- ” training program that expands Scouts and Venturers plus adult Scout
- ers and advisors' knowledge of how to prepare themselves and plan for th
- e proper nutrition and equipment when the high temperature of the day is
-  50 degrees or below with inclement weather.\nBSA Health Form:\nThe PDF d
- ocument previously provided is no longer valid. Go to "Attachments" for t
- he link to the National web page.\nClick on "Are You Going Camping?" to c
- ompl
-URL:https://global.scoutingevent.com/129-OKPIK2028
-END:VEVENT
-BEGIN:VEVENT
-UID:264815@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271208T003000Z
-DTEND:20271208T030000Z
-SUMMARY:OKPIK - Cold Weather Camping Training 2027/2028 – Virtual Orient
- ation
-LOCATION:ONLINE - Virtual\, Illinois
-DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1161
- 24\n\nCold Weather (OKPIK)\, Leave No Trace\n\nOkpik 2027 - 2028\nCold We
- ather Outdoor Training\nOkpik (Ook’pick) is the Inuit name for a Snowy 
- Owl. The Okpik course aims to provide participants with the skills and k
- nowledge to enjoy an outdoor experience in cold weather\; to help Scout u
- nits extend their outing season to all 12 months of the year\; and to sha
- re their acquired knowledge and skills with their units. These skills are
-  taught over six sessions using the patrol method.\nWhat Okpik sessions c
- over:\nCold Weather Clothing Systems and Slee
-URL:https://global.scoutingevent.com/127-116124
-END:VEVENT
-BEGIN:VEVENT
-UID:264812@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271211T140000Z
-DTEND:20271211T190000Z
-SUMMARY:OKPIK - Cold Weather Camping Training 2027/2028 – Session One - 
- Outdoor Classroom
-LOCATION:ONLINE - Virtual\, Illinois
-DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1161
- 24\n\nCold Weather (OKPIK)\, Leave No Trace\n\nOkpik 2027 - 2028\nCold We
- ather Outdoor Training\nOkpik (Ook’pick) is the Inuit name for a Snowy 
- Owl. The Okpik course aims to provide participants with the skills and k
- nowledge to enjoy an outdoor experience in cold weather\; to help Scout u
- nits extend their outing season to all 12 months of the year\; and to sha
- re their acquired knowledge and skills with their units. These skills are
-  taught over six sessions using the patrol method.\nWhat Okpik sessions c
- over:\nCold Weather Clothing Systems and Slee
-URL:https://global.scoutingevent.com/127-116124
-END:VEVENT
-BEGIN:VEVENT
-UID:268628@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280108T133000Z
-DTEND:20280109T230000Z
-SUMMARY:OKPIK Cold Weather Training – Overnight Practical Session
-LOCATION:Kasperson Center for Scouting\, Vernon Hills\, Illinois
-DESCRIPTION:Northeast Illinois Council\nhttps://global.scoutingevent.com/1
- 29-OKPIK2028\n\nCamping\, Cold Weather (OKPIK)\, Safeguarding Youth / YPT
- \n\nOur OKPIK Cold Weather Camping Training Course is a “High Adventure
- ” training program that expands Scouts and Venturers plus adult Scout
- ers and advisors' knowledge of how to prepare themselves and plan for th
- e proper nutrition and equipment when the high temperature of the day is
-  50 degrees or below with inclement weather.\nBSA Health Form:\nThe PDF d
- ocument previously provided is no longer valid. Go to "Attachments" for t
- he link to the National web page.\nClick on "Are You Going Camping?" to c
- ompl
-URL:https://global.scoutingevent.com/129-OKPIK2028
-END:VEVENT
-BEGIN:VEVENT
-UID:264813@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280108T140000Z
-DTEND:20280108T190000Z
-SUMMARY:OKPIK - Cold Weather Camping Training 2027/2028 – Session Two - 
- Outdoor Training
-LOCATION:ONLINE - Virtual\, Illinois
-DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1161
- 24\n\nCold Weather (OKPIK)\, Leave No Trace\n\nOkpik 2027 - 2028\nCold We
- ather Outdoor Training\nOkpik (Ook’pick) is the Inuit name for a Snowy 
- Owl. The Okpik course aims to provide participants with the skills and k
- nowledge to enjoy an outdoor experience in cold weather\; to help Scout u
- nits extend their outing season to all 12 months of the year\; and to sha
- re their acquired knowledge and skills with their units. These skills are
-  taught over six sessions using the patrol method.\nWhat Okpik sessions c
- over:\nCold Weather Clothing Systems and Slee
-URL:https://global.scoutingevent.com/127-116124
-END:VEVENT
-BEGIN:VEVENT
-UID:264814@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280211T230000Z
-DTEND:20280212T220000Z
-SUMMARY:OKPIK - Cold Weather Camping Training 2027/2028 – Session Three 
- - Outdoor Overnight
-LOCATION:ONLINE - Virtual\, Illinois
-DESCRIPTION:Three Fires Council\nhttps://global.scoutingevent.com/127-1161
- 24\n\nCold Weather (OKPIK)\, Leave No Trace\n\nOkpik 2027 - 2028\nCold We
- ather Outdoor Training\nOkpik (Ook’pick) is the Inuit name for a Snowy 
- Owl. The Okpik course aims to provide participants with the skills and k
- nowledge to enjoy an outdoor experience in cold weather\; to help Scout u
- nits extend their outing season to all 12 months of the year\; and to sha
- re their acquired knowledge and skills with their units. These skills are
-  taught over six sessions using the patrol method.\nWhat Okpik sessions c
- over:\nCold Weather Clothing Systems and Slee
-URL:https://global.scoutingevent.com/127-116124
 END:VEVENT
 END:VCALENDAR

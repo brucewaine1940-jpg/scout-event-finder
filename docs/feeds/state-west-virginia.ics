@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:247275@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261212T143000Z
 DTEND:20261212T170000Z
 SUMMARY:Winter Hikes at Camp Mountaineer – Grades K-5 | 10:00 Departure
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/615-26MDWinterHike
 END:VEVENT
 BEGIN:VEVENT
 UID:269014@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T000000Z
 DTEND:20270110T150000Z
 SUMMARY:OA Winter Social
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/615-27WinterSocial
 END:VEVENT
 BEGIN:VEVENT
 UID:265634@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270109T140000Z
 DTEND:20270109T210000Z
 SUMMARY:Fundamentals of Training – 2027 Fundamentals of Training
@@ -61,7 +61,7 @@ URL:https://global.scoutingevent.com/598-Fundamentals
 END:VEVENT
 BEGIN:VEVENT
 UID:269017@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T230000Z
 DTEND:20270124T170000Z
 SUMMARY:MD Klondike Derby
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/615-27MDKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:261155@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Merit Badge University @ WVU
@@ -97,7 +97,7 @@ URL:https://global.scoutingevent.com/615-27MBU
 END:VEVENT
 BEGIN:VEVENT
 UID:269029@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T150000Z
 DTEND:20270306T190000Z
 SUMMARY:MD Pinewood Derby & STEM Day
@@ -115,7 +115,7 @@ URL:https://global.scoutingevent.com/615-27MDPW
 END:VEVENT
 BEGIN:VEVENT
 UID:261416@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270417T120000Z
 DTEND:20270417T210000Z
 SUMMARY:Wilderness First Aid Training
@@ -134,7 +134,7 @@ URL:https://global.scoutingevent.com/615-27Wilderness
 END:VEVENT
 BEGIN:VEVENT
 UID:269038@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270430T220000Z
 DTEND:20270502T140000Z
 SUMMARY:Cub Scout Adventure Weekend
@@ -152,7 +152,7 @@ URL:https://global.scoutingevent.com/615-27CAW
 END:VEVENT
 BEGIN:VEVENT
 UID:269054@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270604T190000Z
 DTEND:20270606T160000Z
 SUMMARY:Blue & Gray Camporee
@@ -170,7 +170,7 @@ URL:https://global.scoutingevent.com/615-27BlueGray
 END:VEVENT
 BEGIN:VEVENT
 UID:269055@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270607T123000Z
 DTEND:20270611T193000Z
 SUMMARY:Cub Scout Day Camp (Clarksburg)
@@ -185,202 +185,5 @@ DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
  ntering the 1st through 5th grades the following school year. Participant
  s entering Kindergarten
 URL:https://global.scoutingevent.com/615-27MDDayCamp
-END:VEVENT
-BEGIN:VEVENT
-UID:269056@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270614T120000Z
-DTEND:20270618T193000Z
-SUMMARY:Cub Scout Day Camp ORVD
-LOCATION:Brooke Hills Park\, Wellsburg\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -27ORVDayCamp\n\nSafeguarding Youth / YPT\n\nOHIO RIVER VALLEY DISTRICT\n
- CUB SCOUT DAY CAMP\nBrooke Hills Park   |    June 14 - 18\, 2027\nSte
- p into adventure at ORVD Cub Scout Day Camp Scouts will build skills\, ma
- ke friends\, and unlock surprises as they race to complete the ultimate s
- py quest. If your Scout loves action\, mystery\, and a little bit of misc
- hief\, this is the one experience they won’t want to miss.\nSAVE THE DA
- TE\nADDITIONAL DETAILS:\nCub Scout day camps are organized by the Mountai
- neer Area Council\, Scouting America and conducted by
-URL:https://global.scoutingevent.com/615-27ORVDayCamp
-END:VEVENT
-BEGIN:VEVENT
-UID:263892@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270620T170000Z
-DTEND:20270626T140000Z
-SUMMARY:Scouts BSA Resident Camp – Week 1
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -115609\n\nNYLT\n\nScouts BSA Resident Camp 2027\nCamp Mountaineer\nThank
-  you for choosing to make a reservation at Camp Mountaineer during the s
- ummer camp season.  We look forward to providing a quality program exper
- ience for your troop's Scouts and adult leaders.\nPrior to January 1\, 20
- 27\, troops may place a registration with a $300 deposit to hold their sp
- ot in their week of choice and by entering their estimated number of yout
- h and adult attendees.  Space is limited by week.  A troop's reservatio
- n is not secured 
-URL:https://global.scoutingevent.com/615-115609
-END:VEVENT
-BEGIN:VEVENT
-UID:263893@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T170000Z
-DTEND:20270703T140000Z
-SUMMARY:Scouts BSA Resident Camp – Week 2
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -115609\n\nNYLT\n\nScouts BSA Resident Camp 2027\nCamp Mountaineer\nThank
-  you for choosing to make a reservation at Camp Mountaineer during the s
- ummer camp season.  We look forward to providing a quality program exper
- ience for your troop's Scouts and adult leaders.\nPrior to January 1\, 20
- 27\, troops may place a registration with a $300 deposit to hold their sp
- ot in their week of choice and by entering their estimated number of yout
- h and adult attendees.  Space is limited by week.  A troop's reservatio
- n is not secured 
-URL:https://global.scoutingevent.com/615-115609
-END:VEVENT
-BEGIN:VEVENT
-UID:263894@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270704T170000Z
-DTEND:20270710T140000Z
-SUMMARY:Scouts BSA Resident Camp – Week 3
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -115609\n\nNYLT\n\nScouts BSA Resident Camp 2027\nCamp Mountaineer\nThank
-  you for choosing to make a reservation at Camp Mountaineer during the s
- ummer camp season.  We look forward to providing a quality program exper
- ience for your troop's Scouts and adult leaders.\nPrior to January 1\, 20
- 27\, troops may place a registration with a $300 deposit to hold their sp
- ot in their week of choice and by entering their estimated number of yout
- h and adult attendees.  Space is limited by week.  A troop's reservatio
- n is not secured 
-URL:https://global.scoutingevent.com/615-115609
-END:VEVENT
-BEGIN:VEVENT
-UID:264989@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270705T160000Z
-DTEND:20270710T193000Z
-SUMMARY:National Youth Leadership Training (NYLT)
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -NYLT26\n\nNYLT\n\nNational Youth Leadership Training (NYLT)\nCamp Mounta
- ineer\n|    July 5-10\, 2027\nNational Youth Leadership Training (NYLT)
- \nis an exciting\, action-packed program designed to provide youth with l
- eadership skills and experience that they can apply within their troops a
- nd in other situations requiring leadership of self and others.\nNYLT is 
- a six-day course that emphasizes hands-on learning in a fun\, engaging en
- vironment. Through a blend of activities\, presentations\, challenges\, d
- iscussions\, and games
-URL:https://global.scoutingevent.com/615-NYLT26
-END:VEVENT
-BEGIN:VEVENT
-UID:263891@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270714T170000Z
-DTEND:20270718T160000Z
-SUMMARY:Cub Scout Resident Camp
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -115608\n\nSafeguarding Youth / YPT\n\nCub Scout Resident Camp 2027\nCamp
-  Mountaineer\nThank you for choosing to make a reservation at Camp Mounta
- ineer during the 2027 summer camp season.  We look forward to providin
- g a quality program experience for your Cub Scout while utilizing the 202
- 7 Cub Scout camping theme of\nTBA!\nPacks are encouraged to register as a
-  unit to make communications and organization easier. The Parent Portal 
- can be used for families to make individual payments directly to the coun
- cil\, or units can decide to collect 
-URL:https://global.scoutingevent.com/615-115608
-END:VEVENT
-BEGIN:VEVENT
-UID:269066@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271008T210000Z
-DTEND:20271010T153000Z
-SUMMARY:ORVD Cub-O-Ree – Cub-O-Ree
-LOCATION:Sandscrest Scout Reservation \, Wheeling\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -27ORVFallCub\n\nBALOO\, Safeguarding Youth / YPT\n\nCUB-O-REE\nSandscres
- t Scout Reservation  |  October 8 - 10\, 2027\nA CubORee is a fun\, act
- ivitypacked day where Cub Scouts rotate through outdoor games\, skill sta
- tions\, and Scouting adventures—giving families a lively\, handson tast
- e of everything Cub Scouting has to offer.\nIn addition to the Cub-O-Ree\
- ,\nBasic Adult Leader Outdoor Orientation (BALOO) Training\nwill also be 
- available this weekend. Leaders can register here to complete the trainin
- g and also participate in the Cub-O-Ree activities.\nSAVE 
-URL:https://global.scoutingevent.com/615-27ORVFallCub
-END:VEVENT
-BEGIN:VEVENT
-UID:269068@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271015T220000Z
-DTEND:20271017T160000Z
-SUMMARY:OA Fall Fellowship
-LOCATION:Sandscrest Scout Reservation \, Wheeling\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -27OAFall\n\n\n\nOCONOMOWOC LODGE\nFALL FELLOWSHIP WEEKEND\nSandscrest Sc
- out Reservation   |   Oct 15 - 17\, 2027\nAn OA Fellowship Weekend br
- ings Arrowmen together for a relaxed\, highenergy gathering focused on br
- otherhood\, fun\, and service—strengthening lodge friendships through s
- hared activities\, cheerful work\, and meaningful time in the spirit of t
- he Order.\nSAVE THE DATE\nVision of the Order of the Arrow\nTo be why Sco
- uts want to stay in Scouting.\nMission of the Order of the Arrow\nTo achi
- eve the mission of Scoutin
-URL:https://global.scoutingevent.com/615-27OAFall
-END:VEVENT
-BEGIN:VEVENT
-UID:269075@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271106T123000Z
-DTEND:20271106T190000Z
-SUMMARY:Merit Badge College @ West Virginia Wesleyan College
-LOCATION:West Virginia Wesleyan College \, Buckhannon\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -27WMBC\n\n\n\n2027 MERIT BADGE COLLEGE\nWEST VIRGINIA WESLEYAN COLLEGE\n
- Buchannon\, WV   |   Nov 6\, 2026\nSAVE THE DATE\nWhen & Where\nSave 
- the Date\nWest Virginia Wesleyan College\nSaturday 11-06-2027\n8:30 AM ET
-  to 3:00 PM ET\nMore Information\nMap of Event\nCoords: 38.990326\, -80.2
- 206477\n59 College Ave\nBuckhannon\, West Virginia 26201\nRegistration Cl
- oses:\n&nbsp10-31-2027 11:00 PM\nContact\nAttachments\nClass Attendee Cou
- nts\nClass Catalog\nWVWC Swim Ability Survey
-URL:https://global.scoutingevent.com/615-27WMBC
-END:VEVENT
-BEGIN:VEVENT
-UID:278146@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271112T230000Z
-DTEND:20271114T150000Z
-SUMMARY:Scoutsgiving Weekend
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -27Scoutsgiving\n\nIOLS\n\n8th ANNUAL\nSCOUTSGIVING WEEKEND\nCamp Mountai
- neer  |  Nov 12 - 14\, 2027\nCelebrate the season with\nScoutsgiving\n
- —a weekend of camping\, cooking\, and camaraderie. Scouts will enjoy ha
- nds-on cooking demos\, friendly competitions\, and a shared feast that br
- ings everyone together. Whether you're a seasoned camp chef or just here 
- for the s’mores\, there’s something for everyone. It’s the perfect 
- blend of gratitude\, outdoor adventure\, and scout spirit. Come hungry\, 
- leave inspired!\nIntroduction to Outdoor L
-URL:https://global.scoutingevent.com/615-27Scoutsgiving
-END:VEVENT
-BEGIN:VEVENT
-UID:269078@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271211T143000Z
-DTEND:20271211T170000Z
-SUMMARY:Winter Hikes at Camp Mountaineer – Grades K-5 | 10:00 Departure
-LOCATION:Camp Mountaineer\, Morgantown\, West Virginia
-DESCRIPTION:Mountaineer Area Council\nhttps://global.scoutingevent.com/615
- -27WinterHike\n\n\n\nWINTER ADVENTURE HIKES\nCamp Mountaineer   |   D
- ecember 11\, 2027\nSAVE THE DATE!\nContact\nWhen & Where\nSave the Date\n
- Grades 6-12 | 9:30 Departure\nCamp Mountaineer\nSaturday 12-11-2027\n9:30
-  AM ET to 12:30 PM ET\nMore Information\nMap of Session\nCoords: 39.52326
- 4\, -79.89808\n187 Camp Mountaineer Rd\nMorgantown\, West Virginia 26508\
- nRegistration Closes:\n&nbsp12-03-2027 12:00 PM\nSave the Date\nGrades K-
- 5 | 10:00 Departure\nCamp Mountaineer\nSaturday 12-11-2027\n10:00 AM ET t
- o 12:00 PM ET\nMore Information\nMap of 
-URL:https://global.scoutingevent.com/615-27WinterHike
 END:VEVENT
 END:VCALENDAR

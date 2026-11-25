@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:233254@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261204T230000Z
 DTEND:20261206T170000Z
 SUMMARY:2026 - University of Scouting @ Purdue University – Saturday
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/162-100441
 END:VEVENT
 BEGIN:VEVENT
 UID:267136@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20261205T000000Z
 DTEND:20261205T013000Z
 SUMMARY:2026 - Eagle Scout Reception - Presented by Distinguished Eagle Sc
@@ -44,7 +44,7 @@ URL:https://global.scoutingevent.com/162-117318
 END:VEVENT
 BEGIN:VEVENT
 UID:273195@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270122T230000Z
 DTEND:20270123T220000Z
 SUMMARY:2027 - OA Lodge Leadership Development Weekend – Incoming Electe
@@ -63,7 +63,7 @@ URL:https://global.scoutingevent.com/162-120537
 END:VEVENT
 BEGIN:VEVENT
 UID:273196@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T130000Z
 DTEND:20270123T220000Z
 SUMMARY:2027 - OA Lodge Leadership Development Weekend – OA Member
@@ -81,7 +81,7 @@ URL:https://global.scoutingevent.com/162-120537
 END:VEVENT
 BEGIN:VEVENT
 UID:260537@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T130000Z
 DTEND:20270123T210000Z
 SUMMARY:2027 University of Scouting – University of Scouting
@@ -100,7 +100,7 @@ URL:https://global.scoutingevent.com/160-2027UoS
 END:VEVENT
 BEGIN:VEVENT
 UID:277483@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270123T140000Z
 DTEND:20270123T210000Z
 SUMMARY:Cub Scout Rangemaster Training – 2025 Rangemaster Training
@@ -118,7 +118,7 @@ URL:https://global.scoutingevent.com/162-122727
 END:VEVENT
 BEGIN:VEVENT
 UID:271978@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270124T130000Z
 DTEND:20270125T040000Z
 SUMMARY:Scout Ski Days at Perfect North – January 24th Ski Day
@@ -136,7 +136,7 @@ URL:https://global.scoutingevent.com/438-ScoutSkiDays
 END:VEVENT
 BEGIN:VEVENT
 UID:273490@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270129T233000Z
 DTEND:20270131T150000Z
 SUMMARY:2027 - Winter Klondike
@@ -153,7 +153,7 @@ URL:https://global.scoutingevent.com/162-120713
 END:VEVENT
 BEGIN:VEVENT
 UID:255726@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270205T220000Z
 DTEND:20270206T230000Z
 SUMMARY:Lincolnway Klondike Derby 27
@@ -171,7 +171,7 @@ URL:https://global.scoutingevent.com/157-111464
 END:VEVENT
 BEGIN:VEVENT
 UID:257463@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270206T130000Z
 DTEND:20270206T203000Z
 SUMMARY:Pioneer Trails Webelos & Arrow of Light Lock-In
@@ -189,7 +189,7 @@ URL:https://global.scoutingevent.com/165-112050
 END:VEVENT
 BEGIN:VEVENT
 UID:271979@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270207T130000Z
 DTEND:20270208T040000Z
 SUMMARY:Scout Ski Days at Perfect North – February 7th Ski Day
@@ -207,7 +207,7 @@ URL:https://global.scoutingevent.com/438-ScoutSkiDays
 END:VEVENT
 BEGIN:VEVENT
 UID:273501@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270227T140000Z
 DTEND:20270227T210000Z
 SUMMARY:2027 - Range Safety Officer (RSO) Instructor Training
@@ -223,7 +223,7 @@ URL:https://global.scoutingevent.com/162-120724
 END:VEVENT
 BEGIN:VEVENT
 UID:273503@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270306T120000Z
 DTEND:20270306T210000Z
 SUMMARY:2027 - Spring University of Scouting at IUK
@@ -241,7 +241,7 @@ URL:https://global.scoutingevent.com/162-120726
 END:VEVENT
 BEGIN:VEVENT
 UID:277484@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270320T130000Z
 DTEND:20270320T200000Z
 SUMMARY:Cub Scout Rangemaster Training – 2025 Rangemaster Training
@@ -259,7 +259,7 @@ URL:https://global.scoutingevent.com/162-122728
 END:VEVENT
 BEGIN:VEVENT
 UID:273505@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270320T220000Z
 DTEND:20270321T030000Z
 SUMMARY:2027 - Scouting 4 Eggs - Adult Only Easter Egg Hunt - Presented by
@@ -276,7 +276,7 @@ URL:https://global.scoutingevent.com/162-120729
 END:VEVENT
 BEGIN:VEVENT
 UID:273821@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270416T213000Z
 DTEND:20270418T190000Z
 SUMMARY:2027 - Rifle Instructor and Basic Instructor Training
@@ -292,7 +292,7 @@ URL:https://global.scoutingevent.com/162-120881
 END:VEVENT
 BEGIN:VEVENT
 UID:273822@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270416T220000Z
 DTEND:20270418T180000Z
 SUMMARY:2027 - Spring IOLS/BALOO Training
@@ -310,7 +310,7 @@ URL:https://global.scoutingevent.com/162-120882
 END:VEVENT
 BEGIN:VEVENT
 UID:273823@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270423T220000Z
 DTEND:20270425T160000Z
 SUMMARY:2027 - Sagamore Council Spring Camporee
@@ -328,7 +328,7 @@ URL:https://global.scoutingevent.com/162-120883
 END:VEVENT
 BEGIN:VEVENT
 UID:269992@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270501T110000Z
 DTEND:20270502T200000Z
 SUMMARY:Voyageur Spring 2027 (Youth and Adult) – Weekend 1
@@ -347,7 +347,7 @@ URL:https://global.scoutingevent.com/160-VoyageurSpring27
 END:VEVENT
 BEGIN:VEVENT
 UID:273830@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270507T213000Z
 DTEND:20270509T190000Z
 SUMMARY:2027 - Shotgun Instructor and Basic Instructor Training
@@ -363,7 +363,7 @@ URL:https://global.scoutingevent.com/162-120889
 END:VEVENT
 BEGIN:VEVENT
 UID:262138@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270514T120000Z
 DTEND:20270516T210000Z
 SUMMARY:Council Camporee & Scout Show
@@ -379,7 +379,7 @@ URL:https://global.scoutingevent.com/165-114642
 END:VEVENT
 BEGIN:VEVENT
 UID:269993@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270515T110000Z
 DTEND:20270515T220000Z
 SUMMARY:Voyageur Spring 2027 (Youth and Adult) – Paddle Craft One Day Re
@@ -399,7 +399,7 @@ URL:https://global.scoutingevent.com/160-VoyageurSpring27
 END:VEVENT
 BEGIN:VEVENT
 UID:269994@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270515T110000Z
 DTEND:20270516T200000Z
 SUMMARY:Voyageur Spring 2027 (Youth and Adult) – Weekend 2
@@ -418,7 +418,7 @@ URL:https://global.scoutingevent.com/160-VoyageurSpring27
 END:VEVENT
 BEGIN:VEVENT
 UID:273850@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270604T230000Z
 DTEND:20270606T140000Z
 SUMMARY:2027 - OA Spring Weekend
@@ -434,7 +434,7 @@ URL:https://global.scoutingevent.com/162-120898
 END:VEVENT
 BEGIN:VEVENT
 UID:266020@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270613T170000Z
 DTEND:20270619T160000Z
 SUMMARY:2027 - Sagamore Council Scouting America Summer Camp – Week 1
@@ -451,24 +451,8 @@ DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-116745\
 URL:https://global.scoutingevent.com/162-116745
 END:VEVENT
 BEGIN:VEVENT
-UID:262145@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270615T123000Z
-DTEND:20270618T193000Z
-SUMMARY:Pioneer Trails Cub Day Camp – Elkhart County Cub Day Camp
-LOCATION:Ox Bow County Park\, Goshen\, Indiana
-DESCRIPTION:LaSalle Council\nhttps://global.scoutingevent.com/165-PTCDC\n\
- n\n\nJoin us for Elkhart County Cub Day Camp!\nWhen & Where\nSave the Dat
- e\nElkhart County Cub Day Camp\nOx Bow County Park\nTuesday 06-15-2027 8:
- 30 AM ET to\nFriday 06-18-2027 3:30 PM ET\nMore Information\nMap of Event
- \nCoords: 41.6290317\, -85.9060705\n23033 Co Rd 45\nGoshen\, Indiana 4652
- 8\nRegistration Closes:\n&nbsp06-06-2027 11:59 PM\nContact\nAttachments\n
- Scouting America Annual Health & Medical Record - Parts A & B
-URL:https://global.scoutingevent.com/165-PTCDC
-END:VEVENT
-BEGIN:VEVENT
 UID:266021@scout-event-finder
-DTSTAMP:20261124T210621Z
+DTSTAMP:20261125T203656Z
 DTSTART:20270620T170000Z
 DTEND:20270626T160000Z
 SUMMARY:2027 - Sagamore Council Scouting America Summer Camp – Week 2
@@ -483,381 +467,5 @@ DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-116745\
  icing\nCoords: 40.8892847\, -86.7278289\n9400 N Boy Scout Rd\nMonticello\
  , Indiana 47960\nP
 URL:https://global.scoutingevent.com/162-116745
-END:VEVENT
-BEGIN:VEVENT
-UID:266041@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270627T170000Z
-DTEND:20270630T160000Z
-SUMMARY:2027 - Cub Adventure Camp – Session 1
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-116757\
- n\n\n\nDetails to Come!\nWhen & Where\nSave the Date\nSession 1\nCamp Buf
- falo\nSunday 06-27-2027 1:00 PM ET to\nWednesday 06-30-2027 12:00 PM ET\n
- Limit One Registration Per Unit\nMore Information\nMap of Event\nCoords: 
- 40.8892847\, -86.7278289\n9400 N Boy Scout Rd\nMonticello\, Indiana 47960
- \nPhone: 574-278-7114\nRegistration Closes:\n&nbsp06-05-2027 11:59 PM\nCo
- ntact\nAttachments\n2026 CAC Flyer\nHealth_Forms_AB
-URL:https://global.scoutingevent.com/162-116757
-END:VEVENT
-BEGIN:VEVENT
-UID:273987@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270717T130000Z
-DTEND:20270717T200000Z
-SUMMARY:2027 - Peshewa District Cub Scout Day Camp
-LOCATION:Camp Tycony\, Kokomo\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120964\
- n\n\n\nPeshewa District Day Camp\nJuly 17th\, 2027\nMore Info to Come!\nW
- hen & Where\nSave the Date\nCamp Tycony\nSaturday 07-17-2027\n9:00 AM ET 
- to 4:00 PM ET\nMore Information\nMap of Event\nCoords: 40.4756417\, -86.1
- 840558\n917 Malfalfa Road\nKokomo\, Indiana 46901\nRegistration Closes:\n
- &nbsp06-25-2027 11:59 PM\nContact\nAttachments\nBSA Health Form A&B
-URL:https://global.scoutingevent.com/162-120964
-END:VEVENT
-BEGIN:VEVENT
-UID:262153@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270718T170000Z
-DTEND:20270724T140000Z
-SUMMARY:National Youth Leadership Training (NYLT)
-LOCATION:Camp Topenebee\, Michigan City\, Indiana
-DESCRIPTION:LaSalle Council\nhttps://global.scoutingevent.com/165-114652\n
- \nNYLT\n\n*Please note that NYLT will opperate under Central Timezone as 
- its location will be at Camp Topenebee*\nNational Youth Leadership Traini
- ng is an exciting\, action-packed program designed for councils to provid
- e youth members with leadership skills and experience they can use in the
- ir home troops and in other situations demanding leadership of self and o
- thers. The NYLT course centers around the concepts of what a leader must
-  BE\, what they must KNOW\, and what they must DO. The key elements are 
- then 
-URL:https://global.scoutingevent.com/165-114652
-END:VEVENT
-BEGIN:VEVENT
-UID:273992@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270719T120000Z
-DTEND:20270723T210000Z
-SUMMARY:2027 - Wabash Valley District Cub Scout Day Camp
-LOCATION:Franklin L. Cary Camp\, Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120967\
- n\n\n\n2027 Wabash Valley Cub Day Camp\nCary Camp\, Lafayette\, IN\nJuly1
- 9th - 23rd\, 2027\nMore Information to Come!\nWhen & Where\nSave the Date
- \nFranklin L. Cary Camp\nMonday 07-19-2027 8:00 AM ET to\nFriday 07-23-20
- 27 5:00 PM ET\nMore Information\nMap of Event\nCoords: 40.422184\, -86.78
- 1107\n6286 IN-26\nLafayette\, Indiana 47905\nPhone: 765-447-1990\nRegistr
- ation Closes:\n&nbsp07-05-2027 11:59 PM\nContact\nAttachments\nBSA Health
-  Form A&B
-URL:https://global.scoutingevent.com/162-120967
-END:VEVENT
-BEGIN:VEVENT
-UID:274014@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270813T213000Z
-DTEND:20270815T190000Z
-SUMMARY:2027 Pistol Instructor and Basic Instructor Training
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120987\
- n\n\n\n2027 Pistol Instructor and Basic Instructor Training\nAugust 13th 
- -15th\, 2027\nMore Information to Come!\nWhen & Where\nSave the Date\nCam
- p Buffalo\nFriday 08-13-2027 5:30 PM ET to\nSunday 08-15-2027 3:00 PM ET\
- nMore Information\nMap of Event\nCoords: 40.8892847\, -86.7278289\n9400 N
-  Boy Scout Rd\nMonticello\, Indiana 47960\nPhone: 574-278-7114\nRegistrat
- ion Closes:\n&nbsp07-30-2027 11:59 PM\nContact\nAttachments\n2026 Pistol 
- Training Flyer
-URL:https://global.scoutingevent.com/162-120987
-END:VEVENT
-BEGIN:VEVENT
-UID:274015@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270813T220000Z
-DTEND:20270815T140000Z
-SUMMARY:2027 - OA Summer Weekend
-LOCATION:Franklin L. Cary Camp\, Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120988\
- n\n\n\n2027 OA Summer Weekend\nAugust 13th - 15th\, 2027\nMore Informatio
- n to Come!\nWhen & Where\nSave the Date\nFranklin L. Cary Camp\nFriday 08
- -13-2027 6:00 PM ET to\nSunday 08-15-2027 10:00 AM ET\nMore Information\n
- Map of Event\nCoords: 40.422184\, -86.781107\n6286 IN-26\nLafayette\, Ind
- iana 47905\nPhone: 765-447-1990\nRegistration Closes:\n&nbsp08-08-2027 11
- :59 PM\nContact\nAttachments\nA & B Health Form
-URL:https://global.scoutingevent.com/162-120988
-END:VEVENT
-BEGIN:VEVENT
-UID:228990@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20270911T180000Z
-DTEND:20270912T010000Z
-SUMMARY:2027 - Terry Beasy Memorial Shoot
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-97809\n
- \n\n\nJoin us for the Terry Beasy Memorial Shoot\nWhen: Saturday\, Septe
- mber 12\, 2026\nWhere: Camp Buffalo\, 9400 N Boy Scout Rd\, Monticello\,
-  IN 47960\nMore Information To Come!\nWhen & Where\nSave the Date\nCamp B
- uffalo\nSaturday 09-11-2027\n2:00 PM ET to 9:00 PM ET\nMore Information\n
- Map of Event\nCoords: 40.8892847\, -86.7278289\n9400 N Boy Scout Rd\nMont
- icello\, Indiana 47960\nPhone: 574-278-7114\nRegistration Closes:\n&nbsp0
- 9-11-2027 2:00 PM\nContact\nAttachments\n2025 Terry Beasy Memorial Shoot 
- Flier
-URL:https://global.scoutingevent.com/162-97809
-END:VEVENT
-BEGIN:VEVENT
-UID:255732@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271001T040000Z
-DTEND:20271003T220000Z
-SUMMARY:Lincolnway Fall Camporee 27
-LOCATION:Anthony Wayne Area Service Center\, Fort Wayne\, Indiana
-DESCRIPTION:Anthony Wayne Area Council\nhttps://global.scoutingevent.com/1
- 57-111470\n\n\n\nHere’s your chance to have some Scout-style fun.\nRise
-  to the Challenge with Multiplayer Games!\nScout Skills\, Big Games\, Tea
- m Building\, Competitions\, and Just for Fun Games too!  Come prepared t
- o wow the judges with your best Main Dish!\nWhen: October\,2nd-4th 2026\n
- When & Where\nSave the Date\nAnthony Wayne Area Service Center\nFriday 10
- -01-2027 12:00 AM ET to\nSunday 10-03-2027 6:00 PM ET\nMore Information\n
- Map of Event\nCoords: 41.0287359\, -85.2512721\n8315 W Jefferson Blvd\nFo
- rt Wayne\, Indiana 46804\nPhon
-URL:https://global.scoutingevent.com/157-111470
-END:VEVENT
-BEGIN:VEVENT
-UID:274030@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271002T110000Z
-DTEND:20271002T210000Z
-SUMMARY:2027 - 8th Annual Buffalo Stampede - Presented by Subaru of Indian
- a Automotive
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120995\
- n\n\n\nJoin us for our 8th Annual Buffalo Stampede\nOctober 2nd\, 2027 at
-  Camp Buffalo\nMore Information to Come\nWhen & Where\nSave the Date\nCam
- p Buffalo\nSaturday 10-02-2027\n7:00 AM ET to 5:00 PM ET\nMore Informatio
- n\nMap of Event\nCoords: 40.8892847\, -86.7278289\n9400 N Boy Scout Rd\nM
- onticello\, Indiana 47960\nPhone: 574-278-7114\nRegistration Closes:\n&nb
- sp09-14-2027 11:59 PM\nContact\nAttachments\n100 Mile Map\n13 Mile Map\n2
- 8 Mile Map\n53 Mile Map\n63 Mile Map\nStampede Parking Map\nStampede Ride
-  & Safety Info Sheet
-URL:https://global.scoutingevent.com/162-120995
-END:VEVENT
-BEGIN:VEVENT
-UID:274034@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271008T220000Z
-DTEND:20271010T200000Z
-SUMMARY:2027 - Fall IOLS/BALOO Training – Session 1
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120997\
- n\nBALOO\, IOLS\, Position-Specific Leader Training\, Wood Badge\n\nThe I
- ntroduction to Outdoor Leadership Skills (IOLS) expands the concepts of S
- coutmaster training and provides Scouters with confidence to take youth i
- nto the outdoors. The course emphasizes the patrol method of Scout-led tr
- oop programs. Participants should complete the course with confidence to 
- take Scouts safely into the outdoors.\nAlong with Scoutmaster Specifics\,
-  this course is required of all direct contact leaders registered in Boy 
- Scout Troops to be considered “trained”.\nBALOO is designed 
-URL:https://global.scoutingevent.com/162-120997
-END:VEVENT
-BEGIN:VEVENT
-UID:274037@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271016T120000Z
-DTEND:20271016T160000Z
-SUMMARY:2027 - Cub Scout Shoot Out (Fall) – Session 1 8am-12pm
-LOCATION:Franklin L. Cary Camp\, Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121000\
- n\n\n\n2027 Fall Cub Scout Shootout\nOctober 16\, 2027\nMore Information 
- to Come!\nContact\nWhen & Where\nSave the Date\nSession 1 8am-12pm\nFrank
- lin L. Cary Camp\nSaturday 10-16-2027\n8:00 AM ET to 12:00 PM ET\nMore In
- formation\nMap of Session\nCoords: 40.422184\, -86.781107\n6286 IN-26\nLa
- fayette\, Indiana 47905\nPhone: 765-447-1990\nRegistration Closes:\n&nbsp
- 10-10-2027 11:59 PM\nSave the Date\nSession 2 1pm-5pm\nFranklin L. Cary C
- amp\nSaturday 10-16-2027\n1:00 PM ET to 5:00 PM ET\nMore Information\nMap
-  of Session\nCoords: 40.
-URL:https://global.scoutingevent.com/162-121000
-END:VEVENT
-BEGIN:VEVENT
-UID:274036@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271016T180000Z
-DTEND:20271017T200000Z
-SUMMARY:2027 - 5th Annual Sagamore Council Trade-o-Ree
-LOCATION:Franklin L. Cary Camp\, Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120999\
- n\n\n\nFollow this link to register: trade-o-ree.sagamorebsa.org\n5th Ann
- ual Trade-O-Ree\nOctober 16th\, 2027\nMore Information to Come!\nWhen & W
- here\nFranklin L. Cary Camp\nSaturday 10-16-2027 2:00 PM ET to\nSunday 10
- -17-2027 4:00 PM ET\nMore Information\nMap of Event\nCoords: 40.422184\, 
- -86.781107\n6286 IN-26\nLafayette\, Indiana 47905\nPhone: 765-447-1990\nC
- ontact\nAttachments\n2026 Trade-O-Ree Flyer\nVendor Sign-Up Link
-URL:https://global.scoutingevent.com/162-120999
-END:VEVENT
-BEGIN:VEVENT
-UID:274072@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271017T040000Z
-DTEND:20271018T035900Z
-SUMMARY:2027 - Fall IOLS/BALOO Training – Session 2
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-120997\
- n\nBALOO\, IOLS\, Position-Specific Leader Training\, Wood Badge\n\nThe I
- ntroduction to Outdoor Leadership Skills (IOLS) expands the concepts of S
- coutmaster training and provides Scouters with confidence to take youth i
- nto the outdoors. The course emphasizes the patrol method of Scout-led tr
- oop programs. Participants should complete the course with confidence to 
- take Scouts safely into the outdoors.\nAlong with Scoutmaster Specifics\,
-  this course is required of all direct contact leaders registered in Boy 
- Scout Troops to be considered “trained”.\nBALOO is designed 
-URL:https://global.scoutingevent.com/162-120997
-END:VEVENT
-BEGIN:VEVENT
-UID:274080@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271029T170000Z
-DTEND:20271031T140000Z
-SUMMARY:2027 - Cub Haunted Weekend
-LOCATION:Franklin L. Cary Camp\, Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121016\
- n\n\n\nCub Haunted Weekend\nMore Information to Come!\nWhen & Where\nSave
-  the Date\nFranklin L. Cary Camp\nFriday 10-29-2027 1:00 PM ET to\nSunday
-  10-31-2027 10:00 AM ET\nMore Information\nMap of Event\nCoords: 40.42218
- 4\, -86.781107\n6286 IN-26\nLafayette\, Indiana 47905\nPhone: 765-447-199
- 0\nRegistration Closes:\n&nbsp10-25-2027 11:59 PM\nContact\nAttachments\n
- BSA Health Form A&B\nEvent Flyer
-URL:https://global.scoutingevent.com/162-121016
-END:VEVENT
-BEGIN:VEVENT
-UID:274081@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271105T210000Z
-DTEND:20271107T170000Z
-SUMMARY:2027 - Sagamore Council Fall Camporee
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121017\
- n\n\n\n2027 Council Fall Camporee\nNovember 5th-7th\, 2027\nMore Details 
- to Come!\nWhen & Where\nSave the Date\nCamp Buffalo\nFriday 11-05-2027 5:
- 00 PM ET to\nSunday 11-07-2027 12:00 PM ET\nLimit One Registration Per Un
- it\nMore Information\nMap of Event\nCoords: 40.8892847\, -86.7278289\n940
- 0 N Boy Scout Rd\nMonticello\, Indiana 47960\nPhone: 574-278-7114\nRegist
- ration Closes:\n&nbsp10-22-2027 11:59 PM\nContact\nAttachments\n2026 Fall
-  Camporee Flyer\nBSA Health Form A&B
-URL:https://global.scoutingevent.com/162-121017
-END:VEVENT
-BEGIN:VEVENT
-UID:274084@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271112T230000Z
-DTEND:20271114T150000Z
-SUMMARY:2027 - OA Fall Fun Fellowship
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121021\
- n\n\n\nOrder of the Arrow Fall Fun Fellowship\nCamp Buffalo\, Monticello\
- , IN\nNovember 12th-14th\, 2027\nMore Details to Come!\nWhen & Where\nSav
- e the Date\nCamp Buffalo\nFriday 11-12-2027 6:00 PM ET to\nSunday 11-14-2
- 027 10:00 AM ET\nMore Information\nMap of Event\nCoords: 40.8892847\, -86
- .7278289\n9400 N Boy Scout Rd\nMonticello\, Indiana 47960\nPhone: 574-278
- -7114\nRegistration Closes:\n&nbsp11-01-2027 11:59 PM\nContact\nAttachmen
- ts\nBSA Health Form A&B
-URL:https://global.scoutingevent.com/162-121021
-END:VEVENT
-BEGIN:VEVENT
-UID:265981@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271113T133000Z
-DTEND:20271113T201500Z
-SUMMARY:2027 Five Creeks Fall Merit Badge Midway
-LOCATION:Avon High School\, Avon\, Indiana
-DESCRIPTION:Crossroads of America Council\nhttps://global.scoutingevent.co
- m/160-5C_Fall_MB_2027\n\nPosition-Specific Leader Training\n\nMEGA Midway
- \nJoin us for an exciting day of learning and adventure! Activities inclu
- de Scouts BSA Merit Badges\, Cub Scout adventures\, and Leader position-s
- pecific training. Scouts of all ages and districts welcome!\nSaturday\, N
- ovember 13\, 2027\nLocation: Avon High School\nCheck-in: 7:30am - 8:30am\
- nAM Session: 8:30am - 11:30am\nLunch: 11:30am - 12:30pm\nPM Session: 12:3
- 0pm - 3:30pm\nREGISTRATION\nSCOUTS BSA: Full day (2 classes) is $20.00. B
- lue cards will be provided by counselors.\nCUB SCOUTS:\nEvent sign
-URL:https://global.scoutingevent.com/160-5C_Fall_MB_2027
-END:VEVENT
-BEGIN:VEVENT
-UID:274101@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271203T230000Z
-DTEND:20271205T170000Z
-SUMMARY:2027 - University of Scouting at Purdue University – Saturday
-LOCATION:Purdue University Armory\, West Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121030\
- n\nCommissioner / University of Scouting\n\nUniversity of Scouting at Pur
- due University\nDecember 3rd - 5th\, 2027\nMore Details to Come!\nWhen & 
- Where\nSave the Date\nSaturday\nPurdue University Armory\nFriday 12-03-20
- 27 6:00 PM ET to\nSunday 12-05-2027 12:00 PM ET\nMore Information\nMap of
-  Event\nCoords: 40.428246\, -86.9143911\n812 3rd Street\nWest Lafayette\,
-  Indiana 47907\nRegistration Closes:\n&nbsp11-14-2027 11:59 PM\nContact\n
- Attachments\nMerit Badge Requirements/Link to Free MB Pamphlet Download
-URL:https://global.scoutingevent.com/162-121030
-END:VEVENT
-BEGIN:VEVENT
-UID:274099@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271204T000000Z
-DTEND:20271204T013000Z
-SUMMARY:2027 - Sagamore Council Eagle Scout Reception
-LOCATION:Purdue Armory - Only select for University of Scouting Event\, We
- st Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121028\
- n\nCommissioner / University of Scouting\n\n2027 Sagamore Council Eagle S
- cout Reception\nDecember 3\, 2027\nMore details to Come!\nWhen & Where\nS
- ave the Date\nPurdue Armory - Only select for University of Scouting Even
- t\nFriday 12-03-2027\n7:00 PM ET to 8:30 PM ET\nMore Information\nMap of 
- Event\nCoords: 40.428079\, -86.9163253\n812 3rd Street\nWest Lafayette\, 
- Indiana 47907\nRegistration Closes:\n&nbsp11-14-2027 11:59 PM\nContact
-URL:https://global.scoutingevent.com/162-121028
-END:VEVENT
-BEGIN:VEVENT
-UID:274105@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271204T120000Z
-DTEND:20271204T210000Z
-SUMMARY:2027 - Vendor Sign-up for University of Scouting at Purdue Univers
- ity – Saturday - Vendors
-LOCATION:Purdue University Armory\, West Lafayette\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121034\
- n\nCommissioner / University of Scouting\n\nVENDOR MIDWAY PARTICPANT\nDec
- ember 4th\, 2027\nMore Information to Come!\nWhen & Where\nSave the Date\
- nSaturday - Vendors\nPurdue University Armory\nSaturday 12-04-2027\n7:00 
- AM ET to 4:00 PM ET\nMore Information\nMap of Event\nCoords: 40.428246\, 
- -86.9143911\n812 3rd Street\nWest Lafayette\, Indiana 47907\nRegistration
-  Closes:\n&nbsp11-11-2027 11:59 PM\nContact
-URL:https://global.scoutingevent.com/162-121034
-END:VEVENT
-BEGIN:VEVENT
-UID:274168@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20271211T170000Z
-DTEND:20271211T200000Z
-SUMMARY:2027 - OA Winter Banquet
-LOCATION:Delphi Opera House\, Delphi\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-121061\
- n\n\n\nOA Winter Banquet\nDecember 11\, 2027\nMore Information to Come!\n
- When & Where\nSave the Date\nDelphi Opera House\nSaturday 12-11-2027\n12:
- 00 PM ET to 3:00 PM ET\nMore Information\nMap of Event\nCoords: 40.586721
- \, -86.6740918\n109 S Washington St\nDelphi\, Indiana 46923\nRegistration
-  Closes:\n&nbsp12-04-2027 11:59 PM\nContact
-URL:https://global.scoutingevent.com/162-121061
-END:VEVENT
-BEGIN:VEVENT
-UID:241988@scout-event-finder
-DTSTAMP:20261124T210621Z
-DTSTART:20280909T180000Z
-DTEND:20280910T010000Z
-SUMMARY:2028 - Terry Beasy Memorial Shoot
-LOCATION:Camp Buffalo\, Monticello\, Indiana
-DESCRIPTION:Sagamore Council\nhttps://global.scoutingevent.com/162-104903\
- n\n\n\nJoin us for the Terry Beasy Memorial Shoot\nWhen: Saturday\, Sept
- ember 12\, 2026\nWhere: Camp Buffalo\, 9400 N Boy Scout Rd\, Monticello\
- , IN 47960\nMore Information To Come!\nWhen & Where\nSave the Date\nCamp 
- Buffalo\nSaturday 09-09-2028\n2:00 PM ET to 9:00 PM ET\nMore Information\
- nMap of Event\nCoords: 40.8892847\, -86.7278289\n9400 N Boy Scout Rd\nMon
- ticello\, Indiana 47960\nPhone: 574-278-7114\nRegistration Closes:\n&nbsp
- 09-09-2028 2:00 PM\nContact\nAttachments\n2025 Terry Beasy Memorial Shoot
-  Flier
-URL:https://global.scoutingevent.com/162-104903
 END:VEVENT
 END:VCALENDAR
