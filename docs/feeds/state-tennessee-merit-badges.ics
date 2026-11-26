@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:269833@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261227T190000Z
 DTEND:20261229T230000Z
 SUMMARY:2026 Eagle Trek Winter Camp – Eagle Trek Winter Camp
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/559-2026EagleTrek
 END:VEVENT
 BEGIN:VEVENT
 UID:264373@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270530T170000Z
 DTEND:20270605T140000Z
 SUMMARY:Summer Camp 2027 – Staff Week
@@ -45,7 +45,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270651@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T170000Z
 DTEND:20270612T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 1
@@ -63,7 +63,7 @@ URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
 UID:264374@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T170000Z
 DTEND:20270612T140000Z
 SUMMARY:Summer Camp 2027 – Week 1
@@ -83,7 +83,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270652@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 2
@@ -100,8 +100,26 @@ DESCRIPTION:Cherokee Area Council (TN)\nhttps://global.scoutingevent.com/5
 URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
+UID:272321@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270613T170000Z
+DTEND:20270619T133000Z
+SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 1 (June 13- 19)
+LOCATION:Camp Davy Crockett\, Whitesburg\, Tennessee
+DESCRIPTION:Sequoyah Council\nhttps://global.scoutingevent.com/713-CDC2027
+ \n\nClimbing\, Motorboating\, Swimming\n\nCamp Davy Crockett is nestled i
+ n the foothills of the Great Smokey Mountains in Northeast Tennessee. Its
+  pristine wilderness and strong camping traditions make it a fantastic pl
+ ace to attend camp. Camp Davy Crockett is 1865 acres with 9 miles of sho
+ reline on Cherokee Lake. Camp Davy Crockett celebrated its 50th anniversa
+ ry in 2022\, and continues to be a place where we build tomorrow’s lead
+ ers.\nSome great things about Camp Davy Crockett are:\nFrontier Camp is a
+  program rich in the traditions of th
+URL:https://global.scoutingevent.com/713-CDC2027
+END:VEVENT
+BEGIN:VEVENT
 UID:264375@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270613T170000Z
 DTEND:20270619T140000Z
 SUMMARY:Summer Camp 2027 – Week 2
@@ -121,7 +139,7 @@ URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270653@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:2027 Skymont Summer Camp 053 – Skymont Summer Camp Week 3
@@ -138,8 +156,26 @@ DESCRIPTION:Cherokee Area Council (TN)\nhttps://global.scoutingevent.com/5
 URL:https://global.scoutingevent.com/556-Skymont27
 END:VEVENT
 BEGIN:VEVENT
+UID:272322@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T170000Z
+DTEND:20270626T133000Z
+SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 2 (June 20-26)
+LOCATION:Camp Davy Crockett\, Whitesburg\, Tennessee
+DESCRIPTION:Sequoyah Council\nhttps://global.scoutingevent.com/713-CDC2027
+ \n\nClimbing\, Motorboating\, Swimming\n\nCamp Davy Crockett is nestled i
+ n the foothills of the Great Smokey Mountains in Northeast Tennessee. Its
+  pristine wilderness and strong camping traditions make it a fantastic pl
+ ace to attend camp. Camp Davy Crockett is 1865 acres with 9 miles of sho
+ reline on Cherokee Lake. Camp Davy Crockett celebrated its 50th anniversa
+ ry in 2022\, and continues to be a place where we build tomorrow’s lead
+ ers.\nSome great things about Camp Davy Crockett are:\nFrontier Camp is a
+  program rich in the traditions of th
+URL:https://global.scoutingevent.com/713-CDC2027
+END:VEVENT
+BEGIN:VEVENT
 UID:264376@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270620T170000Z
 DTEND:20270626T140000Z
 SUMMARY:Summer Camp 2027 – Week 3
@@ -158,8 +194,26 @@ DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
 URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
+UID:272323@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T133000Z
+SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 3 (June 27-July 3)
+LOCATION:Camp Davy Crockett\, Whitesburg\, Tennessee
+DESCRIPTION:Sequoyah Council\nhttps://global.scoutingevent.com/713-CDC2027
+ \n\nClimbing\, Motorboating\, Swimming\n\nCamp Davy Crockett is nestled i
+ n the foothills of the Great Smokey Mountains in Northeast Tennessee. Its
+  pristine wilderness and strong camping traditions make it a fantastic pl
+ ace to attend camp. Camp Davy Crockett is 1865 acres with 9 miles of sho
+ reline on Cherokee Lake. Camp Davy Crockett celebrated its 50th anniversa
+ ry in 2022\, and continues to be a place where we build tomorrow’s lead
+ ers.\nSome great things about Camp Davy Crockett are:\nFrontier Camp is a
+  program rich in the traditions of th
+URL:https://global.scoutingevent.com/713-CDC2027
+END:VEVENT
+BEGIN:VEVENT
 UID:264377@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270627T170000Z
 DTEND:20270703T140000Z
 SUMMARY:Summer Camp 2027 – Week 4
@@ -178,8 +232,26 @@ DESCRIPTION:Great Smoky Mountain Council\nhttps://global.scoutingevent.com
 URL:https://global.scoutingevent.com/557-Summercamp2027
 END:VEVENT
 BEGIN:VEVENT
+UID:272324@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T133000Z
+SUMMARY:Camp Davy Crockett Summer Camp 2027 – Week 4 (July 4-10)
+LOCATION:Camp Davy Crockett\, Whitesburg\, Tennessee
+DESCRIPTION:Sequoyah Council\nhttps://global.scoutingevent.com/713-CDC2027
+ \n\nClimbing\, Motorboating\, Swimming\n\nCamp Davy Crockett is nestled i
+ n the foothills of the Great Smokey Mountains in Northeast Tennessee. Its
+  pristine wilderness and strong camping traditions make it a fantastic pl
+ ace to attend camp. Camp Davy Crockett is 1865 acres with 9 miles of sho
+ reline on Cherokee Lake. Camp Davy Crockett celebrated its 50th anniversa
+ ry in 2022\, and continues to be a place where we build tomorrow’s lead
+ ers.\nSome great things about Camp Davy Crockett are:\nFrontier Camp is a
+  program rich in the traditions of th
+URL:https://global.scoutingevent.com/713-CDC2027
+END:VEVENT
+BEGIN:VEVENT
 UID:279295@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270704T170000Z
 DTEND:20270710T140000Z
 SUMMARY:Summer Camp 2027 – Week 5 - Please call 865-566-0645 if you are 

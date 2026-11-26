@@ -6,26 +6,8 @@ X-WR-CALNAME:Scout Events – Pennsylvania Merit Badges
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:277411@scout-event-finder
-DTSTAMP:20261125T203656Z
-DTSTART:20261125T140000Z
-DTEND:20261125T210000Z
-SUMMARY:Merit Badge Day - Weather – Weather Merit Badge
-LOCATION:Oscar Lasko PARC\, Exton\, Pennsylvania
-DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
- 22678\n\nRadio\, Weather\n\nExplore the science hiding behind the clouds 
- while earning the Weather Merit Badge! Join us from 9:00 AM to 4:00 PM at
-  PARC for a full day of hands-on learning and advancement.\nScouts will d
- iscover how weather forms\, learn about clouds\, storms\, and forecasting
- \, and explore the impact weather has on our daily lives. Through interac
- tive activities\, observations\, and discussions\, participants will gain
-  a better understanding of meteorology and the science that helps predict
-  changing conditions.\nSco
-URL:https://global.scoutingevent.com/539-122678
-END:VEVENT
-BEGIN:VEVENT
 UID:248943@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261205T131500Z
 DTEND:20261205T220000Z
 SUMMARY:First Aid thru First Class Event – Register Here
@@ -45,7 +27,7 @@ URL:https://global.scoutingevent.com/525-108377
 END:VEVENT
 BEGIN:VEVENT
 UID:271972@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261205T140000Z
 DTEND:20261205T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Oceanography Merit Bad
@@ -65,7 +47,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:277415@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261229T140000Z
 DTEND:20261229T210000Z
 SUMMARY:Merit Badge Day - Movie Making – Movie Making Merit Badge
@@ -83,7 +65,7 @@ URL:https://global.scoutingevent.com/539-122682
 END:VEVENT
 BEGIN:VEVENT
 UID:278695@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270213T130000Z
 DTEND:20270213T213000Z
 SUMMARY:2027 Merit Badge College
@@ -105,7 +87,7 @@ URL:https://global.scoutingevent.com/533-2027_MeritBadgeCollege
 END:VEVENT
 BEGIN:VEVENT
 UID:276833@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270215T140000Z
 DTEND:20270215T210000Z
 SUMMARY:Merit Badge Day - Engineering – Engineering Merit Badge
@@ -123,7 +105,7 @@ URL:https://global.scoutingevent.com/539-122362
 END:VEVENT
 BEGIN:VEVENT
 UID:271973@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T140000Z
 DTEND:20270220T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Composite Materials Me
@@ -143,7 +125,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:276589@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T220000Z
 DTEND:20270404T210000Z
 SUMMARY:Orienteering Merit Badge Weekend
@@ -158,5 +140,122 @@ DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-12
   the field\nReceive\nFREE\nadmission to the corresponding DVOA orienteeri
  ng event on Sunday\nEnjoy a
 URL:https://global.scoutingevent.com/528-122215
+END:VEVENT
+BEGIN:VEVENT
+UID:270867@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T130000Z
+DTEND:20270716T200000Z
+SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 1: 
+ July 12-16
+LOCATION:Camp Garrison\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-2027MADC\n\nArchery\, Engineering\, Fishing\n\nGet ready for an unforge
+ ttable summer of adventure\, discovery\, and hands-on fun at Musser Scout
+  Reservation!\nMusser Adventure Day Camps are open to all youth entering 
+ 1st through 8th grade in Fall 2027—you do not need to be a registered S
+ cout to attend! Whether your child is already part of Scouting or is look
+ ing for an exciting new summer experience\, our Adventure Day Camps offer
+  something for everyone.\n2027 Camp Dates\nCub Adventure Day Camp – Wee
+ k 1\nJuly 12–16\, 2027\nCub Adventure Day Camp – We
+URL:https://global.scoutingevent.com/525-2027MADC
+END:VEVENT
+BEGIN:VEVENT
+UID:276727@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T160000Z
+DTEND:20270722T160000Z
+SUMMARY:Specialty Merit Badge Camp 2027 – Specialty Merit Badge Camp
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 22316\n\nFarm Mechanics\, Fly Fishing\, Golf\, Health Care Professions\, 
+ Horsemanship\, Landscape Architecture\, Law\, Mining in Society\, Motorbo
+ ating\, Nuclear Science\, Radio\, Railroading\, Surveying\n\nSpecialty Me
+ rit Badge Camp\nExciting NEW offering!  Even better than a Merit Badge U
+ niversity!\nThe Seven Mountains Scout Camp Specialty Merit Badge Resident
+  Camp Program will consist of individually run merit badge classes in-per
+ son at Seven Mountains Scout Camp. The offered merit badges are best expe
+ rienced in locations other than camp and include transportation of the 12
+  or less class members to complete portions of the requirements. Scouts w
+ ill be required to complete all assigned pre-requisit
+URL:https://global.scoutingevent.com/497-122316
+END:VEVENT
+BEGIN:VEVENT
+UID:270868@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T130000Z
+DTEND:20270723T200000Z
+SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 2: 
+ July 19-23
+LOCATION:Camp Garrison\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-2027MADC\n\nArchery\, Engineering\, Fishing\n\nGet ready for an unforge
+ ttable summer of adventure\, discovery\, and hands-on fun at Musser Scout
+  Reservation!\nMusser Adventure Day Camps are open to all youth entering 
+ 1st through 8th grade in Fall 2027—you do not need to be a registered S
+ cout to attend! Whether your child is already part of Scouting or is look
+ ing for an exciting new summer experience\, our Adventure Day Camps offer
+  something for everyone.\n2027 Camp Dates\nCub Adventure Day Camp – Wee
+ k 1\nJuly 12–16\, 2027\nCub Adventure Day Camp – We
+URL:https://global.scoutingevent.com/525-2027MADC
+END:VEVENT
+BEGIN:VEVENT
+UID:275687@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T123000Z
+DTEND:20270730T193000Z
+SUMMARY:2027 Musser Adventure Day Camp – STEM Adventure Day Camp: July
+LOCATION:Camp Garrison\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-2027MADC\n\nArchery\, Engineering\, Fishing\n\nGet ready for an unforge
+ ttable summer of adventure\, discovery\, and hands-on fun at Musser Scout
+  Reservation!\nMusser Adventure Day Camps are open to all youth entering 
+ 1st through 8th grade in Fall 2027—you do not need to be a registered S
+ cout to attend! Whether your child is already part of Scouting or is look
+ ing for an exciting new summer experience\, our Adventure Day Camps offer
+  something for everyone.\n2027 Camp Dates\nCub Adventure Day Camp – Wee
+ k 1\nJuly 12–16\, 2027\nCub Adventure Day Camp – We
+URL:https://global.scoutingevent.com/525-2027MADC
+END:VEVENT
+BEGIN:VEVENT
+UID:270995@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270802T120000Z
+DTEND:20270806T210000Z
+SUMMARY:2027 Merit Badge Day Camp
+LOCATION:Musser Scout Reservation\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-119342\n\nArt\, Astronomy\, Bird Study\, Chemistry\, Disabilities Aware
+ ness\, Electronics\, Emergency Preparedness\, Environmental Science\, Fir
+ e Safety\, First Aid\, Fishing\, Insect Study\, Model Design and Building
+ \, Nuclear Science\, Painting\, Scouting Heritage\, Soil and Water Conser
+ vation\, Traffic Safety\n\nJoin us for another week of Merit Badge Day Ca
+ mp!\nThis camp will be a fun\, hands-on week of learning and adventure! S
+ couts will have the opportunity to work toward a variety of merit badges 
+ led by experienced counselors\, engage in skill-building activities\, and
+  explore new interests in an outdoor setting. Whether they’re discoveri
+ ng a new hobby or advancing on their Scouting journey\, participants will
+  leave with new knowledge\, new confidence\, and great memories from a we
+ ek packed with achievemen
+URL:https://global.scoutingevent.com/525-119342
+END:VEVENT
+BEGIN:VEVENT
+UID:271286@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270911T130000Z
+DTEND:20270911T190000Z
+SUMMARY:Anawanna Trails Merit Badge Day – Automotive Maintence
+LOCATION:Camp Anawanna\, Amity\, Pennsylvania
+DESCRIPTION:Laurel Highlands Council\nhttps://global.scoutingevent.com/527
+ -119546\n\nAmerican Business\, Art\, Digital Technology\, Farm Mechanics\
+ , Game Design\, Metalwork\n\nMore information to come. Can't wait to see 
+ you all at camp!\nContact\nWhen & Where\nSave the Date\nAmerican Business
+  (AM) & Digital Technology (PM)\nCamp Anawanna\nSaturday 09-11-2027\n9:00
+  AM ET to 3:00 PM ET\nMore Information\nMap of Session\nCoords: 40.031554
+ \, -80.2383091\n155 Plumsock Rd\nAmity\, Pennsylvania 15311\nRegistration
+  Closes:\n&nbsp09-04-2027 11:59 PM\nSave the Date\nArt Merit Badge\nCamp 
+ Anawanna\nSaturday 09-11-2027\n9:00 AM ET to 3:00 PM ET\nMore Information
+ \nMap of Session\nCoords: 40.031554\, -80.2
+URL:https://global.scoutingevent.com/527-119546
 END:VEVENT
 END:VCALENDAR

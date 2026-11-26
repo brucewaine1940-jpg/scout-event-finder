@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:241085@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261212T133000Z
 DTEND:20261212T220000Z
 SUMMARY:Skilled Trades Day – December 2026 Skilled Trades Day
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:257428@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261212T140000Z
 DTEND:20261212T210000Z
 SUMMARY:Game On!
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/438-GameOn
 END:VEVENT
 BEGIN:VEVENT
 UID:278380@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270102T210000Z
 DTEND:20270102T231500Z
 SUMMARY:Erielhonan Lodge Whirlyball 2026
@@ -61,7 +61,7 @@ URL:https://global.scoutingevent.com/440-123192
 END:VEVENT
 BEGIN:VEVENT
 UID:278965@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270109T150000Z
 DTEND:20270109T190000Z
 SUMMARY:Pinewood Derby Workshop
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/444-PWDWorkshopJan9
 END:VEVENT
 BEGIN:VEVENT
 UID:252105@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270115T230000Z
 DTEND:20270117T153000Z
 SUMMARY:Great Trail Council Scouts BSA Klondikes 2027 – January 16th Eve
@@ -98,7 +98,7 @@ URL:https://global.scoutingevent.com/433-klondike
 END:VEVENT
 BEGIN:VEVENT
 UID:271338@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270116T133000Z
 DTEND:20270116T203000Z
 SUMMARY:Merit Badge Challenge - North – 1st Saturday of the event
@@ -116,7 +116,7 @@ URL:https://global.scoutingevent.com/438-mbc_north
 END:VEVENT
 BEGIN:VEVENT
 UID:268921@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T130000Z
 DTEND:20270123T220000Z
 SUMMARY:2027 Scouts BSA Klondike Derby
@@ -134,7 +134,7 @@ URL:https://global.scoutingevent.com/444-Klondike2027
 END:VEVENT
 BEGIN:VEVENT
 UID:258351@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T133000Z
 DTEND:20270123T220000Z
 SUMMARY:Skilled Trades Day – January 2027 Skilled Trades Day
@@ -152,7 +152,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:278388@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T133000Z
 DTEND:20270123T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Welding
@@ -172,7 +172,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:252106@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270129T223000Z
 DTEND:20270131T140000Z
 SUMMARY:Great Trail Council Scouts BSA Klondikes 2027 – January 30th Eve
@@ -191,7 +191,7 @@ URL:https://global.scoutingevent.com/433-klondike
 END:VEVENT
 BEGIN:VEVENT
 UID:252129@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T133000Z
 DTEND:20270130T171500Z
 SUMMARY:Great Trail Council Cub Scout "Freeze Out" Games 2027 – Eastern 
@@ -210,7 +210,7 @@ URL:https://global.scoutingevent.com/433-cubwinter
 END:VEVENT
 BEGIN:VEVENT
 UID:271339@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T133000Z
 DTEND:20270130T210000Z
 SUMMARY:Merit Badge Challenge - North – Second Saturday of the Event
@@ -228,7 +228,7 @@ URL:https://global.scoutingevent.com/438-mbc_north
 END:VEVENT
 BEGIN:VEVENT
 UID:247051@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T140000Z
 DTEND:20270130T180000Z
 SUMMARY:Chariot Race hosted by Canal District
@@ -246,7 +246,7 @@ URL:https://global.scoutingevent.com/433-chariotrace
 END:VEVENT
 BEGIN:VEVENT
 UID:278968@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T150000Z
 DTEND:20270130T190000Z
 SUMMARY:Pinewood Derby Workshop
@@ -264,7 +264,7 @@ URL:https://global.scoutingevent.com/444-PWDWorkshopJan30
 END:VEVENT
 BEGIN:VEVENT
 UID:252108@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270205T233000Z
 DTEND:20270208T045900Z
 SUMMARY:Great Trail Council Scouts BSA Klondikes 2027 – February 6th Eve
@@ -283,7 +283,7 @@ URL:https://global.scoutingevent.com/433-klondike
 END:VEVENT
 BEGIN:VEVENT
 UID:275664@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T133000Z
 DTEND:20270206T210000Z
 SUMMARY:2027 University of Scouting – University of Scouting 2027
@@ -301,7 +301,7 @@ URL:https://global.scoutingevent.com/441-27uos
 END:VEVENT
 BEGIN:VEVENT
 UID:275399@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T133000Z
 DTEND:20270206T174500Z
 SUMMARY:Merit Badge Challenge - East – 1st Saturday of the event
@@ -319,7 +319,7 @@ URL:https://global.scoutingevent.com/438-mbc_east
 END:VEVENT
 BEGIN:VEVENT
 UID:278385@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T133000Z
 DTEND:20270206T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Plumbin
@@ -339,7 +339,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:252107@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270212T223000Z
 DTEND:20270214T140000Z
 SUMMARY:Great Trail Council Scouts BSA Klondikes 2027 – February 13th Ev
@@ -358,7 +358,7 @@ URL:https://global.scoutingevent.com/433-klondike
 END:VEVENT
 BEGIN:VEVENT
 UID:270870@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T130000Z
 DTEND:20270221T220000Z
 SUMMARY:Wilderness First Aid
@@ -376,7 +376,7 @@ URL:https://global.scoutingevent.com/460-WFA
 END:VEVENT
 BEGIN:VEVENT
 UID:275400@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T133000Z
 DTEND:20270220T174500Z
 SUMMARY:Merit Badge Challenge - East – 2nd Saturday of the event
@@ -394,7 +394,7 @@ URL:https://global.scoutingevent.com/438-mbc_east
 END:VEVENT
 BEGIN:VEVENT
 UID:264309@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T150000Z
 DTEND:20270220T190000Z
 SUMMARY:NYLT Wood Badge Scholarship Dinner
@@ -412,7 +412,7 @@ URL:https://global.scoutingevent.com/433-WBScholar
 END:VEVENT
 BEGIN:VEVENT
 UID:258361@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T133000Z
 DTEND:20270227T220000Z
 SUMMARY:Skilled Trades Day – February 2027 Skilled Trades Day
@@ -430,7 +430,7 @@ URL:https://global.scoutingevent.com/438-skilledtradesday
 END:VEVENT
 BEGIN:VEVENT
 UID:258358@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T220000Z
 DTEND:20270228T020000Z
 SUMMARY:Woodbadge Dinner – Wood Badge Dinner
@@ -448,7 +448,7 @@ URL:https://global.scoutingevent.com/438-WoodbadgeDinner
 END:VEVENT
 BEGIN:VEVENT
 UID:275412@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T133000Z
 DTEND:20270306T174500Z
 SUMMARY:Merit Badge Challenge - East – 3rd Saturday of the event
@@ -466,7 +466,7 @@ URL:https://global.scoutingevent.com/438-mbc_east
 END:VEVENT
 BEGIN:VEVENT
 UID:278387@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T133000Z
 DTEND:20270306T203000Z
 SUMMARY:Skilled Trades Education Center - Merit Badge Weekends – Electri
@@ -486,7 +486,7 @@ URL:https://global.scoutingevent.com/433-SkilledTrades
 END:VEVENT
 BEGIN:VEVENT
 UID:277954@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T230000Z
 DTEND:20270307T030000Z
 SUMMARY:Celebration of Scouting 2027
@@ -504,7 +504,7 @@ URL:https://global.scoutingevent.com/440-122981
 END:VEVENT
 BEGIN:VEVENT
 UID:257666@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270307T180000Z
 DTEND:20270307T200000Z
 SUMMARY:Council Recognition Banquet 2027
@@ -522,7 +522,7 @@ URL:https://global.scoutingevent.com/433-banquet
 END:VEVENT
 BEGIN:VEVENT
 UID:259465@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T130000Z
 DTEND:20270313T210000Z
 SUMMARY:College of Commissioner Science – College of Commissioner Scienc
@@ -541,7 +541,7 @@ URL:https://global.scoutingevent.com/438-CCS
 END:VEVENT
 BEGIN:VEVENT
 UID:278420@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T140000Z
 DTEND:20270313T170000Z
 SUMMARY:Great Trail Council Cub Scout "Freeze Out" Games 2027 – Western 
@@ -560,7 +560,7 @@ URL:https://global.scoutingevent.com/433-cubwinter
 END:VEVENT
 BEGIN:VEVENT
 UID:270788@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270319T220000Z
 DTEND:20270321T170000Z
 SUMMARY:Wilderness First Aid – March 19-21\, 2027
@@ -578,7 +578,7 @@ URL:https://global.scoutingevent.com/438-wfa
 END:VEVENT
 BEGIN:VEVENT
 UID:262769@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270331T220000Z
 DTEND:20270401T014500Z
 SUMMARY:2027 Buckskin Spring Course – Spring Session Part 1
@@ -597,7 +597,7 @@ URL:https://global.scoutingevent.com/444-BuckskinTrailSpring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275656@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T210000Z
 DTEND:20270404T210000Z
 SUMMARY:Level I Scouting America Climbing Instructor Training
@@ -615,7 +615,7 @@ URL:https://global.scoutingevent.com/441-27climbinglevel1
 END:VEVENT
 BEGIN:VEVENT
 UID:261658@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T220000Z
 DTEND:20270404T160000Z
 SUMMARY:Wilderness First Aid - Spring 2027 – Beaumont Scout Reservation
@@ -633,7 +633,7 @@ URL:https://global.scoutingevent.com/440-114301
 END:VEVENT
 BEGIN:VEVENT
 UID:258801@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T120000Z
 DTEND:20270404T150000Z
 SUMMARY:BALOO – BALOO April 3-4\, 2027
@@ -651,7 +651,7 @@ URL:https://global.scoutingevent.com/438-2026baloo
 END:VEVENT
 BEGIN:VEVENT
 UID:262771@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270407T220000Z
 DTEND:20270408T014500Z
 SUMMARY:2027 Buckskin Spring Course – Spring Session Part 2
@@ -670,7 +670,7 @@ URL:https://global.scoutingevent.com/444-BuckskinTrailSpring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:278280@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270409T203000Z
 DTEND:20270411T220000Z
 SUMMARY:NYLT 2027 Session 1 – NYLT - Session 1 - 1st Weekend
@@ -688,7 +688,7 @@ URL:https://global.scoutingevent.com/441-2027nyltsession1
 END:VEVENT
 BEGIN:VEVENT
 UID:271697@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270410T130000Z
 DTEND:20270410T210000Z
 SUMMARY:Camp Frontier Open House & Merit Badge Day
@@ -706,7 +706,7 @@ URL:https://global.scoutingevent.com/460-CFOpenHouse
 END:VEVENT
 BEGIN:VEVENT
 UID:278281@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T203000Z
 DTEND:20270418T210000Z
 SUMMARY:NYLT 2027 Session 1 – NYLT - Session 1 - 2nd Weekend
@@ -724,7 +724,7 @@ URL:https://global.scoutingevent.com/441-2027nyltsession1
 END:VEVENT
 BEGIN:VEVENT
 UID:261659@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T220000Z
 DTEND:20270418T140000Z
 SUMMARY:FSR Spring Camporee – Spring Camporee
@@ -741,7 +741,7 @@ URL:https://global.scoutingevent.com/440-114303
 END:VEVENT
 BEGIN:VEVENT
 UID:262770@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T223000Z
 DTEND:20270418T200000Z
 SUMMARY:2027 Buckskin Spring Course – Spring Session Part 3
@@ -760,7 +760,7 @@ URL:https://global.scoutingevent.com/444-BuckskinTrailSpring2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264237@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270417T120000Z
 DTEND:20270418T160000Z
 SUMMARY:2027 Polaris District BALOO – Spring 2027
@@ -779,7 +779,7 @@ URL:https://global.scoutingevent.com/441-2027polarisbaloo
 END:VEVENT
 BEGIN:VEVENT
 UID:248851@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270417T220000Z
 DTEND:20270418T220000Z
 SUMMARY:IOLS Training 2027 – IOLS Spring 2027
@@ -797,7 +797,7 @@ URL:https://global.scoutingevent.com/433-IOL
 END:VEVENT
 BEGIN:VEVENT
 UID:248866@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T120000Z
 DTEND:20270425T160000Z
 SUMMARY:Sasquatch Camporall – GTC - Sasquatch Camporall - For Troops & C
@@ -816,7 +816,7 @@ URL:https://global.scoutingevent.com/433-Camporee
 END:VEVENT
 BEGIN:VEVENT
 UID:261668@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T220000Z
 DTEND:20270425T130000Z
 SUMMARY:Wilderness Engineers Weekends 2027 – May
@@ -834,7 +834,7 @@ URL:https://global.scoutingevent.com/440-wew2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270789@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T220000Z
 DTEND:20270425T170000Z
 SUMMARY:Wilderness First Aid – April 23-25\, 2027
@@ -852,7 +852,7 @@ URL:https://global.scoutingevent.com/438-wfa
 END:VEVENT
 BEGIN:VEVENT
 UID:262784@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T120000Z
 DTEND:20270425T150000Z
 SUMMARY:BALOO 2027 – Spring\, Firelands
@@ -870,7 +870,7 @@ URL:https://global.scoutingevent.com/440-114992
 END:VEVENT
 BEGIN:VEVENT
 UID:251250@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T123000Z
 DTEND:20270424T160000Z
 SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2027 –
@@ -889,7 +889,7 @@ URL:https://global.scoutingevent.com/433-109551
 END:VEVENT
 BEGIN:VEVENT
 UID:277660@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T133000Z
 DTEND:20270424T203000Z
 SUMMARY:Sasquatch Camporall – GTC - Sasquatch Camporall - For Packs
@@ -907,7 +907,7 @@ URL:https://global.scoutingevent.com/433-Camporee
 END:VEVENT
 BEGIN:VEVENT
 UID:266802@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270430T213000Z
 DTEND:20270502T010000Z
 SUMMARY:BALOO Training Spring 2027 – BALOO Spring 2027
@@ -925,7 +925,7 @@ URL:https://global.scoutingevent.com/433-BALOOSP27
 END:VEVENT
 BEGIN:VEVENT
 UID:251252@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270501T123000Z
 DTEND:20270501T160000Z
 SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2027 –
@@ -944,7 +944,7 @@ URL:https://global.scoutingevent.com/433-109551
 END:VEVENT
 BEGIN:VEVENT
 UID:274463@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270507T210000Z
 DTEND:20270509T140000Z
 SUMMARY:2027 Cub Scout Spring Campout – CAW
@@ -960,7 +960,7 @@ URL:https://global.scoutingevent.com/444-CubSpringCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270790@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T220000Z
 DTEND:20270516T170000Z
 SUMMARY:Wilderness First Aid – May 14-16\, 2027
@@ -978,7 +978,7 @@ URL:https://global.scoutingevent.com/438-wfa
 END:VEVENT
 BEGIN:VEVENT
 UID:270661@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T223000Z
 DTEND:20270516T140000Z
 SUMMARY:BALOO 2027
@@ -996,7 +996,7 @@ URL:https://global.scoutingevent.com/460-BALOO
 END:VEVENT
 BEGIN:VEVENT
 UID:270664@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T223000Z
 DTEND:20270516T140000Z
 SUMMARY:IOLS 2027
@@ -1014,7 +1014,7 @@ URL:https://global.scoutingevent.com/460-IOLS
 END:VEVENT
 BEGIN:VEVENT
 UID:274465@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270522T130000Z
 DTEND:20270522T150000Z
 SUMMARY:2027 Memorial Day Flag Placement at Dayton National Cemetery – G
@@ -1030,7 +1030,7 @@ URL:https://global.scoutingevent.com/444-121197
 END:VEVENT
 BEGIN:VEVENT
 UID:271539@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T120000Z
 DTEND:20270612T003000Z
 SUMMARY:2027 National Youth Leadership Training – NYLT
@@ -1048,7 +1048,7 @@ URL:https://global.scoutingevent.com/444-NYLT2027
 END:VEVENT
 BEGIN:VEVENT
 UID:270948@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T160000Z
 DTEND:20270611T220000Z
 SUMMARY:National Youth Leadership Training (NYLT) – 2027 NYLT Course
@@ -1066,7 +1066,7 @@ URL:https://global.scoutingevent.com/460-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:252555@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T170000Z
 DTEND:20270606T173000Z
 SUMMARY:2027 Pre-Camp Swim Check – 1:00-1:30 PM
@@ -1084,7 +1084,7 @@ URL:https://global.scoutingevent.com/433-SwimTests
 END:VEVENT
 BEGIN:VEVENT
 UID:279229@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270607T130000Z
 DTEND:20270611T210000Z
 SUMMARY:Scuba Camp
@@ -1101,8 +1101,206 @@ DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-scuba\
 URL:https://global.scoutingevent.com/438-scuba
 END:VEVENT
 BEGIN:VEVENT
+UID:267128@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270613T170000Z
+DTEND:20270618T220000Z
+SUMMARY:Scouts – BSA Summer Camp 2027: Week 1
+LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
+DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-117317
+ \n\n\n\nScouts BSA Summer Camp 2027 at Beaumont Scout Reservation\nWelco
+ me to Beaumont! For 81 years and counting\, Beaumont Scout Reservation ha
+ s been a place for young people to discover the outdoors\, practice leade
+ rship\, and develop skills that they will use for the rest of their live
+ s. We have welcomed many thousands of scouts through our gates\, and look
+  forward to your Troop's week of adventure in 2027!\nQuestions about lock
+ ing in your site and week for 2027? Please email\nHeather\nor\nAnthony\nS
+ ummer Cam
+URL:https://global.scoutingevent.com/440-117317
+END:VEVENT
+BEGIN:VEVENT
+UID:271707@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270614T123000Z
+DTEND:20270618T200000Z
+SUMMARY:Miakonda Day Camp – Week 1
+LOCATION:Camp Miakonda\, Toledo\, Ohio
+DESCRIPTION:Erie Shores Council\nhttps://global.scoutingevent.com/460-MDC\
+ n\nSafeguarding Youth / YPT\n\nAdventure\, Friendship\, and Summer Fun Aw
+ ait!\nMiakonda Day Camp is open to ALL youth going into 1st-5th grades.
+  Looking forward to another GREAT year of Day Camp on the grounds of hist
+ oric Camp Miakonda\, the land of the crescent moon. We look forward to s
+ eeing everyone in 2027!\nMiakonda Day Camp is a place for youth to explor
+ e the outdoors\, make new friends\, try exciting activities\, and create 
+ lasting memories. From outdoor adventures and hands-on activities to game
+ s\, crafts\, and plenty of fun\, e
+URL:https://global.scoutingevent.com/460-MDC
+END:VEVENT
+BEGIN:VEVENT
+UID:271540@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270614T130000Z
+DTEND:20270618T190000Z
+SUMMARY:Cub Scout Day Camp 2027 – Session 1
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-MVC
+ DayCamp2027\n\n\n\nCub Scout Day Camp 2027 – Under the Waves\nDive into
+  an unforgettable underwater adventure at Cricket Holler Scout Camp! Cub 
+ Scouts will explore life beneath the waves\, create ocean-themed crafts\,
+  discover amazing aquatic creatures\, navigate exciting challenges\, cool
+  off with water fun\, and make a splash with a week full of hands-on acti
+ vities\, outdoor adventure\, and under-the-sea excitement!\n2027 Camp Ses
+ sions\nSession 1: June 14–18\, 2027\nSession 2: June 21–25\, 2027\nBo
+ th sessions will be held at 
+URL:https://global.scoutingevent.com/444-MVCDayCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:252548@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270617T180000Z
+DTEND:20270620T140000Z
+SUMMARY:Cub Scout Over Night Camp 2027 – Session 1
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-Cubs
+ coutovernight2027\n\n\n\nIt is necessary for Packs to register and pay as
+  a UNIT. The system will allow only ONE registration per unit number.\nGr
+ eat Trail Council Scouts receive a $25.00 discount from the above fee as 
+ part of the Adventure Fee Program. This discount is noted in each youth r
+ egistraion as "Applied Coupon".\nFor a step-by-step instruction of the De
+ posit and Campsite selection process please select the "\nCub Over Night 
+ Reservation Process (2025)\n" document in the Attachments Section in the 
+ right column.\nCub 
+URL:https://global.scoutingevent.com/433-Cubscoutovernight2027
+END:VEVENT
+BEGIN:VEVENT
+UID:256179@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270618T123000Z
+DTEND:20270619T210000Z
+SUMMARY:Cub Scout Day Camp 2027 – Camp Manatoc (2 Day Program)
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 40\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2027! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 18-20 - Hosted by Stambaugh District\nJune 1
+ 8-20 - Host
+URL:https://global.scoutingevent.com/433-111640
+END:VEVENT
+BEGIN:VEVENT
+UID:256180@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270618T123000Z
+DTEND:20270620T210000Z
+SUMMARY:Cub Scout Day Camp 2027 – Stambaugh District (3 Day Program)
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 40\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2027! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 18-20 - Hosted by Stambaugh District\nJune 1
+ 8-20 - Host
+URL:https://global.scoutingevent.com/433-111640
+END:VEVENT
+BEGIN:VEVENT
+UID:266151@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T130000Z
+DTEND:20270623T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 1
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267129@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T170000Z
+DTEND:20270625T220000Z
+SUMMARY:Scouts – BSA Summer Camp 2027: Week 2
+LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
+DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-117317
+ \n\n\n\nScouts BSA Summer Camp 2027 at Beaumont Scout Reservation\nWelco
+ me to Beaumont! For 81 years and counting\, Beaumont Scout Reservation ha
+ s been a place for young people to discover the outdoors\, practice leade
+ rship\, and develop skills that they will use for the rest of their live
+ s. We have welcomed many thousands of scouts through our gates\, and look
+  forward to your Troop's week of adventure in 2027!\nQuestions about lock
+ ing in your site and week for 2027? Please email\nHeather\nor\nAnthony\nS
+ ummer Cam
+URL:https://global.scoutingevent.com/440-117317
+END:VEVENT
+BEGIN:VEVENT
+UID:256182@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270621T123000Z
+DTEND:20270625T210000Z
+SUMMARY:Cub Scout Day Camp 2027 – Camp Butler (5 Day Program)
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 40\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2027! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 18-20 - Hosted by Stambaugh District\nJune 1
+ 8-20 - Host
+URL:https://global.scoutingevent.com/433-111640
+END:VEVENT
+BEGIN:VEVENT
+UID:271724@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270621T123000Z
+DTEND:20270625T200000Z
+SUMMARY:Miakonda Day Camp – Week 2
+LOCATION:Camp Miakonda\, Toledo\, Ohio
+DESCRIPTION:Erie Shores Council\nhttps://global.scoutingevent.com/460-MDC\
+ n\nSafeguarding Youth / YPT\n\nAdventure\, Friendship\, and Summer Fun Aw
+ ait!\nMiakonda Day Camp is open to ALL youth going into 1st-5th grades.
+  Looking forward to another GREAT year of Day Camp on the grounds of hist
+ oric Camp Miakonda\, the land of the crescent moon. We look forward to s
+ eeing everyone in 2027!\nMiakonda Day Camp is a place for youth to explor
+ e the outdoors\, make new friends\, try exciting activities\, and create 
+ lasting memories. From outdoor adventures and hands-on activities to game
+ s\, crafts\, and plenty of fun\, e
+URL:https://global.scoutingevent.com/460-MDC
+END:VEVENT
+BEGIN:VEVENT
+UID:271541@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270621T130000Z
+DTEND:20270625T190000Z
+SUMMARY:Cub Scout Day Camp 2027 – Session 2
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-MVC
+ DayCamp2027\n\n\n\nCub Scout Day Camp 2027 – Under the Waves\nDive into
+  an unforgettable underwater adventure at Cricket Holler Scout Camp! Cub 
+ Scouts will explore life beneath the waves\, create ocean-themed crafts\,
+  discover amazing aquatic creatures\, navigate exciting challenges\, cool
+  off with water fun\, and make a splash with a week full of hands-on acti
+ vities\, outdoor adventure\, and under-the-sea excitement!\n2027 Camp Ses
+ sions\nSession 1: June 14–18\, 2027\nSession 2: June 21–25\, 2027\nBo
+ th sessions will be held at 
+URL:https://global.scoutingevent.com/444-MVCDayCamp2027
+END:VEVENT
+BEGIN:VEVENT
 UID:270791@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270621T130000Z
 DTEND:20270624T170000Z
 SUMMARY:Wilderness First Aid – June 21-24\, 2027
@@ -1119,8 +1317,80 @@ DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-wfa\n\
 URL:https://global.scoutingevent.com/438-wfa
 END:VEVENT
 BEGIN:VEVENT
+UID:256183@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270623T123000Z
+DTEND:20270625T210000Z
+SUMMARY:Cub Scout Day Camp 2027 – Camp Butler (3 Day Program)
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 40\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2027! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 18-20 - Hosted by Stambaugh District\nJune 1
+ 8-20 - Host
+URL:https://global.scoutingevent.com/433-111640
+END:VEVENT
+BEGIN:VEVENT
+UID:266152@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270624T130000Z
+DTEND:20270627T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 2
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:266153@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T130000Z
+DTEND:20270630T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 3
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267130@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270702T220000Z
+SUMMARY:Scouts – BSA Summer Camp 2027: Week 3
+LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
+DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-117317
+ \n\n\n\nScouts BSA Summer Camp 2027 at Beaumont Scout Reservation\nWelco
+ me to Beaumont! For 81 years and counting\, Beaumont Scout Reservation ha
+ s been a place for young people to discover the outdoors\, practice leade
+ rship\, and develop skills that they will use for the rest of their live
+ s. We have welcomed many thousands of scouts through our gates\, and look
+  forward to your Troop's week of adventure in 2027!\nQuestions about lock
+ ing in your site and week for 2027? Please email\nHeather\nor\nAnthony\nS
+ ummer Cam
+URL:https://global.scoutingevent.com/440-117317
+END:VEVENT
+BEGIN:VEVENT
 UID:270792@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270628T130000Z
 DTEND:20270701T170000Z
 SUMMARY:Wilderness First Aid – June 28 -July 1\, 2027
@@ -1137,8 +1407,80 @@ DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-wfa\n\
 URL:https://global.scoutingevent.com/438-wfa
 END:VEVENT
 BEGIN:VEVENT
+UID:271725@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270628T203000Z
+DTEND:20270702T011500Z
+SUMMARY:Miakonda Day Camp – Week 3 (Twilight)
+LOCATION:Camp Miakonda\, Toledo\, Ohio
+DESCRIPTION:Erie Shores Council\nhttps://global.scoutingevent.com/460-MDC\
+ n\nSafeguarding Youth / YPT\n\nAdventure\, Friendship\, and Summer Fun Aw
+ ait!\nMiakonda Day Camp is open to ALL youth going into 1st-5th grades.
+  Looking forward to another GREAT year of Day Camp on the grounds of hist
+ oric Camp Miakonda\, the land of the crescent moon. We look forward to s
+ eeing everyone in 2027!\nMiakonda Day Camp is a place for youth to explor
+ e the outdoors\, make new friends\, try exciting activities\, and create 
+ lasting memories. From outdoor adventures and hands-on activities to game
+ s\, crafts\, and plenty of fun\, e
+URL:https://global.scoutingevent.com/460-MDC
+END:VEVENT
+BEGIN:VEVENT
+UID:266154@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270701T130000Z
+DTEND:20270704T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 4
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267131@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270709T220000Z
+SUMMARY:Scouts – BSA Summer Camp 2027: Week 4
+LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
+DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-117317
+ \n\n\n\nScouts BSA Summer Camp 2027 at Beaumont Scout Reservation\nWelco
+ me to Beaumont! For 81 years and counting\, Beaumont Scout Reservation ha
+ s been a place for young people to discover the outdoors\, practice leade
+ rship\, and develop skills that they will use for the rest of their live
+ s. We have welcomed many thousands of scouts through our gates\, and look
+  forward to your Troop's week of adventure in 2027!\nQuestions about lock
+ ing in your site and week for 2027? Please email\nHeather\nor\nAnthony\nS
+ ummer Cam
+URL:https://global.scoutingevent.com/440-117317
+END:VEVENT
+BEGIN:VEVENT
+UID:271726@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T123000Z
+DTEND:20270709T200000Z
+SUMMARY:Miakonda Day Camp – Week 4
+LOCATION:Camp Miakonda\, Toledo\, Ohio
+DESCRIPTION:Erie Shores Council\nhttps://global.scoutingevent.com/460-MDC\
+ n\nSafeguarding Youth / YPT\n\nAdventure\, Friendship\, and Summer Fun Aw
+ ait!\nMiakonda Day Camp is open to ALL youth going into 1st-5th grades.
+  Looking forward to another GREAT year of Day Camp on the grounds of hist
+ oric Camp Miakonda\, the land of the crescent moon. We look forward to s
+ eeing everyone in 2027!\nMiakonda Day Camp is a place for youth to explor
+ e the outdoors\, make new friends\, try exciting activities\, and create 
+ lasting memories. From outdoor adventures and hands-on activities to game
+ s\, crafts\, and plenty of fun\, e
+URL:https://global.scoutingevent.com/460-MDC
+END:VEVENT
+BEGIN:VEVENT
 UID:270793@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270705T130000Z
 DTEND:20270708T170000Z
 SUMMARY:Wilderness First Aid – July 5 - 8\, 2027
@@ -1155,8 +1497,116 @@ DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-wfa\n\
 URL:https://global.scoutingevent.com/438-wfa
 END:VEVENT
 BEGIN:VEVENT
+UID:256181@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270708T123000Z
+DTEND:20270710T210000Z
+SUMMARY:Cub Scout Day Camp 2027 – Camp Butler(3 Day Program)
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 40\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2027! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 18-20 - Hosted by Stambaugh District\nJune 1
+ 8-20 - Host
+URL:https://global.scoutingevent.com/433-111640
+END:VEVENT
+BEGIN:VEVENT
+UID:266155@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270708T130000Z
+DTEND:20270711T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 5
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:266156@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T130000Z
+DTEND:20270714T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 6
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267132@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270716T220000Z
+SUMMARY:Scouts – BSA Summer Camp 2027: Week 5
+LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
+DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-117317
+ \n\n\n\nScouts BSA Summer Camp 2027 at Beaumont Scout Reservation\nWelco
+ me to Beaumont! For 81 years and counting\, Beaumont Scout Reservation ha
+ s been a place for young people to discover the outdoors\, practice leade
+ rship\, and develop skills that they will use for the rest of their live
+ s. We have welcomed many thousands of scouts through our gates\, and look
+  forward to your Troop's week of adventure in 2027!\nQuestions about lock
+ ing in your site and week for 2027? Please email\nHeather\nor\nAnthony\nS
+ ummer Cam
+URL:https://global.scoutingevent.com/440-117317
+END:VEVENT
+BEGIN:VEVENT
+UID:271727@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T123000Z
+DTEND:20270716T200000Z
+SUMMARY:Miakonda Day Camp – Week 5
+LOCATION:Camp Miakonda\, Toledo\, Ohio
+DESCRIPTION:Erie Shores Council\nhttps://global.scoutingevent.com/460-MDC\
+ n\nSafeguarding Youth / YPT\n\nAdventure\, Friendship\, and Summer Fun Aw
+ ait!\nMiakonda Day Camp is open to ALL youth going into 1st-5th grades.
+  Looking forward to another GREAT year of Day Camp on the grounds of hist
+ oric Camp Miakonda\, the land of the crescent moon. We look forward to s
+ eeing everyone in 2027!\nMiakonda Day Camp is a place for youth to explor
+ e the outdoors\, make new friends\, try exciting activities\, and create 
+ lasting memories. From outdoor adventures and hands-on activities to game
+ s\, crafts\, and plenty of fun\, e
+URL:https://global.scoutingevent.com/460-MDC
+END:VEVENT
+BEGIN:VEVENT
+UID:266157@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270715T130000Z
+DTEND:20270718T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 7
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
 UID:251260@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270718T123000Z
 DTEND:20270718T160000Z
 SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2027 –
@@ -1174,8 +1624,172 @@ DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1095
 URL:https://global.scoutingevent.com/433-109551
 END:VEVENT
 BEGIN:VEVENT
+UID:266158@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T130000Z
+DTEND:20270721T013000Z
+SUMMARY:Cub World Adventure Camp 2027 – Cub Adventure Camp 8
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:266159@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270728T130000Z
+DTEND:20270731T210000Z
+SUMMARY:Cub World Adventure Camp 2027 – Camp Rising Arrow
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-cubsum
+ mercamp\n\n\n\nCome cast spells with wizards\, train with knights\, and b
+ reak bread with the rulers of the land! Our theme for 2027 is Enchanted K
+ ingdom!\nFor those kids looking for the ultimate Cub Scout summer camp ex
+ perience\, this is it! This resident style camp is a three-day and two-ni
+ ght program with fun around every turn. Scouts will have a chance to real
+ ize their full potential while taking part in one-of-a kind activities. E
+ xperience all that Cub World has to offer. There are unique activities fo
+ r all ag
+URL:https://global.scoutingevent.com/438-cubsummercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:270709@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270728T140000Z
+DTEND:20270730T200000Z
+SUMMARY:Eagle Bay Cub Day Camp
+LOCATION:White Star Park\, Gibsonburg\, Ohio
+DESCRIPTION:Erie Shores Council\nhttps://global.scoutingevent.com/460-EBCD
+ C\n\n\n\nExplore\, Learn\, and Have Fun!\nGive your Scout an unforgettabl
+ e summer adventure at Eagle Bay District Cub Scout Day Camp! Over three e
+ xciting days\, Scouts will explore the outdoors\, make new friends\, lear
+ n new skills\, and create memories that will last a lifetime.\nLed by tra
+ ined volunteer staff\, Day Camp provides a safe\, exciting environment wh
+ ere Cub Scouts can discover new interests while enjoying all the fun Scou
+ ting has to offer.\nCamp Activities\nEach day is packed with hands-on adv
+ entures\, i
+URL:https://global.scoutingevent.com/460-EBCDC
+END:VEVENT
+BEGIN:VEVENT
+UID:252549@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270729T180000Z
+DTEND:20270801T140000Z
+SUMMARY:Cub Scout Over Night Camp 2027 – Session 2
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-Cubs
+ coutovernight2027\n\n\n\nIt is necessary for Packs to register and pay as
+  a UNIT. The system will allow only ONE registration per unit number.\nGr
+ eat Trail Council Scouts receive a $25.00 discount from the above fee as 
+ part of the Adventure Fee Program. This discount is noted in each youth r
+ egistraion as "Applied Coupon".\nFor a step-by-step instruction of the De
+ posit and Campsite selection process please select the "\nCub Over Night 
+ Reservation Process (2025)\n" document in the Attachments Section in the 
+ right column.\nCub 
+URL:https://global.scoutingevent.com/433-Cubscoutovernight2027
+END:VEVENT
+BEGIN:VEVENT
+UID:278283@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270730T203000Z
+DTEND:20270801T210000Z
+SUMMARY:NYLT 2027 Session 2 – NYLT - Session 2 - 1st Weekend
+LOCATION:Camp Lazarus\, Delaware\, Ohio
+DESCRIPTION:Simon Kenton Council\nhttps://global.scoutingevent.com/441-202
+ 7nyltsession2\n\nNYLT\n\nNYLT - Session 2\nMuskingum Valley Scout Reserva
+ tion\nJuly 30-August 1 & August 6-8\nScouts must be 13 years of age or ol
+ der and at least 1st Class to participate!\nThe Simon Kenton Council 
+ is offering two sessions of the National Youth Leadership Training. Each 
+ course will instruct the participants in advanced leadership skills based
+  on the National Scouting America Syllabus\, and The Youth Leadership Tr
+ aining Continuum.\nNYLT is a 6-day experience based on the activities o
+ f a typical unit during a m
+URL:https://global.scoutingevent.com/441-2027nyltsession2
+END:VEVENT
+BEGIN:VEVENT
+UID:278284@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270806T203000Z
+DTEND:20270808T210000Z
+SUMMARY:NYLT 2027 Session 2 – NYLT - Session 2 - 2nd Weekend
+LOCATION:Camp Lazarus\, Delaware\, Ohio
+DESCRIPTION:Simon Kenton Council\nhttps://global.scoutingevent.com/441-202
+ 7nyltsession2\n\nNYLT\n\nNYLT - Session 2\nMuskingum Valley Scout Reserva
+ tion\nJuly 30-August 1 & August 6-8\nScouts must be 13 years of age or ol
+ der and at least 1st Class to participate!\nThe Simon Kenton Council 
+ is offering two sessions of the National Youth Leadership Training. Each 
+ course will instruct the participants in advanced leadership skills based
+  on the National Scouting America Syllabus\, and The Youth Leadership Tr
+ aining Continuum.\nNYLT is a 6-day experience based on the activities o
+ f a typical unit during a m
+URL:https://global.scoutingevent.com/441-2027nyltsession2
+END:VEVENT
+BEGIN:VEVENT
+UID:278286@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270813T110000Z
+DTEND:20270815T220000Z
+SUMMARY:Wood Badge 9-441-27 – 9-441-27 1st Weekend
+LOCATION:Camp Falling Rock\, Newark\, Ohio
+DESCRIPTION:Simon Kenton Council\nhttps://global.scoutingevent.com/441-27w
+ oodbadge\n\nWood Badge\n\nWood Badge 2027 Course 9-441-27\nWood Badge is 
+ Scouting America’s premier leadership training program for adult volunt
+ eers and professionals. Designed for leaders serving in Cub Scouts\, Scou
+ ts BSA\, Venturing\, Sea Scouts\, and district and council positions\, Wo
+ od Badge provides practical leadership skills that can be applied both wi
+ thin Scouting and in everyday life.\nDuring this immersive outdoor experi
+ ence\, participants learn and apply modern leadership concepts through ha
+ nds-on activities\, presen
+URL:https://global.scoutingevent.com/441-27woodbadge
+END:VEVENT
+BEGIN:VEVENT
+UID:275689@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270901T220000Z
+DTEND:20270902T014500Z
+SUMMARY:2027 Buckskin Fall Course – Spring Session Part 1
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-Buc
+ kskinTrailFall2027\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\
+ n2027 Buckskin Fall Course\nCourse Dates:\nWednesday – Sept 1\nWednesda
+ y – Sept 8\nWeekend – Sept 17 - 19\nLocation:\nCricket Holler Scout C
+ amp\n6675 Brantford Rd\, Dayton\, OH 45414\nCourse Fee:\nTBD\nWhat is Buc
+ kskin?\nThe Buckskin Trail course is a fun and exciting course geared tow
+ ard Cub Scout and Scouts BSA leadership! Participants are put into patrol
+ s within a model troop allowing them to experience the patrol method of s
+ couting.\nThe course is designed to emphasize the outdoor experience\, ca
+ mping and o
+URL:https://global.scoutingevent.com/444-BuckskinTrailFall2027
+END:VEVENT
+BEGIN:VEVENT
+UID:275691@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270908T220000Z
+DTEND:20270909T014500Z
+SUMMARY:2027 Buckskin Fall Course – Spring Session Part 2
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-Buc
+ kskinTrailFall2027\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\
+ n2027 Buckskin Fall Course\nCourse Dates:\nWednesday – Sept 1\nWednesda
+ y – Sept 8\nWeekend – Sept 17 - 19\nLocation:\nCricket Holler Scout C
+ amp\n6675 Brantford Rd\, Dayton\, OH 45414\nCourse Fee:\nTBD\nWhat is Buc
+ kskin?\nThe Buckskin Trail course is a fun and exciting course geared tow
+ ard Cub Scout and Scouts BSA leadership! Participants are put into patrol
+ s within a model troop allowing them to experience the patrol method of s
+ couting.\nThe course is designed to emphasize the outdoor experience\, ca
+ mping and o
+URL:https://global.scoutingevent.com/444-BuckskinTrailFall2027
+END:VEVENT
+BEGIN:VEVENT
 UID:261669@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270910T220000Z
 DTEND:20270912T130000Z
 SUMMARY:Wilderness Engineers Weekends 2027 – September
@@ -1192,8 +1806,26 @@ DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-wew202
 URL:https://global.scoutingevent.com/440-wew2027
 END:VEVENT
 BEGIN:VEVENT
+UID:278287@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270911T110000Z
+DTEND:20270912T220000Z
+SUMMARY:Wood Badge 9-441-27 – 9-441-27 2nd Weekend
+LOCATION:Camp Falling Rock\, Newark\, Ohio
+DESCRIPTION:Simon Kenton Council\nhttps://global.scoutingevent.com/441-27w
+ oodbadge\n\nWood Badge\n\nWood Badge 2027 Course 9-441-27\nWood Badge is 
+ Scouting America’s premier leadership training program for adult volunt
+ eers and professionals. Designed for leaders serving in Cub Scouts\, Scou
+ ts BSA\, Venturing\, Sea Scouts\, and district and council positions\, Wo
+ od Badge provides practical leadership skills that can be applied both wi
+ thin Scouting and in everyday life.\nDuring this immersive outdoor experi
+ ence\, participants learn and apply modern leadership concepts through ha
+ nds-on activities\, presen
+URL:https://global.scoutingevent.com/441-27woodbadge
+END:VEVENT
+BEGIN:VEVENT
 UID:248852@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270911T120000Z
 DTEND:20270912T153000Z
 SUMMARY:IOLS Training 2027 – IOLS Fall 2027
@@ -1211,7 +1843,7 @@ URL:https://global.scoutingevent.com/433-IOL
 END:VEVENT
 BEGIN:VEVENT
 UID:251254@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270911T123000Z
 DTEND:20270911T160000Z
 SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2027 –
@@ -1229,8 +1861,45 @@ DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1095
 URL:https://global.scoutingevent.com/433-109551
 END:VEVENT
 BEGIN:VEVENT
+UID:272619@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T110000Z
+DTEND:20270919T220000Z
+SUMMARY:2027 Wood Badge Training Course – Weekend 1: Camp Manatoc
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-Wood
+ Badge\n\nWood Badge\n\nWood Badge 9-433-27\nWhat is Wood Badge?\nThe Wood
+  Badge course is an internationally recognized leadership development cou
+ rse\, with leadership skills taught that are equal to or better than any 
+ current leadership training in the industry today.\nThe course uses indoo
+ r and outdoor settings to teach the essentials of leadership. You will le
+ arn what makes leadership work and how it works for you and your unit. Yo
+ u will learn to apply those skills to help your unit function more effect
+ ively as a team.
+URL:https://global.scoutingevent.com/433-WoodBadge
+END:VEVENT
+BEGIN:VEVENT
+UID:275690@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T223000Z
+DTEND:20270919T200000Z
+SUMMARY:2027 Buckskin Fall Course – Spring Session Part 3
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-Buc
+ kskinTrailFall2027\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\
+ n2027 Buckskin Fall Course\nCourse Dates:\nWednesday – Sept 1\nWednesda
+ y – Sept 8\nWeekend – Sept 17 - 19\nLocation:\nCricket Holler Scout C
+ amp\n6675 Brantford Rd\, Dayton\, OH 45414\nCourse Fee:\nTBD\nWhat is Buc
+ kskin?\nThe Buckskin Trail course is a fun and exciting course geared tow
+ ard Cub Scout and Scouts BSA leadership! Participants are put into patrol
+ s within a model troop allowing them to experience the patrol method of s
+ couting.\nThe course is designed to emphasize the outdoor experience\, ca
+ mping and o
+URL:https://global.scoutingevent.com/444-BuckskinTrailFall2027
+END:VEVENT
+BEGIN:VEVENT
 UID:264238@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270918T120000Z
 DTEND:20270919T160000Z
 SUMMARY:2027 Polaris District BALOO – Fall 2027
@@ -1248,8 +1917,26 @@ DESCRIPTION:NOTE: No longer listed on scoutingevent.com - registration may
 URL:https://global.scoutingevent.com/441-2027polarisbaloo
 END:VEVENT
 BEGIN:VEVENT
+UID:252104@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270918T120000Z
+DTEND:20270918T180000Z
+SUMMARY:5th Annual Ernie Walker Memorial Competition Shoot
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-Erni
+ eWalker\n\n\n\nJoin us at the beautiful Camp Manatoc to participate in th
+ e Forth Annual Ernie Walker Memorial Competition Shoot!\nRegistration is 
+ limited to the first 48 youth participants. Adults will not be shooting.\
+ nSign up includes\, Archery\, Rifle\, and Shotgun. As well as lunch!\nALL
+  YOUTH MUST HAVE A SIGNED SHOOTING SPORTS PERMISSION FORM TO PARTICIPATE.
+ \nRegistration is at 8:00am\nMandatory Safety Meeting at 8:30am\nEvent st
+ arts 9:00am\nLunch will be at 1pm\nAwards will be presented at the conclu
+ sion of the eve
+URL:https://global.scoutingevent.com/433-ErnieWalker
+END:VEVENT
+BEGIN:VEVENT
 UID:262785@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270918T120000Z
 DTEND:20270919T150000Z
 SUMMARY:BALOO 2027 – Fall\, Beaumont
@@ -1267,7 +1954,7 @@ URL:https://global.scoutingevent.com/440-114992
 END:VEVENT
 BEGIN:VEVENT
 UID:251256@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270925T123000Z
 DTEND:20270925T160000Z
 SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2027 –
@@ -1285,8 +1972,79 @@ DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1095
 URL:https://global.scoutingevent.com/433-109551
 END:VEVENT
 BEGIN:VEVENT
+UID:251362@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271002T140000Z
+DTEND:20271002T180000Z
+SUMMARY:Cub Adventure Day – CS Adventure Day - Camp Manatoc
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-GTC_
+ CAD\n\n\n\nCub Adventure Day\nOctober 2\, 2027 ~ 10am - 4pm at Camp Manat
+ oc\nWhen & Where\nRegistration Opens 05-31-2027 12:00 AM\nCS Adventure Da
+ y - Camp Manatoc\nCamp Manatoc\nSaturday 10-02-2027\n10:00 AM ET to 2:00 
+ PM ET\nMore Information\nMap of Event\n$\nView Pricing\nCoords: 41.227407
+ 4\, -81.5343431\n1075 Truxell Rd\nPeninsula\, Ohio 44264\nPhone: 330-657-
+ 2592\nRegistration Closes:\n&nbsp09-26-2027 11:59 PM\nContact\nAttachment
+ s\nMedical Form Part A-B
+URL:https://global.scoutingevent.com/433-GTC_CAD
+END:VEVENT
+BEGIN:VEVENT
+UID:274462@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271008T200000Z
+DTEND:20271010T160000Z
+SUMMARY:2027 Cub Scout Fall Campout
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-Cub
+ FallCampout2027\n\nLeave No Trace\n\n2026 Cub Scout Fall Campout: Celebra
+ te America’s 250th Birthday at Cricket Holler!\nJoin us at Cricket Holl
+ er for a special weekend celebrating America’s 250th Birthday! Step bac
+ k in time and experience history through hands-on activities\, outdoor ad
+ ventures\, traditional games\, and Scouting fun.\nWhether your family is 
+ brand new to Cub Scouting or you’ve been part of the Scouting adventure
+  for years\, this event has something for everyone! Scouts will explore w
+ hat life was like in early America\, le
+URL:https://global.scoutingevent.com/444-CubFallCampout2027
+END:VEVENT
+BEGIN:VEVENT
+UID:252719@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271008T220000Z
+DTEND:20271010T160000Z
+SUMMARY:Peterloon
+LOCATION:Cub World\, Loveland\, Ohio
+DESCRIPTION:Dan Beard Council\nhttps://global.scoutingevent.com/438-peterl
+ oon\n\n\n\nJoin us to celebrate the 100th Anniversary of Scouting America
+ 's longest continuously held encampment. Registration will open in April 
+ of 2027.\nMore information will be posted as it becomes available.\nWhen 
+ & Where\nRegistration Opens 04-05-2027 9:00 AM\nPeterloon\nCub World\nFri
+ day 10-08-2027 6:00 PM ET to\nSunday 10-10-2027 12:00 PM ET\nMore Informa
+ tion\nMap of Event\n$\nView Pricing\nCoords: 39.20591354370117\, -84.2733
+ 6883544922\n6035 Price Rd\nLoveland\, Ohio 45140\nPhone: 513-831-8311\nRe
+ gistration Closes:
+URL:https://global.scoutingevent.com/438-peterloon
+END:VEVENT
+BEGIN:VEVENT
+UID:277248@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271009T113000Z
+DTEND:20271010T160000Z
+SUMMARY:BALOO Training Fall 2027 – BALOO Fall 2027
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-BALO
+ OFA27\n\nBALOO\n\nAdventure Fee Benefit - Free to Great Trail Council Adu
+ lt Volunteers\nBALOO\n–\nB\nasic\nA\ndult\nL\neader\nO\nutdoor\nO\nrien
+ tation\nDoes your Pack get outdoors enough?  Is it maximum fun?  Does e
+ verybody go?\nLet\nBALOO\nshow you how!  This course is for any Scouting
+  America registered adult involved in Cub Scouts with a desire to plan an
+ d carry out an outdoor experience for their Pack.  This is the first ste
+ p in the BSA outdoor training program.  Each Cub Scout Pack overnight ev
+ ent must be under the directio
+URL:https://global.scoutingevent.com/433-BALOOFA27
+END:VEVENT
+BEGIN:VEVENT
 UID:251258@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20271009T123000Z
 DTEND:20271009T160000Z
 SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2027 –
@@ -1302,5 +2060,551 @@ DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1095
  If your pack is participating the suggested youth to adult ratio is 2-1\n
  ALL SHOO
 URL:https://global.scoutingevent.com/433-109551
+END:VEVENT
+BEGIN:VEVENT
+UID:274464@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271015T203000Z
+DTEND:20271017T140000Z
+SUMMARY:2027 Scouts BSA Fall Camporee
+LOCATION:Wolf Creek Rod & Gun Club\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-Fal
+ lCamporee2027\n\n\n\nSave the Date\nWhen & Where\nSave the Date\nWolf Cre
+ ek Rod & Gun Club\nFriday 10-15-2027 4:30 PM ET to\nSunday 10-17-2027 10:
+ 00 AM ET\nMore Information\nMap of Event\nCoords: 39.7185706\, -84.303945
+ 5\n6700 Derby Road\nDayton\, Ohio 45417\nRegistration Closes:\n&nbsp10-11
+ -2027 11:59 PM\nContact\nAttachments\n2026 Fall Camporee Leader\\'s Guide
+ \n2026 Fall Camporee Map
+URL:https://global.scoutingevent.com/444-FallCamporee2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272620@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271016T110000Z
+DTEND:20271017T220000Z
+SUMMARY:2027 Wood Badge Training Course – Weekend 2: Camp Manatoc
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-Wood
+ Badge\n\nWood Badge\n\nWood Badge 9-433-27\nWhat is Wood Badge?\nThe Wood
+  Badge course is an internationally recognized leadership development cou
+ rse\, with leadership skills taught that are equal to or better than any 
+ current leadership training in the industry today.\nThe course uses indoo
+ r and outdoor settings to teach the essentials of leadership. You will le
+ arn what makes leadership work and how it works for you and your unit. Yo
+ u will learn to apply those skills to help your unit function more effect
+ ively as a team.
+URL:https://global.scoutingevent.com/433-WoodBadge
+END:VEVENT
+BEGIN:VEVENT
+UID:255565@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271016T160000Z
+DTEND:20271016T193000Z
+SUMMARY:2027 Fall Festival & Hayride – Session 1 - Saturday October 16
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1113
+ 78\n\n\n\nThe Annual Hayride is a fun family themed event. This year the 
+ event will be at Camp Butler and will see the return of the Fall Festival
+  Themed crafts and games geared towards the harvest season!\nTickets purc
+ hased here are valid for the date and time of the session purchased ONLY!
+ \nThe show goes on Rain or Moonshine. Tickets are $15.00 per person if pu
+ rchased online and in advance. Tickets purchased at the gate are $18 each
+  if the session is not sold out in advance.\nEach session will be limited
+  t
+URL:https://global.scoutingevent.com/433-111378
+END:VEVENT
+BEGIN:VEVENT
+UID:262766@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271023T110000Z
+DTEND:20271023T210000Z
+SUMMARY:MANATOC Merit Badge College – MBU 2025
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1149
+ 75\n\n\n\nJoin the Great Trail Council at our innaugural Merit Badge Univ
+ ersity ~\nMANATOC MERIT BADGE COLLEGE (MMBC)\nTHIS EVENT IS FROM 8am - 5p
+ m\n( Merit Badge Sessions will start at 8:10am in the morning and Afterno
+ on Sessions will finish at 5pm)\nScouts BSA members can attend and partic
+ ipate in two sessions (morning and afternoon). Scouts\nDO NOT\nneed to pa
+ rticipate in both sessions.\nEach Scout will need to bring a bagged lunch
+ \, as lunch will not be provided.\nClass Session 1: 8:10am through 12 pm\
+ nLunch Se
+URL:https://global.scoutingevent.com/433-114975
+END:VEVENT
+BEGIN:VEVENT
+UID:255567@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271023T160000Z
+DTEND:20271023T193000Z
+SUMMARY:2027 Fall Festival & Hayride – Session 3 - Saturday October 23
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1113
+ 78\n\n\n\nThe Annual Hayride is a fun family themed event. This year the 
+ event will be at Camp Butler and will see the return of the Fall Festival
+  Themed crafts and games geared towards the harvest season!\nTickets purc
+ hased here are valid for the date and time of the session purchased ONLY!
+ \nThe show goes on Rain or Moonshine. Tickets are $15.00 per person if pu
+ rchased online and in advance. Tickets purchased at the gate are $18 each
+  if the session is not sold out in advance.\nEach session will be limited
+  t
+URL:https://global.scoutingevent.com/433-111378
+END:VEVENT
+BEGIN:VEVENT
+UID:261714@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271105T220000Z
+DTEND:20271107T170000Z
+SUMMARY:Wilderness First Aid - Fall 2027 – Beaumont Scout Reservation
+LOCATION:Beaumont Scout Reservation\, Rock Creek\, Ohio
+DESCRIPTION:Lake Erie Council\nhttps://global.scoutingevent.com/440-114336
+ \n\nCPR / AED / First Aid\, Wilderness First Aid\n\nWILDERNESS FIRST AID 
+ TRAINING\nSponsored by the Lake Erie Council\nCurriculum Developed by the
+  Emergency Care & Safety Institute & Officially Endorsed by Scouting Am
+ erica\nThe Wilderness First Aid course\, developed in conjunction with S
+ couting America is great for Scouts and Scout leaders\, outdoor enthusia
+ sts\, or people who work in an outdoor environment\, including camp staf
+ f members. Be prepared for your next backpacking or high adventure trip w
+ ith Wilderness First Aid! WFA certification is also n
+URL:https://global.scoutingevent.com/440-114336
+END:VEVENT
+BEGIN:VEVENT
+UID:241270@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271106T113000Z
+DTEND:20271106T210000Z
+SUMMARY:2027 University of Scouting – University of Scouting
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1044
+ 68\n\nCommissioner / University of Scouting\n\nWATCH THIS SPACE FOR MORE 
+ INFORMATION!\nWe look forward to having you attend on\nNovember 6th\, 202
+ 7\n!\nWhat is the University of Scouting?\nThe University of Scouting is 
+ the largest supplemental training\ncourse offered by Great Trail Council 
+ to Scouting volunteers at\nall levels. During this fun-filled day\, exper
+ ienced volunteer\nleaders will present programs to help you improve your 
+ skills\nand expand your knowledge. You will also meet other leaders\,\nga
+ ther new resources\, and share ideas on building t
+URL:https://global.scoutingevent.com/433-104468
+END:VEVENT
+BEGIN:VEVENT
+UID:269001@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280122T130000Z
+DTEND:20280122T220000Z
+SUMMARY:2028 Scouts BSA Klondike Challenge
+LOCATION:Cricket Holler Scout Reservation\, Dayton\, Ohio
+DESCRIPTION:Miami Valley Council\nhttps://global.scoutingevent.com/444-118
+ 254\n\n\n\nScouts BSA Klondike Survival Challenge\nDo you have what it ta
+ kes to survive the final leg to Dawson City?\nIn 1896\, fortune seekers f
+ rom around the world rushed to the Yukon Territory in search of gold. Thi
+ s winter\, your troop will retrace their journey—braving the cold\, pus
+ hing through the wilderness\, and pulling your sled toward the legendary 
+ town of Dawson City. Along the trail\, your patrol will be tested in ways
+  that require teamwork\, resourcefulness\, and Scout know-how. Can your c
+ rew endure 
+URL:https://global.scoutingevent.com/444-118254
+END:VEVENT
+BEGIN:VEVENT
+UID:251940@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280129T140000Z
+DTEND:20280129T180000Z
+SUMMARY:Chariot Race hosted by Canal District
+LOCATION:Hyre Middle School\, Akron\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-char
+ iot28\n\n\n\n2026 Chariot Race\nHosted by Canal District\nRun by Troops 1
+  & 7001\nWho:\nFor All Cub Scout Ranks\nWhere:\nHyre CLC - 2385 Wedgewoo
+ d Dr\, Akron\, OH 44312\nWhen:\nSaturday\, January 31st\nCost:\n$30 Per P
+ ack\nWhat:\nCub Scouts will construct a chariot out of a cardboard box an
+ d race it against other Scouts! Rules and regulations attached.\nPlease c
+ omplete a Chariot Race Team Form (3rd page in rules & construction docume
+ nt) in the attachments and submit\nNO LATER THAN JANUARY 24TH\, 2026!\nQu
+ estions can be sent to
+URL:https://global.scoutingevent.com/433-chariot28
+END:VEVENT
+BEGIN:VEVENT
+UID:258003@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280305T180000Z
+DTEND:20280305T200000Z
+SUMMARY:Council Recognition Banquet 2028
+LOCATION:St. Nicholas Banquet Center (Mogadore)\, Mogadore\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1123
+ 33\n\n\n\nPlease join us as we honor the Eagle Scout\, National Outstandi
+ ng Eagle Scout and Silver Beaver class of 2027.\nAll 2027 Eagles will be 
+ introduced and receive a commemorative Council Shoulder Patch and Eagle S
+ cout Pocket Knife.\nAll 2027 Great Trail Council Eagle Scouts are invited
+  to this event and their registration is paid for by Eagle Scout Sponsors
+ .\nAll Great Trail Council Volunteers\, Eagle Scouts\, Previous Silver Be
+ aver Recipients\, Professional Staff\, Scouting Alumni\, Family & friends
+  are wel
+URL:https://global.scoutingevent.com/433-112333
+END:VEVENT
+BEGIN:VEVENT
+UID:252625@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280422T123000Z
+DTEND:20280422T160000Z
+SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2028 –
+  April 22nd Butler - Morning
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-cubr
+ ata2028\n\n\n\nThese are district run shooting sport events to support ou
+ r Cub Scout Packs. Morning and Afternoon sessions\, 48 maxium per session
+ . Morning session arrival at 8:30 done at 12:30.\nTHESE EVENTS ARE ONLY O
+ PEN TO REGISTERED GTC CUB SCOUTS!\nAdult Participation is required:\nSlin
+ gshots are 1-1 youth to Adults\nArchery: lions and tigers must have an ad
+ ult partner\nBB's: lions can not partcipate\, Tigers must have adult part
+ ner\nIf your pack is participating the suggested youth to adult ratio is 
+ 2-1\nALL SHOO
+URL:https://global.scoutingevent.com/433-cubrata2028
+END:VEVENT
+BEGIN:VEVENT
+UID:248856@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280429T113000Z
+DTEND:20280430T160000Z
+SUMMARY:BALOO Training 2028 – BALOO Spring 2028
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1083
+ 33\n\nBALOO\n\nAdventure Fee Benefit\nBALOO\n–\nB\nasic\nA\ndult\nL\nea
+ der\nO\nutdoor\nO\nrientation\nDoes your Pack get outdoors enough?  Is i
+ t maximum fun?  Does everybody go?\nLet\nBALOO\nshow you how!  This cou
+ rse is for any Scouting America registered adult involved in Cub Scouts w
+ ith a desire to plan and carry out an outdoor experience for their Pack.
+   This is the first step in the BSA outdoor training program.  Each Cub
+  Scout Pack overnight event must be under the direction of a\nBALOO\ntrai
+ ned adult.  Additionally\, this
+URL:https://global.scoutingevent.com/433-108333
+END:VEVENT
+BEGIN:VEVENT
+UID:252627@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280506T123000Z
+DTEND:20280506T160000Z
+SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2028 –
+  May 6th Butler - Morning
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-cubr
+ ata2028\n\n\n\nThese are district run shooting sport events to support ou
+ r Cub Scout Packs. Morning and Afternoon sessions\, 48 maxium per session
+ . Morning session arrival at 8:30 done at 12:30.\nTHESE EVENTS ARE ONLY O
+ PEN TO REGISTERED GTC CUB SCOUTS!\nAdult Participation is required:\nSlin
+ gshots are 1-1 youth to Adults\nArchery: lions and tigers must have an ad
+ ult partner\nBB's: lions can not partcipate\, Tigers must have adult part
+ ner\nIf your pack is participating the suggested youth to adult ratio is 
+ 2-1\nALL SHOO
+URL:https://global.scoutingevent.com/433-cubrata2028
+END:VEVENT
+BEGIN:VEVENT
+UID:266807@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280506T220000Z
+DTEND:20280507T220000Z
+SUMMARY:IOLS Training 2028 – IOLS Spring 2028
+LOCATION:Great Trail Council\, Stow\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1171
+ 28\n\nHazardous Weather\, IOLS\, Position-Specific Leader Training\n\nAdv
+ enture Fee Benefit\nIOLS - I\nntroduction to\nO\nutdoor\nL\neader\nS\nkil
+ ls\nScoutmasters & Assistant Scoutmasters\nThis Outdoor Scouts BSA Leader
+  training will help you understand the concepts of the scouting program\,
+  the Patrol method and give you a solid foundation to be a great leader.
+   This is a hands-on course that teaches you how to deliver an outdoor p
+ rogram\, and to instruct your Scouts in their ST21 skills.\nThis is a req
+ uired training for all Scoutmasters & Assistant Scoutmasters.  This cour
+ se
+URL:https://global.scoutingevent.com/433-117128
+END:VEVENT
+BEGIN:VEVENT
+UID:256187@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280616T123000Z
+DTEND:20280618T210000Z
+SUMMARY:Cub Scout Day Camp 2028 – Camp Butler (3 Day Program)
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 41\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2028! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 16-18 - Hosted by Stambaugh District\nJune 1
+ 6-18 - Host
+URL:https://global.scoutingevent.com/433-111641
+END:VEVENT
+BEGIN:VEVENT
+UID:256190@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280619T123000Z
+DTEND:20280623T210000Z
+SUMMARY:Cub Scout Day Camp 2028 – Camp Butler (5 Day Program)
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 41\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2028! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 16-18 - Hosted by Stambaugh District\nJune 1
+ 6-18 - Host
+URL:https://global.scoutingevent.com/433-111641
+END:VEVENT
+BEGIN:VEVENT
+UID:256191@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280621T123000Z
+DTEND:20280623T210000Z
+SUMMARY:Cub Scout Day Camp 2028 – Camp Butler (3 Day Program)
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 41\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2028! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 16-18 - Hosted by Stambaugh District\nJune 1
+ 6-18 - Host
+URL:https://global.scoutingevent.com/433-111641
+END:VEVENT
+BEGIN:VEVENT
+UID:256188@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280623T123000Z
+DTEND:20280625T210000Z
+SUMMARY:Cub Scout Day Camp 2028 – Camp Stambaugh (3 Day Program)
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 41\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2028! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 16-18 - Hosted by Stambaugh District\nJune 1
+ 6-18 - Host
+URL:https://global.scoutingevent.com/433-111641
+END:VEVENT
+BEGIN:VEVENT
+UID:256189@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280706T123000Z
+DTEND:20280708T210000Z
+SUMMARY:Cub Scout Day Camp 2028 – Camp Butler(3 Day Program)
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1116
+ 41\n\n\n\nExplore at Camp during one of our Cub Scout Day Camps during th
+ e summer of 2028! Activities at Day Camp will include: nature hikes\, BB 
+ gun's\, archery\, slingshots\, crafts\, sport/ games\, learning about inv
+ entions & inventors\, discovering how things work\, making new friends an
+ d tons more!\nDon't forget: Parent leader guide\, med forms and Range & T
+ arget Sports permission forms are all available for families and units to
+  prepare for Day Camp!\nJune 16-18 - Hosted by Stambaugh District\nJune 1
+ 6-18 - Host
+URL:https://global.scoutingevent.com/433-111641
+END:VEVENT
+BEGIN:VEVENT
+UID:252635@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280716T123000Z
+DTEND:20280716T160000Z
+SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2028 –
+  July 16th  Butler - Morning
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-cubr
+ ata2028\n\n\n\nThese are district run shooting sport events to support ou
+ r Cub Scout Packs. Morning and Afternoon sessions\, 48 maxium per session
+ . Morning session arrival at 8:30 done at 12:30.\nTHESE EVENTS ARE ONLY O
+ PEN TO REGISTERED GTC CUB SCOUTS!\nAdult Participation is required:\nSlin
+ gshots are 1-1 youth to Adults\nArchery: lions and tigers must have an ad
+ ult partner\nBB's: lions can not partcipate\, Tigers must have adult part
+ ner\nIf your pack is participating the suggested youth to adult ratio is 
+ 2-1\nALL SHOO
+URL:https://global.scoutingevent.com/433-cubrata2028
+END:VEVENT
+BEGIN:VEVENT
+UID:252629@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280909T123000Z
+DTEND:20280909T160000Z
+SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2028 –
+  September 9th Butler - Morning
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-cubr
+ ata2028\n\n\n\nThese are district run shooting sport events to support ou
+ r Cub Scout Packs. Morning and Afternoon sessions\, 48 maxium per session
+ . Morning session arrival at 8:30 done at 12:30.\nTHESE EVENTS ARE ONLY O
+ PEN TO REGISTERED GTC CUB SCOUTS!\nAdult Participation is required:\nSlin
+ gshots are 1-1 youth to Adults\nArchery: lions and tigers must have an ad
+ ult partner\nBB's: lions can not partcipate\, Tigers must have adult part
+ ner\nIf your pack is participating the suggested youth to adult ratio is 
+ 2-1\nALL SHOO
+URL:https://global.scoutingevent.com/433-cubrata2028
+END:VEVENT
+BEGIN:VEVENT
+UID:252623@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280916T120000Z
+DTEND:20280916T180000Z
+SUMMARY:5th Annual Ernie Walker Memorial Competition Shoot
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1102
+ 07\n\n\n\nJoin us at the beautiful Camp Manatoc to participate in the For
+ th Annual Ernie Walker Memorial Competition Shoot!\nRegistration is limit
+ ed to the first 48 youth participants. Adults will not be shooting.\nSign
+  up includes\, Archery\, Rifle\, and Shotgun. As well as lunch!\nALL YOUT
+ H MUST HAVE A SIGNED SHOOTING SPORTS PERMISSION FORM TO PARTICIPATE.\nReg
+ istration is at 8:00am\nMandatory Safety Meeting at 8:30am\nEvent starts 
+ 9:00am\nLunch will be at 1pm\nAwards will be presented at the conclusion 
+ of the eve
+URL:https://global.scoutingevent.com/433-110207
+END:VEVENT
+BEGIN:VEVENT
+UID:266808@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280923T120000Z
+DTEND:20280924T153000Z
+SUMMARY:IOLS Training 2028 – IOLS Fall 2028
+LOCATION:Great Trail Council\, Stow\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1171
+ 28\n\nHazardous Weather\, IOLS\, Position-Specific Leader Training\n\nAdv
+ enture Fee Benefit\nIOLS - I\nntroduction to\nO\nutdoor\nL\neader\nS\nkil
+ ls\nScoutmasters & Assistant Scoutmasters\nThis Outdoor Scouts BSA Leader
+  training will help you understand the concepts of the scouting program\,
+  the Patrol method and give you a solid foundation to be a great leader.
+   This is a hands-on course that teaches you how to deliver an outdoor p
+ rogram\, and to instruct your Scouts in their ST21 skills.\nThis is a req
+ uired training for all Scoutmasters & Assistant Scoutmasters.  This cour
+ se
+URL:https://global.scoutingevent.com/433-117128
+END:VEVENT
+BEGIN:VEVENT
+UID:252631@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280923T123000Z
+DTEND:20280923T160000Z
+SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2028 –
+  September 23rd Butler - Morning
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-cubr
+ ata2028\n\n\n\nThese are district run shooting sport events to support ou
+ r Cub Scout Packs. Morning and Afternoon sessions\, 48 maxium per session
+ . Morning session arrival at 8:30 done at 12:30.\nTHESE EVENTS ARE ONLY O
+ PEN TO REGISTERED GTC CUB SCOUTS!\nAdult Participation is required:\nSlin
+ gshots are 1-1 youth to Adults\nArchery: lions and tigers must have an ad
+ ult partner\nBB's: lions can not partcipate\, Tigers must have adult part
+ ner\nIf your pack is participating the suggested youth to adult ratio is 
+ 2-1\nALL SHOO
+URL:https://global.scoutingevent.com/433-cubrata2028
+END:VEVENT
+BEGIN:VEVENT
+UID:252633@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281007T123000Z
+DTEND:20281007T160000Z
+SUMMARY:Cub Range and Target Activities Days - Adventure Programs 2028 –
+  October 7th Butler - Morning
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-cubr
+ ata2028\n\n\n\nThese are district run shooting sport events to support ou
+ r Cub Scout Packs. Morning and Afternoon sessions\, 48 maxium per session
+ . Morning session arrival at 8:30 done at 12:30.\nTHESE EVENTS ARE ONLY O
+ PEN TO REGISTERED GTC CUB SCOUTS!\nAdult Participation is required:\nSlin
+ gshots are 1-1 youth to Adults\nArchery: lions and tigers must have an ad
+ ult partner\nBB's: lions can not partcipate\, Tigers must have adult part
+ ner\nIf your pack is participating the suggested youth to adult ratio is 
+ 2-1\nALL SHOO
+URL:https://global.scoutingevent.com/433-cubrata2028
+END:VEVENT
+BEGIN:VEVENT
+UID:255575@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281014T160000Z
+DTEND:20281014T193000Z
+SUMMARY:2028 Fall Festival & Hayride – Session 1 - Saturday October 14
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1113
+ 80\n\n\n\nThe Annual Hayride is a fun family themed event. This year the 
+ event will be at Camp Butler and will see the return of the Fall Festival
+  Themed crafts and games geared towards the harvest season!\nTickets purc
+ hased here are valid for the date and time of the session purchased ONLY!
+ \nThe show goes on Rain or Moonshine. Tickets are $15.00 per person if pu
+ rchased online and in advance. Tickets purchased at the gate are $18 each
+  if the session is not sold out in advance.\nEach session will be limited
+  t
+URL:https://global.scoutingevent.com/433-111380
+END:VEVENT
+BEGIN:VEVENT
+UID:248857@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281021T113000Z
+DTEND:20281022T160000Z
+SUMMARY:BALOO Training 2028 – BALOO Fall 2028
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1083
+ 33\n\nBALOO\n\nAdventure Fee Benefit\nBALOO\n–\nB\nasic\nA\ndult\nL\nea
+ der\nO\nutdoor\nO\nrientation\nDoes your Pack get outdoors enough?  Is i
+ t maximum fun?  Does everybody go?\nLet\nBALOO\nshow you how!  This cou
+ rse is for any Scouting America registered adult involved in Cub Scouts w
+ ith a desire to plan and carry out an outdoor experience for their Pack.
+   This is the first step in the BSA outdoor training program.  Each Cub
+  Scout Pack overnight event must be under the direction of a\nBALOO\ntrai
+ ned adult.  Additionally\, this
+URL:https://global.scoutingevent.com/433-108333
+END:VEVENT
+BEGIN:VEVENT
+UID:255577@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281021T160000Z
+DTEND:20281021T193000Z
+SUMMARY:2028 Fall Festival & Hayride – Session 3 - Saturday October 21
+LOCATION:Camp Butler\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1113
+ 80\n\n\n\nThe Annual Hayride is a fun family themed event. This year the 
+ event will be at Camp Butler and will see the return of the Fall Festival
+  Themed crafts and games geared towards the harvest season!\nTickets purc
+ hased here are valid for the date and time of the session purchased ONLY!
+ \nThe show goes on Rain or Moonshine. Tickets are $15.00 per person if pu
+ rchased online and in advance. Tickets purchased at the gate are $18 each
+  if the session is not sold out in advance.\nEach session will be limited
+  t
+URL:https://global.scoutingevent.com/433-111380
+END:VEVENT
+BEGIN:VEVENT
+UID:262767@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281028T110000Z
+DTEND:20281028T210000Z
+SUMMARY:MANATOC Merit Badge College – MBU 2025
+LOCATION:Camp Manatoc\, Peninsula\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1149
+ 76\n\n\n\nJoin the Great Trail Council at our innaugural Merit Badge Univ
+ ersity ~\nMANATOC MERIT BADGE COLLEGE (MMBC)\nTHIS EVENT IS FROM 8am - 5p
+ m\n( Merit Badge Sessions will start at 8:10am in the morning and Afterno
+ on Sessions will finish at 5pm)\nScouts BSA members can attend and partic
+ ipate in two sessions (morning and afternoon). Scouts\nDO NOT\nneed to pa
+ rticipate in both sessions.\nEach Scout will need to bring a bagged lunch
+ \, as lunch will not be provided.\nClass Session 1: 8:10am through 12 pm\
+ nLunch Se
+URL:https://global.scoutingevent.com/433-114976
+END:VEVENT
+BEGIN:VEVENT
+UID:262768@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281104T113000Z
+DTEND:20281104T210000Z
+SUMMARY:2028 University of Scouting – University of Scouting
+LOCATION:TBD\, Norton\, Ohio
+DESCRIPTION:Great Trail Council\nhttps://global.scoutingevent.com/433-1149
+ 77\n\nCommissioner / University of Scouting\n\nWATCH THIS SPACE FOR MORE 
+ INFORMATION!\nWe look forward to having you attend on\nNovember 4th\, 202
+ 8\n!\nWhat is the University of Scouting?\nThe University of Scouting is 
+ the largest supplemental training\ncourse offered by Great Trail Council 
+ to Scouting volunteers at\nall levels. During this fun-filled day\, exper
+ ienced volunteer\nleaders will present programs to help you improve your 
+ skills\nand expand your knowledge. You will also meet other leaders\,\nga
+ ther new resources\, and share ideas on building t
+URL:https://global.scoutingevent.com/433-114977
 END:VEVENT
 END:VCALENDAR

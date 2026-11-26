@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:270084@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T130000Z
 DTEND:20270206T190000Z
 SUMMARY:2027 Cub Scout Winter Fun Day
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/216-CubWinter2027
 END:VEVENT
 BEGIN:VEVENT
 UID:271377@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T120000Z
 DTEND:20270227T210000Z
 SUMMARY:2027 Kennebec Valley Merit Badge College – KV Merit Badge Colleg
@@ -44,7 +44,7 @@ URL:https://global.scoutingevent.com/218-2027_KV_MBC
 END:VEVENT
 BEGIN:VEVENT
 UID:271378@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270320T110000Z
 DTEND:20270327T200000Z
 SUMMARY:2027 Kennebec Valley Merit Badge College – KV Merit Badge Colleg
@@ -63,7 +63,7 @@ URL:https://global.scoutingevent.com/218-2027_KV_MBC
 END:VEVENT
 BEGIN:VEVENT
 UID:270085@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270507T200000Z
 DTEND:20270509T140000Z
 SUMMARY:2027 Cub Scout Spring Fling
@@ -81,7 +81,7 @@ URL:https://global.scoutingevent.com/216-SpringFling27
 END:VEVENT
 BEGIN:VEVENT
 UID:272062@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270521T220000Z
 DTEND:20270522T220000Z
 SUMMARY:2027 Kennebec Valley SPRING BALOO & IOLS Training – 2026 BALOO/I
@@ -97,5 +97,57 @@ DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2027_K
  pout\, including pack camping overnighters and Webelos den overnighters. 
  Packs are required to have at least 1\nBALOO\ntrained leader in at
 URL:https://global.scoutingevent.com/218-2027_KV_BALOO
+END:VEVENT
+BEGIN:VEVENT
+UID:258482@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270806T140000Z
+SUMMARY:2027 Cub Scout Resident Camp
+LOCATION:Camp Roosevelt\, Clifton\, Maine
+DESCRIPTION:Katahdin Area Council\nhttps://global.scoutingevent.com/216-20
+ 27CSResidentCamp\n\n\n\nDive into an unforgettable week of fun and discov
+ ery at Cub Scout Resident Camp at Camp Roosevelt! Cub Scouts will enjoy h
+ ands-on activities\, outdoor adventures\, and classic camp experiences de
+ signed just for them. From trying new skills and exploring the outdoors t
+ o making new friends and building confidence\, every day is filled with e
+ xcitement and growth.\nScouts will participate in age-appropriate program
+ s that encourage teamwork\, imagination\, and a love for the outdoors—a
+ ll in a safe\, support
+URL:https://global.scoutingevent.com/216-2027CSResidentCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:272090@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271015T210000Z
+DTEND:20271016T210000Z
+SUMMARY:2027 Casco Bay Fall BALOO/IOLS Training – 2027 BALOO/IOLS Traini
+ ng
+LOCATION:Camp William Hinds\, Raymond\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-119968
+ \n\nBALOO\, IOLS\, Position-Specific Leader Training\n\nBALOO\n&\nIOLS\nT
+ raining\nSeptember 14-15\, 2024\nCAMP HINDS- RAYMOND\, MAINE\nCost: $20 t
+ o cover cost of food and supplies\nBasic Adult Leader Outdoor Orientation
+  Training (BALOO)\nBALOO is the Cub Scout leader training required for a
+ ny Cub Scout den or pack campout\, including pack camping overnighters an
+ d Webelos den overnighters. Packs are required to have at least 1 BALOO t
+ rained leader in attendance at every campout.\nBALOO training is comprise
+ d of\ntwo\ncomponents—\nan online component\nand a practical\, 
+URL:https://global.scoutingevent.com/218-119968
+END:VEVENT
+BEGIN:VEVENT
+UID:272088@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271015T220000Z
+DTEND:20271017T160000Z
+SUMMARY:2027 KV Fall Camporee – 2026 Fall Camporee
+LOCATION:TBD\, TBD\, Maine
+DESCRIPTION:Pine Tree Council\nhttps://global.scoutingevent.com/218-2027_K
+ V_Fall_Camporee\n\n\n\nKV Fall Camporee\nWhen & Where\nSave the Date\n202
+ 6 Fall Camporee\nTBD\nFriday 10-15-2027 6:00 PM ET to\nSunday 10-17-2027 
+ 12:00 PM ET\nMore Information\nMap of Event\nCoords: 30.4794441\, -97.817
+ 2151\nTBD\nTBD\, Maine\nRegistration Closes:\n&nbsp10-15-2027 11:59 PM\nC
+ ontact\nAttachments\nMed Forms-A&B only-2019 Version
+URL:https://global.scoutingevent.com/218-2027_KV_Fall_Camporee
 END:VEVENT
 END:VCALENDAR

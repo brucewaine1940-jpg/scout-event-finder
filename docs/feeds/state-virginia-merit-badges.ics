@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:253360@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270115T050000Z
 DTEND:20270118T180000Z
 SUMMARY:Winter Camp 2027
@@ -26,7 +26,7 @@ URL:https://global.scoutingevent.com/763-wintercamp27
 END:VEVENT
 BEGIN:VEVENT
 UID:276971@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T130000Z
 DTEND:20270130T210000Z
 SUMMARY:2027 Colonial Virginia Council Merit Badge University – Weekend 
@@ -50,7 +50,7 @@ URL:https://global.scoutingevent.com/595-cvcmbu2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276972@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T130000Z
 DTEND:20270227T210000Z
 SUMMARY:2027 Colonial Virginia Council Merit Badge University – Weekend 
@@ -71,5 +71,243 @@ DESCRIPTION:Colonial Virginia Council\nhttps://global.scoutingevent.com/59
  sity.\nScouts MUST attend both session dates\nThe schedule for both days 
  is the same.\n8:00 AM\nDoors Open\n8:45 AM\n
 URL:https://global.scoutingevent.com/595-cvcmbu2027
+END:VEVENT
+BEGIN:VEVENT
+UID:271737@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270613T170000Z
+DTEND:20270619T130000Z
+SUMMARY:Blue Ridge Scout Reservation 2027 – Week 1
+LOCATION:Camp Powhatan\, Hiwassee\, Virginia
+DESCRIPTION:Blue Ridge Mountains Council\nhttps://global.scoutingevent.com
+ /599-brmc27\n\nBackpacking\, Safety\, Whitewater\n\nYOUR 2027 APPALACHIAN
+  ADVENTURE\n5 WEEKS: JUNE 13 - JULY 17\nWe offer camp opportunities for S
+ couts of all ages! First-year Scouts can enjoy Brownsea Island\, while mo
+ re experienced Scouts can seek thrills on the New River and in the backco
+ untry of the Blue Ridge Mountains!\nCAMP POWHATAN\nFollow Seven Bridges R
+ oad to meet our enthusiastic base camp staff\, ready to provide your unit
+  with an exciting and unique merit badge experience!\nBROWNSEA ISLAND\nFi
+ rst-year Scouts can stay with their unit at Powha
+URL:https://global.scoutingevent.com/599-brmc27
+END:VEVENT
+BEGIN:VEVENT
+UID:270012@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270613T180000Z
+DTEND:20270619T140000Z
+SUMMARY:Summer Camp 2027 TBrady Saunders – Week 1: June 13 - June 19
+LOCATION:Camp T. Brady Saunders/Camp S. Douglas Fleet/Cub Adventure Camp\,
+  Maidens\, Virginia
+DESCRIPTION:Heart of Virginia Council\nhttps://global.scoutingevent.com/60
+ 2-2027TBSSummerCamp\n\nBasketry\, Space Exploration\, Swimming\n\n2027 Su
+ mmer Camp at T. Brady Saunders\nVoted The Best Summer Camp by the Richmon
+ d Times-Dispatch in 2025 and Nominated in 2026\nHold - a - Spot Open thro
+ ugh February 9\, 2027\nUnit Registration Opens February 10\, 2027\nMerit 
+ Badge Registration Opens March 17\, 2027\nFees\nBSA Scouts:\n$445 Early B
+ ird Special (if 50% of fee paid by March 17).  The cost increases to $47
+ 0 after March 17th.\nHOVC Scouts\ntaking advantage of our Member Benefit 
+ Discounts (previously referred to as the Season Pass) are eligible f
+URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:271738@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T170000Z
+DTEND:20270626T130000Z
+SUMMARY:Blue Ridge Scout Reservation 2027 – Week 2
+LOCATION:Camp Powhatan\, Hiwassee\, Virginia
+DESCRIPTION:Blue Ridge Mountains Council\nhttps://global.scoutingevent.com
+ /599-brmc27\n\nBackpacking\, Safety\, Whitewater\n\nYOUR 2027 APPALACHIAN
+  ADVENTURE\n5 WEEKS: JUNE 13 - JULY 17\nWe offer camp opportunities for S
+ couts of all ages! First-year Scouts can enjoy Brownsea Island\, while mo
+ re experienced Scouts can seek thrills on the New River and in the backco
+ untry of the Blue Ridge Mountains!\nCAMP POWHATAN\nFollow Seven Bridges R
+ oad to meet our enthusiastic base camp staff\, ready to provide your unit
+  with an exciting and unique merit badge experience!\nBROWNSEA ISLAND\nFi
+ rst-year Scouts can stay with their unit at Powha
+URL:https://global.scoutingevent.com/599-brmc27
+END:VEVENT
+BEGIN:VEVENT
+UID:270010@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T180000Z
+DTEND:20270626T140000Z
+SUMMARY:Summer Camp 2027 TBrady Saunders – Week 2: June 20 - June 26
+LOCATION:Camp T. Brady Saunders/Camp S. Douglas Fleet/Cub Adventure Camp\,
+  Maidens\, Virginia
+DESCRIPTION:Heart of Virginia Council\nhttps://global.scoutingevent.com/60
+ 2-2027TBSSummerCamp\n\nBasketry\, Space Exploration\, Swimming\n\n2027 Su
+ mmer Camp at T. Brady Saunders\nVoted The Best Summer Camp by the Richmon
+ d Times-Dispatch in 2025 and Nominated in 2026\nHold - a - Spot Open thro
+ ugh February 9\, 2027\nUnit Registration Opens February 10\, 2027\nMerit 
+ Badge Registration Opens March 17\, 2027\nFees\nBSA Scouts:\n$445 Early B
+ ird Special (if 50% of fee paid by March 17).  The cost increases to $47
+ 0 after March 17th.\nHOVC Scouts\ntaking advantage of our Member Benefit 
+ Discounts (previously referred to as the Season Pass) are eligible f
+URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:271739@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T130000Z
+SUMMARY:Blue Ridge Scout Reservation 2027 – Week 3
+LOCATION:Camp Powhatan\, Hiwassee\, Virginia
+DESCRIPTION:Blue Ridge Mountains Council\nhttps://global.scoutingevent.com
+ /599-brmc27\n\nBackpacking\, Safety\, Whitewater\n\nYOUR 2027 APPALACHIAN
+  ADVENTURE\n5 WEEKS: JUNE 13 - JULY 17\nWe offer camp opportunities for S
+ couts of all ages! First-year Scouts can enjoy Brownsea Island\, while mo
+ re experienced Scouts can seek thrills on the New River and in the backco
+ untry of the Blue Ridge Mountains!\nCAMP POWHATAN\nFollow Seven Bridges R
+ oad to meet our enthusiastic base camp staff\, ready to provide your unit
+  with an exciting and unique merit badge experience!\nBROWNSEA ISLAND\nFi
+ rst-year Scouts can stay with their unit at Powha
+URL:https://global.scoutingevent.com/599-brmc27
+END:VEVENT
+BEGIN:VEVENT
+UID:267649@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T180000Z
+DTEND:20270703T110000Z
+SUMMARY:2027 Camp Marriott – Week 1
+LOCATION:Goshen Scout Reservation\, Goshen\, Virginia
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-117550\n\nAutomotive Maintenance\n\nYou’re invited to attend Gosh
+ en Scout Reservation for our 60th anniversary this summer!\nSince 1967\, 
+ Goshen Scout Reservation has hosted thousands of Scouts and leaders\, off
+ ering traditional camping\, merit badge programs\, and high adventure tre
+ ks. With five unique resident camp opportunities and thousands of acres o
+ f wilderness\, Goshen Scout Reservation offers something for every Scout 
+ – from first time campers to seasoned adventures.\nCamp Marriott at Gos
+ hen Scout Reservation\nCamp Marriott offers
+URL:https://global.scoutingevent.com/082-117550
+END:VEVENT
+BEGIN:VEVENT
+UID:270011@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T180000Z
+DTEND:20270703T140000Z
+SUMMARY:Summer Camp 2027 TBrady Saunders – Week 3: June 27 - July 3
+LOCATION:Camp T. Brady Saunders/Camp S. Douglas Fleet/Cub Adventure Camp\,
+  Maidens\, Virginia
+DESCRIPTION:Heart of Virginia Council\nhttps://global.scoutingevent.com/60
+ 2-2027TBSSummerCamp\n\nBasketry\, Space Exploration\, Swimming\n\n2027 Su
+ mmer Camp at T. Brady Saunders\nVoted The Best Summer Camp by the Richmon
+ d Times-Dispatch in 2025 and Nominated in 2026\nHold - a - Spot Open thro
+ ugh February 9\, 2027\nUnit Registration Opens February 10\, 2027\nMerit 
+ Badge Registration Opens March 17\, 2027\nFees\nBSA Scouts:\n$445 Early B
+ ird Special (if 50% of fee paid by March 17).  The cost increases to $47
+ 0 after March 17th.\nHOVC Scouts\ntaking advantage of our Member Benefit 
+ Discounts (previously referred to as the Season Pass) are eligible f
+URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:271740@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T130000Z
+SUMMARY:Blue Ridge Scout Reservation 2027 – Week 4
+LOCATION:Camp Powhatan\, Hiwassee\, Virginia
+DESCRIPTION:Blue Ridge Mountains Council\nhttps://global.scoutingevent.com
+ /599-brmc27\n\nBackpacking\, Safety\, Whitewater\n\nYOUR 2027 APPALACHIAN
+  ADVENTURE\n5 WEEKS: JUNE 13 - JULY 17\nWe offer camp opportunities for S
+ couts of all ages! First-year Scouts can enjoy Brownsea Island\, while mo
+ re experienced Scouts can seek thrills on the New River and in the backco
+ untry of the Blue Ridge Mountains!\nCAMP POWHATAN\nFollow Seven Bridges R
+ oad to meet our enthusiastic base camp staff\, ready to provide your unit
+  with an exciting and unique merit badge experience!\nBROWNSEA ISLAND\nFi
+ rst-year Scouts can stay with their unit at Powha
+URL:https://global.scoutingevent.com/599-brmc27
+END:VEVENT
+BEGIN:VEVENT
+UID:267650@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T180000Z
+DTEND:20270710T110000Z
+SUMMARY:2027 Camp Marriott – Week 2
+LOCATION:Goshen Scout Reservation\, Goshen\, Virginia
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-117550\n\nAutomotive Maintenance\n\nYou’re invited to attend Gosh
+ en Scout Reservation for our 60th anniversary this summer!\nSince 1967\, 
+ Goshen Scout Reservation has hosted thousands of Scouts and leaders\, off
+ ering traditional camping\, merit badge programs\, and high adventure tre
+ ks. With five unique resident camp opportunities and thousands of acres o
+ f wilderness\, Goshen Scout Reservation offers something for every Scout 
+ – from first time campers to seasoned adventures.\nCamp Marriott at Gos
+ hen Scout Reservation\nCamp Marriott offers
+URL:https://global.scoutingevent.com/082-117550
+END:VEVENT
+BEGIN:VEVENT
+UID:270013@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T180000Z
+DTEND:20270710T140000Z
+SUMMARY:Summer Camp 2027 TBrady Saunders – Week 4: July 4 - July 10
+LOCATION:Camp T. Brady Saunders/Camp S. Douglas Fleet/Cub Adventure Camp\,
+  Maidens\, Virginia
+DESCRIPTION:Heart of Virginia Council\nhttps://global.scoutingevent.com/60
+ 2-2027TBSSummerCamp\n\nBasketry\, Space Exploration\, Swimming\n\n2027 Su
+ mmer Camp at T. Brady Saunders\nVoted The Best Summer Camp by the Richmon
+ d Times-Dispatch in 2025 and Nominated in 2026\nHold - a - Spot Open thro
+ ugh February 9\, 2027\nUnit Registration Opens February 10\, 2027\nMerit 
+ Badge Registration Opens March 17\, 2027\nFees\nBSA Scouts:\n$445 Early B
+ ird Special (if 50% of fee paid by March 17).  The cost increases to $47
+ 0 after March 17th.\nHOVC Scouts\ntaking advantage of our Member Benefit 
+ Discounts (previously referred to as the Season Pass) are eligible f
+URL:https://global.scoutingevent.com/602-2027TBSSummerCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:271741@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T130000Z
+SUMMARY:Blue Ridge Scout Reservation 2027 – Week 5
+LOCATION:Camp Powhatan\, Hiwassee\, Virginia
+DESCRIPTION:Blue Ridge Mountains Council\nhttps://global.scoutingevent.com
+ /599-brmc27\n\nBackpacking\, Safety\, Whitewater\n\nYOUR 2027 APPALACHIAN
+  ADVENTURE\n5 WEEKS: JUNE 13 - JULY 17\nWe offer camp opportunities for S
+ couts of all ages! First-year Scouts can enjoy Brownsea Island\, while mo
+ re experienced Scouts can seek thrills on the New River and in the backco
+ untry of the Blue Ridge Mountains!\nCAMP POWHATAN\nFollow Seven Bridges R
+ oad to meet our enthusiastic base camp staff\, ready to provide your unit
+  with an exciting and unique merit badge experience!\nBROWNSEA ISLAND\nFi
+ rst-year Scouts can stay with their unit at Powha
+URL:https://global.scoutingevent.com/599-brmc27
+END:VEVENT
+BEGIN:VEVENT
+UID:267651@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T180000Z
+DTEND:20270717T110000Z
+SUMMARY:2027 Camp Marriott – Week 3
+LOCATION:Goshen Scout Reservation\, Goshen\, Virginia
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-117550\n\nAutomotive Maintenance\n\nYou’re invited to attend Gosh
+ en Scout Reservation for our 60th anniversary this summer!\nSince 1967\, 
+ Goshen Scout Reservation has hosted thousands of Scouts and leaders\, off
+ ering traditional camping\, merit badge programs\, and high adventure tre
+ ks. With five unique resident camp opportunities and thousands of acres o
+ f wilderness\, Goshen Scout Reservation offers something for every Scout 
+ – from first time campers to seasoned adventures.\nCamp Marriott at Gos
+ hen Scout Reservation\nCamp Marriott offers
+URL:https://global.scoutingevent.com/082-117550
+END:VEVENT
+BEGIN:VEVENT
+UID:267652@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T180000Z
+DTEND:20270724T110000Z
+SUMMARY:2027 Camp Marriott – Week 4
+LOCATION:Goshen Scout Reservation\, Goshen\, Virginia
+DESCRIPTION:National Capital Area Council\nhttps://global.scoutingevent.co
+ m/082-117550\n\nAutomotive Maintenance\n\nYou’re invited to attend Gosh
+ en Scout Reservation for our 60th anniversary this summer!\nSince 1967\, 
+ Goshen Scout Reservation has hosted thousands of Scouts and leaders\, off
+ ering traditional camping\, merit badge programs\, and high adventure tre
+ ks. With five unique resident camp opportunities and thousands of acres o
+ f wilderness\, Goshen Scout Reservation offers something for every Scout 
+ – from first time campers to seasoned adventures.\nCamp Marriott at Gos
+ hen Scout Reservation\nCamp Marriott offers
+URL:https://global.scoutingevent.com/082-117550
 END:VEVENT
 END:VCALENDAR

@@ -7,11 +7,11 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:223748@scout-event-finder
-DTSTAMP:20261125T203656Z
-DTSTART:20261205T050000Z
-DTEND:20261206T045900Z
+DTSTAMP:20261126T200111Z
+DTSTART:20261205T140000Z
+DTEND:20261205T210000Z
 SUMMARY:2026 WG Merit Badge University
-LOCATION:Burt & Chuck August Scout Service Center\, Rochester\, New York
+LOCATION:Greece Athena Middle School\, Rochester\, New York
 DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
  /397-WGMBU\n\n\n\n2026 Western Gateway\nMerit Badge University\nSaturday 
  December 5\, 2026\n9am-4pm\nGreece Athena Middle School\n800 Long Pond Rd
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/397-WGMBU
 END:VEVENT
 BEGIN:VEVENT
 UID:267067@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261212T130000Z
 DTEND:20261212T210000Z
 SUMMARY:Ranger Rick Service Day
@@ -40,7 +40,7 @@ URL:https://global.scoutingevent.com/373-RRSD26
 END:VEVENT
 BEGIN:VEVENT
 UID:229691@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261219T150000Z
 DTEND:20261219T210000Z
 SUMMARY:OA Service and Brotherhood Hike
@@ -58,7 +58,7 @@ URL:https://global.scoutingevent.com/364-98233
 END:VEVENT
 BEGIN:VEVENT
 UID:277391@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261220T173000Z
 DTEND:20261220T223000Z
 SUMMARY:Cold Weather Training
@@ -76,7 +76,7 @@ URL:https://global.scoutingevent.com/386-ColdWeatherTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:258584@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270101T150000Z
 DTEND:20270101T180000Z
 SUMMARY:RSR First Day Hike 2027
@@ -94,7 +94,7 @@ URL:https://global.scoutingevent.com/364-112605
 END:VEVENT
 BEGIN:VEVENT
 UID:265719@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270108T230000Z
 DTEND:20270111T045900Z
 SUMMARY:NYLT Staff development – NYLT Staff Development 3
@@ -112,7 +112,7 @@ URL:https://global.scoutingevent.com/373-nyltsd27
 END:VEVENT
 BEGIN:VEVENT
 UID:273929@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270110T140000Z
 DTEND:20270110T200000Z
 SUMMARY:Intro to OKPIK
@@ -130,7 +130,7 @@ URL:https://global.scoutingevent.com/397-okpik2027jan
 END:VEVENT
 BEGIN:VEVENT
 UID:273939@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270115T220000Z
 DTEND:20270118T170000Z
 SUMMARY:Intro to OKPIK
@@ -148,7 +148,7 @@ URL:https://global.scoutingevent.com/397-okpik2027jan
 END:VEVENT
 BEGIN:VEVENT
 UID:271554@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270116T130000Z
 DTEND:20270116T213000Z
 SUMMARY:Yeti Games 2027 – Yeti Games 2026 Day Event
@@ -166,7 +166,7 @@ URL:https://global.scoutingevent.com/397-119682
 END:VEVENT
 BEGIN:VEVENT
 UID:277155@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270116T140000Z
 DTEND:20270118T160000Z
 SUMMARY:Bluenose
@@ -184,7 +184,7 @@ URL:https://global.scoutingevent.com/386-Bluenose
 END:VEVENT
 BEGIN:VEVENT
 UID:259675@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270122T220000Z
 DTEND:20270124T150000Z
 SUMMARY:Western Gateway Klondike 2027
@@ -202,7 +202,7 @@ URL:https://global.scoutingevent.com/397-WGKlondike
 END:VEVENT
 BEGIN:VEVENT
 UID:264195@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T130000Z
 DTEND:20270123T200000Z
 SUMMARY:GNYC Trex 2027
@@ -220,7 +220,7 @@ URL:https://global.scoutingevent.com/640-trex
 END:VEVENT
 BEGIN:VEVENT
 UID:276407@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T133000Z
 DTEND:20270123T180000Z
 SUMMARY:Council Snowbox Derby – Snowbox Derby - Cubs
@@ -238,7 +238,7 @@ URL:https://global.scoutingevent.com/373-snowbox26
 END:VEVENT
 BEGIN:VEVENT
 UID:257913@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T140000Z
 DTEND:20270123T220000Z
 SUMMARY:NRA Range Safety Officer Class
@@ -256,7 +256,7 @@ URL:https://global.scoutingevent.com/375-RSO
 END:VEVENT
 BEGIN:VEVENT
 UID:277194@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270131T140000Z
 DTEND:20270131T190000Z
 SUMMARY:Willard Mountain Scout Day
@@ -273,7 +273,7 @@ URL:https://global.scoutingevent.com/364-122569
 END:VEVENT
 BEGIN:VEVENT
 UID:279677@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270131T180000Z
 DTEND:20270131T200000Z
 SUMMARY:Pintwood Derby
@@ -291,7 +291,7 @@ URL:https://global.scoutingevent.com/373-pintwood27
 END:VEVENT
 BEGIN:VEVENT
 UID:265808@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T000000Z
 DTEND:20270207T170000Z
 SUMMARY:Welding Merit Badge
@@ -309,7 +309,7 @@ URL:https://global.scoutingevent.com/373-WMBf27
 END:VEVENT
 BEGIN:VEVENT
 UID:258590@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T120000Z
 DTEND:20270206T220000Z
 SUMMARY:Turning Point Klondike Derby 2027
@@ -327,7 +327,7 @@ URL:https://global.scoutingevent.com/364-112611
 END:VEVENT
 BEGIN:VEVENT
 UID:277383@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T130000Z
 DTEND:20270207T150000Z
 SUMMARY:ADK District Klondike Derby
@@ -345,7 +345,7 @@ URL:https://global.scoutingevent.com/364-122661
 END:VEVENT
 BEGIN:VEVENT
 UID:277189@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T130000Z
 DTEND:20270206T210000Z
 SUMMARY:Longhouse Council Gold Rush Klondike
@@ -360,7 +360,7 @@ URL:https://global.scoutingevent.com/373-klondike27
 END:VEVENT
 BEGIN:VEVENT
 UID:276713@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T140000Z
 DTEND:20270206T193000Z
 SUMMARY:Cub Winter Fun Day 2027
@@ -378,7 +378,7 @@ URL:https://global.scoutingevent.com/375-122302
 END:VEVENT
 BEGIN:VEVENT
 UID:275208@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270215T133000Z
 DTEND:20270219T210000Z
 SUMMARY:BHSC Cub Scout Winter Break Day Camp – Cub Scout Winter Day Camp
@@ -396,7 +396,7 @@ URL:https://global.scoutingevent.com/386-cubwinter
 END:VEVENT
 BEGIN:VEVENT
 UID:277512@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270216T140000Z
 DTEND:20270219T230000Z
 SUMMARY:S.T.E.A.M Day Camp – February STEAM
@@ -414,7 +414,7 @@ URL:https://global.scoutingevent.com/397-STEAM27
 END:VEVENT
 BEGIN:VEVENT
 UID:273931@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270217T230000Z
 DTEND:20270221T170000Z
 SUMMARY:Cold Weather Leader Training (OKPIK & OKPIKATTAVIK)
@@ -433,7 +433,7 @@ URL:https://global.scoutingevent.com/397-okpik2027feb
 END:VEVENT
 BEGIN:VEVENT
 UID:275552@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270219T230000Z
 DTEND:20270220T220000Z
 SUMMARY:NRA Chief Range Safety Officer Class
@@ -451,7 +451,7 @@ URL:https://global.scoutingevent.com/375-CRSO
 END:VEVENT
 BEGIN:VEVENT
 UID:271099@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T000000Z
 DTEND:20270228T200000Z
 SUMMARY:NYLT
@@ -469,7 +469,7 @@ URL:https://global.scoutingevent.com/375-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:266830@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T140000Z
 DTEND:20270227T200000Z
 SUMMARY:Basic First Aid (FA) and CPR/AED Course – Basic First Aid and CP
@@ -488,7 +488,7 @@ URL:https://global.scoutingevent.com/397-117141
 END:VEVENT
 BEGIN:VEVENT
 UID:279474@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270304T230000Z
 DTEND:20270305T013000Z
 SUMMARY:Certified Angling Instructor Training
@@ -507,7 +507,7 @@ URL:https://global.scoutingevent.com/373-certifiedanglinginstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:271100@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T000000Z
 DTEND:20270307T200000Z
 SUMMARY:NYLT
@@ -525,7 +525,7 @@ URL:https://global.scoutingevent.com/375-NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:279475@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270311T230000Z
 DTEND:20270312T013000Z
 SUMMARY:Certified Angling Instructor Training
@@ -544,7 +544,7 @@ URL:https://global.scoutingevent.com/373-certifiedanglinginstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:279985@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T123000Z
 DTEND:20270313T220000Z
 SUMMARY:STEM Academy
@@ -562,7 +562,7 @@ URL:https://global.scoutingevent.com/375-124028
 END:VEVENT
 BEGIN:VEVENT
 UID:278454@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T131500Z
 DTEND:20270313T220000Z
 SUMMARY:CST 10 Commissioner College
@@ -580,7 +580,7 @@ URL:https://global.scoutingevent.com/375-123241
 END:VEVENT
 BEGIN:VEVENT
 UID:276169@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T140000Z
 DTEND:20270313T170000Z
 SUMMARY:ADK District Pinewood Derby
@@ -597,7 +597,7 @@ URL:https://global.scoutingevent.com/364-122015
 END:VEVENT
 BEGIN:VEVENT
 UID:279476@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270318T220000Z
 DTEND:20270319T003000Z
 SUMMARY:Certified Angling Instructor Training
@@ -616,7 +616,7 @@ URL:https://global.scoutingevent.com/373-certifiedanglinginstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:265720@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270319T220000Z
 DTEND:20270322T035900Z
 SUMMARY:NYLT Staff development – NYLT Staff Development 4
@@ -634,7 +634,7 @@ URL:https://global.scoutingevent.com/373-nyltsd27
 END:VEVENT
 BEGIN:VEVENT
 UID:218320@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270320T120000Z
 DTEND:20270320T203000Z
 SUMMARY:University of Scouting 2027
@@ -652,7 +652,7 @@ URL:https://global.scoutingevent.com/368-92369
 END:VEVENT
 BEGIN:VEVENT
 UID:279478@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270325T220000Z
 DTEND:20270326T003000Z
 SUMMARY:Certified Angling Instructor Training
@@ -671,7 +671,7 @@ URL:https://global.scoutingevent.com/373-certifiedanglinginstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:279479@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270401T220000Z
 DTEND:20270402T003000Z
 SUMMARY:Certified Angling Instructor Training
@@ -690,7 +690,7 @@ URL:https://global.scoutingevent.com/373-certifiedanglinginstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:274916@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T203000Z
 DTEND:20270404T210000Z
 SUMMARY:National Youth Leadership Training (NYLT) – Weekend 1
@@ -708,7 +708,7 @@ URL:https://global.scoutingevent.com/386-SpringNYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:263507@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T220000Z
 DTEND:20270404T160000Z
 SUMMARY:OA Lodge Induction Experience - Camp Gorton (Current OA Members on
@@ -727,7 +727,7 @@ URL:https://global.scoutingevent.com/375-2027LIE
 END:VEVENT
 BEGIN:VEVENT
 UID:265818@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T230000Z
 DTEND:20270404T160000Z
 SUMMARY:Metal Working Merit Badge
@@ -744,7 +744,7 @@ URL:https://global.scoutingevent.com/373-mwmba27
 END:VEVENT
 BEGIN:VEVENT
 UID:277133@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T103000Z
 DTEND:20270404T183000Z
 SUMMARY:Introduction to Outdoor Leader Skills (IOLS)
@@ -762,7 +762,7 @@ URL:https://global.scoutingevent.com/386-IOLS
 END:VEVENT
 BEGIN:VEVENT
 UID:277023@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T113000Z
 DTEND:20270404T160000Z
 SUMMARY:Basic Adult Leader Outdoor Orientation (BALOO)
@@ -780,7 +780,7 @@ URL:https://global.scoutingevent.com/386-BALOO
 END:VEVENT
 BEGIN:VEVENT
 UID:267334@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T120000Z
 DTEND:20270403T220000Z
 SUMMARY:Wilderness First Aid (WFA) and CPR/AED Course
@@ -798,7 +798,7 @@ URL:https://global.scoutingevent.com/397-117409
 END:VEVENT
 BEGIN:VEVENT
 UID:275181@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270409T223000Z
 DTEND:20270411T000000Z
 SUMMARY:BALOO (Basic Adult Leader Outdoor Orientation)
@@ -816,7 +816,7 @@ URL:https://global.scoutingevent.com/397-121543
 END:VEVENT
 BEGIN:VEVENT
 UID:270884@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270410T040000Z
 DTEND:20270417T035900Z
 SUMMARY:Sea Base 2027 – Florida Sea Base
@@ -834,7 +834,7 @@ URL:https://global.scoutingevent.com/400-seabase
 END:VEVENT
 BEGIN:VEVENT
 UID:263228@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270410T120000Z
 DTEND:20270411T150000Z
 SUMMARY:ITOLS – Intro To Outdoor Leadership Skills
@@ -853,7 +853,7 @@ URL:https://global.scoutingevent.com/375-115258
 END:VEVENT
 BEGIN:VEVENT
 UID:279945@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270410T130000Z
 DTEND:20270410T210000Z
 SUMMARY:Wilderness First Aid (WFA)
@@ -871,7 +871,7 @@ URL:https://global.scoutingevent.com/386-WFA
 END:VEVENT
 BEGIN:VEVENT
 UID:265504@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270411T123000Z
 DTEND:20270411T153000Z
 SUMMARY:Webelos & Arrow of Light Advanced Target Sports Day – Archery AM
@@ -890,7 +890,7 @@ URL:https://global.scoutingevent.com/386-pinday
 END:VEVENT
 BEGIN:VEVENT
 UID:279480@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270415T220000Z
 DTEND:20270416T003000Z
 SUMMARY:Certified Angling Instructor Training
@@ -909,7 +909,7 @@ URL:https://global.scoutingevent.com/373-certifiedanglinginstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:274917@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T203000Z
 DTEND:20270418T210000Z
 SUMMARY:National Youth Leadership Training (NYLT) – Weekend 2
@@ -927,7 +927,7 @@ URL:https://global.scoutingevent.com/386-SpringNYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:265471@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T210000Z
 DTEND:20270418T150000Z
 SUMMARY:Cuboree
@@ -945,7 +945,7 @@ URL:https://global.scoutingevent.com/386-cuboree27
 END:VEVENT
 BEGIN:VEVENT
 UID:263800@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T220000Z
 DTEND:20270418T150000Z
 SUMMARY:Spring Inductions Weekend – Spring Induction Weekend
@@ -961,7 +961,7 @@ URL:https://global.scoutingevent.com/373-oaspring27
 END:VEVENT
 BEGIN:VEVENT
 UID:263232@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270417T120000Z
 DTEND:20270418T150000Z
 SUMMARY:IOLS – Intro To Outdoor Leadership Skills
@@ -980,7 +980,7 @@ URL:https://global.scoutingevent.com/375-115261
 END:VEVENT
 BEGIN:VEVENT
 UID:276932@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270419T123000Z
 DTEND:20270423T200000Z
 SUMMARY:BHSC Cub Scout Spring Break Day Camp – Cub Scout Spring Day Camp
@@ -998,7 +998,7 @@ URL:https://global.scoutingevent.com/386-122430
 END:VEVENT
 BEGIN:VEVENT
 UID:255543@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T110000Z
 DTEND:20270425T210000Z
 SUMMARY:Wood Badge CST 10-373-27 – Wood Badge Weekend #1
@@ -1016,7 +1016,7 @@ URL:https://global.scoutingevent.com/373-WB27
 END:VEVENT
 BEGIN:VEVENT
 UID:259677@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T210000Z
 DTEND:20270425T140000Z
 SUMMARY:Western Gateway Spring Rendezvous 2027
@@ -1034,7 +1034,7 @@ URL:https://global.scoutingevent.com/397-113221
 END:VEVENT
 BEGIN:VEVENT
 UID:263226@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T220000Z
 DTEND:20270425T160000Z
 SUMMARY:OA Fellowship and Annual Banquet - Scouthaven
@@ -1052,7 +1052,7 @@ URL:https://global.scoutingevent.com/375-2027SFABSH
 END:VEVENT
 BEGIN:VEVENT
 UID:255556@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T230000Z
 DTEND:20270425T140000Z
 SUMMARY:2026 Kittan Lodge Spring Service\, Brotherhood Hike and "Lodge Ind
@@ -1071,7 +1071,7 @@ URL:https://global.scoutingevent.com/364-111370
 END:VEVENT
 BEGIN:VEVENT
 UID:276569@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270430T220000Z
 DTEND:20270502T140000Z
 SUMMARY:Schiff Camporee
@@ -1088,7 +1088,7 @@ URL:https://global.scoutingevent.com/386-SchiffCamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:265195@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270430T220000Z
 DTEND:20270502T160000Z
 SUMMARY:Spring 2027  IOLS – Spring Baloo 27
@@ -1106,7 +1106,7 @@ URL:https://global.scoutingevent.com/373-springiols27
 END:VEVENT
 BEGIN:VEVENT
 UID:265788@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270430T220000Z
 DTEND:20270502T150000Z
 SUMMARY:Spring Camporee 27
@@ -1121,7 +1121,7 @@ URL:https://global.scoutingevent.com/373-springcamporee27
 END:VEVENT
 BEGIN:VEVENT
 UID:259003@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270501T120000Z
 DTEND:20270501T210000Z
 SUMMARY:Turning Point Range & Target Day
@@ -1139,7 +1139,7 @@ URL:https://global.scoutingevent.com/364-112814
 END:VEVENT
 BEGIN:VEVENT
 UID:263238@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270507T230000Z
 DTEND:20270509T210000Z
 SUMMARY:Certified Angling Instructor Training
@@ -1157,7 +1157,7 @@ URL:https://global.scoutingevent.com/375-115267
 END:VEVENT
 BEGIN:VEVENT
 UID:263237@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270508T130000Z
 DTEND:20270509T150000Z
 SUMMARY:Cub Scout Cub-O-Ree - Spring
@@ -1175,7 +1175,7 @@ URL:https://global.scoutingevent.com/375-115266
 END:VEVENT
 BEGIN:VEVENT
 UID:276706@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T210000Z
 DTEND:20270516T150000Z
 SUMMARY:GT Spring Camporee
@@ -1193,7 +1193,7 @@ URL:https://global.scoutingevent.com/375-122293
 END:VEVENT
 BEGIN:VEVENT
 UID:265921@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T210000Z
 DTEND:20270516T150000Z
 SUMMARY:WR Spring Camporee
@@ -1211,7 +1211,7 @@ URL:https://global.scoutingevent.com/375-116687
 END:VEVENT
 BEGIN:VEVENT
 UID:263240@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T220000Z
 DTEND:20270516T140000Z
 SUMMARY:Cub Scout Family Weekend
@@ -1229,7 +1229,7 @@ URL:https://global.scoutingevent.com/375-115269
 END:VEVENT
 BEGIN:VEVENT
 UID:277460@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T220000Z
 DTEND:20270516T150000Z
 SUMMARY:Hempstead Lake Camporee – Camporee Registration
@@ -1246,7 +1246,7 @@ URL:https://global.scoutingevent.com/386-HempsteadLake
 END:VEVENT
 BEGIN:VEVENT
 UID:276148@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270515T140000Z
 DTEND:20270515T193000Z
 SUMMARY:Spring Cub-O-Ree and Learn to Camp Weekend – Cub-O-Ree
@@ -1264,7 +1264,7 @@ URL:https://global.scoutingevent.com/373-cuboree27
 END:VEVENT
 BEGIN:VEVENT
 UID:275753@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270515T140000Z
 DTEND:20270516T140000Z
 SUMMARY:Spring Cub-O-Ree and Learn to Camp Weekend – Learn to Camp
@@ -1282,7 +1282,7 @@ URL:https://global.scoutingevent.com/373-cuboree27
 END:VEVENT
 BEGIN:VEVENT
 UID:264233@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270522T040000Z
 DTEND:20270523T035900Z
 SUMMARY:TMR Hammer & Saw Day 2027 – Weekend 1
@@ -1300,7 +1300,7 @@ URL:https://global.scoutingevent.com/640-115798
 END:VEVENT
 BEGIN:VEVENT
 UID:255544@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270522T110000Z
 DTEND:20270523T200000Z
 SUMMARY:Wood Badge CST 10-373-27 – Wood Badge Weekend #2
@@ -1318,7 +1318,7 @@ URL:https://global.scoutingevent.com/373-WB27
 END:VEVENT
 BEGIN:VEVENT
 UID:252862@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270604T210000Z
 DTEND:20270606T140000Z
 SUMMARY:OA Spring Induction at RSR 2027
@@ -1336,7 +1336,7 @@ URL:https://global.scoutingevent.com/364-110325
 END:VEVENT
 BEGIN:VEVENT
 UID:279986@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270604T220000Z
 DTEND:20270606T150000Z
 SUMMARY:STEM NOVA Camporee
@@ -1354,7 +1354,7 @@ URL:https://global.scoutingevent.com/375-124029
 END:VEVENT
 BEGIN:VEVENT
 UID:252460@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270604T220000Z
 DTEND:20270606T160000Z
 SUMMARY:Woodland Beaver weekend
@@ -1370,7 +1370,7 @@ URL:https://global.scoutingevent.com/373-beaver27
 END:VEVENT
 BEGIN:VEVENT
 UID:265498@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270605T123000Z
 DTEND:20270605T163000Z
 SUMMARY:Cub Scout Range & Target Activities – June 5th AM Session
@@ -1388,7 +1388,7 @@ URL:https://global.scoutingevent.com/386-cubrata
 END:VEVENT
 BEGIN:VEVENT
 UID:274551@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T143000Z
 DTEND:20270606T180000Z
 SUMMARY:Kittan Lodge LECM and Summer Picnic after the Spring 2027 Inductio
@@ -1406,7 +1406,7 @@ URL:https://global.scoutingevent.com/364-121258
 END:VEVENT
 BEGIN:VEVENT
 UID:252463@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270611T220000Z
 DTEND:20270614T035900Z
 SUMMARY:All Hands Weekend
@@ -1422,7 +1422,7 @@ URL:https://global.scoutingevent.com/373-Allhands
 END:VEVENT
 BEGIN:VEVENT
 UID:215563@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270612T113000Z
 DTEND:20270612T160000Z
 SUMMARY:Ranger's Fishing Derby 2027 – Fishing Derby
@@ -1440,7 +1440,7 @@ URL:https://global.scoutingevent.com/368-90941
 END:VEVENT
 BEGIN:VEVENT
 UID:274404@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270612T120000Z
 DTEND:20270613T160000Z
 SUMMARY:Bedford Merit Badge Day
@@ -1458,7 +1458,7 @@ URL:https://global.scoutingevent.com/364-121183
 END:VEVENT
 BEGIN:VEVENT
 UID:267084@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270612T200000Z
 DTEND:20270613T140000Z
 SUMMARY:Vigil Induction Weekend – Vigil Inductions
@@ -1473,8 +1473,424 @@ DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-Vigil2
 URL:https://global.scoutingevent.com/373-Vigil27
 END:VEVENT
 BEGIN:VEVENT
+UID:268003@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270618T130000Z
+DTEND:20270620T200000Z
+SUMMARY:Pathfinder Camp 2027 – Pathfinder Camp
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-pfc27\
+ n\n\n\nJoin us for our first-year Scout program\nWhen & Where\nPathfinder
+  Camp\nCamp Woodland\nFriday 06-18-2027 9:00 AM ET to\nSunday 06-20-2027 
+ 4:00 PM ET\nMore Information\nMap of Event\n$\nView Pricing\nCoords: 43.2
+ 732614\, -75.963769\n491 Kibbie Lake Rd\nConstantia\, New York 13044\nPho
+ ne: 315-463-0201\nRegistration Closes:\n&nbsp06-11-2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-pfc27
+END:VEVENT
+BEGIN:VEVENT
+UID:264985@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270618T230000Z
+DTEND:20270620T150000Z
+SUMMARY:Raft-O-Ree 2027
+LOCATION:Camp Keowa\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-116221\n\nAquatics (Lifeguard / Water Rescue)\n\nYou are invited to joi
+ n us on the Delaware River for the\n2027 GNYC Spring Raft-O-Ree!\nProgram
+  includes a day of rafting on the Delaware as well as an evening movie! U
+ nits will camp in TMR Camp Keowa and will be transported to the Delaware 
+ River via Landers River Trips. Participants will be provided Saturday lu
+ nch on the river as well as dinner in the camp dining hall.\nUnit awards 
+ for Best Themed Raft\, Best Troop Mascot\, Most Patriotic Raft\, Funnie
+ st Hats Best Rafting Outfits and Scout Spirit wil
+URL:https://global.scoutingevent.com/640-116221
+END:VEVENT
+BEGIN:VEVENT
+UID:263245@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270619T130000Z
+DTEND:20270619T200000Z
+SUMMARY:BSA Paddlecraft Safety Certification
+LOCATION:Camp Scouthaven\, Freedom\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1152
+ 74\n\nAquatics (Lifeguard / Water Rescue)\n\nPaddle Craft Safety Training
+ \nCamp Scouthaven\nSaturday\, June 19th\n9:00am – 4:00pm\nThis course w
+ ill meet the requirements for Paddle Craft Safety and the American Canoe 
+ Association\, Level I Flatwater Canoeing Requirements. Participants will 
+ experience both classroom and on the water training in various skills spe
+ cific to the course requirements including safety\, trip planning\, paddl
+ ing skills and more.\nParticipants are asked to bring a bagged lunch\, su
+ nscreen\, water and paddling clothes.\nMinium ag
+URL:https://global.scoutingevent.com/375-115274
+END:VEVENT
+BEGIN:VEVENT
+UID:273869@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270626T200000Z
+DTEND:20270703T130000Z
+SUMMARY:WAK - Adirondack Trek Adventures – 2027 WAK - Trek Week 1-Sessio
+ n 1
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1209
+ 12\n\n\n\nWakpominee Adirondack Trek Expeditions Are Here!\nWAK-Treks is 
+ a week long canoeing/fishing adventure program that is offered during Jul
+ y & August that is based at Camp Wakpominee.\nGroup adventures start on S
+ aturday with an afternoon arrival at camp.  They will meet their highly 
+ trained guide who will lead them through getting equipment organized\, re
+ quired training review\,  along with canoe practice including water resc
+ ue techniques and be with them for the entire week.\nCrews are provisione
+ d with
+URL:https://global.scoutingevent.com/364-120912
+END:VEVENT
+BEGIN:VEVENT
+UID:267762@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T150000Z
+DTEND:20270717T140000Z
+SUMMARY:RSR Scouts BSA Resident Camp 2027 – CIT Program
+LOCATION:Rotary Scout Reservation\, Averill Park\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-RSR2
+ 027\n\nArchery\, Canoeing\, Climbing\, Geocaching\, Golf\, Kayaking\, Rif
+ le Shooting\, Wilderness Survival\n\nWhere Summer Adventures Begin!\nWelc
+ ome to Rotary Scout Reservation\, a 1\,300 acre wilderness adventure area
+  in Upstate New York.  RSR is owned and operated by the Twin Rivers Coun
+ cil\, BSA\, and offers four weeks of Scouts BSA summer camp programs and 
+ year round cabin and campsite rentals.\nThe experienced staff members at 
+ Rotary Scout Reservation are trained to provide the most exciting\, high 
+ quality outdoor program for Scouts.  Highlights include:\nDisc Golf\nCli
+ mbing and Rappelling\nSailing and Cano
+URL:https://global.scoutingevent.com/364-RSR2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274665@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270702T210000Z
+SUMMARY:BHSC Scouts BSA Specialty Camps – Bridge Camp
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscspecialty\n\nArchery\, Fish and Wildlife Management\, Fishing\, 
+ Fly Fishing\n\nMany Scouts first experience summer camp with their Troop.
+  Joining your Troop for summer camp is a great time and every Scout shoul
+ d try to camp with their Troop. There are\, however\, additional camping
+  opportunities offered at Baiting Hollow to help a Scout round out their
+  camping experience or help advance in rank.\nAll Scouts BSA Camp progra
+ ms listed below are\nresident/sleep away\nprograms.\nAquatics Camp\nAugus
+ t 15th - August 20th\nSplash into adventure at Lake Arrowhead. Spend a w
+ eek in the water
+URL:https://global.scoutingevent.com/386-bhscspecialty
+END:VEVENT
+BEGIN:VEVENT
+UID:274647@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270628T040000Z
+DTEND:20270703T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 1
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274615@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270628T123000Z
+DTEND:20270702T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 1
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:274384@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270628T220000Z
+DTEND:20270702T003000Z
+SUMMARY:Painted Post Twilight Camp
+LOCATION:Kinsella Park\, Painted Post\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1211
+ 62\n\nRange Officer / Shooting Instructor\n\nSCENIC TRAIL DISTRICT TWILIG
+ HT CAMP\nPAINTED POST - KINSELLA PARK\nJune 28th - July 1st\n6:00pm - 8:3
+ 0pm\nJoin us for a "dino-mite" experience at the Cub Scout Day Camp / Twi
+ light Camp! We are heading back in time for four nights of adventure at K
+ insella Park.\nTwilight Camp is an affordable weekday adventure open to c
+ hildren who will start 1st* through 5th grades in September. Sessions r
+ un Monday through Thursday and children will participate in a wide variet
+ y of activities including games\, crafts\, 
+URL:https://global.scoutingevent.com/375-121162
+END:VEVENT
+BEGIN:VEVENT
+UID:273876@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270703T200000Z
+DTEND:20270710T130000Z
+SUMMARY:WAK - Adirondack Trek Adventures – 2027 WAK - Trek Week 2-Sessio
+ n 2
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1209
+ 12\n\n\n\nWakpominee Adirondack Trek Expeditions Are Here!\nWAK-Treks is 
+ a week long canoeing/fishing adventure program that is offered during Jul
+ y & August that is based at Camp Wakpominee.\nGroup adventures start on S
+ aturday with an afternoon arrival at camp.  They will meet their highly 
+ trained guide who will lead them through getting equipment organized\, re
+ quired training review\,  along with canoe practice including water resc
+ ue techniques and be with them for the entire week.\nCrews are provisione
+ d with
+URL:https://global.scoutingevent.com/364-120912
+END:VEVENT
+BEGIN:VEVENT
+UID:263248@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T140000Z
+DTEND:20270709T200000Z
+SUMMARY:Camp Scouthaven 2027 Scouts BSA Resident Camp – Session 1
+LOCATION:Camp Scouthaven\, Freedom\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1152
+ 77\n\nSafeguarding Youth / YPT\n\nDuring the summer\, Camp Scouthaven off
+ ers both Cub Scout Resident camp and Scouts BSA Resident camp programs.\n
+ Camp Scouthaven offers over 50 merit badges each summer including 9 or mo
+ re Eagle Required Merit Badges along with an extensive open program\, des
+ igned to meet the demands of new scouts to the experienced scout at camp.
+ \nIt is strongly recommended that Unit Leaders enable\nparent portal\n. W
+ hen this is done you will have log-in cards to print and give to your par
+ ents. They can then log in an
+URL:https://global.scoutingevent.com/375-115277
+END:VEVENT
+BEGIN:VEVENT
+UID:267962@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T150000Z
+DTEND:20270706T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 1
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:276935@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270711T020000Z
+SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 1
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-Tusky2027\n\nClimbing\, First Aid\, Music\n\nTuscarora Scout Reserva
+ tion\nis the perfect destination for Scouts looking for a memorable summ
+ er camp experience. Nestled in the foothills of the Catskill Mountains on
+  the New York/Pennsylvania border\, our 900-acre camp features everything
+  from thrilling aquatic activities on the 35-acre Summit Lake to hands-on
+  learning opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sp
+ orts\, Music & Arts and more. With top-notch amenities including a 40-foo
+ t climbing tower\, modern individual-stall show
+URL:https://global.scoutingevent.com/397-Tusky2027
+END:VEVENT
+BEGIN:VEVENT
+UID:267934@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T140000Z
+SUMMARY:Camp Aquehonga 2027 – Week 1
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:267477@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T140000Z
+SUMMARY:Massawepie Scout Camps - 75th Anniversary – Week 1
+LOCATION:Massawepie Scout Camps\, Tupper Lake\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-MSCSummer75\n\n\n\nWelcome to Massawepie Scout Camps\nLocated in the
+  heart of the Adirondack Mountains of northern New York State\, Massawepi
+ e Scout Camps offers an experience unlike any other Scout camp. For 75 ye
+ ars\, generations of Scouts have come to Massawepie to explore the Adiron
+ dacks\, learn new skills\, challenge themselves\, and make memories that 
+ last long after summer ends.\nIn 2027\, we celebrate 75 years of Massawep
+ ie. From the first Scouts who arrived in 1952 to the thousands of Scouts 
+ who visit us today\, M
+URL:https://global.scoutingevent.com/397-MSCSummer75
+END:VEVENT
+BEGIN:VEVENT
+UID:267755@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T140000Z
+SUMMARY:RSR Scouts BSA Resident Camp 2027 – Week 1
+LOCATION:Rotary Scout Reservation\, Averill Park\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-RSR2
+ 027\n\nArchery\, Canoeing\, Climbing\, Geocaching\, Golf\, Kayaking\, Rif
+ le Shooting\, Wilderness Survival\n\nWhere Summer Adventures Begin!\nWelc
+ ome to Rotary Scout Reservation\, a 1\,300 acre wilderness adventure area
+  in Upstate New York.  RSR is owned and operated by the Twin Rivers Coun
+ cil\, BSA\, and offers four weeks of Scouts BSA summer camp programs and 
+ year round cabin and campsite rentals.\nThe experienced staff members at 
+ Rotary Scout Reservation are trained to provide the most exciting\, high 
+ quality outdoor program for Scouts.  Highlights include:\nDisc Golf\nCli
+ mbing and Rappelling\nSailing and Cano
+URL:https://global.scoutingevent.com/364-RSR2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274648@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T040000Z
+DTEND:20270710T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 2
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274616@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T123000Z
+DTEND:20270709T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 2
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:274378@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T130000Z
+DTEND:20270709T200000Z
+SUMMARY:Godfrey's Pond Day Camp
+LOCATION:Godfrey's Pond\, Bergen\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1211
+ 58\n\nRange Officer / Shooting Instructor\n\nSTAFFORD DAY CAMP\nGODFREY'S
+  POND\nJuly 5th - 9th\, 2027\n9:00am - 4:00pm\nDay Camp is an affordable 
+ weekday adventure open to children who will start 1st* through 5th grad
+ es in September. Sessions run Monday through Friday and children will par
+ ticipate in a wide variety of activities including games\, crafts\, arche
+ ry\, & STEM. Children can participate whether or not they are currently i
+ nvolved in a Cub Scout program.\nDay Camp is more fun when you come with 
+ your friends\, so start planning now for this 
+URL:https://global.scoutingevent.com/375-121158
+END:VEVENT
+BEGIN:VEVENT
+UID:274380@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T130000Z
+DTEND:20270709T200000Z
+SUMMARY:Tonawanda Day Camp
+LOCATION:Eastern Park\, Tonawanda\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1211
+ 60\n\n\n\nTONAWANDA DAY CAMP\nEASTERN PARK\nJuly 5th - 9th\, 2027\n9:00am
+  - 4:00pm\nD\nay Camp is an affordable weekday adventure open to children
+  who will start 1st* through 5th grades in September. Sessions run Mond
+ ay through Friday and children will participate in a wide variety of acti
+ vities including games\, crafts\, archery\, & STEM. Children can particip
+ ate whether or not they are currently involved in a Cub Scout program.\nD
+ ay Camp is more fun when you come with your friends\, so start planning n
+ ow for this 
+URL:https://global.scoutingevent.com/375-121160
+END:VEVENT
+BEGIN:VEVENT
+UID:263254@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270706T170000Z
+DTEND:20270709T230000Z
+SUMMARY:Cub Adventure Camp Gorton 2027
+LOCATION:Camp Gorton\, Dundee\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-gort
+ oncubadventurecamp27\n\n\n\nCub Adventure Camp\nDuring your stay at Camp 
+ Gorton\, you can participate in fun activities like a nature hike\, fishi
+ ng\, open shoot at both ranges\, outdoor skills training\, swimming and m
+ uch more:\nEnjoy fun in the water and on the water with swimming\, boats 
+ of all sorts\, and fishing.\nHone your marksmanship skills at our popular
+  shooting sports range.\nLearn about the wildlife\, plants and trees that
+  live at camp\; play a fast-paced game of Gaga\; and learn outdoor skills
+  in our other program areas.\nCr
+URL:https://global.scoutingevent.com/375-gortoncubadventurecamp27
+END:VEVENT
+BEGIN:VEVENT
+UID:277202@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270707T213000Z
+DTEND:20270711T170000Z
+SUMMARY:Cub Scout Summer Adventure Camp – Session 1
+LOCATION:Camp Kingsley\, Ava\, New York
+DESCRIPTION:Leatherstocking Council\nhttps://global.scoutingevent.com/400-
+ KingsleySummer\n\n\n\n“THE COOLEST CAMP IN THE NORTHEAST” IS THE ULTI
+ MATE\,\nCUB SCOUT ADVENTURE DESTINATION THIS SUMMER\nAsk any Scout of any
+  age of their fondest memories in Scouting and undoubtedly the first thin
+ g mentioned will be Summer Camp.\nSummer camp at Camp Kingsley is where b
+ oys and girls learn self-reliance\, build character\, and create friendsh
+ ips that last a lifetime. Signing up your child or unit for summer reside
+ nt camp means that your Scout(s) will not miss out on an amazing experien
+ ce where they learn c
+URL:https://global.scoutingevent.com/400-KingsleySummer
+END:VEVENT
+BEGIN:VEVENT
+UID:267963@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270708T150000Z
+DTEND:20270710T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 2
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
 UID:265721@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270710T040000Z
 DTEND:20270712T035900Z
 SUMMARY:NYLT Staff development – NYLT Staff Development 6
@@ -1489,5 +1905,2191 @@ DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-nyltsd
  to\nSunday 03-21-2027 11:59 PM ET\nMore Information\nMap of Session\n$\nV
  iew Pricing\nCoords: 43.273261
 URL:https://global.scoutingevent.com/373-nyltsd27
+END:VEVENT
+BEGIN:VEVENT
+UID:273911@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270710T150000Z
+DTEND:20270717T130000Z
+SUMMARY:WAK - Adirondack Trek Adventures – 2027 WAK - Trek Week 3 Sessio
+ n 3
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1209
+ 12\n\n\n\nWakpominee Adirondack Trek Expeditions Are Here!\nWAK-Treks is 
+ a week long canoeing/fishing adventure program that is offered during Jul
+ y & August that is based at Camp Wakpominee.\nGroup adventures start on S
+ aturday with an afternoon arrival at camp.  They will meet their highly 
+ trained guide who will lead them through getting equipment organized\, re
+ quired training review\,  along with canoe practice including water resc
+ ue techniques and be with them for the entire week.\nCrews are provisione
+ d with
+URL:https://global.scoutingevent.com/364-120912
+END:VEVENT
+BEGIN:VEVENT
+UID:278795@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270710T170000Z
+DTEND:20270713T140000Z
+SUMMARY:Camp Wakpominee Cub Scout Resident Camp 2027 – Great Scout Adven
+ ture at Camp Wakpominee!
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-WAKC
+ UBRESIDENT\n\n\n\nJoin us for the Great Scout Adventure at Camp Wakpomine
+ e! Campers will receive a secret expedition map that they will use to lea
+ rn outdoor skills\, overcome challenges and learn how to work together\, 
+ complete new adventures\, work on your next rank and have a lot of fun al
+ ong the way.\nThe adventure takes place at Camp Wakpominee\, located in t
+ he beautiful Adirondack wilderness near Fort Ann\, NY. Cub Scouts live in
+  canvas tents or lean to's during their stay at camp. Meals are enjoyed i
+ n the camp di
+URL:https://global.scoutingevent.com/364-WAKCUBRESIDENT
+END:VEVENT
+BEGIN:VEVENT
+UID:268044@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T130000Z
+DTEND:20270717T163000Z
+SUMMARY:Onteora Summer Camp – Week 1
+LOCATION:Onteora Scout Reservation\, Livingston Manor\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-117773\n\n\n\nTucked away in the heart of New York's beautiful Catsk
+ ill Mountains\,\nOnteora Scout Reservation (OSR)\nis more than a summer c
+ amp - it's a home away from home. Known proudly as\n"The Land in the Sky\
+ ,"\nOnteora is where Scouts come to grow\, explore\, and build lasting me
+ mories. Every Scout who arrives is greeted with the same warm message:\n"
+ Welcome Home."\nAt Onteora\, generations of Scouts have experienced the p
+ erfect mix of classic Scouting spirit and modern adventure. Whether your 
+ Scout is just begin
+URL:https://global.scoutingevent.com/386-117773
+END:VEVENT
+BEGIN:VEVENT
+UID:263249@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T140000Z
+DTEND:20270716T200000Z
+SUMMARY:Camp Scouthaven 2027 Scouts BSA Resident Camp – Session 2
+LOCATION:Camp Scouthaven\, Freedom\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1152
+ 77\n\nSafeguarding Youth / YPT\n\nDuring the summer\, Camp Scouthaven off
+ ers both Cub Scout Resident camp and Scouts BSA Resident camp programs.\n
+ Camp Scouthaven offers over 50 merit badges each summer including 9 or mo
+ re Eagle Required Merit Badges along with an extensive open program\, des
+ igned to meet the demands of new scouts to the experienced scout at camp.
+ \nIt is strongly recommended that Unit Leaders enable\nparent portal\n. W
+ hen this is done you will have log-in cards to print and give to your par
+ ents. They can then log in an
+URL:https://global.scoutingevent.com/375-115277
+END:VEVENT
+BEGIN:VEVENT
+UID:267964@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T150000Z
+DTEND:20270713T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 3
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:276936@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270718T020000Z
+SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 2
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-Tusky2027\n\nClimbing\, First Aid\, Music\n\nTuscarora Scout Reserva
+ tion\nis the perfect destination for Scouts looking for a memorable summ
+ er camp experience. Nestled in the foothills of the Catskill Mountains on
+  the New York/Pennsylvania border\, our 900-acre camp features everything
+  from thrilling aquatic activities on the 35-acre Summit Lake to hands-on
+  learning opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sp
+ orts\, Music & Arts and more. With top-notch amenities including a 40-foo
+ t climbing tower\, modern individual-stall show
+URL:https://global.scoutingevent.com/397-Tusky2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274630@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:BHSC Rising Sun Provo Camp – Week 1
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscprovo\n\nArchery\n\nThere are a lot of good reasons for going to
+  summer camp at Baiting Hollow Scout Camp. It's always fun doing things a
+ t the waterfront\, rifle range\, archery range\, and craft center. It's f
+ un sitting around the campfire with a circle of friends. It's fun to lear
+ n something new in a merit badge class\, and it is really fun to watch th
+ e sun set at the beach on Long Island Sound. We take fun very seriously a
+ t Baiting Hollow!\nBe part of our Rising Sun program where the Scouts a
+ re part of our Rising Sun
+URL:https://global.scoutingevent.com/386-bhscprovo
+END:VEVENT
+BEGIN:VEVENT
+UID:274668@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270724T140000Z
+SUMMARY:BHSC Scouts BSA Specialty Camps – Counselor in Training Camp (CI
+ T)
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscspecialty\n\nArchery\, Fish and Wildlife Management\, Fishing\, 
+ Fly Fishing\n\nMany Scouts first experience summer camp with their Troop.
+  Joining your Troop for summer camp is a great time and every Scout shoul
+ d try to camp with their Troop. There are\, however\, additional camping
+  opportunities offered at Baiting Hollow to help a Scout round out their
+  camping experience or help advance in rank.\nAll Scouts BSA Camp progra
+ ms listed below are\nresident/sleep away\nprograms.\nAquatics Camp\nAugus
+ t 15th - August 20th\nSplash into adventure at Lake Arrowhead. Spend a w
+ eek in the water
+URL:https://global.scoutingevent.com/386-bhscspecialty
+END:VEVENT
+BEGIN:VEVENT
+UID:269805@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:BHSC Troop Summer Camp 2027 – Week 1
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsctroop2027\n\nArchery\n\nThere are a lot of great reasons to spen
+ d your summer at Baiting Hollow Scout Camp!\nAt Baiting Hollow\, fun is a
+ t the heart of everything we do. Scouts enjoy days at the waterfront\, ri
+ fle range\, archery range\, and craft center\, along with hands-on merit 
+ badge classes that challenge them to learn something new. Evenings are sp
+ ent gathered around the campfire with friends or watching the sun set ove
+ r the beautiful waters of Long Island Sound.\nSummer camp is a cornerston
+ e of the Scouting experience\,
+URL:https://global.scoutingevent.com/386-bhsctroop2027
+END:VEVENT
+BEGIN:VEVENT
+UID:267935@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:Camp Aquehonga 2027 – Week 2
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:263255@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:Camp Gorton 2027 Scouts BSA Resident Camp – Session 1
+LOCATION:Camp Gorton\, Dundee\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-gort
+ onsbsacamp27\n\nSafeguarding Youth / YPT\n\nCamp Gorton is located outsid
+ e of Dundee New York on beautiful Waneta Lake. During the summer\, Camp G
+ orton offers both Cub Scout Resident camp and SBSA Resident camp programs
+ .\nCamp Gorton offers over 50 merit badges each summer including 9 or mor
+ e Eagle Required Merit Badges along with an extensive open program that i
+ ncludes the Gorton Trail Hiker Award\, Shooting Sports Top Shot Award\, N
+ ature Award\, Scoutcraft Frontiersman Award\, Polar Swim and Fish\, Mile 
+ Swim\, and several other programs. Design
+URL:https://global.scoutingevent.com/375-gortonsbsacamp27
+END:VEVENT
+BEGIN:VEVENT
+UID:267478@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:Massawepie Scout Camps - 75th Anniversary – Week 2
+LOCATION:Massawepie Scout Camps\, Tupper Lake\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-MSCSummer75\n\n\n\nWelcome to Massawepie Scout Camps\nLocated in the
+  heart of the Adirondack Mountains of northern New York State\, Massawepi
+ e Scout Camps offers an experience unlike any other Scout camp. For 75 ye
+ ars\, generations of Scouts have come to Massawepie to explore the Adiron
+ dacks\, learn new skills\, challenge themselves\, and make memories that 
+ last long after summer ends.\nIn 2027\, we celebrate 75 years of Massawep
+ ie. From the first Scouts who arrived in 1952 to the thousands of Scouts 
+ who visit us today\, M
+URL:https://global.scoutingevent.com/397-MSCSummer75
+END:VEVENT
+BEGIN:VEVENT
+UID:267756@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:RSR Scouts BSA Resident Camp 2027 – Week 2
+LOCATION:Rotary Scout Reservation\, Averill Park\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-RSR2
+ 027\n\nArchery\, Canoeing\, Climbing\, Geocaching\, Golf\, Kayaking\, Rif
+ le Shooting\, Wilderness Survival\n\nWhere Summer Adventures Begin!\nWelc
+ ome to Rotary Scout Reservation\, a 1\,300 acre wilderness adventure area
+  in Upstate New York.  RSR is owned and operated by the Twin Rivers Coun
+ cil\, BSA\, and offers four weeks of Scouts BSA summer camp programs and 
+ year round cabin and campsite rentals.\nThe experienced staff members at 
+ Rotary Scout Reservation are trained to provide the most exciting\, high 
+ quality outdoor program for Scouts.  Highlights include:\nDisc Golf\nCli
+ mbing and Rappelling\nSailing and Cano
+URL:https://global.scoutingevent.com/364-RSR2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274649@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T040000Z
+DTEND:20270717T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 3
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274617@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T123000Z
+DTEND:20270716T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 3
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:274190@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T130000Z
+DTEND:20270716T200000Z
+SUMMARY:Elma Day Camp
+LOCATION:St. Gabriel’s RC Church\, Elma\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1210
+ 74\n\n\n\nELMA DAY CAMP - WHITETAIL DISTRICT\nSt. Gabriel's RC Church\nJu
+ ly 12th - 16th\, 2027\n9:00am - 4:00pm\nD\nay Camp is an affordable weekd
+ ay adventure open to children who will start 1st* through 5th grades in
+  September. Sessions run Monday through Friday and children will particip
+ ate in a wide variety of activities including games\, crafts\, archery\, 
+ & STEM. Children can participate whether or not they are currently involv
+ ed in a Cub Scout program.\nDay Camp is more fun when you come with your 
+ friends\, so
+URL:https://global.scoutingevent.com/375-121074
+END:VEVENT
+BEGIN:VEVENT
+UID:277203@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270714T213000Z
+DTEND:20270718T170000Z
+SUMMARY:Cub Scout Summer Adventure Camp – Session 2
+LOCATION:Camp Kingsley\, Ava\, New York
+DESCRIPTION:Leatherstocking Council\nhttps://global.scoutingevent.com/400-
+ KingsleySummer\n\n\n\n“THE COOLEST CAMP IN THE NORTHEAST” IS THE ULTI
+ MATE\,\nCUB SCOUT ADVENTURE DESTINATION THIS SUMMER\nAsk any Scout of any
+  age of their fondest memories in Scouting and undoubtedly the first thin
+ g mentioned will be Summer Camp.\nSummer camp at Camp Kingsley is where b
+ oys and girls learn self-reliance\, build character\, and create friendsh
+ ips that last a lifetime. Signing up your child or unit for summer reside
+ nt camp means that your Scout(s) will not miss out on an amazing experien
+ ce where they learn c
+URL:https://global.scoutingevent.com/400-KingsleySummer
+END:VEVENT
+BEGIN:VEVENT
+UID:267965@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270715T150000Z
+DTEND:20270717T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 4
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:268045@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T130000Z
+DTEND:20270724T163000Z
+SUMMARY:Onteora Summer Camp – Week 2
+LOCATION:Onteora Scout Reservation\, Livingston Manor\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-117773\n\n\n\nTucked away in the heart of New York's beautiful Catsk
+ ill Mountains\,\nOnteora Scout Reservation (OSR)\nis more than a summer c
+ amp - it's a home away from home. Known proudly as\n"The Land in the Sky\
+ ,"\nOnteora is where Scouts come to grow\, explore\, and build lasting me
+ mories. Every Scout who arrives is greeted with the same warm message:\n"
+ Welcome Home."\nAt Onteora\, generations of Scouts have experienced the p
+ erfect mix of classic Scouting spirit and modern adventure. Whether your 
+ Scout is just begin
+URL:https://global.scoutingevent.com/386-117773
+END:VEVENT
+BEGIN:VEVENT
+UID:267966@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T150000Z
+DTEND:20270720T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 5
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:276937@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270725T020000Z
+SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 3
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-Tusky2027\n\nClimbing\, First Aid\, Music\n\nTuscarora Scout Reserva
+ tion\nis the perfect destination for Scouts looking for a memorable summ
+ er camp experience. Nestled in the foothills of the Catskill Mountains on
+  the New York/Pennsylvania border\, our 900-acre camp features everything
+  from thrilling aquatic activities on the 35-acre Summit Lake to hands-on
+  learning opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sp
+ orts\, Music & Arts and more. With top-notch amenities including a 40-foo
+ t climbing tower\, modern individual-stall show
+URL:https://global.scoutingevent.com/397-Tusky2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274637@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:BHSC Rising Sun Provo Camp – Week 2
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscprovo\n\nArchery\n\nThere are a lot of good reasons for going to
+  summer camp at Baiting Hollow Scout Camp. It's always fun doing things a
+ t the waterfront\, rifle range\, archery range\, and craft center. It's f
+ un sitting around the campfire with a circle of friends. It's fun to lear
+ n something new in a merit badge class\, and it is really fun to watch th
+ e sun set at the beach on Long Island Sound. We take fun very seriously a
+ t Baiting Hollow!\nBe part of our Rising Sun program where the Scouts a
+ re part of our Rising Sun
+URL:https://global.scoutingevent.com/386-bhscprovo
+END:VEVENT
+BEGIN:VEVENT
+UID:274612@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:BHSC Troop Summer Camp 2027 – Week 2
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsctroop2027\n\nArchery\n\nThere are a lot of great reasons to spen
+ d your summer at Baiting Hollow Scout Camp!\nAt Baiting Hollow\, fun is a
+ t the heart of everything we do. Scouts enjoy days at the waterfront\, ri
+ fle range\, archery range\, and craft center\, along with hands-on merit 
+ badge classes that challenge them to learn something new. Evenings are sp
+ ent gathered around the campfire with friends or watching the sun set ove
+ r the beautiful waters of Long Island Sound.\nSummer camp is a cornerston
+ e of the Scouting experience\,
+URL:https://global.scoutingevent.com/386-bhsctroop2027
+END:VEVENT
+BEGIN:VEVENT
+UID:267936@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:Camp Aquehonga 2027 – Week 3
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:263256@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:Camp Gorton 2027 Scouts BSA Resident Camp – Session 2
+LOCATION:Camp Gorton\, Dundee\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-gort
+ onsbsacamp27\n\nSafeguarding Youth / YPT\n\nCamp Gorton is located outsid
+ e of Dundee New York on beautiful Waneta Lake. During the summer\, Camp G
+ orton offers both Cub Scout Resident camp and SBSA Resident camp programs
+ .\nCamp Gorton offers over 50 merit badges each summer including 9 or mor
+ e Eagle Required Merit Badges along with an extensive open program that i
+ ncludes the Gorton Trail Hiker Award\, Shooting Sports Top Shot Award\, N
+ ature Award\, Scoutcraft Frontiersman Award\, Polar Swim and Fish\, Mile 
+ Swim\, and several other programs. Design
+URL:https://global.scoutingevent.com/375-gortonsbsacamp27
+END:VEVENT
+BEGIN:VEVENT
+UID:273643@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T150000Z
+SUMMARY:Camp Wakpominee Scouts BSA Resident Camp 2027 – Scouts BSA Resid
+ ent Camp
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-WakR
+ es27\n\nArchery\, Safety\n\nAre you READY for ADVENTURE!!!!\nWelcome to C
+ amp Wakpominee\, a 1\,000+ acre Adirondack Mountain wilderness area of be
+ autiful Washington County\, NY.  The camp has operated for more than 100
+  years and celebrated this anniversary in 2020.  Camp Walpominee is owne
+ d and operated by the Twin Rivers Council\, and will be offering one week
+  of Scout Resident Camp in 2027.  In addition to Scout and Cub Resident 
+ camps\, the camp offers year round cabin and campsite rentals.  We also 
+ have opportunities for outs
+URL:https://global.scoutingevent.com/364-WakRes27
+END:VEVENT
+BEGIN:VEVENT
+UID:267764@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270721T140000Z
+SUMMARY:Cub Scout Resident Camp 2027 – Session 1
+LOCATION:Rotary Scout Reservation\, Averill Park\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1176
+ 06\n\n\n\nEnjoy the thrill of Scouting in the outdoors at our Cub Scout R
+ esident Camp! Enjoy all of your favorite outdoor programs like fishing\, 
+ swimming\, boating\, nature study\, archery and BB shooting sports\, craf
+ ts\, and much more!\nFill up on delicious and nutritious meals expertly c
+ rafted by our kitchen staff and visit the Trading Post for slushies or ic
+ e cream treats on those hot summer days. Cool off at our waterfront and 
+ then sing songs and tell stories around the campfire at night.\nWhen you 
+ are good
+URL:https://global.scoutingevent.com/364-117606
+END:VEVENT
+BEGIN:VEVENT
+UID:267479@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:Massawepie Scout Camps - 75th Anniversary – Week 3
+LOCATION:Massawepie Scout Camps\, Tupper Lake\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-MSCSummer75\n\n\n\nWelcome to Massawepie Scout Camps\nLocated in the
+  heart of the Adirondack Mountains of northern New York State\, Massawepi
+ e Scout Camps offers an experience unlike any other Scout camp. For 75 ye
+ ars\, generations of Scouts have come to Massawepie to explore the Adiron
+ dacks\, learn new skills\, challenge themselves\, and make memories that 
+ last long after summer ends.\nIn 2027\, we celebrate 75 years of Massawep
+ ie. From the first Scouts who arrived in 1952 to the thousands of Scouts 
+ who visit us today\, M
+URL:https://global.scoutingevent.com/397-MSCSummer75
+END:VEVENT
+BEGIN:VEVENT
+UID:274650@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T040000Z
+DTEND:20270724T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 4
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274618@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T123000Z
+DTEND:20270723T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 4
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:272186@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T123000Z
+DTEND:20270723T203000Z
+SUMMARY:Cub Scout Day Camp 2027 – Cub Day Camp: Tides of Adventure
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-cubday
+ camp27\n\n\n\nCub Scout Day Camp 2027\nGeneral Camp Information\nCub Scou
+ t Day Camp is held annually at Camp Woodland in Constantia\, NY - your ho
+ me for Cub Scout adventure! Put on by a dedicated staff\, Cub Scout Day C
+ amp is the highlight of the summer.\nBy participating in day camp\, the s
+ couts will have the opportunity to explore skills\, and work on fascinati
+ ng projects\, while at the same time having fun\, exploring our natural w
+ orld\, and fostering lasting friendships.You can also expect the scouts t
+ o be able to 
+URL:https://global.scoutingevent.com/373-cubdaycamp27
+END:VEVENT
+BEGIN:VEVENT
+UID:274385@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T130000Z
+DTEND:20270723T200000Z
+SUMMARY:Depew Day Camp
+LOCATION:Depew Fireman's Park\, Depew\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1211
+ 64\n\nRange Officer / Shooting Instructor\n\nDEPEW FIREMAN'S PARK DAY CAM
+ P\nJune 19th - July 23rd\, 2027\n9:00am - 4:00pm\nDay Camp is an affordab
+ le weekday adventure open to children who will start 1st* through 5th g
+ rades in September. Sessions run Monday through Friday and children will 
+ participate in a wide variety of activities including games\, crafts\, ar
+ chery\, & STEM. Children can participate whether or not they are currentl
+ y involved in a Cub Scout program.\nDay Camp is more fun when you come wi
+ th your friends\, so start planning now for t
+URL:https://global.scoutingevent.com/375-121164
+END:VEVENT
+BEGIN:VEVENT
+UID:267765@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270721T170000Z
+DTEND:20270724T140000Z
+SUMMARY:Cub Scout Resident Camp 2027 – Session 2
+LOCATION:Rotary Scout Reservation\, Averill Park\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1176
+ 06\n\n\n\nEnjoy the thrill of Scouting in the outdoors at our Cub Scout R
+ esident Camp! Enjoy all of your favorite outdoor programs like fishing\, 
+ swimming\, boating\, nature study\, archery and BB shooting sports\, craf
+ ts\, and much more!\nFill up on delicious and nutritious meals expertly c
+ rafted by our kitchen staff and visit the Trading Post for slushies or ic
+ e cream treats on those hot summer days. Cool off at our waterfront and 
+ then sing songs and tell stories around the campfire at night.\nWhen you 
+ are good
+URL:https://global.scoutingevent.com/364-117606
+END:VEVENT
+BEGIN:VEVENT
+UID:277204@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270721T213000Z
+DTEND:20270725T170000Z
+SUMMARY:Cub Scout Summer Adventure Camp – Session 3
+LOCATION:Camp Kingsley\, Ava\, New York
+DESCRIPTION:Leatherstocking Council\nhttps://global.scoutingevent.com/400-
+ KingsleySummer\n\n\n\n“THE COOLEST CAMP IN THE NORTHEAST” IS THE ULTI
+ MATE\,\nCUB SCOUT ADVENTURE DESTINATION THIS SUMMER\nAsk any Scout of any
+  age of their fondest memories in Scouting and undoubtedly the first thin
+ g mentioned will be Summer Camp.\nSummer camp at Camp Kingsley is where b
+ oys and girls learn self-reliance\, build character\, and create friendsh
+ ips that last a lifetime. Signing up your child or unit for summer reside
+ nt camp means that your Scout(s) will not miss out on an amazing experien
+ ce where they learn c
+URL:https://global.scoutingevent.com/400-KingsleySummer
+END:VEVENT
+BEGIN:VEVENT
+UID:263251@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270722T140000Z
+DTEND:20270725T200000Z
+SUMMARY:Cub Summer Camp Scouthaven 2027 – Week 1
+LOCATION:Camp Scouthaven\, Freedom\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1152
+ 78\n\n\n\nCub Adventure Camp\nDuring your stay at Camp Scouthaven\, you c
+ an participate in fun activities like a nature hike\, fishing\, BB Guns &
+  Archery\, outdoor skills training\, swimming\, boating and much more:\nE
+ njoy fun in the water and on the water with swimming\, boats of all sorts
+ \, and fishing.\nHone your marksmanship skills at our BB & Archery Ranges
+ .\nLearn about the wildlife\, plants and trees that live at camp\; play a
+  fast-paced game of Gaga\; and learn outdoor skills in our other program 
+ areas.\nCreate 
+URL:https://global.scoutingevent.com/375-115278
+END:VEVENT
+BEGIN:VEVENT
+UID:267967@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270722T150000Z
+DTEND:20270724T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 6
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:273913@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270724T150000Z
+DTEND:20270731T130000Z
+SUMMARY:WAK - Adirondack Trek Adventures – 2027 WAK - Trek Week 4 Sessio
+ n 4
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1209
+ 12\n\n\n\nWakpominee Adirondack Trek Expeditions Are Here!\nWAK-Treks is 
+ a week long canoeing/fishing adventure program that is offered during Jul
+ y & August that is based at Camp Wakpominee.\nGroup adventures start on S
+ aturday with an afternoon arrival at camp.  They will meet their highly 
+ trained guide who will lead them through getting equipment organized\, re
+ quired training review\,  along with canoe practice including water resc
+ ue techniques and be with them for the entire week.\nCrews are provisione
+ d with
+URL:https://global.scoutingevent.com/364-120912
+END:VEVENT
+BEGIN:VEVENT
+UID:268046@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T130000Z
+DTEND:20270731T163000Z
+SUMMARY:Onteora Summer Camp – Week 3
+LOCATION:Onteora Scout Reservation\, Livingston Manor\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-117773\n\n\n\nTucked away in the heart of New York's beautiful Catsk
+ ill Mountains\,\nOnteora Scout Reservation (OSR)\nis more than a summer c
+ amp - it's a home away from home. Known proudly as\n"The Land in the Sky\
+ ,"\nOnteora is where Scouts come to grow\, explore\, and build lasting me
+ mories. Every Scout who arrives is greeted with the same warm message:\n"
+ Welcome Home."\nAt Onteora\, generations of Scouts have experienced the p
+ erfect mix of classic Scouting spirit and modern adventure. Whether your 
+ Scout is just begin
+URL:https://global.scoutingevent.com/386-117773
+END:VEVENT
+BEGIN:VEVENT
+UID:267968@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T150000Z
+DTEND:20270727T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 7
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:276938@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270801T020000Z
+SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 4
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-Tusky2027\n\nClimbing\, First Aid\, Music\n\nTuscarora Scout Reserva
+ tion\nis the perfect destination for Scouts looking for a memorable summ
+ er camp experience. Nestled in the foothills of the Catskill Mountains on
+  the New York/Pennsylvania border\, our 900-acre camp features everything
+  from thrilling aquatic activities on the 35-acre Summit Lake to hands-on
+  learning opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sp
+ orts\, Music & Arts and more. With top-notch amenities including a 40-foo
+ t climbing tower\, modern individual-stall show
+URL:https://global.scoutingevent.com/397-Tusky2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274638@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T140000Z
+SUMMARY:BHSC Rising Sun Provo Camp – Week 3
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscprovo\n\nArchery\n\nThere are a lot of good reasons for going to
+  summer camp at Baiting Hollow Scout Camp. It's always fun doing things a
+ t the waterfront\, rifle range\, archery range\, and craft center. It's f
+ un sitting around the campfire with a circle of friends. It's fun to lear
+ n something new in a merit badge class\, and it is really fun to watch th
+ e sun set at the beach on Long Island Sound. We take fun very seriously a
+ t Baiting Hollow!\nBe part of our Rising Sun program where the Scouts a
+ re part of our Rising Sun
+URL:https://global.scoutingevent.com/386-bhscprovo
+END:VEVENT
+BEGIN:VEVENT
+UID:274613@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T140000Z
+SUMMARY:BHSC Troop Summer Camp 2027 – Week 3
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsctroop2027\n\nArchery\n\nThere are a lot of great reasons to spen
+ d your summer at Baiting Hollow Scout Camp!\nAt Baiting Hollow\, fun is a
+ t the heart of everything we do. Scouts enjoy days at the waterfront\, ri
+ fle range\, archery range\, and craft center\, along with hands-on merit 
+ badge classes that challenge them to learn something new. Evenings are sp
+ ent gathered around the campfire with friends or watching the sun set ove
+ r the beautiful waters of Long Island Sound.\nSummer camp is a cornerston
+ e of the Scouting experience\,
+URL:https://global.scoutingevent.com/386-bhsctroop2027
+END:VEVENT
+BEGIN:VEVENT
+UID:246861@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T160000Z
+SUMMARY:Birchbark - Adirondack Week 1 – Adirondack Week 1 Team 1
+LOCATION:Camp Mountaineer at Massawepie\, Tupper Lake\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1073
+ 45\n\nCanoeing\, Safety\, Aquatics (Lifeguard / Water Rescue)\, Leave No 
+ Trace\n\nBirchbark Expeditions is a Nationally Accredited week-long\, fu
+ lly guided high adventure canoe experience in Algonquin Provincial Park\
+ , steeped in the rich Age of Exploration history of Upper Canada.  Opera
+ ted by volunteers from the Great Falls Scout Council\, the program is ope
+ n to Scouts BSA and Venture Scouts at least 13 years old and a "swimmer
+ ".  Algonquin Adventure Expeditions take place in Ontario Canada's Alg
+ onquin Provincial Park and offers world-class canoe tripping among the t
+ housands o
+URL:https://global.scoutingevent.com/375-107345
+END:VEVENT
+BEGIN:VEVENT
+UID:267937@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T140000Z
+SUMMARY:Camp Aquehonga 2027 – Week 4
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:263257@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T140000Z
+SUMMARY:Camp Gorton 2027 Scouts BSA Resident Camp – Session 3
+LOCATION:Camp Gorton\, Dundee\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-gort
+ onsbsacamp27\n\nSafeguarding Youth / YPT\n\nCamp Gorton is located outsid
+ e of Dundee New York on beautiful Waneta Lake. During the summer\, Camp G
+ orton offers both Cub Scout Resident camp and SBSA Resident camp programs
+ .\nCamp Gorton offers over 50 merit badges each summer including 9 or mor
+ e Eagle Required Merit Badges along with an extensive open program that i
+ ncludes the Gorton Trail Hiker Award\, Shooting Sports Top Shot Award\, N
+ ature Award\, Scoutcraft Frontiersman Award\, Polar Swim and Fish\, Mile 
+ Swim\, and several other programs. Design
+URL:https://global.scoutingevent.com/375-gortonsbsacamp27
+END:VEVENT
+BEGIN:VEVENT
+UID:267480@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T140000Z
+SUMMARY:Massawepie Scout Camps - 75th Anniversary – Week 4
+LOCATION:Massawepie Scout Camps\, Tupper Lake\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-MSCSummer75\n\n\n\nWelcome to Massawepie Scout Camps\nLocated in the
+  heart of the Adirondack Mountains of northern New York State\, Massawepi
+ e Scout Camps offers an experience unlike any other Scout camp. For 75 ye
+ ars\, generations of Scouts have come to Massawepie to explore the Adiron
+ dacks\, learn new skills\, challenge themselves\, and make memories that 
+ last long after summer ends.\nIn 2027\, we celebrate 75 years of Massawep
+ ie. From the first Scouts who arrived in 1952 to the thousands of Scouts 
+ who visit us today\, M
+URL:https://global.scoutingevent.com/397-MSCSummer75
+END:VEVENT
+BEGIN:VEVENT
+UID:274651@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T040000Z
+DTEND:20270731T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 5
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274642@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T123000Z
+DTEND:20270730T200000Z
+SUMMARY:BHSC Cub Science Day Camp – Cub Scout Science Day Camp
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-cubscience\n\n\n\nScience Camp supplements and uses the STEM program
+ .  A local science related field trip is taken to see and practice Scien
+ ce\, Technology\, Engineering & Mathematics.  Science with hands on acti
+ vities like you have never experienced within the four walls of a typical
+  classroom…the entire camp is an outdoor learning experience!\nWhen & W
+ here\nRegistration Opens 01-01-2027 12:00 AM\nCub Scout Science Day Camp\
+ nBaiting Hollow Scout Camp\nMonday 07-26-2027 8:30 AM ET to\nFriday 07-30
+ -2027 4:00 PM ET\nMore In
+URL:https://global.scoutingevent.com/386-cubscience
+END:VEVENT
+BEGIN:VEVENT
+UID:274619@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T123000Z
+DTEND:20270730T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 5
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:274377@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T130000Z
+DTEND:20270730T200000Z
+SUMMARY:Elmira Day Camp
+LOCATION:Pirozzolo Park\, Elmira\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1211
+ 57\n\n\n\nELMIRA DAY CAMP\nPIROZZOLO PARK\nJuly 26th - 30th\, 2027\n9:00a
+ m - 4:00pm\nD\nay Camp is an affordable weekday adventure open to childre
+ n who will start 1st* through 5th grades in September. Sessions run Mon
+ day through Friday and children will participate in a wide variety of act
+ ivities including games\, crafts\, archery\, & STEM. Children can partici
+ pate whether or not they are currently involved in a Cub Scout program.\n
+ Day Camp is more fun when you come with your friends\, so start planning 
+ now for this
+URL:https://global.scoutingevent.com/375-121157
+END:VEVENT
+BEGIN:VEVENT
+UID:267969@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270729T150000Z
+DTEND:20270731T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 8
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:263252@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270729T170000Z
+DTEND:20270801T230000Z
+SUMMARY:Cub Summer Camp Scouthaven 2027 – Week 2
+LOCATION:Camp Scouthaven\, Freedom\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1152
+ 78\n\n\n\nCub Adventure Camp\nDuring your stay at Camp Scouthaven\, you c
+ an participate in fun activities like a nature hike\, fishing\, BB Guns &
+  Archery\, outdoor skills training\, swimming\, boating and much more:\nE
+ njoy fun in the water and on the water with swimming\, boats of all sorts
+ \, and fishing.\nHone your marksmanship skills at our BB & Archery Ranges
+ .\nLearn about the wildlife\, plants and trees that live at camp\; play a
+  fast-paced game of Gaga\; and learn outdoor skills in our other program 
+ areas.\nCreate 
+URL:https://global.scoutingevent.com/375-115278
+END:VEVENT
+BEGIN:VEVENT
+UID:259028@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270730T190000Z
+DTEND:20270801T153000Z
+SUMMARY:ADK Cub Family Weekend
+LOCATION:Camp Bedford\, Malone\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1128
+ 35\n\n\n\nCub Scout Family Weekend at Camp Bedford!\nJuly 30 - August 1 
+ 2027!\nTheme and program TBD.  Activities typically include:\nArchery\, 
+ BB\, slingshot!\nRowboats!\nCrafts!\nOrienteering!\nCampfire cooking!\nNa
+ ture hike!\nSaturday night campfire skits!\nDens\, Packs\, and families c
+ an sleep over Friday and Saturday nights.\nMeals served in the dining hal
+ l.\nRegistration will open this spring.\nSAVE THE DATE!\nWhen & Where\nRe
+ gistration Opens 06-01-2027 12:00 AM\nCamp Bedford\nFriday 07-30-2027 3:0
+ 0 PM ET to\nSunday 08-0
+URL:https://global.scoutingevent.com/364-112835
+END:VEVENT
+BEGIN:VEVENT
+UID:273914@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270731T150000Z
+DTEND:20270807T130000Z
+SUMMARY:WAK - Adirondack Trek Adventures – 2027 WAK - Trek Week 5 Sessio
+ n 5
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1209
+ 12\n\n\n\nWakpominee Adirondack Trek Expeditions Are Here!\nWAK-Treks is 
+ a week long canoeing/fishing adventure program that is offered during Jul
+ y & August that is based at Camp Wakpominee.\nGroup adventures start on S
+ aturday with an afternoon arrival at camp.  They will meet their highly 
+ trained guide who will lead them through getting equipment organized\, re
+ quired training review\,  along with canoe practice including water resc
+ ue techniques and be with them for the entire week.\nCrews are provisione
+ d with
+URL:https://global.scoutingevent.com/364-120912
+END:VEVENT
+BEGIN:VEVENT
+UID:246828@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270731T170000Z
+DTEND:20270807T160000Z
+SUMMARY:Birchbark - Adirondack Week 2 – Adirondack Week 1 Team 2
+LOCATION:Camp Mountaineer at Massawepie\, Tupper Lake\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1073
+ 37\n\nCanoeing\, Safety\, Aquatics (Lifeguard / Water Rescue)\, Leave No 
+ Trace\n\nBirchbark Expeditions is a Nationally Accredited week-long\, fu
+ lly guided high adventure canoe experience in Algonquin Provincial Park\
+ , steeped in the rich Age of Exploration history of Upper Canada.  Opera
+ ted by volunteers from the Great Falls Scout Council\, the program is ope
+ n to Scouts BSA and Venture Scouts at least 13 years old and a "swimmer
+ ".  Algonquin Adventure Expeditions take place in Ontario Canada's Alg
+ onquin Provincial Park and offers world-class canoe tripping among the t
+ housands o
+URL:https://global.scoutingevent.com/375-107337
+END:VEVENT
+BEGIN:VEVENT
+UID:268047@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T130000Z
+DTEND:20270807T163000Z
+SUMMARY:Onteora Summer Camp – Week 4
+LOCATION:Onteora Scout Reservation\, Livingston Manor\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-117773\n\n\n\nTucked away in the heart of New York's beautiful Catsk
+ ill Mountains\,\nOnteora Scout Reservation (OSR)\nis more than a summer c
+ amp - it's a home away from home. Known proudly as\n"The Land in the Sky\
+ ,"\nOnteora is where Scouts come to grow\, explore\, and build lasting me
+ mories. Every Scout who arrives is greeted with the same warm message:\n"
+ Welcome Home."\nAt Onteora\, generations of Scouts have experienced the p
+ erfect mix of classic Scouting spirit and modern adventure. Whether your 
+ Scout is just begin
+URL:https://global.scoutingevent.com/386-117773
+END:VEVENT
+BEGIN:VEVENT
+UID:267970@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T150000Z
+DTEND:20270803T231500Z
+SUMMARY:Cub Scout Adventure Camp 2027 – Session 9
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-CSAC27\n\n\n\nCub Scout Adventure Camp (CSAC)\nat J. Warren Cutler S
+ cout Reservation\nThe Adventure takes place at the J. Warren Cutler Scout
+  Reservation located near Naples\, New York in the beautiful Bristol Hill
+ s. Cub Scouts live in one of five themed villages for three days and two 
+ nights. While there they participate in camp-wide activities such as boat
+ ing and fishing\, swimming\, nature\, archery\, and shooting sports as we
+ ll as themed village programs.\nCub Scout Adventure Camp Sessions\nCub Ad
+ venture Camp is s
+URL:https://global.scoutingevent.com/397-CSAC27
+END:VEVENT
+BEGIN:VEVENT
+UID:276939@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270808T020000Z
+SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Week 5
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-Tusky2027\n\nClimbing\, First Aid\, Music\n\nTuscarora Scout Reserva
+ tion\nis the perfect destination for Scouts looking for a memorable summ
+ er camp experience. Nestled in the foothills of the Catskill Mountains on
+  the New York/Pennsylvania border\, our 900-acre camp features everything
+  from thrilling aquatic activities on the 35-acre Summit Lake to hands-on
+  learning opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sp
+ orts\, Music & Arts and more. With top-notch amenities including a 40-foo
+ t climbing tower\, modern individual-stall show
+URL:https://global.scoutingevent.com/397-Tusky2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274639@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T140000Z
+SUMMARY:BHSC Rising Sun Provo Camp – Week 4
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscprovo\n\nArchery\n\nThere are a lot of good reasons for going to
+  summer camp at Baiting Hollow Scout Camp. It's always fun doing things a
+ t the waterfront\, rifle range\, archery range\, and craft center. It's f
+ un sitting around the campfire with a circle of friends. It's fun to lear
+ n something new in a merit badge class\, and it is really fun to watch th
+ e sun set at the beach on Long Island Sound. We take fun very seriously a
+ t Baiting Hollow!\nBe part of our Rising Sun program where the Scouts a
+ re part of our Rising Sun
+URL:https://global.scoutingevent.com/386-bhscprovo
+END:VEVENT
+BEGIN:VEVENT
+UID:274614@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T140000Z
+SUMMARY:BHSC Troop Summer Camp 2027 – Week 4
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsctroop2027\n\nArchery\n\nThere are a lot of great reasons to spen
+ d your summer at Baiting Hollow Scout Camp!\nAt Baiting Hollow\, fun is a
+ t the heart of everything we do. Scouts enjoy days at the waterfront\, ri
+ fle range\, archery range\, and craft center\, along with hands-on merit 
+ badge classes that challenge them to learn something new. Evenings are sp
+ ent gathered around the campfire with friends or watching the sun set ove
+ r the beautiful waters of Long Island Sound.\nSummer camp is a cornerston
+ e of the Scouting experience\,
+URL:https://global.scoutingevent.com/386-bhsctroop2027
+END:VEVENT
+BEGIN:VEVENT
+UID:246827@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T160000Z
+SUMMARY:Birchbark - Adirondack Week 2 – Adirondack Week 2 Team 1
+LOCATION:Camp Mountaineer at Massawepie\, Tupper Lake\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1073
+ 37\n\nCanoeing\, Safety\, Aquatics (Lifeguard / Water Rescue)\, Leave No 
+ Trace\n\nBirchbark Expeditions is a Nationally Accredited week-long\, fu
+ lly guided high adventure canoe experience in Algonquin Provincial Park\
+ , steeped in the rich Age of Exploration history of Upper Canada.  Opera
+ ted by volunteers from the Great Falls Scout Council\, the program is ope
+ n to Scouts BSA and Venture Scouts at least 13 years old and a "swimmer
+ ".  Algonquin Adventure Expeditions take place in Ontario Canada's Alg
+ onquin Provincial Park and offers world-class canoe tripping among the t
+ housands o
+URL:https://global.scoutingevent.com/375-107337
+END:VEVENT
+BEGIN:VEVENT
+UID:267938@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T140000Z
+SUMMARY:Camp Aquehonga 2027 – Week 5
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:267481@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T140000Z
+SUMMARY:Massawepie Scout Camps - 75th Anniversary – Week 5
+LOCATION:Massawepie Scout Camps\, Tupper Lake\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-MSCSummer75\n\n\n\nWelcome to Massawepie Scout Camps\nLocated in the
+  heart of the Adirondack Mountains of northern New York State\, Massawepi
+ e Scout Camps offers an experience unlike any other Scout camp. For 75 ye
+ ars\, generations of Scouts have come to Massawepie to explore the Adiron
+ dacks\, learn new skills\, challenge themselves\, and make memories that 
+ last long after summer ends.\nIn 2027\, we celebrate 75 years of Massawep
+ ie. From the first Scouts who arrived in 1952 to the thousands of Scouts 
+ who visit us today\, M
+URL:https://global.scoutingevent.com/397-MSCSummer75
+END:VEVENT
+BEGIN:VEVENT
+UID:267757@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T140000Z
+SUMMARY:RSR Scouts BSA Resident Camp 2027 – Week 5 (STEM Week)
+LOCATION:Rotary Scout Reservation\, Averill Park\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-RSR2
+ 027\n\nArchery\, Canoeing\, Climbing\, Geocaching\, Golf\, Kayaking\, Rif
+ le Shooting\, Wilderness Survival\n\nWhere Summer Adventures Begin!\nWelc
+ ome to Rotary Scout Reservation\, a 1\,300 acre wilderness adventure area
+  in Upstate New York.  RSR is owned and operated by the Twin Rivers Coun
+ cil\, BSA\, and offers four weeks of Scouts BSA summer camp programs and 
+ year round cabin and campsite rentals.\nThe experienced staff members at 
+ Rotary Scout Reservation are trained to provide the most exciting\, high 
+ quality outdoor program for Scouts.  Highlights include:\nDisc Golf\nCli
+ mbing and Rappelling\nSailing and Cano
+URL:https://global.scoutingevent.com/364-RSR2027
+END:VEVENT
+BEGIN:VEVENT
+UID:278737@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T171500Z
+DTEND:20270805T020000Z
+SUMMARY:2027 Tuscarora Scout Reservation Summer Camp – Tusky Trades & Te
+ ch Academy
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-Tusky2027\n\nClimbing\, First Aid\, Music\n\nTuscarora Scout Reserva
+ tion\nis the perfect destination for Scouts looking for a memorable summ
+ er camp experience. Nestled in the foothills of the Catskill Mountains on
+  the New York/Pennsylvania border\, our 900-acre camp features everything
+  from thrilling aquatic activities on the 35-acre Summit Lake to hands-on
+  learning opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sp
+ orts\, Music & Arts and more. With top-notch amenities including a 40-foo
+ t climbing tower\, modern individual-stall show
+URL:https://global.scoutingevent.com/397-Tusky2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274652@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270802T040000Z
+DTEND:20270807T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 6
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:258671@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270802T110000Z
+DTEND:20270807T210000Z
+SUMMARY:NYLT 2027
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-NYLT27
+ \n\nNYLT\n\nThe premier youth leadership training course offered by Scout
+ ing America\nWhen & Where\nNYLT 2027\nCamp Woodland\nMonday 08-02-2027 7:
+ 00 AM ET to\nSaturday 08-07-2027 5:00 PM ET\nMore Information\nMap of Eve
+ nt\n$\nView Pricing\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake Rd\
+ nConstantia\, New York 13044\nPhone: 315-463-0201\nRegistration Closes:\n
+ &nbsp07-21-2027 11:59 PM\nContact\nAttachments\nNYLT revised Flyer August
+  2026 PDF
+URL:https://global.scoutingevent.com/373-NYLT27
+END:VEVENT
+BEGIN:VEVENT
+UID:274620@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270802T123000Z
+DTEND:20270806T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 6
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:263253@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270805T170000Z
+DTEND:20270808T230000Z
+SUMMARY:Cub Summer Camp Scouthaven 2027 – Week 3
+LOCATION:Camp Scouthaven\, Freedom\, New York
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1152
+ 78\n\n\n\nCub Adventure Camp\nDuring your stay at Camp Scouthaven\, you c
+ an participate in fun activities like a nature hike\, fishing\, BB Guns &
+  Archery\, outdoor skills training\, swimming\, boating and much more:\nE
+ njoy fun in the water and on the water with swimming\, boats of all sorts
+ \, and fishing.\nHone your marksmanship skills at our BB & Archery Ranges
+ .\nLearn about the wildlife\, plants and trees that live at camp\; play a
+  fast-paced game of Gaga\; and learn outdoor skills in our other program 
+ areas.\nCreate 
+URL:https://global.scoutingevent.com/375-115278
+END:VEVENT
+BEGIN:VEVENT
+UID:240258@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270805T210000Z
+DTEND:20270808T140000Z
+SUMMARY:TMR 100th Anniversary & 2027 Alumni Reunion – Alumni Reunion
+LOCATION:Ten Mile River Scout Camps\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-103877\n\n\n\nTEN MILE RIVER SCOUT CAMPS 100th ANNIVERSARY & 2027 ALUMN
+ I REUNION\nWhether it’s been 2 years\, or 20\, or more\, since you’ve
+  hiked the majestic woods of our beloved camp\, please join us. Re-connec
+ t with old friends… meet new friends… retell the tales\, but most of 
+ all see today’s Ten Mile River. As TMR moves forward our many tradition
+ s live on. Its timeless beauty needs to be preserved\, appreciated and ce
+ lebrated.\nPROGRAM (subject to change\, follow us on FaceBook for updates
+ :\nhttps://www.facebook.c
+URL:https://global.scoutingevent.com/640-103877
+END:VEVENT
+BEGIN:VEVENT
+UID:273915@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270807T150000Z
+DTEND:20270814T130000Z
+SUMMARY:WAK - Adirondack Trek Adventures – 2027 WAK - Trek Week 6 Sessio
+ n 6
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1209
+ 12\n\n\n\nWakpominee Adirondack Trek Expeditions Are Here!\nWAK-Treks is 
+ a week long canoeing/fishing adventure program that is offered during Jul
+ y & August that is based at Camp Wakpominee.\nGroup adventures start on S
+ aturday with an afternoon arrival at camp.  They will meet their highly 
+ trained guide who will lead them through getting equipment organized\, re
+ quired training review\,  along with canoe practice including water resc
+ ue techniques and be with them for the entire week.\nCrews are provisione
+ d with
+URL:https://global.scoutingevent.com/364-120912
+END:VEVENT
+BEGIN:VEVENT
+UID:267482@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270808T040000Z
+DTEND:20270815T035900Z
+SUMMARY:Massawepie Scout Camps - 75th Anniversary – Week 6
+LOCATION:Massawepie Scout Camps\, Tupper Lake\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-MSCSummer75\n\n\n\nWelcome to Massawepie Scout Camps\nLocated in the
+  heart of the Adirondack Mountains of northern New York State\, Massawepi
+ e Scout Camps offers an experience unlike any other Scout camp. For 75 ye
+ ars\, generations of Scouts have come to Massawepie to explore the Adiron
+ dacks\, learn new skills\, challenge themselves\, and make memories that 
+ last long after summer ends.\nIn 2027\, we celebrate 75 years of Massawep
+ ie. From the first Scouts who arrived in 1952 to the thousands of Scouts 
+ who visit us today\, M
+URL:https://global.scoutingevent.com/397-MSCSummer75
+END:VEVENT
+BEGIN:VEVENT
+UID:268048@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270808T130000Z
+DTEND:20270814T163000Z
+SUMMARY:Onteora Summer Camp – Week 5
+LOCATION:Onteora Scout Reservation\, Livingston Manor\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-117773\n\n\n\nTucked away in the heart of New York's beautiful Catsk
+ ill Mountains\,\nOnteora Scout Reservation (OSR)\nis more than a summer c
+ amp - it's a home away from home. Known proudly as\n"The Land in the Sky\
+ ,"\nOnteora is where Scouts come to grow\, explore\, and build lasting me
+ mories. Every Scout who arrives is greeted with the same warm message:\n"
+ Welcome Home."\nAt Onteora\, generations of Scouts have experienced the p
+ erfect mix of classic Scouting spirit and modern adventure. Whether your 
+ Scout is just begin
+URL:https://global.scoutingevent.com/386-117773
+END:VEVENT
+BEGIN:VEVENT
+UID:271865@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270808T160000Z
+DTEND:20270813T220000Z
+SUMMARY:National Youth Leader Training 2027
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-119
+ 864\n\nNYLT\, Position-Specific Leader Training\n\nNational Youth Leaders
+ hip Training is an exciting\, 6-day outdoor leadership course. It is tau
+ ght by a youth staff of alumni and aims to instill into the scouts a set
+  of skills and tools to help lead their troop\, crew\, or ship and take t
+ hese skills on into their future careers. NYLT integrates the best of mod
+ ern leadership theory with the traditional strengths of the Scouting expe
+ rience. Content is delivered in a troop and patrol setting through activi
+ ties\, presentations\, challenges\, discussions 
+URL:https://global.scoutingevent.com/368-119864
+END:VEVENT
+BEGIN:VEVENT
+UID:274685@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270808T170000Z
+DTEND:20270812T210000Z
+SUMMARY:BHSC Cub Scout Resident Camp – Cub Scout Resident Camp
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubresident\n\n\n\nCub Scout Resident Camp is a true sleepaway a
+ dventure where Scouts spend their days exploring\, learning\, and playing
+ —and their nights making memories with friends. From archery\, BB shoot
+ ing\, swimming\, and boating to hands-on science\, crafts\, games\, and c
+ limbing challenges\, each day is packed with fun led by trained staff in 
+ a safe\, supportive setting. It’s a week away from home filled with ind
+ ependence\, confidence\, campfires\, and unforgettable experiences.\nWhen
+  & Where\nRegistration Opens 01-01-2
+URL:https://global.scoutingevent.com/386-bhsccubresident
+END:VEVENT
+BEGIN:VEVENT
+UID:274666@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270808T170000Z
+DTEND:20270813T210000Z
+SUMMARY:BHSC Scouts BSA Specialty Camps – Fishing Camp
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscspecialty\n\nArchery\, Fish and Wildlife Management\, Fishing\, 
+ Fly Fishing\n\nMany Scouts first experience summer camp with their Troop.
+  Joining your Troop for summer camp is a great time and every Scout shoul
+ d try to camp with their Troop. There are\, however\, additional camping
+  opportunities offered at Baiting Hollow to help a Scout round out their
+  camping experience or help advance in rank.\nAll Scouts BSA Camp progra
+ ms listed below are\nresident/sleep away\nprograms.\nAquatics Camp\nAugus
+ t 15th - August 20th\nSplash into adventure at Lake Arrowhead. Spend a w
+ eek in the water
+URL:https://global.scoutingevent.com/386-bhscspecialty
+END:VEVENT
+BEGIN:VEVENT
+UID:267939@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270808T170000Z
+DTEND:20270814T140000Z
+SUMMARY:Camp Aquehonga 2027 – Week 6
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:274653@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270809T040000Z
+DTEND:20270814T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 7
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:258681@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270809T120000Z
+DTEND:20270813T210000Z
+SUMMARY:Earn it at Camp Woodland – Skills Trade Week 2027
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-SBMBM\
+ n\n\n\nScout BSA Merit Badge Week 2027\nLocation:\nCamp Woodland\nDate:\n
+ August 9\, 2027 |\nTime:\n8:00 AM\nExpand Your Horizons & Build Real-Worl
+ d Skills!\nJoin us for an exciting\, hands-on week dedicated entirely to 
+ earning merit badges. This unique event gives scouts the chance to dive i
+ nto practical\, rewarding fields\, learn directly from industry professio
+ nals\, and discover potential career paths or lifelong hobbies.\nWhether 
+ you are looking to master a new tool\, understand how things work behind 
+ the scenes\,
+URL:https://global.scoutingevent.com/373-SBMBM
+END:VEVENT
+BEGIN:VEVENT
+UID:274621@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270809T123000Z
+DTEND:20270813T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 7
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:267944@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270815T040000Z
+DTEND:20270822T035900Z
+SUMMARY:Camp Aquehonga 2027 – Closing Staff Week
+LOCATION:Camp Aquehonga\, Narrowsburg\, New York
+DESCRIPTION:Greater New York Councils\nhttps://global.scoutingevent.com/64
+ 0-117725\n\n\n\nWelcome to\nCAMP AQUEHONGA\nat Ten Mile River Scout Camps
+ !\nWelcome to\nCamp Aquehonga\nat Ten Mile River Scout Camps\, where outd
+ oor adventure meets practical skills! Immerse yourself in the art of\npat
+ rol cooking\n\, honing your culinary prowess with fellow scouts under the
+  open sky. Dive into refreshing fun at our pool\, complete with an exhila
+ rating water slide for that perfect splash.\nExplore the wonders of STEM 
+ at our cutting-edge center\, sparking curiosity and innovation. The lake 
+ beckons for boati
+URL:https://global.scoutingevent.com/640-117725
+END:VEVENT
+BEGIN:VEVENT
+UID:274335@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270815T160000Z
+DTEND:20270820T223000Z
+SUMMARY:National Youth Leadership Training (NYLT)
+LOCATION:Schiff Scout Reservation\, Wading River\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-SummerNYLT\n\nNYLT\n\nNational Youth Leadership Training (NYLT) is a
+ n exciting\, action-packed program designed to provide youth with leaders
+ hip skills and experience that they can apply within their troops and in 
+ other situations requiring leadership of self and others.\nNYLT is a six-
+ day course that emphasizes hands-on learning in a fun\, engaging environm
+ ent. Through a blend of activities\, presentations\, challenges\, and gam
+ es\, participants will develop confidence and leadership abilities while 
+ working together as a t
+URL:https://global.scoutingevent.com/386-SummerNYLT
+END:VEVENT
+BEGIN:VEVENT
+UID:274664@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270815T170000Z
+DTEND:20270820T210000Z
+SUMMARY:BHSC Scouts BSA Specialty Camps – Aquatics Camp
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscspecialty\n\nArchery\, Fish and Wildlife Management\, Fishing\, 
+ Fly Fishing\n\nMany Scouts first experience summer camp with their Troop.
+  Joining your Troop for summer camp is a great time and every Scout shoul
+ d try to camp with their Troop. There are\, however\, additional camping
+  opportunities offered at Baiting Hollow to help a Scout round out their
+  camping experience or help advance in rank.\nAll Scouts BSA Camp progra
+ ms listed below are\nresident/sleep away\nprograms.\nAquatics Camp\nAugus
+ t 15th - August 20th\nSplash into adventure at Lake Arrowhead. Spend a w
+ eek in the water
+URL:https://global.scoutingevent.com/386-bhscspecialty
+END:VEVENT
+BEGIN:VEVENT
+UID:274654@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270816T040000Z
+DTEND:20270821T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 8
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274622@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270816T123000Z
+DTEND:20270820T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 8
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:274655@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270823T040000Z
+DTEND:20270828T035900Z
+SUMMARY:BHSC Scouts BSA Day Camp – Week 9
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhscscoutday\n\nSpace Exploration\n\nDid you just cross over from We
+ belos to Scouts BSA or are you new to Scouts BSA all together?  Are you 
+ looking to attend Day Camp in addition to other Scouting adventures this 
+ summer?  Do you want to get a jump start on advancement?  Then Scouts 
+ BSA Day Camp is the program for you!\nScouts BSA Day Camp is intended fo
+ r new Scouts to work on Rank Advancement\, earn a couple of Merit Badges 
+ and enjoy exciting outdoor activities.  And the best part...you do not h
+ ave to be a Scout to attend so invite a
+URL:https://global.scoutingevent.com/386-bhscscoutday
+END:VEVENT
+BEGIN:VEVENT
+UID:274623@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270823T123000Z
+DTEND:20270827T200000Z
+SUMMARY:BHSC Cub Scout Day Camp 2027 – Week 9
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-bhsccubday\n\n\n\nCub Scout Day Camp is an unforgettable adventure p
+ acked with outdoor fun and new experiences!  Campers enjoy archery\, BB 
+ shooting\, swimming\, boating\, hands-on science\, creative crafts\, team
+  games\, and climbing challenges—all led by trained staff in a safe\, s
+ upportive environment. It’s a week of excitement\, friendship\, and mem
+ ories that last a lifetime.\nContact\nWhen & Where\nRegistration Opens 01
+ -01-2027 12:00 AM\nWeek 1\nBaiting Hollow Scout Camp\nMonday 06-28-2027 8
+ :30 AM ET to\nFriday 07-02-2027 4:
+URL:https://global.scoutingevent.com/386-bhsccubday
+END:VEVENT
+BEGIN:VEVENT
+UID:252857@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270910T220000Z
+DTEND:20270912T133000Z
+SUMMARY:2027 Kittan Lodge Fall Induction
+LOCATION:Camp Tri-Mount\, East Jewett\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1103
+ 20\n\n\n\nKittan Lodge invites you to attend our OA Fall Induction at Cam
+ p Tri-Mount! We will hold the Induction from 6 PM on September 10 to 9:30
+  AM September 12. We will be hosting Ordeal\, and Brotherhood inductions 
+ this weekend.\nWe are encouraging all Lodge members to attend this specia
+ l event.\nWhen & Where\nRegistration Opens 07-05-2027 12:00 AM\nCamp Tri-
+ Mount\nFriday 09-10-2027 6:00 PM ET to\nSunday 09-12-2027 9:30 AM ET\nMor
+ e Information\nMap of Event\n$\nView Pricing\nCoords: 42.2483874\, -74.14
+ 6578\n261 Boy
+URL:https://global.scoutingevent.com/364-110320
+END:VEVENT
+BEGIN:VEVENT
+UID:271382@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270911T110000Z
+DTEND:20270911T180000Z
+SUMMARY:Eagle's Flight Field Archery Classic Tournament – Participants
+LOCATION:J. Warren Cutler Scout Reservation\, Naples\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-FieldArcheryTournament2027\n\nArchery\, Range Officer / Shooting Ins
+ tructor\n\n4th Annual\nEAGLE's FLIGHT FIELD ARCHERY CLASSIC TOURNAMENT\nJ
+ . Warren Cutler Scout Reservation\nGreater Finger Lakes Council\nEagle's 
+ Flight Field Archery Classic Tournament\nJoin us for the 4th Annual Eagle
+ 's Flight Field Archery Classic Tournament Fundraiser. Pro-ceeds to benef
+ it the Archery Program of Seneca Waterways Council.\nTournament Descripti
+ on\nThis tournament will be a "shotgun start" tournament. Where teams are
+  designated a starting station and then traverse and shoot the 14 station
+  course
+URL:https://global.scoutingevent.com/397-FieldArcheryTournament2027
+END:VEVENT
+BEGIN:VEVENT
+UID:272905@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T110000Z
+DTEND:20270919T213000Z
+SUMMARY:Wood Badge – Weekend 1
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-WoodBadge\n\nWood Badge\n\nWood Badge is an advanced\, national lead
+ ership course open only to Scouting volunteers and professionals.\nScoute
+ rs from Cub Scouting\, Scouts BSA\, Venturing\, Sea Scouts\, and Explorer
+ s\, and district and council Scouters all are welcome and belong here.\nW
+ hat do we see on the course?\nWe do many things on the course\, like:\nLi
+ stening\nManaging conflict\nLeading change\nStages of team development\nC
+ oaching & Mentoring\nLeadership for different stages\nServant leadership\
+ nProject planning\nProblem solving\nAnd m
+URL:https://global.scoutingevent.com/386-WoodBadge
+END:VEVENT
+BEGIN:VEVENT
+UID:265220@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T220000Z
+DTEND:20270920T035900Z
+SUMMARY:Fall 2027 BALOO & IOLS – Fall 27 BALOO
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-Fall27
+ Balooiols\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\nFall 202
+ 7 BALOO & IOLS\nLonghouse Council's Outdoor Training Team offers two esse
+ ntial courses over one incredible weekend: BALOO for Cub Scout leaders an
+ d IOLS for Scouts BSA Leaders. Come for a weekend of fun and learning fro
+ m great instructors!\nWhen: Training starts Friday evening (arrival betwe
+ en 6:00 PM and 7:00 PM) and wraps up on Sunday morning.\nWhere: Camp Wood
+ land\nWhat to Expect: An action-packed weekend of hands-on learning\, fel
+ lowship\, and fun!\nCourse Options\n1. Basic Adult Leader Outd
+URL:https://global.scoutingevent.com/373-Fall27Balooiols
+END:VEVENT
+BEGIN:VEVENT
+UID:263814@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T220000Z
+DTEND:20270919T140000Z
+SUMMARY:OA Fall Induction Weekend – Fall Induction Weekend
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-oafall
+ 27\n\n\n\nFall Inductions Weekend\nWhen & Where\nRegistration Opens 05-13
+ -2027 12:00 AM\nFall Induction Weekend\nCamp Woodland\nFriday 09-17-2027 
+ 6:00 PM ET to\nSunday 09-19-2027 10:00 AM ET\nMore Information\nMap of Ev
+ ent\n$\nView Pricing\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake Rd
+ \nConstantia\, New York 13044\nPhone: 315-463-0201\nRegistration Closes:\
+ n&nbsp09-18-2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-oafall27
+END:VEVENT
+BEGIN:VEVENT
+UID:263815@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270924T200000Z
+DTEND:20270926T140000Z
+SUMMARY:Beyond the Arrow
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-beyond
+ arrow27\n\n\n\nWhat is Beyond the Arrow? Let’s start with what it is no
+ t. It is not about AOL Adventure requirements or Shooting Sports\, howeve
+ r will aid in completing the AOL Bobcat adventure\, with a focus on the S
+ couts BSA program.\nIt is an outdoor adventure designed to aid in the AOL
+ -to-Scout transition plan. This event is designed to introduce AOL Scouts
+  and their parents to the exciting Scouting adventures that lay ahead of 
+ them and help make the transition into Scouts BSA more exciting while pre
+ paring th
+URL:https://global.scoutingevent.com/373-beyondarrow27
+END:VEVENT
+BEGIN:VEVENT
+UID:259678@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270924T210000Z
+DTEND:20270926T140000Z
+SUMMARY:Western Gateway Fall Camporee 2027
+LOCATION:Big Guys Campground\, Brockport\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-113222\n\n\n\nDetails Coming\nSave the Date:\nFriday\, September 24 
+ through Sunday\, September 26.\nWhen & Where\nSave the Date\nBig Guys Cam
+ pground\nFriday 09-24-2027 5:00 PM ET to\nSunday 09-26-2027 10:00 AM ET\n
+ More Information\nMap of Event\nCoords: 43.2377405\, -77.9971057\n3739 Co
+ unty Line Rd\nBrockport\, New York\nPhone: 14420\nRegistration Closes:\n&
+ nbsp09-22-2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/397-113222
+END:VEVENT
+BEGIN:VEVENT
+UID:263820@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271002T120000Z
+DTEND:20271002T203000Z
+SUMMARY:Spooktacular 2027 – SPOOKTACULAR
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-Spook2
+ 7\n\n\n\nJoin us for a haunting good time at the 2026 SPOOKTACULAR!\nThis
+  is the biggest Cub Scout event of the year\, and one you don't want to m
+ iss. Join us Saturday October 3rd at Camp Woodland. There will be games a
+ nd crafts along with a haunted Hay ride and a costume parade. We'll have 
+ bb\, archery\, and all the fun that camp has to offer.\nThe day begins at
+  8:45 with an opening ceremony\, and the fun begins there!\nPacks can pro
+ vide their own lunch\, or visit the Chuck Wagon Concession stand inside O
+ wens H
+URL:https://global.scoutingevent.com/373-Spook27
+END:VEVENT
+BEGIN:VEVENT
+UID:265816@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271008T230000Z
+DTEND:20271010T160000Z
+SUMMARY:Welding Merit Badge
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-116622
+ \n\nWelding\n\nWelding Merit Badge class size is restricted to 8\, and al
+ l Scouts must be 13 years old or older\nFriday Evening 7:pm Classroom\nSa
+ turday All Day\nSunday Unitl Noon\nWhen & Where\nRegistration Opens 02-10
+ -2027 12:00 AM\nWelding Merit Badge\nCamp Woodland\nFriday 10-08-2027 7:0
+ 0 PM ET to\nSunday 10-10-2027 12:00 PM ET\nMore Information\nMap of Event
+ \n$\nView Pricing\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake Rd\nC
+ onstantia\, New York 13044\nPhone: 315-463-0201\nRegistration Closes:\n&n
+ bsp10-09-2027 11:59 PM\nCon
+URL:https://global.scoutingevent.com/373-116622
+END:VEVENT
+BEGIN:VEVENT
+UID:254499@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271022T210000Z
+DTEND:20271024T140000Z
+SUMMARY:Kittan Lodge Fall Fellowship
+LOCATION:Camp Wakpominee\, Fort Ann\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1107
+ 97\n\n\n\nOn October 16th-18th at Camp Wakpominee we will be holding our 
+ annual Fall Fellowship weekend. Fall Fellowship is a weekend event full o
+ f games\, trainings\, inter-chapter competitions\, great food\, and lots 
+ of fun!\nMore details to come on theme\, events and the patch as the date
+  gets closer.\nWhen & Where\nSave the Date\nCamp Wakpominee\nFriday 10-22
+ -2027 5:00 PM ET to\nSunday 10-24-2027 10:00 AM ET\nMore Information\nMap
+  of Event\nCoords: 43.4564655\, -73.5861915\n185 Sly Pond Rd\nFort Ann\, 
+ New York 12827\nRe
+URL:https://global.scoutingevent.com/364-110797
+END:VEVENT
+BEGIN:VEVENT
+UID:272906@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271106T110000Z
+DTEND:20271107T223000Z
+SUMMARY:Wood Badge – Weekend 2
+LOCATION:Baiting Hollow Scout Camp\, Calverton\, New York
+DESCRIPTION:Scouting America Long Island\nhttps://global.scoutingevent.com
+ /386-WoodBadge\n\nWood Badge\n\nWood Badge is an advanced\, national lead
+ ership course open only to Scouting volunteers and professionals.\nScoute
+ rs from Cub Scouting\, Scouts BSA\, Venturing\, Sea Scouts\, and Explorer
+ s\, and district and council Scouters all are welcome and belong here.\nW
+ hat do we see on the course?\nWe do many things on the course\, like:\nLi
+ stening\nManaging conflict\nLeading change\nStages of team development\nC
+ oaching & Mentoring\nLeadership for different stages\nServant leadership\
+ nProject planning\nProblem solving\nAnd m
+URL:https://global.scoutingevent.com/386-WoodBadge
+END:VEVENT
+BEGIN:VEVENT
+UID:255563@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271106T140000Z
+DTEND:20271106T210000Z
+SUMMARY:Kittan Lodge LLD (Lodge Leader Development)
+LOCATION:Delmar Reformed Church\, Delmar\, New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1113
+ 75\n\n\n\nJoin us for a day of informative training on Lodge and Chapter 
+ operations\, event planning and personal development.\nThis event is inte
+ nded for all current officers\, as well as those interested in being a fu
+ ture leader in Kittan Lodge or any of its 6 Chapters.  Or if you're just
+  interested in finding out more about how the lodge operates and the Orde
+ r of the Arrow in general.\nWe will also have sessions for the adults in 
+ attendance to learn more about being an adviser or active adult member.\n
+ When 
+URL:https://global.scoutingevent.com/364-111375
+END:VEVENT
+BEGIN:VEVENT
+UID:265820@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271204T000000Z
+DTEND:20271205T170000Z
+SUMMARY:Metal Working Merit Badge
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-mwmbo2
+ 7\n\nMetalwork\n\nMetal Working Merit Badge\nYouth must be 13 years old t
+ o participate\nClassroom time starts on Friday night at 7:00 pm\nLab work
+  on Saturday\nWhen & Where\nMetal Working Merit Badge\nCamp Woodland\nFri
+ day 12-03-2027 7:00 PM ET to\nSunday 12-05-2027 12:00 PM ET\nMore Informa
+ tion\nMap of Event\n$\nView Pricing\nCoords: 43.2732614\, -75.963769\n491
+  Kibbie Lake Rd\nConstantia\, New York 13044\nPhone: 315-463-0201\nRegist
+ ration Closes:\n&nbsp11-30-2027 11:59 PM\nContact\nAttachments\nMetalwork
+URL:https://global.scoutingevent.com/373-mwmbo27
+END:VEVENT
+BEGIN:VEVENT
+UID:259679@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271204T050000Z
+DTEND:20271205T045900Z
+SUMMARY:2027 WG Merit Badge University
+LOCATION:Burt & Chuck August Scout Service Center\, Rochester\, New York
+DESCRIPTION:Greater Finger Lakes Council\nhttps://global.scoutingevent.com
+ /397-113223\n\n\n\nDetails Coming\nSave the Date: Saturday\, December 4 2
+ 027!\nWhen & Where\nSave the Date\nBurt & Chuck August Scout Service Cent
+ er\nSaturday 12-04-2027\n12:00 AM ET to 11:59 PM ET\nMore Information\nMa
+ p of Event\nCoords: 43.0956575\, -77.6159327\n2320 Brighton Henrietta Tow
+ n Line Rd\nRochester\, New York 14623\nPhone: 585-244-4210\nFax: 585-256-
+ 8533\nRegistration Closes:\n&nbsp01-28-2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/397-113223
+END:VEVENT
+BEGIN:VEVENT
+UID:267083@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271211T130000Z
+DTEND:20271211T210000Z
+SUMMARY:Ranger Rick Service Day 27
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-RRSD27
+ \n\n\n\nRanger Rick Service Day 27\nWhen & Where\nRegistration Opens 04-0
+ 1-2027 12:00 AM\nCamp Woodland\nSaturday 12-11-2027\n8:00 AM ET to 4:00 P
+ M ET\nMore Information\nMap of Event\n$\nView Pricing\nCoords: 43.2732614
+ \, -75.963769\n491 Kibbie Lake Rd\nConstantia\, New York 13044\nPhone: 31
+ 5-463-0201\nRegistration Closes:\n&nbsp12-08-2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-RRSD27
+END:VEVENT
+BEGIN:VEVENT
+UID:254498@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271211T150000Z
+DTEND:20271211T210000Z
+SUMMARY:OA Service and Brotherhood Hike
+LOCATION:Gerald B.H. Solomon Saratoga National Cemetery\, Schuylerville\, 
+ New York
+DESCRIPTION:Twin Rivers Council\nhttps://global.scoutingevent.com/364-1107
+ 95\n\n\n\nWe will be meeting at 10:00AM at Columbarium CC of the Gerald B
+ .H. Solomon Saratoga National Cemetary\, located at the 200 Duell Rd\, S
+ chuylerville\, NY 12871. Parking will be at the direction of the National
+  Cemetary Staff. We will ask that members let the parking folks know th
+ at you would like to park in the field near Columbarium CC. Our day will 
+ consist of assisting in the wreath laying at the graves\, we will have lu
+ nch\, after lunch the Brotherhood candidates will go on the hike and all 
+ Lodge m
+URL:https://global.scoutingevent.com/364-110795
+END:VEVENT
+BEGIN:VEVENT
+UID:267092@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280226T130000Z
+DTEND:20280226T220000Z
+SUMMARY:Lodge LLD 28
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-LLD28\
+ n\n\n\nJoin us for our LLD\nWhen & Where\nRegistration Opens 12-01-2027 1
+ 2:00 AM\nCamp Woodland\nSaturday 02-26-2028\n8:00 AM ET to 5:00 PM ET\nMo
+ re Information\nMap of Event\n$\nView Pricing\nCoords: 43.2732614\, -75.9
+ 63769\n491 Kibbie Lake Rd\nConstantia\, New York 13044\nPhone: 315-463-02
+ 01\nRegistration Closes:\n&nbsp02-23-2028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-LLD28
+END:VEVENT
+BEGIN:VEVENT
+UID:255115@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280318T120000Z
+DTEND:20280318T203000Z
+SUMMARY:University of Scouting 2028
+LOCATION:Tompkins Cortland Community College\, Dryden\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 097\n\nCommissioner / University of Scouting\, Merit Badge Counselor\n\nD
+ RAFT EVENT INFO--Will be updated prior to registration opening\nUniversit
+ y of Scouting 2026\nSaturday\, March 21\,2026\nPlease be there by 8:00 AM
+ !\nThe University of Scouting is for EVERYONE – leaders\, parents\, and
+  Scouts BSA / Venturing / Sea Scout youth!\nCLASS CATALOG IS CURRENTLY UN
+ DER CONSTRUCTION. PLEASE COME BACK LATER TO SEE 2026 COURSES\nFor those y
+ outh taking merit badge courses -- please click on the "Attachments" box 
+ for workbooks for each of the Merit Badges offered. Review the Workbook f
+URL:https://global.scoutingevent.com/368-111097
+END:VEVENT
+BEGIN:VEVENT
+UID:263802@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280428T220000Z
+DTEND:20280428T150000Z
+SUMMARY:Spring Inductions Weekend – Spring Induction Weekend
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-oaspri
+ ng28\n\n\n\nJoin us for our Spring Induction Weekend\nWhen & Where\nRegis
+ tration Opens 01-30-2027 6:15 PM\nSpring Induction Weekend\nCamp Woodland
+ \nFriday 04-28-2028\n6:00 PM ET to 11:00 AM ET\nMore Information\nMap of 
+ Event\n$\nView Pricing\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake 
+ Rd\nConstantia\, New York 13044\nPhone: 315-463-0201\nRegistration Closes
+ :\n&nbsp04-26-2028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-oaspring28
+END:VEVENT
+BEGIN:VEVENT
+UID:265239@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280505T220000Z
+DTEND:20280507T160000Z
+SUMMARY:Spring 2028 BALOO & IOLS – Spring 2028 BALOO
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-spring
+ balooiols28\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\nSpring
+  2028 BALOO & IOLS\nLonghouse Council's Outdoor Training Team offers two 
+ essential courses over one incredible weekend: BALOO for Cub Scout leader
+ s and IOLS for Scouts BSA Leaders. Come for a weekend of fun and learning
+  from great instructors!\nWhen: Training starts Friday evening (arrival b
+ etween 6:00 PM and 7:00 PM) and wraps up on Sunday morning.\nWhere: Camp 
+ Woodland\nWhat to Expect: An action-packed weekend of hands-on learning\,
+  fellowship\, and fun!\nCourse Options\n1. Basic Adult Leader Ou
+URL:https://global.scoutingevent.com/373-springbalooiols28
+END:VEVENT
+BEGIN:VEVENT
+UID:252461@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280602T220000Z
+DTEND:20280604T160000Z
+SUMMARY:Woodland Beaver weekend
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-beaver
+ 28\n\n\n\nPlease join us for Camp woodland Beaver Weekend\nWhen & Where\n
+ Registration Opens 01-20-2028 10:00 AM\nWoodland Beaver Weekend\nCamp Woo
+ dland\nFriday 06-02-2028 6:00 PM ET to\nSunday 06-04-2028 12:00 PM ET\nMo
+ re Information\nMap of Event\n$\nView Pricing\nCoords: 43.2732614\, -75.9
+ 63769\n491 Kibbie Lake Rd\nConstantia\, New York 13044\nPhone: 315-463-02
+ 01\nRegistration Closes:\n&nbsp05-31-2028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-beaver28
+END:VEVENT
+BEGIN:VEVENT
+UID:255144@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280610T113000Z
+DTEND:20280610T160000Z
+SUMMARY:Ranger's Fishing Derby 2028 – Fishing Derby
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 121\n\nCamping\, Fishing\, Fly Fishing\n\nDRAFT EVENT INFO--Will be updat
+ ed prior to registration opening\nCome on out to Camp Tuscarora for a day
+  of Fishing!\nCast your line and earn advancement at the same time!\nThe 
+ Ranger's Fishing Derby is the perfect opportunity for the whole family to
+  spend the morning outdoors with your fishing poles!\nCub Scout Registrat
+ ion Includes: Breakfast\, Optional Friday Night Camping\, and a lovely mo
+ rning of fishing\nScouts BSA Registration Includes: Breakfast\, Optional 
+ Friday Night Camping\, and a lovely morn
+URL:https://global.scoutingevent.com/368-111121
+END:VEVENT
+BEGIN:VEVENT
+UID:267085@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280610T200000Z
+DTEND:20280611T140000Z
+SUMMARY:Vigil Induction Weekend – Vigil Inductions
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-Vigil2
+ 8\n\n\n\nVigil Induction\nWhen & Where\nRegistration Opens 04-24-2028 12:
+ 00 AM\nVigil Inductions\nCamp Woodland\nSaturday 06-10-2028 4:00 PM ET to
+ \nSunday 06-11-2028 10:00 AM ET\nMore Information\nMap of Event\n$\nView 
+ Pricing\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake Rd\nConstantia\
+ , New York 13044\nPhone: 315-463-0201\nRegistration Closes:\n&nbsp06-02-2
+ 028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-Vigil28
+END:VEVENT
+BEGIN:VEVENT
+UID:265802@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280616T220000Z
+DTEND:20280619T035900Z
+SUMMARY:All Hands Weekend
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-AHW28\
+ n\n\n\nJoin us for an ALL HANDS WEEKEND\nWhen & Where\nRegistration Opens
+  12-31-2027 12:00 AM\nAll Hands Weekend\nCamp Woodland\nFriday 06-16-2028
+  6:00 PM ET to\nSunday 06-18-2028 11:59 PM ET\nMore Information\nMap of E
+ vent\n$\nView Pricing\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake R
+ d\nConstantia\, New York 13044\nPhone: 315-463-0201\nRegistration Closes:
+ \n&nbsp05-31-2028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-AHW28
+END:VEVENT
+BEGIN:VEVENT
+UID:255157@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280702T170000Z
+DTEND:20280708T140000Z
+SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 1
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 125\n\nCrime Prevention\, Fingerprinting\, Law\n\nDRAFT EVENT INFO--Will 
+ be updated prior to registration opening\nTuscarora Scout Reservation\nis
+  the perfect destination for Scouts looking for a memorable summer camp 
+ experience. Nestled in the foothills of the Catskill Mountains on the New
+  York/Pennsylvania border\, our 900-acre camp features everything from th
+ rilling aquatic activities on the 35-acre Summit Lake to hands-on learnin
+ g opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sports\, M
+ usic & Arts and more. With top-notch amenities 
+URL:https://global.scoutingevent.com/368-111125
+END:VEVENT
+BEGIN:VEVENT
+UID:255156@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280709T170000Z
+DTEND:20280715T140000Z
+SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 2
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 125\n\nCrime Prevention\, Fingerprinting\, Law\n\nDRAFT EVENT INFO--Will 
+ be updated prior to registration opening\nTuscarora Scout Reservation\nis
+  the perfect destination for Scouts looking for a memorable summer camp 
+ experience. Nestled in the foothills of the Catskill Mountains on the New
+  York/Pennsylvania border\, our 900-acre camp features everything from th
+ rilling aquatic activities on the 35-acre Summit Lake to hands-on learnin
+ g opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sports\, M
+ usic & Arts and more. With top-notch amenities 
+URL:https://global.scoutingevent.com/368-111125
+END:VEVENT
+BEGIN:VEVENT
+UID:255158@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280716T170000Z
+DTEND:20280722T140000Z
+SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 3
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 125\n\nCrime Prevention\, Fingerprinting\, Law\n\nDRAFT EVENT INFO--Will 
+ be updated prior to registration opening\nTuscarora Scout Reservation\nis
+  the perfect destination for Scouts looking for a memorable summer camp 
+ experience. Nestled in the foothills of the Catskill Mountains on the New
+  York/Pennsylvania border\, our 900-acre camp features everything from th
+ rilling aquatic activities on the 35-acre Summit Lake to hands-on learnin
+ g opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sports\, M
+ usic & Arts and more. With top-notch amenities 
+URL:https://global.scoutingevent.com/368-111125
+END:VEVENT
+BEGIN:VEVENT
+UID:255159@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280723T170000Z
+DTEND:20280729T140000Z
+SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 4
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 125\n\nCrime Prevention\, Fingerprinting\, Law\n\nDRAFT EVENT INFO--Will 
+ be updated prior to registration opening\nTuscarora Scout Reservation\nis
+  the perfect destination for Scouts looking for a memorable summer camp 
+ experience. Nestled in the foothills of the Catskill Mountains on the New
+  York/Pennsylvania border\, our 900-acre camp features everything from th
+ rilling aquatic activities on the 35-acre Summit Lake to hands-on learnin
+ g opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sports\, M
+ usic & Arts and more. With top-notch amenities 
+URL:https://global.scoutingevent.com/368-111125
+END:VEVENT
+BEGIN:VEVENT
+UID:255160@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280730T050000Z
+DTEND:20280805T150000Z
+SUMMARY:2028 Tuscarora Scout Reservation Summer Camp – Week 5
+LOCATION:Tuscarora Scout Reservation\, Windsor\, New York
+DESCRIPTION:Baden-Powell Council\nhttps://global.scoutingevent.com/368-111
+ 125\n\nCrime Prevention\, Fingerprinting\, Law\n\nDRAFT EVENT INFO--Will 
+ be updated prior to registration opening\nTuscarora Scout Reservation\nis
+  the perfect destination for Scouts looking for a memorable summer camp 
+ experience. Nestled in the foothills of the Catskill Mountains on the New
+  York/Pennsylvania border\, our 900-acre camp features everything from th
+ rilling aquatic activities on the 35-acre Summit Lake to hands-on learnin
+ g opportunities in Nature\, Handicraft\, Scoutcraft\, Shooting Sports\, M
+ usic & Arts and more. With top-notch amenities 
+URL:https://global.scoutingevent.com/368-111125
+END:VEVENT
+BEGIN:VEVENT
+UID:267073@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280805T120000Z
+DTEND:20280805T200000Z
+SUMMARY:Pool Painting
+LOCATION:NYS Fair Reflecting  Pool\, Syracuse \, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-pool28
+ \n\n\n\npool painting\nWhen & Where\nRegistration Opens 03-01-2028 12:00 
+ AM\nNYS Fair Reflecting  Pool\nSaturday 08-05-2028\n8:00 AM ET to 4:00 PM
+  ET\nMore Information\nMap of Event\n$\nView Pricing\nCoords: 43.0729075\
+ , -76.2151966\n581 State fair BLvd\nSyracuse\, New York 13209\nRegistrati
+ on Closes:\n&nbsp08-02-2028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-pool28
+END:VEVENT
+BEGIN:VEVENT
+UID:265248@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280915T220000Z
+DTEND:20280917T160000Z
+SUMMARY:Fall 2028 BALOO & IOLS – Fall Baloo 2028
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-Fall28
+ Balooiols\n\nBALOO\, IOLS\, Position-Specific Leader Training\n\nFall 202
+ 8 BALOO & IOLS Training\nLonghouse Council's Outdoor Training Team offers
+  two essential courses over one weekend—BALOO for Cub Scout leaders and
+  IOLS for Scouts BSA Leaders. Come for a weekend of learning\, fellowship
+ \, and fun from great instructors!\nWhen: Training starts Friday evening 
+ (arrival between 6:00 PM and 7:00 PM) and wraps up on Sunday morning.\nWh
+ ere: Camp Woodland\nBasic Adult Leader Outdoor Orientation (BALOO)\nThis 
+ one-and-a-half-day course is designed as an introduction to the
+URL:https://global.scoutingevent.com/373-Fall28Balooiols
+END:VEVENT
+BEGIN:VEVENT
+UID:263824@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280915T220000Z
+DTEND:20280915T140000Z
+SUMMARY:OA Fall Induction Weekend – Fall Induction Weekend
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-oafall
+ 28\n\n\n\nFall Inductions Weekend\nWhen & Where\nRegistration Opens 05-11
+ -2028 12:00 AM\nFall Induction Weekend\nCamp Woodland\nFriday 09-15-2028\
+ n6:00 PM ET to 10:00 AM ET\nMore Information\nMap of Event\n$\nView Prici
+ ng\nCoords: 43.2732614\, -75.963769\n491 Kibbie Lake Rd\nConstantia\, New
+  York 13044\nPhone: 315-463-0201\nRegistration Closes:\n&nbsp09-16-2028 1
+ 1:59 PM\nContact
+URL:https://global.scoutingevent.com/373-oafall28
+END:VEVENT
+BEGIN:VEVENT
+UID:263827@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280930T200000Z
+DTEND:20281002T140000Z
+SUMMARY:Beyond the Arrow
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-byarr2
+ 8\n\n\n\nWhat is Beyond the Arrow? Let’s start with what it is not. It 
+ is not about AOL Adventure requirements or Shooting Sports\, however will
+  aid in completing the AOL Bobcat adventure\, with a focus on the Scouts 
+ BSA program.\nIt is an outdoor adventure designed to aid in the AOL-to-Sc
+ out transition plan. This event is designed to introduce AOL Scouts and t
+ heir parents to the exciting Scouting adventures that lay ahead of them a
+ nd help make the transition into Scouts BSA more exciting while preparing
+  th
+URL:https://global.scoutingevent.com/373-byarr28
+END:VEVENT
+BEGIN:VEVENT
+UID:263821@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281007T120000Z
+DTEND:20281007T203000Z
+SUMMARY:Spooktacular 2028 – SPOOKTACULAR
+LOCATION:Camp Woodland\, Constantia\, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-spook2
+ 8\n\n\n\nJoin us for a haunting good time at the 2026 SPOOKTACULAR!\nThis
+  is the biggest Cub Scout event of the year\, and one you don't want to m
+ iss. Join us Saturday October 3rd at Camp Woodland. There will be games a
+ nd crafts along with a haunted Hay ride and a costume parade. We'll have 
+ bb\, archery\, and all the fun that camp has to offer.\nThe day begins at
+  8:45 with an opening ceremony\, and the fun begins there!\nPacks can pro
+ vide their own lunch\, or visit the Chuck Wagon Concession stand inside O
+ wens H
+URL:https://global.scoutingevent.com/373-spook28
+END:VEVENT
+BEGIN:VEVENT
+UID:263817@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20281014T220000Z
+DTEND:20281016T140000Z
+SUMMARY:2028 Brotherhood Camporee
+LOCATION:Wellesley Island State Park\, fineview \, New York
+DESCRIPTION:Longhouse Council\nhttps://global.scoutingevent.com/373-Brothe
+ rhood28\n\n\n\nPlease join us for the 2026 Brotherhood Camporee at Welles
+ ley Island State Park. The 2026 Camporee will feature more program events
+  and areas.\nWhen & Where\nRegistration Opens 12-31-2026 12:00 AM\nWelles
+ ley Island State Park\nSaturday 10-14-2028 6:00 PM ET to\nMonday 10-16-20
+ 28 10:00 AM ET\nMore Information\nMap of Event\n$\nView Pricing\nCoords: 
+ 44.3063033\, -76.0333964\n44927 Cross Island rd\nfineview\, New York 1364
+ 0\nRegistration Closes:\n&nbsp10-12-2028 11:59 PM\nContact
+URL:https://global.scoutingevent.com/373-Brotherhood28
 END:VEVENT
 END:VCALENDAR

@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:252093@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261227T150000Z
 DTEND:20261230T183000Z
 SUMMARY:Winter Camp 2026 – Winter Camp
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/488-109989
 END:VEVENT
 BEGIN:VEVENT
 UID:269573@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261227T150000Z
 DTEND:20261230T190000Z
 SUMMARY:Winter Camp @ WRSR
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/480-WinterCamp2026
 END:VEVENT
 BEGIN:VEVENT
 UID:275924@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261231T060000Z
 DTEND:20270101T055900Z
 SUMMARY:2026 Jamboree Daypack and Duffel Bags – 2026 Jamboree Patch Sale
@@ -62,7 +62,7 @@ URL:https://global.scoutingevent.com/488-121840
 END:VEVENT
 BEGIN:VEVENT
 UID:275067@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T140000Z
 DTEND:20270130T230000Z
 SUMMARY:Fundamentals of Training – Fundamentals Of Training - Jan
@@ -80,7 +80,7 @@ URL:https://global.scoutingevent.com/480-121495
 END:VEVENT
 BEGIN:VEVENT
 UID:274261@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T150000Z
 DTEND:20270206T230000Z
 SUMMARY:NRA Range Safety Officer Training 2026
@@ -98,7 +98,7 @@ URL:https://global.scoutingevent.com/488-121103
 END:VEVENT
 BEGIN:VEVENT
 UID:275228@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270219T140000Z
 DTEND:20270221T230000Z
 SUMMARY:Wilderness First Aid – Wilderness First Aid/CPR Session 1
@@ -117,7 +117,7 @@ URL:https://global.scoutingevent.com/480-121565
 END:VEVENT
 BEGIN:VEVENT
 UID:259175@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270219T230000Z
 DTEND:20270221T180000Z
 SUMMARY:Top Shot 2027 – Top Shot
@@ -135,7 +135,7 @@ URL:https://global.scoutingevent.com/480-topshot2027
 END:VEVENT
 BEGIN:VEVENT
 UID:274262@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T143000Z
 DTEND:20270227T230000Z
 SUMMARY:NRA Basic Instructor Training - (BIT)
@@ -153,7 +153,7 @@ URL:https://global.scoutingevent.com/488-121104
 END:VEVENT
 BEGIN:VEVENT
 UID:275074@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T140000Z
 DTEND:20270307T173000Z
 SUMMARY:IOLS Training – IOLS I
@@ -171,7 +171,7 @@ URL:https://global.scoutingevent.com/480-121500
 END:VEVENT
 BEGIN:VEVENT
 UID:275210@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T140000Z
 DTEND:20270314T163000Z
 SUMMARY:BALOO Training – BALOO I
@@ -189,7 +189,7 @@ URL:https://global.scoutingevent.com/480-121562
 END:VEVENT
 BEGIN:VEVENT
 UID:274263@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T140000Z
 DTEND:20270314T000000Z
 SUMMARY:NRA Basic Rifle Shooting Course
@@ -207,7 +207,7 @@ URL:https://global.scoutingevent.com/488-121105
 END:VEVENT
 BEGIN:VEVENT
 UID:274264@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270314T130000Z
 DTEND:20270314T230000Z
 SUMMARY:NRA Rifle Instructor Course
@@ -225,7 +225,7 @@ URL:https://global.scoutingevent.com/488-121106
 END:VEVENT
 BEGIN:VEVENT
 UID:275229@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270319T130000Z
 DTEND:20270321T220000Z
 SUMMARY:Wilderness First Aid – Wilderness First Aid/CPR Session 2
@@ -244,7 +244,7 @@ URL:https://global.scoutingevent.com/480-121565
 END:VEVENT
 BEGIN:VEVENT
 UID:273856@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T120000Z
 DTEND:20270404T230000Z
 SUMMARY:Woodbadge\, Spring WB-2147 – Wood Badge Spring 2027 Session 1
@@ -262,7 +262,7 @@ URL:https://global.scoutingevent.com/480-120901
 END:VEVENT
 BEGIN:VEVENT
 UID:275230@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T130000Z
 DTEND:20270404T220000Z
 SUMMARY:Wilderness First Aid – Wilderness First Aid/CPR Session 3
@@ -281,7 +281,7 @@ URL:https://global.scoutingevent.com/480-121565
 END:VEVENT
 BEGIN:VEVENT
 UID:274267@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T120000Z
 DTEND:20270403T170000Z
 SUMMARY:Cub Scout Top Shot – Session 1
@@ -299,7 +299,7 @@ URL:https://global.scoutingevent.com/488-121109
 END:VEVENT
 BEGIN:VEVENT
 UID:274269@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270404T170000Z
 DTEND:20270404T230000Z
 SUMMARY:Cub Scout Top Shot – Session  3
@@ -317,7 +317,7 @@ URL:https://global.scoutingevent.com/488-121109
 END:VEVENT
 BEGIN:VEVENT
 UID:274266@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270410T130000Z
 DTEND:20270410T220000Z
 SUMMARY:NRA Basic Shotgun Shooting Course
@@ -335,7 +335,7 @@ URL:https://global.scoutingevent.com/488-121108
 END:VEVENT
 BEGIN:VEVENT
 UID:274277@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270411T130000Z
 DTEND:20270411T230000Z
 SUMMARY:NRA Shotgun Instructor Course
@@ -353,7 +353,7 @@ URL:https://global.scoutingevent.com/488-121111
 END:VEVENT
 BEGIN:VEVENT
 UID:275334@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T220000Z
 DTEND:20270418T170000Z
 SUMMARY:ZBASE Backpacking Shakedown Weekend – Backpacking Shakedown Week
@@ -372,7 +372,7 @@ URL:https://global.scoutingevent.com/488-121631
 END:VEVENT
 BEGIN:VEVENT
 UID:275333@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T230000Z
 DTEND:20270418T160000Z
 SUMMARY:ZBASE Canoeing Shakedown Weekend – Canoeing Shakedown Weekend
@@ -390,7 +390,7 @@ URL:https://global.scoutingevent.com/488-121630
 END:VEVENT
 BEGIN:VEVENT
 UID:275068@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270417T130000Z
 DTEND:20270419T220000Z
 SUMMARY:Fundamentals of Training – Fundamentals Of Training - Apr
@@ -408,7 +408,7 @@ URL:https://global.scoutingevent.com/480-121495
 END:VEVENT
 BEGIN:VEVENT
 UID:269572@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T120000Z
 DTEND:20270425T233000Z
 SUMMARY:Wood Badge 2027 – 2027 Wood Badge #1
@@ -427,7 +427,7 @@ URL:https://global.scoutingevent.com/488-woodbadge2027
 END:VEVENT
 BEGIN:VEVENT
 UID:275231@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T130000Z
 DTEND:20270425T220000Z
 SUMMARY:Wilderness First Aid – Wilderness First Aid/CPR Session 4
@@ -446,7 +446,7 @@ URL:https://global.scoutingevent.com/480-121565
 END:VEVENT
 BEGIN:VEVENT
 UID:273857@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T120000Z
 DTEND:20270425T230000Z
 SUMMARY:Woodbadge\, Spring WB-2147 – Wood Badge Spring 2027 Session 2
@@ -464,7 +464,7 @@ URL:https://global.scoutingevent.com/480-120901
 END:VEVENT
 BEGIN:VEVENT
 UID:275075@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T130000Z
 DTEND:20270425T163000Z
 SUMMARY:IOLS Training – IOLS II
@@ -482,7 +482,7 @@ URL:https://global.scoutingevent.com/480-121500
 END:VEVENT
 BEGIN:VEVENT
 UID:277663@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270427T120000Z
 DTEND:20270430T220000Z
 SUMMARY:ASI ATV Instructor Course
@@ -500,7 +500,7 @@ URL:https://global.scoutingevent.com/488-122829
 END:VEVENT
 BEGIN:VEVENT
 UID:274278@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270502T183000Z
 DTEND:20270502T220000Z
 SUMMARY:WSSC Shooting Sports Complex Facility Orientation
@@ -518,7 +518,7 @@ URL:https://global.scoutingevent.com/488-121112
 END:VEVENT
 BEGIN:VEVENT
 UID:275217@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T230000Z
 DTEND:20270516T170000Z
 SUMMARY:Leave No Trace – LNT\, May
@@ -536,7 +536,7 @@ URL:https://global.scoutingevent.com/480-121563
 END:VEVENT
 BEGIN:VEVENT
 UID:275232@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270521T130000Z
 DTEND:20270523T220000Z
 SUMMARY:Wilderness First Aid – Wilderness First Aid/CPR Session 5
@@ -555,7 +555,7 @@ URL:https://global.scoutingevent.com/480-121565
 END:VEVENT
 BEGIN:VEVENT
 UID:274281@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270605T130000Z
 DTEND:20270606T010000Z
 SUMMARY:USA Archery Level 1 Instructor Course
@@ -573,7 +573,7 @@ URL:https://global.scoutingevent.com/488-121115
 END:VEVENT
 BEGIN:VEVENT
 UID:262277@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T050000Z
 DTEND:20270613T045900Z
 SUMMARY:Hale Scout Reservation 2027 – Week 1
@@ -591,7 +591,7 @@ URL:https://global.scoutingevent.com/488-Hale2027
 END:VEVENT
 BEGIN:VEVENT
 UID:262278@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270613T050000Z
 DTEND:20270620T045900Z
 SUMMARY:Hale Scout Reservation 2027 – Week 2
@@ -609,7 +609,7 @@ URL:https://global.scoutingevent.com/488-Hale2027
 END:VEVENT
 BEGIN:VEVENT
 UID:262279@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270620T050000Z
 DTEND:20270627T045900Z
 SUMMARY:Hale Scout Reservation 2027 – Week 3
@@ -627,7 +627,7 @@ URL:https://global.scoutingevent.com/488-Hale2027
 END:VEVENT
 BEGIN:VEVENT
 UID:262280@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270627T050000Z
 DTEND:20270704T045900Z
 SUMMARY:Hale Scout Reservation 2027 – Week 4
@@ -644,8 +644,26 @@ DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-H
 URL:https://global.scoutingevent.com/488-Hale2027
 END:VEVENT
 BEGIN:VEVENT
+UID:275260@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270628T170000Z
+DTEND:20270703T170000Z
+SUMMARY:NYLT June 2027
+LOCATION:Camp George Thomas\, Apache\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-Ju
+ neNYLT\n\nNYLT\n\nNational Youth Leadership Training (NYLT) is an excitin
+ g\, action-packed\, Council-level program focused on empowering its youth
+  members with leadership skills and experience. This 6-day\, advanced lea
+ dership course is designed to teach Scouts the tools\, techniques\, and s
+ kills they can not only use in their home Scouting units\, but also in sc
+ hool\, in their daily lives\, and in any other situations demanding leade
+ rship of others and self. Led by a talented\, well-trained\, high-perform
+ ing team of youth
+URL:https://global.scoutingevent.com/480-JuneNYLT
+END:VEVENT
+BEGIN:VEVENT
 UID:262286@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270704T050000Z
 DTEND:20270711T045900Z
 SUMMARY:Hale Scout Reservation 2027 – Week 5
@@ -662,8 +680,62 @@ DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-H
 URL:https://global.scoutingevent.com/488-Hale2027
 END:VEVENT
 BEGIN:VEVENT
+UID:274282@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270710T140000Z
+DTEND:20270710T230000Z
+SUMMARY:"First Steps" PISTOL and COWBOY ACTION Experience
+LOCATION:Zink Scout Ranch\, Skiatook\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 21116\n\n\n\nNRA "First Steps" PISTOL and COWBOY ACTION Experience\nJuly 
+ 10\, 2027\n9:00 a.m. - 6:00 p.m.\nTurkey Creek Village\, Zink Ranch\n-- 
+  Participation limited to adults and youth at least 14 years of age\,\n-
+ -  Participants will complete the NRA "First Steps" PISTOL curriculum wi
+ th semi-auto pistols on bullseye targets.  Participants will then repeat
+  the curriculum shooting Single 6 Revolvers on steel reactive targets  f
+ or the practical experience. all followed by the COWBOY ACTION challenge.
+ \n--  Plan to ar
+URL:https://global.scoutingevent.com/488-121116
+END:VEVENT
+BEGIN:VEVENT
+UID:275436@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T170000Z
+DTEND:20270717T170000Z
+SUMMARY:NYLT July 2027
+LOCATION:Camp George Thomas\, Apache\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-Ju
+ lyNYLT\n\nNYLT\n\nNational Youth Leadership Training (NYLT) is an excitin
+ g\, action-packed\, Council-level program focused on empowering its youth
+  members with leadership skills and experience. This 6-day\, advanced lea
+ dership course is designed to teach Scouts the tools\, techniques\, and s
+ kills they can not only use in their home Scouting units\, but also in sc
+ hool\, in their daily lives\, and in any other situations demanding leade
+ rship of others and self. Led by a talented\, well-trained\, high-perform
+ ing team of youth
+URL:https://global.scoutingevent.com/480-JulyNYLT
+END:VEVENT
+BEGIN:VEVENT
+UID:269356@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T050000Z
+DTEND:20270801T045900Z
+SUMMARY:NOAC 2027 (National Order of the Arrow Conference)
+LOCATION:Donald W. Reynolds Scout Resource Center\, Tulsa\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 18473\n\n\n\nNOAC 2027\nNational Order of the Arrow Conference\nUniversit
+ y of Illinois Urbana-Champaign\nJuly 26–31\, 2027\nJoin your fellow Ta 
+ Tsu Hwa Lodge members for NOAC 2027! Do not miss this opportunity to expe
+ rience Brotherhood\, Cheerfulness\, and Service alongside Arrowmen from a
+ cross the country.\nTa Tsu Hwa Lodge is currently finalizing its travel s
+ chedule\, contingent swag\, and contingent fees. The estimated total cost
+  is approximately $1\,400 per person\, including both NOAC registration a
+ nd lodge conting
+URL:https://global.scoutingevent.com/488-118473
+END:VEVENT
+BEGIN:VEVENT
 UID:275219@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270730T230000Z
 DTEND:20270801T170000Z
 SUMMARY:Leave No Trace – LNT\, July
@@ -680,8 +752,62 @@ DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
 URL:https://global.scoutingevent.com/480-121563
 END:VEVENT
 BEGIN:VEVENT
+UID:274284@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270731T133000Z
+DTEND:20270731T220000Z
+SUMMARY:NRA Basic Instructor Training - (BIT)
+LOCATION:Graves Scout Reservation\, Broken Arrow\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 21118\n\nRange Officer / Shooting Instructor\n\nNational Rifle Associatio
+ n -\nBasic Instructor Training Course\nJuly 31\, 2027\n(8:30am - 5:00pm)\
+ nCost: $23.00\nLocation:\nGraves Scout Reservation\,\nBroken Arrow\, Ok\n
+ Advance registration is required by July 23\, 2027.\nCourse is limited to
+  max. 16 participants\nNRA Basic Training (BIT) is the initial step in de
+ veloping NRA Certified Instructors who posses the knowledge\, skills\, an
+ d attitude necessary to conduct NRA Basic Training Courses.\nThe 7-hour a
+ genda teaches the NRA policies and procedures as well 
+URL:https://global.scoutingevent.com/488-121118
+END:VEVENT
+BEGIN:VEVENT
+UID:274286@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270815T130000Z
+DTEND:20270815T230000Z
+SUMMARY:NRA COOP Muzzleloading Rifle Instructor Course
+LOCATION:Oil Capital Gun Club\, Coweta\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 21120\n\nRange Officer / Shooting Instructor\n\nNational Rifle Associatio
+ n\nCOOP Muzzleloading Rifle Basic & Instructor Course\nAugust 17th\, 202
+ 5\n8:00 am - 6:00 pm\nLocation:\nMabee Scout Reservation\nWilliamson Shoo
+ ting Sports Complex\nRegistration Fee - $45.00\nRegistration closes Augus
+ t 2nd\, 2027\nYou must be 18 yrs. of age and a registered member of the B
+ SA to attend this course\nHurry and register - Course Limit 12 participan
+ ts per course\nFor more information contact:\nLarry Bahler at lbahler@cox
+ .net\nWhen & Where\nOil Capital Gun Club\nSunday 08-15-
+URL:https://global.scoutingevent.com/488-121120
+END:VEVENT
+BEGIN:VEVENT
+UID:275427@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270910T120000Z
+DTEND:20270912T230000Z
+SUMMARY:Woodbadge\, Fall WB-2148 – Wood Badge Fall 2027 Session 1
+LOCATION:Camp George Thomas\, Apache\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
+ 1678\n\nWood Badge\n\nWood Badge is Scouting's premier training course fo
+ r adult leaders. It provides participants with practical tools to fulfill
+  the aims and methods of the Scouting program. The quality of the scoutin
+ g experience for Cub Scouts\, Boy Scouts\, Varsity Scouts\, and Venturers
+  depends on the skills\, knowledge\, and commitment of those adult leader
+ s who have given their time and energy to the Scouting movement.\nContact
+ \nWhen & Where\nRegistration Opens 03-29-2027 12:00 AM\nWood Badge Fall 2
+ 027 Session 1\nCamp G
+URL:https://global.scoutingevent.com/480-121678
+END:VEVENT
+BEGIN:VEVENT
 UID:275211@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270911T130000Z
 DTEND:20270912T163000Z
 SUMMARY:BALOO Training – BALOO II
@@ -699,7 +825,7 @@ URL:https://global.scoutingevent.com/480-121562
 END:VEVENT
 BEGIN:VEVENT
 UID:275076@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270918T130000Z
 DTEND:20270919T163000Z
 SUMMARY:IOLS Training – IOLS III
@@ -716,8 +842,26 @@ DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
 URL:https://global.scoutingevent.com/480-121500
 END:VEVENT
 BEGIN:VEVENT
+UID:275428@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270925T120000Z
+DTEND:20270926T230000Z
+SUMMARY:Woodbadge\, Fall WB-2148 – Wood Badge Fall 2027 Session 2
+LOCATION:Camp George Thomas\, Apache\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
+ 1678\n\nWood Badge\n\nWood Badge is Scouting's premier training course fo
+ r adult leaders. It provides participants with practical tools to fulfill
+  the aims and methods of the Scouting program. The quality of the scoutin
+ g experience for Cub Scouts\, Boy Scouts\, Varsity Scouts\, and Venturers
+  depends on the skills\, knowledge\, and commitment of those adult leader
+ s who have given their time and energy to the Scouting movement.\nContact
+ \nWhen & Where\nRegistration Opens 03-29-2027 12:00 AM\nWood Badge Fall 2
+ 027 Session 1\nCamp G
+URL:https://global.scoutingevent.com/480-121678
+END:VEVENT
+BEGIN:VEVENT
 UID:275212@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20271002T130000Z
 DTEND:20271003T163000Z
 SUMMARY:BALOO Training – BALOO III
@@ -735,7 +879,7 @@ URL:https://global.scoutingevent.com/480-121562
 END:VEVENT
 BEGIN:VEVENT
 UID:275218@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20271008T230000Z
 DTEND:20271010T170000Z
 SUMMARY:Leave No Trace – LNT\, October
@@ -753,7 +897,7 @@ URL:https://global.scoutingevent.com/480-121563
 END:VEVENT
 BEGIN:VEVENT
 UID:275077@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20271106T130000Z
 DTEND:20271107T173000Z
 SUMMARY:IOLS Training – IOLS IV
@@ -768,5 +912,41 @@ DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
  ed in Boy Scout Troops in order to be considered fully trained. Participa
  nts should have completed or have a plan to complete Scoutmaster Speci
 URL:https://global.scoutingevent.com/480-121500
+END:VEVENT
+BEGIN:VEVENT
+UID:274283@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271107T150000Z
+DTEND:20271108T000000Z
+SUMMARY:NRA "First Steps" PISTOL and "Steel Challenge" Experience
+LOCATION:Mabee Scout Reservation\, Locust Grove\, Oklahoma
+DESCRIPTION:Indian Nations Council\nhttps://global.scoutingevent.com/488-1
+ 21117\n\n\n\nNRA "First Steps" PISTOL and Steel Challenge Experience\nNov
+ ember 7\, 2027\n9:00 a.m. - 6:00 p.m.\nWilliamson Shooting Sports Complex
+ \nMabee Scout Reservation\n--  Participation limited to adults and youth
+  at least 14 years of age\,\n--  Participants will complete the NRA "Fir
+ st Steps" PISTOL curriculum with semi-auto pistols on bullseye targets. 
+  Participants will then repeat the curriculum shooting Single 6 Revolver
+ s on steel reactive targets  for the practical experience.\n--  Plan to
+  arrive no later 
+URL:https://global.scoutingevent.com/488-121117
+END:VEVENT
+BEGIN:VEVENT
+UID:277201@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271112T230000Z
+DTEND:20271114T180000Z
+SUMMARY:Fall Encampment 2027 – Fall Encampment
+LOCATION:Diamond H Scout Ranch\, Cookson\, Oklahoma
+DESCRIPTION:Last Frontier Council\nhttps://global.scoutingevent.com/480-12
+ 2579\n\nGeocaching\, Surveying\n\nFall Encampment is an encampment for Sc
+ outs BSA Boy and Girl Troops and Venturers to learn in-depth skills and u
+ nique opportunities. A wide variety of experiences are offered each year.
+  Past events have included shooting sports\, fishing & fly fishing\, wild
+ erness survival\, outdoor cooking\, geocashing and surveying. Youth parti
+ cipants will choose their weekend program. The youth working on fly fishi
+ ng\, fishing\, search and rescue\, wilderness survival\, geocaching and s
+ urveying will cover requirement
+URL:https://global.scoutingevent.com/480-122579
 END:VEVENT
 END:VCALENDAR

@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:263017@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261205T130000Z
 DTEND:20261205T220000Z
 SUMMARY:2026 Barton County Merit Badge College
@@ -28,7 +28,7 @@ URL:https://global.scoutingevent.com/198-115109
 END:VEVENT
 BEGIN:VEVENT
 UID:243095@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270115T230000Z
 DTEND:20270117T180000Z
 SUMMARY:Trappers' Rendezvous 2027 – TRAPPERS REGISTRATION
@@ -46,7 +46,7 @@ URL:https://global.scoutingevent.com/198-105418
 END:VEVENT
 BEGIN:VEVENT
 UID:265689@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T230000Z
 DTEND:20270404T150000Z
 SUMMARY:Konzavous – Frontier Adventure 2027
@@ -65,7 +65,7 @@ URL:https://global.scoutingevent.com/192-Konzavous2027
 END:VEVENT
 BEGIN:VEVENT
 UID:277962@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270526T133000Z
 DTEND:20270528T213000Z
 SUMMARY:Konza District Day Camp
@@ -83,7 +83,7 @@ URL:https://global.scoutingevent.com/192-KonzaDayCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272576@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270613T180000Z
 DTEND:20270619T150000Z
 SUMMARY:2027 QSR Scouts BSA/Venturing Resident Summer Camp – Session 1
@@ -101,7 +101,7 @@ URL:https://global.scoutingevent.com/198-SummerCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272577@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270620T180000Z
 DTEND:20270626T150000Z
 SUMMARY:2027 QSR Scouts BSA/Venturing Resident Summer Camp – Session 2
@@ -119,7 +119,7 @@ URL:https://global.scoutingevent.com/198-SummerCamp2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272578@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270627T180000Z
 DTEND:20270703T150000Z
 SUMMARY:2027 QSR Scouts BSA/Venturing Resident Summer Camp – Session 3
@@ -134,5 +134,24 @@ DESCRIPTION:Quivira Council\nhttps://global.scoutingevent.com/198-SummerCa
  ditional: Early Bird: $375 Standard Fee: $475.00 Late Fee: $575.00. Adult
   Traditional: Ea
 URL:https://global.scoutingevent.com/198-SummerCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:277964@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270806T220000Z
+DTEND:20270808T163000Z
+SUMMARY:Kansas Sea Base 2027
+LOCATION:Blue Valley Yacht Club\, Manhattan\, Kansas
+DESCRIPTION:Coronado Area Council\nhttps://global.scoutingevent.com/192-Ka
+ nsasSeaBase2027\n\nKayaking\, Motorboating\, Small-Boat Sailing\, Water S
+ ports\n\nInland Water Safety & Boating Weekend\nExperience an exciting an
+ d challenging weekend focused on inland water safety and boating activiti
+ es at\nTuttle Creek Reservoir near Manhattan\n. Scouts will receive hands
+ -on instruction from experienced instructors while working on one of the 
+ following merit badges:\nSmall-Boat Sailing\nKayaking\nMotorboating\nWate
+ r Sports\nImportant:\nIf your Scout has already completed one of these me
+ rit badge classes\, please do\nnot\nregister them for the same class agai
+ n. This en
+URL:https://global.scoutingevent.com/192-KansasSeaBase2027
 END:VEVENT
 END:VCALENDAR

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "programs": [
   {
    "park": "Cabrillo National Monument",
@@ -117,7 +117,6 @@
    "where": "Park Islands",
    "time": "10:00 AM - 11:00 AM",
    "nextDates": [
-    "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-28",
@@ -128,78 +127,15 @@
     "2026-12-03",
     "2026-12-04",
     "2026-12-05",
-    "2026-12-06"
+    "2026-12-06",
+    "2026-12-07"
    ],
-   "count": 1325,
+   "count": 1324,
    "free": true,
    "lat": null,
    "lng": null,
    "url": "https://www.nps.gov/chis/planyourvisit/calendar.htm",
    "about": "On days that the concessionaire boats run to the islands, guided hikes may be offered by national park rangers, volunteers, or concessionaire naturalists. If they are not available to lead hikes, self-guided interpretive trail booklets are available. Guided hike locations, distances, and departure times will be announced after your arrival on the island during the visitor orientation. Please check"
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Badwater Basin Ranger Talk",
-   "where": "Badwater Basin",
-   "time": "10:00 AM - 10:45 AM",
-   "nextDates": [
-    "2026-11-25"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.229805,
-   "lng": -116.767413,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Visit an extreme part of the park and learn about the unique forces that create the lowest, hottest and driest place in North America."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Indoor Evening Ranger Talk",
-   "where": "Furnace Creek Visitor Center Auditorium",
-   "time": "07:00 PM - 07:45 PM",
-   "nextDates": [
-    "2026-11-25"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.461796,
-   "lng": -116.866673,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Bring the whole family to enjoy a “Ranger’s Choice” presentation from the comfort of indoor auditorium seating. Ask at the visitor center for the topic."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Junior Ranger Ceremony",
-   "where": "Furnace Creek Visitor Center",
-   "time": "08:30 AM - 08:45 AM",
-   "nextDates": [
-    "2026-11-25"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": null,
-   "lng": null,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Be sworn in as an offical Death Valley Junior Ranger! Bring a completed Junior Ranger Book to earn a badge."
-  },
-  {
-   "park": "Death Valley National Park",
-   "parkCode": "deva",
-   "title": "Sand Dunes Walk",
-   "where": "Meets at Mesquite Dunes Parking",
-   "time": "03:00 PM - 04:00 PM",
-   "nextDates": [
-    "2026-11-25"
-   ],
-   "count": 1,
-   "free": true,
-   "lat": 36.605999,
-   "lng": -117.115538,
-   "url": "https://www.nps.gov/deva/planyourvisit/calendar.htm",
-   "about": "Stroll through the Death Valley Wilderness with a Park Ranger. Explore living and non-living parts of this unique landscape."
   },
   {
    "park": "Death Valley National Park",
@@ -588,38 +524,10 @@
   {
    "park": "Joshua Tree National Park",
    "parkCode": "jotr",
-   "title": "Astronomy Program",
-   "where": "RESERVATIONS REQUIRED\nJoin Joshua Tree National Park Astronomy Rangers at the Sky's the Limit Observatory to learn about star clusters, planets, nebulae, and experience a naturally dark night sky!\nPrograms will feature an astronomy talk, a constellation tour and telescopes.",
-   "time": "06:00 PM - 08:00 PM",
-   "nextDates": [
-    "2026-11-25",
-    "2026-11-27",
-    "2026-12-09",
-    "2026-12-11",
-    "2026-12-16",
-    "2026-12-18",
-    "2026-12-23",
-    "2026-12-30",
-    "2027-01-15",
-    "2027-01-20",
-    "2027-01-22",
-    "2027-01-27"
-   ],
-   "count": 25,
-   "free": false,
-   "lat": 34.080171,
-   "lng": -116.036278,
-   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
-   "about": "RESERVATIONS REQUIRED Join Joshua Tree National Park Astronomy Rangers to learn about star clusters, planets, nebulae, and experience a naturally dark night sky! Programs will feature an astronomy talk, a constellation tour and telescopes. Pets are not permitted on the Observatory campus and cannot be left unattended in vehicles."
-  },
-  {
-   "park": "Joshua Tree National Park",
-   "parkCode": "jotr",
    "title": "Keys Ranch Tour",
    "where": "Reservations Required\n\nKeys Ranch tours begin at the Keys Ranch locked gate and parking area (not at the visitor center).",
    "time": "09:30 AM - 11:30 AM",
    "nextDates": [
-    "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-28",
@@ -630,14 +538,42 @@
     "2026-12-04",
     "2026-12-05",
     "2026-12-06",
-    "2026-12-07"
+    "2026-12-07",
+    "2026-12-08"
    ],
-   "count": 30,
+   "count": 29,
    "free": false,
    "lat": 34.029989,
    "lng": -116.162181,
    "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
    "about": "Join us on a ranger-led tour and learn about the cultural history of Keys Ranch. Topics include Native American history, mining, ranching, homesteading, the Keys family, and the site’s transition into a protected historical site. Joshua Tree National Park acknowledges the 15 associated tribal communities as the original stewards of the land on which Joshua Tree National Park now sits. We are grate"
+  },
+  {
+   "park": "Joshua Tree National Park",
+   "parkCode": "jotr",
+   "title": "Astronomy Program",
+   "where": "RESERVATIONS REQUIRED\nJoin Joshua Tree National Park Astronomy Rangers at the Sky's the Limit Observatory to learn about star clusters, planets, nebulae, and experience a naturally dark night sky!\nPrograms will feature an astronomy talk, a constellation tour and telescopes.",
+   "time": "06:00 PM - 08:00 PM",
+   "nextDates": [
+    "2026-11-27",
+    "2026-12-09",
+    "2026-12-11",
+    "2026-12-16",
+    "2026-12-18",
+    "2026-12-23",
+    "2026-12-30",
+    "2027-01-15",
+    "2027-01-20",
+    "2027-01-22",
+    "2027-01-27",
+    "2027-01-29"
+   ],
+   "count": 24,
+   "free": false,
+   "lat": 34.080171,
+   "lng": -116.036278,
+   "url": "https://www.nps.gov/jotr/planyourvisit/calendar.htm",
+   "about": "RESERVATIONS REQUIRED Join Joshua Tree National Park Astronomy Rangers to learn about star clusters, planets, nebulae, and experience a naturally dark night sky! Programs will feature an astronomy talk, a constellation tour and telescopes. Pets are not permitted on the Observatory campus and cannot be left unattended in vehicles."
   },
   {
    "park": "Joshua Tree National Park",
@@ -816,34 +752,15 @@
   {
    "park": "Sequoia & Kings Canyon National Parks",
    "parkCode": "seki",
-   "title": "Among the Giants Walk (Grant Grove Area)",
-   "where": "Meet at the Grant Tree Trailhead",
-   "time": "11:00 AM - 12:00 PM",
-   "nextDates": [
-    "2026-11-25",
-    "2026-11-27",
-    "2026-11-28"
-   ],
-   "count": 3,
-   "free": true,
-   "lat": 36.747062,
-   "lng": -118.973092,
-   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
-   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
-  },
-  {
-   "park": "Sequoia & Kings Canyon National Parks",
-   "parkCode": "seki",
    "title": "Forest Feature (Giant Forest Area)",
    "where": "Meet in front of the Giant Forest Museum",
    "time": "11:00 AM - 11:30 AM",
    "nextDates": [
-    "2026-11-25",
     "2026-11-26",
     "2026-11-27",
     "2026-11-30"
    ],
-   "count": 4,
+   "count": 3,
    "free": true,
    "lat": 36.564688,
    "lng": -118.772683,
@@ -869,6 +786,23 @@
    "lng": -118.962665,
    "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
    "about": "Join a ranger to unearth something you might not have known about the park. Topics change daily!"
+  },
+  {
+   "park": "Sequoia & Kings Canyon National Parks",
+   "parkCode": "seki",
+   "title": "Among the Giants Walk (Grant Grove Area)",
+   "where": "Meet at the Grant Tree Trailhead",
+   "time": "11:00 AM - 12:00 PM",
+   "nextDates": [
+    "2026-11-27",
+    "2026-11-28"
+   ],
+   "count": 2,
+   "free": true,
+   "lat": 36.747062,
+   "lng": -118.973092,
+   "url": "https://www.nps.gov/seki/planyourvisit/calendar.htm",
+   "about": "Investigate the General Grant Grove on this guided walk through the old-growth giant sequoia forest. The walk lasts for 1 hour and covers a distance of 0.5 miles (0.8km). Accessibility: This trail features tactile information panels, with raised illustrations and Braille text. While paved, the trail has steep sections and is not designated as wheelchair-accessible. A separate short trail that lead"
   },
   {
    "park": "Sequoia & Kings Canyon National Parks",

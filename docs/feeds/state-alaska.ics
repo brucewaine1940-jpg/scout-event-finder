@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:270813@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270516T080000Z
 DTEND:20270523T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 1
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270814@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270523T080000Z
 DTEND:20270530T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 2
@@ -43,7 +43,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270815@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270530T080000Z
 DTEND:20270606T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 3
@@ -61,7 +61,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270816@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270606T080000Z
 DTEND:20270613T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 4
@@ -79,7 +79,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270817@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270613T080000Z
 DTEND:20270620T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 5
@@ -97,7 +97,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270818@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270620T080000Z
 DTEND:20270627T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 6
@@ -114,8 +114,26 @@ DESCRIPTION:Great Alaska Council\nhttps://global.scoutingevent.com/610-UHA
 URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
+UID:261251@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T210000Z
+DTEND:20270626T050000Z
+SUMMARY:Gorsuch Scouts Resident Camp – Week 1
+LOCATION:Camp Gorsuch\, Chugiak\, Alaska
+DESCRIPTION:Great Alaska Council\nhttps://global.scoutingevent.com/610-Gor
+ suchScoutCamp27\n\n\n\nLocated on Mirror Lake as part of the Rasmuson Sco
+ ut Reservation\, Camp Gorsuch offers week-long overnight camping for S
+ couts from the Great Alaska Council and other visiting Councils. The pro
+ gram has been designed to offer Scouts a wide variety of fun\, challengin
+ g opportunities to help them progress along the Trail to Eagle and a wid
+ e variety of Merit Badges. Gorsuch features Project C.O.P.E. for Scouts 
+ 13 years and older highlighting the Nanuk Lodge Brotherhood Climbing T
+ ower. Information to be
+URL:https://global.scoutingevent.com/610-GorsuchScoutCamp27
+END:VEVENT
+BEGIN:VEVENT
 UID:270819@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270627T080000Z
 DTEND:20270704T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 7
@@ -132,8 +150,26 @@ DESCRIPTION:Great Alaska Council\nhttps://global.scoutingevent.com/610-UHA
 URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
+UID:261252@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T210000Z
+DTEND:20270703T050000Z
+SUMMARY:Gorsuch Scouts Resident Camp – Week 2
+LOCATION:Camp Gorsuch\, Chugiak\, Alaska
+DESCRIPTION:Great Alaska Council\nhttps://global.scoutingevent.com/610-Gor
+ suchScoutCamp27\n\n\n\nLocated on Mirror Lake as part of the Rasmuson Sco
+ ut Reservation\, Camp Gorsuch offers week-long overnight camping for S
+ couts from the Great Alaska Council and other visiting Councils. The pro
+ gram has been designed to offer Scouts a wide variety of fun\, challengin
+ g opportunities to help them progress along the Trail to Eagle and a wid
+ e variety of Merit Badges. Gorsuch features Project C.O.P.E. for Scouts 
+ 13 years and older highlighting the Nanuk Lodge Brotherhood Climbing T
+ ower. Information to be
+URL:https://global.scoutingevent.com/610-GorsuchScoutCamp27
+END:VEVENT
+BEGIN:VEVENT
 UID:270820@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270704T080000Z
 DTEND:20270711T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 8
@@ -151,7 +187,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270821@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270711T080000Z
 DTEND:20270718T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 9
@@ -168,8 +204,24 @@ DESCRIPTION:Great Alaska Council\nhttps://global.scoutingevent.com/610-UHA
 URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
+UID:263976@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T210000Z
+DTEND:20270717T180000Z
+SUMMARY:2027 Lost Lake Summer Camp
+LOCATION:Lost Lake Scout Camp\, Fairbanks\, Alaska
+DESCRIPTION:Midnight Sun Council\nhttps://global.scoutingevent.com/696-202
+ 7lostlakesummercamp\n\n\n\nCome join us at Lost Lake for 2027 Summer Camp
+ .\nWhen & Where\nSave the Date\n2027 Lost Lake Summer Camp\nLost Lake Sco
+ ut Camp\nSunday 07-11-2027 1:00 PM AKT to\nSaturday 07-17-2027 10:00 AM A
+ KT\nMore Information\nMap of Event\nCoords: 64.2969529\, -146.6920198\n12
+ 660 Lost Lake Road\nFairbanks\, Alaska 99701\nPhone: 907-452-1976\nRegist
+ ration Closes:\n&nbsp06-30-2027 11:59 PM\nContact
+URL:https://global.scoutingevent.com/696-2027lostlakesummercamp
+END:VEVENT
+BEGIN:VEVENT
 UID:270822@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270718T080000Z
 DTEND:20270725T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 10
@@ -187,7 +239,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270823@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270725T080000Z
 DTEND:20270801T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 11
@@ -205,7 +257,7 @@ URL:https://global.scoutingevent.com/610-UHA
 END:VEVENT
 BEGIN:VEVENT
 UID:270824@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270801T080000Z
 DTEND:20270808T075900Z
 SUMMARY:Alaska Ultimate High Adventure – Week 12

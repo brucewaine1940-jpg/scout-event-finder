@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:275492@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261205T133000Z
 DTEND:20261205T203000Z
 SUMMARY:Short Term Camping Administrator (STCA) Training – STCA Training
@@ -25,7 +25,7 @@ URL:https://global.scoutingevent.com/330-121696
 END:VEVENT
 BEGIN:VEVENT
 UID:253378@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261212T130000Z
 DTEND:20261212T220000Z
 SUMMARY:Cold Weather Leader Training (Course H-105) – Classroom Training
@@ -44,7 +44,7 @@ URL:https://global.scoutingevent.com/330-CWLT
 END:VEVENT
 BEGIN:VEVENT
 UID:255356@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270129T220000Z
 DTEND:20270131T180000Z
 SUMMARY:Okpik Winter Camping Experience – Okpik Explorers
@@ -62,7 +62,7 @@ URL:https://global.scoutingevent.com/330-okpik
 END:VEVENT
 BEGIN:VEVENT
 UID:253379@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270129T223000Z
 DTEND:20270131T180000Z
 SUMMARY:Cold Weather Leader Training (Course H-105) – Practical Skills W
@@ -81,7 +81,7 @@ URL:https://global.scoutingevent.com/330-CWLT
 END:VEVENT
 BEGIN:VEVENT
 UID:264773@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270205T210000Z
 DTEND:20270207T140000Z
 SUMMARY:2027 Southern NH Klondike Derby – Southern NH Klondike Derby
@@ -99,7 +99,7 @@ URL:https://global.scoutingevent.com/330-Klondike2027
 END:VEVENT
 BEGIN:VEVENT
 UID:265716@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270213T130000Z
 DTEND:20270213T210000Z
 SUMMARY:Klondike North 2027 – Klondike North - 2027
@@ -117,7 +117,7 @@ URL:https://global.scoutingevent.com/330-KlondikeNorth27
 END:VEVENT
 BEGIN:VEVENT
 UID:264774@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270502T180000Z
 DTEND:20270502T210000Z
 SUMMARY:2027 Southern NH Pinewood Derby – SNH Pinewood
@@ -135,7 +135,7 @@ URL:https://global.scoutingevent.com/330-Pinewood2027
 END:VEVENT
 BEGIN:VEVENT
 UID:264776@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270514T200000Z
 DTEND:20270516T130000Z
 SUMMARY:2027 Southern NH Chuckwagon – 2027 SNH Chuckwagon
@@ -150,5 +150,60 @@ DESCRIPTION:Scouting America New Hampshire\nhttps://global.scoutingevent.c
  ng snack wagon!  Crew 37 will be roaming the course selling snacks and d
  rinks\, and will have a b
 URL:https://global.scoutingevent.com/330-Chuckwagon2027
+END:VEVENT
+BEGIN:VEVENT
+UID:274279@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T140000Z
+SUMMARY:Seas the Week
+LOCATION:Griswold Scout Reservation\, Gilmanton Iron Works\, New Hampshire
+DESCRIPTION:Scouting America New Hampshire\nhttps://global.scoutingevent.c
+ om/330-121113\n\nCanoeing\, Kayaking\, Lifesaving\, Motorboating\n\n“Se
+ as the Week”\nEnjoy a week with your ship or join as a “provisional
+ ” camper.\nAre you a troop member looking for a different GSR experienc
+ e?\nSea Scouts are ages 14-20. If you are 14+ or age 13 and have complete
+ d the 8th grade\, you can join the program.\nScouts can complete Apprenti
+ ce & Ordinary Sea Scout rank advancement requirements and build nautical 
+ skills. Advanced Ship members can earn Able & Quartermaster requirements 
+ by teaching during the week.\nGSR is a vast 3\,500-acre Scouting property
+  
+URL:https://global.scoutingevent.com/330-121113
+END:VEVENT
+BEGIN:VEVENT
+UID:250942@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T110000Z
+DTEND:20270919T220000Z
+SUMMARY:Wood Badge 10-330-27 – Weekend 1
+LOCATION:Griswold Scout Reservation\, Gilmanton Iron Works\, New Hampshire
+DESCRIPTION:Scouting America New Hampshire\nhttps://global.scoutingevent.c
+ om/330-WoodBadge27\n\nPosition-Specific Leader Training\, Wood Badge\n\nW
+ ood Badge 10-330-27\nWhat is Wood Badge?\nWood Badge is an advanced leade
+ rship training course open to all adult members of Scouting America inclu
+ ding Cub Scouting\, Scouts BSA\, Venturing\, Sea Scouts\, and Explorers\,
+  as well as the district and council levels.\nThe purpose of Wood Badge i
+ s to develop skilled leaders who can strengthen Scouting units in achievi
+ ng the mission of Scouting America.\n“One of the purposes of Wood Badge
+  training is to get Scouters to think about the practice of Scouting\, to
+URL:https://global.scoutingevent.com/330-WoodBadge27
+END:VEVENT
+BEGIN:VEVENT
+UID:250943@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271002T110000Z
+DTEND:20271003T220000Z
+SUMMARY:Wood Badge 10-330-27 – Weekend 2
+LOCATION:Griswold Scout Reservation\, Gilmanton Iron Works\, New Hampshire
+DESCRIPTION:Scouting America New Hampshire\nhttps://global.scoutingevent.c
+ om/330-WoodBadge27\n\nPosition-Specific Leader Training\, Wood Badge\n\nW
+ ood Badge 10-330-27\nWhat is Wood Badge?\nWood Badge is an advanced leade
+ rship training course open to all adult members of Scouting America inclu
+ ding Cub Scouting\, Scouts BSA\, Venturing\, Sea Scouts\, and Explorers\,
+  as well as the district and council levels.\nThe purpose of Wood Badge i
+ s to develop skilled leaders who can strengthen Scouting units in achievi
+ ng the mission of Scouting America.\n“One of the purposes of Wood Badge
+  training is to get Scouters to think about the practice of Scouting\, to
+URL:https://global.scoutingevent.com/330-WoodBadge27
 END:VEVENT
 END:VCALENDAR

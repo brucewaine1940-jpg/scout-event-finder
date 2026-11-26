@@ -7,7 +7,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:247375@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261107T050000Z
 DTEND:20261127T045900Z
 SUMMARY:Scouting for Food 2026
@@ -24,26 +24,8 @@ DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-s
 URL:https://global.scoutingevent.com/539-scoutingforfood2026
 END:VEVENT
 BEGIN:VEVENT
-UID:277411@scout-event-finder
-DTSTAMP:20261125T203656Z
-DTSTART:20261125T140000Z
-DTEND:20261125T210000Z
-SUMMARY:Merit Badge Day - Weather – Weather Merit Badge
-LOCATION:Oscar Lasko PARC\, Exton\, Pennsylvania
-DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
- 22678\n\nRadio\, Weather\n\nExplore the science hiding behind the clouds 
- while earning the Weather Merit Badge! Join us from 9:00 AM to 4:00 PM at
-  PARC for a full day of hands-on learning and advancement.\nScouts will d
- iscover how weather forms\, learn about clouds\, storms\, and forecasting
- \, and explore the impact weather has on our daily lives. Through interac
- tive activities\, observations\, and discussions\, participants will gain
-  a better understanding of meteorology and the science that helps predict
-  changing conditions.\nSco
-URL:https://global.scoutingevent.com/539-122678
-END:VEVENT
-BEGIN:VEVENT
 UID:248943@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261205T131500Z
 DTEND:20261205T220000Z
 SUMMARY:First Aid thru First Class Event – Register Here
@@ -63,7 +45,7 @@ URL:https://global.scoutingevent.com/525-108377
 END:VEVENT
 BEGIN:VEVENT
 UID:271972@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261205T140000Z
 DTEND:20261205T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Oceanography Merit Bad
@@ -83,7 +65,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:275904@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261211T233000Z
 DTEND:20261212T203000Z
 SUMMARY:Cub Scout Rangemaster Training
@@ -101,7 +83,7 @@ URL:https://global.scoutingevent.com/528-121827
 END:VEVENT
 BEGIN:VEVENT
 UID:275675@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261212T130000Z
 DTEND:20261212T224500Z
 SUMMARY:University of Scouting/Merit Badge College – 2026 University of 
@@ -121,7 +103,7 @@ URL:https://global.scoutingevent.com/502-UniversityofScouting2026
 END:VEVENT
 BEGIN:VEVENT
 UID:266250@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261212T130000Z
 DTEND:20261212T223000Z
 SUMMARY:University of Scouting/Merit Badge College
@@ -142,7 +124,7 @@ URL:https://global.scoutingevent.com/502-UniversityofScouting2026
 END:VEVENT
 BEGIN:VEVENT
 UID:277160@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261219T223000Z
 DTEND:20261220T030000Z
 SUMMARY:2026 Fellowship Feast
@@ -159,7 +141,7 @@ URL:https://global.scoutingevent.com/528-2026FellowshipFeast
 END:VEVENT
 BEGIN:VEVENT
 UID:277415@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20261229T140000Z
 DTEND:20261229T210000Z
 SUMMARY:Merit Badge Day - Movie Making – Movie Making Merit Badge
@@ -177,7 +159,7 @@ URL:https://global.scoutingevent.com/539-122682
 END:VEVENT
 BEGIN:VEVENT
 UID:278223@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270102T210000Z
 DTEND:20270103T003000Z
 SUMMARY:Scout Night with the Lehigh Valley Spirits
@@ -195,7 +177,7 @@ URL:https://global.scoutingevent.com/502-123115
 END:VEVENT
 BEGIN:VEVENT
 UID:275743@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270109T130000Z
 DTEND:20270109T220000Z
 SUMMARY:NRA RSO (Range Safety Officer) Training – NRA RSO Training
@@ -213,7 +195,7 @@ URL:https://global.scoutingevent.com/502-nrarso
 END:VEVENT
 BEGIN:VEVENT
 UID:277922@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270109T140000Z
 DTEND:20270109T210000Z
 SUMMARY:I.L.S.T.-Introduction to Leadership Skills for Troops – I.L.S.T.
@@ -232,7 +214,7 @@ URL:https://global.scoutingevent.com/512-122962
 END:VEVENT
 BEGIN:VEVENT
 UID:277945@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270109T190000Z
 DTEND:20270109T213000Z
 SUMMARY:Fundamentals of Training
@@ -251,7 +233,7 @@ URL:https://global.scoutingevent.com/512-122972
 END:VEVENT
 BEGIN:VEVENT
 UID:278873@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270116T130000Z
 DTEND:20270116T210000Z
 SUMMARY:2027 Scouts BSA Klondike Derby
@@ -269,7 +251,7 @@ URL:https://global.scoutingevent.com/528-123486
 END:VEVENT
 BEGIN:VEVENT
 UID:277948@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270116T190000Z
 DTEND:20270116T213000Z
 SUMMARY:Fundamentals of Training
@@ -288,7 +270,7 @@ URL:https://global.scoutingevent.com/512-122976
 END:VEVENT
 BEGIN:VEVENT
 UID:277951@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T123000Z
 DTEND:20270123T220000Z
 SUMMARY:Conococheague District Klondike Derby – 2027 Conococheague Distr
@@ -307,7 +289,7 @@ URL:https://global.scoutingevent.com/544-122979
 END:VEVENT
 BEGIN:VEVENT
 UID:278071@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270123T130000Z
 DTEND:20270123T210000Z
 SUMMARY:Klondike Derby - Juniata Valley Council 2027 – Webelos & AOL Div
@@ -326,7 +308,7 @@ URL:https://global.scoutingevent.com/497-123041
 END:VEVENT
 BEGIN:VEVENT
 UID:255753@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T140000Z
 DTEND:20270130T210000Z
 SUMMARY:Minsi Winter Fun Fest – Winter Fun Fest
@@ -344,7 +326,7 @@ URL:https://global.scoutingevent.com/502-winterfunfest
 END:VEVENT
 BEGIN:VEVENT
 UID:271994@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270130T180000Z
 DTEND:20270130T190000Z
 SUMMARY:STEM Adventure Day – Session 1
@@ -362,7 +344,7 @@ URL:https://global.scoutingevent.com/539-STEMday
 END:VEVENT
 BEGIN:VEVENT
 UID:279047@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270205T230000Z
 DTEND:20270207T140000Z
 SUMMARY:2027 Klondike of the Northern Territories
@@ -380,7 +362,7 @@ URL:https://global.scoutingevent.com/502-2027northklondike
 END:VEVENT
 BEGIN:VEVENT
 UID:266252@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270205T230000Z
 DTEND:20270207T150000Z
 SUMMARY:Monroe District Klondike
@@ -397,7 +379,7 @@ URL:https://global.scoutingevent.com/502-Monroeklondike
 END:VEVENT
 BEGIN:VEVENT
 UID:263578@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270206T130000Z
 DTEND:20270206T210000Z
 SUMMARY:Fundamentals of Training\, Parts 1 & 2
@@ -415,7 +397,7 @@ URL:https://global.scoutingevent.com/544-Fundamentals2027
 END:VEVENT
 BEGIN:VEVENT
 UID:278695@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270213T130000Z
 DTEND:20270213T213000Z
 SUMMARY:2027 Merit Badge College
@@ -437,7 +419,7 @@ URL:https://global.scoutingevent.com/533-2027_MeritBadgeCollege
 END:VEVENT
 BEGIN:VEVENT
 UID:280009@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270213T143000Z
 DTEND:20270213T233000Z
 SUMMARY:ILST 2027
@@ -455,7 +437,7 @@ URL:https://global.scoutingevent.com/532-FCCILST2027
 END:VEVENT
 BEGIN:VEVENT
 UID:276833@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270215T140000Z
 DTEND:20270215T210000Z
 SUMMARY:Merit Badge Day - Engineering – Engineering Merit Badge
@@ -473,7 +455,7 @@ URL:https://global.scoutingevent.com/539-122362
 END:VEVENT
 BEGIN:VEVENT
 UID:277735@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270219T220000Z
 DTEND:20270221T150000Z
 SUMMARY:Battlefield 2027 Klondike Derby
@@ -491,7 +473,7 @@ URL:https://global.scoutingevent.com/544-122868
 END:VEVENT
 BEGIN:VEVENT
 UID:278551@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T000000Z
 DTEND:20270221T170000Z
 SUMMARY:Wilderness First Aid
@@ -509,7 +491,7 @@ URL:https://global.scoutingevent.com/528-123303
 END:VEVENT
 BEGIN:VEVENT
 UID:279231@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T130000Z
 DTEND:20270220T220000Z
 SUMMARY:Chief Logan Klondike Derby - Webelos & AOLs 2027 – Chief Logan K
@@ -528,7 +510,7 @@ URL:https://global.scoutingevent.com/497-123703
 END:VEVENT
 BEGIN:VEVENT
 UID:271973@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T140000Z
 DTEND:20270220T210000Z
 SUMMARY:DaVinci Science Center Merit Badge Days – Composite Materials Me
@@ -548,7 +530,7 @@ URL:https://global.scoutingevent.com/502-DaVinciMBdays
 END:VEVENT
 BEGIN:VEVENT
 UID:269334@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270220T140000Z
 DTEND:20270221T045900Z
 SUMMARY:Lakes Klondike 2027 – Lakes Klondike 2026
@@ -566,7 +548,7 @@ URL:https://global.scoutingevent.com/532-lakesklondike2027
 END:VEVENT
 BEGIN:VEVENT
 UID:269449@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270227T120000Z
 DTEND:20270227T220000Z
 SUMMARY:Skilled Trades Merit Badge College 2027 – Skill Trade Merit Badg
@@ -583,7 +565,7 @@ URL:https://global.scoutingevent.com/532-skilledtrades2027
 END:VEVENT
 BEGIN:VEVENT
 UID:249762@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T130000Z
 DTEND:20270306T210000Z
 SUMMARY:Eagle Valley Merit Badge University
@@ -600,7 +582,7 @@ URL:https://global.scoutingevent.com/527-108790
 END:VEVENT
 BEGIN:VEVENT
 UID:279881@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T133000Z
 DTEND:20270306T203000Z
 SUMMARY:Conococheague District Pinewood Derby – 2027 Conococheague Distr
@@ -619,7 +601,7 @@ URL:https://global.scoutingevent.com/544-123969
 END:VEVENT
 BEGIN:VEVENT
 UID:250153@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270306T170000Z
 DTEND:20270306T210000Z
 SUMMARY:Chief Guyasuta District Pinewood Derby
@@ -637,7 +619,7 @@ URL:https://global.scoutingevent.com/527-109015
 END:VEVENT
 BEGIN:VEVENT
 UID:275902@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T130000Z
 DTEND:20270314T170000Z
 SUMMARY:NRA Rifle Instructor Course with BIT
@@ -655,7 +637,7 @@ URL:https://global.scoutingevent.com/528-NRARifleInstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:279884@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T133000Z
 DTEND:20270313T193000Z
 SUMMARY:Conococheague District Cub Scout Klondike Derby – 2027 Conocoche
@@ -674,7 +656,7 @@ URL:https://global.scoutingevent.com/544-123973
 END:VEVENT
 BEGIN:VEVENT
 UID:277950@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T140000Z
 DTEND:20270313T210000Z
 SUMMARY:Trainers Edge – Trainer's Edge
@@ -693,7 +675,7 @@ URL:https://global.scoutingevent.com/512-122977
 END:VEVENT
 BEGIN:VEVENT
 UID:257499@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270313T150000Z
 DTEND:20270313T193000Z
 SUMMARY:ILST Spring 2027
@@ -711,7 +693,7 @@ URL:https://global.scoutingevent.com/539-112061
 END:VEVENT
 BEGIN:VEVENT
 UID:277014@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270318T230000Z
 DTEND:20270319T020000Z
 SUMMARY:Wilderness First Aid – Session 1
@@ -730,7 +712,7 @@ URL:https://global.scoutingevent.com/539-wfaspring27
 END:VEVENT
 BEGIN:VEVENT
 UID:265188@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270320T120000Z
 DTEND:20270320T210000Z
 SUMMARY:Camp Sinoquipe Service Day – 2027 Spring Camp Sinoquipe Service 
@@ -749,7 +731,7 @@ URL:https://global.scoutingevent.com/598-CampWorkDay
 END:VEVENT
 BEGIN:VEVENT
 UID:266261@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270320T120000Z
 DTEND:20270320T200000Z
 SUMMARY:NRA Training – NRA Range and Target Sports Training
@@ -764,7 +746,7 @@ URL:https://global.scoutingevent.com/502-116867
 END:VEVENT
 BEGIN:VEVENT
 UID:277015@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270320T120000Z
 DTEND:20270320T200000Z
 SUMMARY:Wilderness First Aid – Session 2
@@ -783,7 +765,7 @@ URL:https://global.scoutingevent.com/539-wfaspring27
 END:VEVENT
 BEGIN:VEVENT
 UID:275141@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270320T130000Z
 DTEND:20270320T193000Z
 SUMMARY:2027 Technology Merit Badge Academy – 2026 Merit Badge Academy
@@ -801,7 +783,7 @@ URL:https://global.scoutingevent.com/500-2027MBTECH
 END:VEVENT
 BEGIN:VEVENT
 UID:277016@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270325T230000Z
 DTEND:20270326T020000Z
 SUMMARY:Wilderness First Aid – Session 3
@@ -820,7 +802,7 @@ URL:https://global.scoutingevent.com/539-wfaspring27
 END:VEVENT
 BEGIN:VEVENT
 UID:277017@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270327T120000Z
 DTEND:20270327T200000Z
 SUMMARY:Wilderness First Aid – Session 4
@@ -839,7 +821,7 @@ URL:https://global.scoutingevent.com/539-wfaspring27
 END:VEVENT
 BEGIN:VEVENT
 UID:268808@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T220000Z
 DTEND:20270404T180000Z
 SUMMARY:COPE Instructor Training Level 1 – Level 1
@@ -857,7 +839,7 @@ URL:https://global.scoutingevent.com/527-118167
 END:VEVENT
 BEGIN:VEVENT
 UID:268809@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T220000Z
 DTEND:20270404T180000Z
 SUMMARY:COPE Instructor Training Level 2 – Level 2
@@ -875,7 +857,7 @@ URL:https://global.scoutingevent.com/527-118168
 END:VEVENT
 BEGIN:VEVENT
 UID:276589@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270402T220000Z
 DTEND:20270404T210000Z
 SUMMARY:Orienteering Merit Badge Weekend
@@ -893,7 +875,7 @@ URL:https://global.scoutingevent.com/528-122215
 END:VEVENT
 BEGIN:VEVENT
 UID:275903@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T120000Z
 DTEND:20270404T170000Z
 SUMMARY:NRA Shotgun Instructor Course with BIT
@@ -911,7 +893,7 @@ URL:https://global.scoutingevent.com/528-NRAShotgunInstructor
 END:VEVENT
 BEGIN:VEVENT
 UID:265920@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T120000Z
 DTEND:20270403T200000Z
 SUMMARY:WR Advancement Fair 2027
@@ -929,7 +911,7 @@ URL:https://global.scoutingevent.com/375-116686
 END:VEVENT
 BEGIN:VEVENT
 UID:271975@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270403T130000Z
 DTEND:20270403T160000Z
 SUMMARY:DaVinci Center Cub Fun with Science Day – DaVinci Cub Scout Scie
@@ -948,7 +930,7 @@ URL:https://global.scoutingevent.com/502-DaVinciCubScienceDay
 END:VEVENT
 BEGIN:VEVENT
 UID:278086@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270409T040000Z
 DTEND:20270412T035900Z
 SUMMARY:Seven Mountains Alumni Association Reunion
@@ -964,7 +946,7 @@ URL:https://global.scoutingevent.com/497-123046
 END:VEVENT
 BEGIN:VEVENT
 UID:254962@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270409T213000Z
 DTEND:20270411T190000Z
 SUMMARY:NYLT 2027 – NYLT Spring (weekend #1)
@@ -982,7 +964,7 @@ URL:https://global.scoutingevent.com/539-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:279232@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270409T220000Z
 DTEND:20270411T220000Z
 SUMMARY:2027 NRA Rifle/ Shotgun Instructor Course- Draft clone
@@ -1000,7 +982,7 @@ URL:https://global.scoutingevent.com/527-123704
 END:VEVENT
 BEGIN:VEVENT
 UID:276393@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270409T220000Z
 DTEND:20270410T210000Z
 SUMMARY:Spring IOLS & BALOO – IOLS
@@ -1018,7 +1000,7 @@ URL:https://global.scoutingevent.com/539-SpringTraining
 END:VEVENT
 BEGIN:VEVENT
 UID:274542@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270410T140000Z
 DTEND:20270410T180000Z
 SUMMARY:AdventureFest 2027 – AdventureFest
@@ -1036,7 +1018,7 @@ URL:https://global.scoutingevent.com/525-121010
 END:VEVENT
 BEGIN:VEVENT
 UID:254963@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T213000Z
 DTEND:20270418T190000Z
 SUMMARY:NYLT 2027 – NYLT Spring (weekend #2)
@@ -1054,7 +1036,7 @@ URL:https://global.scoutingevent.com/539-NYLT27
 END:VEVENT
 BEGIN:VEVENT
 UID:263116@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270416T220000Z
 DTEND:20270418T160000Z
 SUMMARY:Camp Minsi Female Summit – Female Summit
@@ -1072,7 +1054,7 @@ URL:https://global.scoutingevent.com/502-115176
 END:VEVENT
 BEGIN:VEVENT
 UID:279496@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T120000Z
 DTEND:20270424T150000Z
 SUMMARY:BALOO – Basic Adult Leader Outdoor Orientation Spring 2027: BALO
@@ -1091,7 +1073,7 @@ URL:https://global.scoutingevent.com/497-123813
 END:VEVENT
 BEGIN:VEVENT
 UID:279551@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T120000Z
 DTEND:20270424T150000Z
 SUMMARY:IOLS – Introduction to Outdoor Leader Skills Spring 2027: IOLS
@@ -1110,7 +1092,7 @@ URL:https://global.scoutingevent.com/497-123832
 END:VEVENT
 BEGIN:VEVENT
 UID:270613@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T220000Z
 DTEND:20270425T180000Z
 SUMMARY:2027 Outdoor Training Summit – Outdoor Training Summit
@@ -1128,7 +1110,7 @@ URL:https://global.scoutingevent.com/527-OutdoorTrainingSmt27
 END:VEVENT
 BEGIN:VEVENT
 UID:266267@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270423T220000Z
 DTEND:20270425T140000Z
 SUMMARY:Lehigh Spring Camporee
@@ -1143,7 +1125,7 @@ URL:https://global.scoutingevent.com/502-Lehighspringcamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:276386@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T130000Z
 DTEND:20270424T200000Z
 SUMMARY:2027 BB & Archery Rangemaster Trainings – April 24th Training
@@ -1161,7 +1143,7 @@ URL:https://global.scoutingevent.com/525-122111
 END:VEVENT
 BEGIN:VEVENT
 UID:274102@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270424T180000Z
 DTEND:20270424T210000Z
 SUMMARY:Octoraro District Pinewood Derby Championship 2027 – Octoraro Di
@@ -1180,7 +1162,7 @@ URL:https://global.scoutingevent.com/539-121031
 END:VEVENT
 BEGIN:VEVENT
 UID:276186@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270425T100000Z
 DTEND:20270425T220000Z
 SUMMARY:2027 NRA RSO Course
@@ -1196,7 +1178,7 @@ URL:https://global.scoutingevent.com/527-122022
 END:VEVENT
 BEGIN:VEVENT
 UID:264403@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270430T210000Z
 DTEND:20270503T035900Z
 SUMMARY:2027 National Youth Leadership Training – 2027 NYLT Save the Dat
@@ -1215,7 +1197,7 @@ URL:https://global.scoutingevent.com/502-2027NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:276478@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270501T120000Z
 DTEND:20270502T210000Z
 SUMMARY:Intro to Outdoor Leadership Skills (IOLS) & BALOO Training – IOL
@@ -1234,7 +1216,7 @@ URL:https://global.scoutingevent.com/502-springiolsbaloo
 END:VEVENT
 BEGIN:VEVENT
 UID:274517@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270507T200000Z
 DTEND:20270509T210000Z
 SUMMARY:2027 National Youth Leadership Training – NYLT Weekend 2
@@ -1252,7 +1234,7 @@ URL:https://global.scoutingevent.com/502-2027NYLT
 END:VEVENT
 BEGIN:VEVENT
 UID:265688@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270515T120000Z
 DTEND:20270516T210000Z
 SUMMARY:Wilderness First Aid May 2027 - Seven Mountains Scout Camp (Kriner
@@ -1271,7 +1253,7 @@ URL:https://global.scoutingevent.com/497-116563
 END:VEVENT
 BEGIN:VEVENT
 UID:263528@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270515T130000Z
 DTEND:20270516T140000Z
 SUMMARY:Basic Adult Leader Outdoor Orientation (BALOO)
@@ -1289,7 +1271,7 @@ URL:https://global.scoutingevent.com/544-BALOOMay2027
 END:VEVENT
 BEGIN:VEVENT
 UID:272705@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270515T130000Z
 DTEND:20270515T170000Z
 SUMMARY:Cub Scout Range and Target Activities Day – Morning RATA Session
@@ -1307,7 +1289,7 @@ URL:https://global.scoutingevent.com/539-120322
 END:VEVENT
 BEGIN:VEVENT
 UID:263574@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270515T130000Z
 DTEND:20270516T140000Z
 SUMMARY:Introduction to Outdoor Leader Skills (IOLS)
@@ -1325,7 +1307,7 @@ URL:https://global.scoutingevent.com/544-IOLSMay2027
 END:VEVENT
 BEGIN:VEVENT
 UID:266276@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270528T220000Z
 DTEND:20270530T140000Z
 SUMMARY:2027 Monroe Spring Sports Camporee – 2027 Monroe Spring Camporee
@@ -1340,7 +1322,7 @@ URL:https://global.scoutingevent.com/502-Monroespringcamporee
 END:VEVENT
 BEGIN:VEVENT
 UID:276187@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270530T220000Z
 DTEND:20270601T220000Z
 SUMMARY:2027 NRA Instructor Course
@@ -1357,7 +1339,7 @@ URL:https://global.scoutingevent.com/527-122024
 END:VEVENT
 BEGIN:VEVENT
 UID:276387@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270605T130000Z
 DTEND:20270605T200000Z
 SUMMARY:2027 BB & Archery Rangemaster Trainings – June 5th Training
@@ -1375,7 +1357,7 @@ URL:https://global.scoutingevent.com/525-122111
 END:VEVENT
 BEGIN:VEVENT
 UID:270248@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270611T180000Z
 DTEND:20270615T220000Z
 SUMMARY:2027 Pack Summer Camp – Week 1
@@ -1393,7 +1375,7 @@ URL:https://global.scoutingevent.com/544-118855
 END:VEVENT
 BEGIN:VEVENT
 UID:251553@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270613T150000Z
 DTEND:20270618T233000Z
 SUMMARY:2027 National Youth Leadership Training – NYLT
@@ -1410,8 +1392,26 @@ DESCRIPTION:Laurel Highlands Council\nhttps://global.scoutingevent.com/527
 URL:https://global.scoutingevent.com/527-NYLT2027
 END:VEVENT
 BEGIN:VEVENT
+UID:266478@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270613T170000Z
+DTEND:20270619T140000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Week 1
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ summercamp\n\nPosition-Specific Leader Training\n\nSummer Camp 2027 Adven
+ ture Begins at Sinoquipe\n2027 Schedule - Scouts BSA\nSession #1: June 13
+ -19\, 2027\nSession #2: June 20-26\, 2027\nSession #3: June 27- July 3\, 
+ 2027\nSession #4: July 4-10\, 2027\nSession #5: July 11-17\, 2027\nSessio
+ n #6: July 18-24\, 2027\nNOW OFFERING DINING HALL AND CAMPSITE PATROL COO
+ KING OPTIONS\nSAVE $25 EARLY BIRD DISCOUNT -\nYOUTH FEES\n2027 YOUTH FEE 
+ $550\n- regular summer camp\n$100 RESERVES YOUR SPACE FOR 2027\n2027 ADUL
+ T FEE $250\n- regular summer camp\nSPACE IS LIMITED TO 275 YOU
+URL:https://global.scoutingevent.com/598-summercamp
+END:VEVENT
+BEGIN:VEVENT
 UID:270249@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270618T180000Z
 DTEND:20270623T000000Z
 SUMMARY:2027 Pack Summer Camp – Week 2
@@ -1428,8 +1428,1237 @@ DESCRIPTION:New Birth of Freedom Council\nhttps://global.scoutingevent.com
 URL:https://global.scoutingevent.com/544-118855
 END:VEVENT
 BEGIN:VEVENT
+UID:266495@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T170000Z
+DTEND:20270626T000000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 1 - Cub Scout Resident Camp
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:271601@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T170000Z
+DTEND:20270626T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 1
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:266479@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T170000Z
+DTEND:20270626T140000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Week 2
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ summercamp\n\nPosition-Specific Leader Training\n\nSummer Camp 2027 Adven
+ ture Begins at Sinoquipe\n2027 Schedule - Scouts BSA\nSession #1: June 13
+ -19\, 2027\nSession #2: June 20-26\, 2027\nSession #3: June 27- July 3\, 
+ 2027\nSession #4: July 4-10\, 2027\nSession #5: July 11-17\, 2027\nSessio
+ n #6: July 18-24\, 2027\nNOW OFFERING DINING HALL AND CAMPSITE PATROL COO
+ KING OPTIONS\nSAVE $25 EARLY BIRD DISCOUNT -\nYOUTH FEES\n2027 YOUTH FEE 
+ $550\n- regular summer camp\n$100 RESERVES YOUR SPACE FOR 2027\n2027 ADUL
+ T FEE $250\n- regular summer camp\nSPACE IS LIMITED TO 275 YOU
+URL:https://global.scoutingevent.com/598-summercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267321@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270620T190000Z
+DTEND:20270626T160000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 1
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-11
+ 7403\n\nSafeguarding Youth / YPT\n\nTo secure your spot\, please complete
+  the registration form and pay a non-refundable $200 unit deposit - there
+  are no per participant deposit this year.\nAdult Attendance Discounts\nI
+ n an effort to help ensure Safeguarding Youth policies are followed\, 2 
+ free leaders per unit\, no minimum youth count!\nAdditional free leader d
+ iscounts starts at 10 youth. Units bringing 11-15 youth receive 1 additio
+ nal free adult registration\, and units bringing 16+ receive another free
+  adult registration.\nOur premier 
+URL:https://global.scoutingevent.com/528-117403
+END:VEVENT
+BEGIN:VEVENT
+UID:272650@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270621T120000Z
+DTEND:20270625T220000Z
+SUMMARY:Cub Scout Day Camp at HMSR – Week 1
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-12
+ 0295\n\n\n\nDive Into the Adventure!\nGet ready to make a\nsplash\nthis s
+ ummer at Hawk Mountain Scout Reservation!\nWith five weeks of Cub Scout D
+ ay Camp to choose from\, Scouts can spend their days exploring\, creating
+ \, climbing\, splashing\, and discovering something new around every corn
+ er. From range and target sports\, trolley rides\, and the bouldering wal
+ l to field games\, nature conservation\, pool time\, crafts\, STEM advent
+ ures\, and so much more\, there’s an adventure waiting for everyone!\nB
+ uild skills\, work tow
+URL:https://global.scoutingevent.com/528-120295
+END:VEVENT
+BEGIN:VEVENT
+UID:270270@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270624T180000Z
+DTEND:20270626T220000Z
+SUMMARY:2027 Cub Summer Camp – Week 1
+LOCATION:Camp Tuckahoe\, Dillsburg\, Pennsylvania
+DESCRIPTION:New Birth of Freedom Council\nhttps://global.scoutingevent.com
+ /544-118866\n\n\n\nExperience a three-day\, two-night adventure tailored 
+ for Tiger\, Wolf\, and Bear Scouts. New for 2025\, our expanded activity 
+ blocks give Scouts more time to explore\, learn\, and create lasting memo
+ ries. The “Build Your Adventure” program allows Scouts to customize t
+ heir journey by selecting activities that fuel their passions\, ensuring 
+ a dynamic daily experience.\nWhen & Where\nCampsite Deposit\nWeek 1\nCamp
+  Tuckahoe\nThursday 06-24-2027 2:00 PM ET to\nSaturday 06-26-2027 6:00 PM
+  ET\nLimit One Registratio
+URL:https://global.scoutingevent.com/544-118866
+END:VEVENT
+BEGIN:VEVENT
+UID:268983@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270626T130000Z
+DTEND:20270701T140000Z
+SUMMARY:2027 Camp Karoondinha Cub/Webelos Resident Camp – Session 1 - Cu
+ bs / Webelos
+LOCATION:Camp Karoondinha\, Millmont\, Pennsylvania
+DESCRIPTION:Susquehanna Council\nhttps://global.scoutingevent.com/533-2027
+ CampKCubWebResidentCamp\n\n\n\nWelcome to the online registration system 
+ for Camp Karoondinha 2027!\nThe highlight of a scout's year is summer c
+ amp!  With our new system\, signing up for this life changing experience
+  is easier than ever before!\nTo register for summer camp\, please click 
+ the green "Pre -Registration" button on the right for the week that you w
+ ant to attend.  You can then begin to build your contingent list of yout
+ h and adults. GIVE YOUR BEST ESTIMATE!  Create a profile so that you can
+  come back later to pay camp 
+URL:https://global.scoutingevent.com/533-2027CampKCubWebResidentCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:274827@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270626T170000Z
+DTEND:20270701T035900Z
+SUMMARY:Webelos &AOL Resident Summer Camp 2027 – Cub Scout Resident Camp
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 21370\n\n\n\nWhy attend Summer Camp at Seven Mountains?\nFor........Fun\,
+  adventure\, challenging yourself\, long-lasting memories\, and broadenin
+ g your Scouting experience.\nSummer Camp is an opportunity for Webelos an
+ d AOL Scouts to have an experience of a lifetime. The program areas will 
+ be designed around various outdoor adventure activities that will help ho
+ ne Scout skills and prepare a transition to Scouts BSA all the while havi
+ ng fun with others.  Our Summer Camp Staff and Volunteers will be traine
+ d to prov
+URL:https://global.scoutingevent.com/497-121370
+END:VEVENT
+BEGIN:VEVENT
+UID:276728@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T120000Z
+DTEND:20270630T200000Z
+SUMMARY:Cub Scout Day Camp 2027 – Cub Scout Day Camp Only
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 22317\n\n\n\nCalling all Cub Scouts.................\nJoin us for Cub Sco
+ ut Day Camp Adventures as we explore Seven Mountains Scout Camp and every
+ thing it has to offer.   All incoming Lion through Arrow of Light Scout
+ s are welcome for this summer camp session however please note there also
+  is a dedicated Webelos & AOL camp session.\nWhy attend Day Camp at Seven
+  Mountains?\nFor........Fun\, adventure\, challenging yourself\, long-las
+ ting memories\, and broadening your Scouting experience.\nSummer Day Camp
+  is an oppor
+URL:https://global.scoutingevent.com/497-122317
+END:VEVENT
+BEGIN:VEVENT
+UID:265943@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T163000Z
+DTEND:20270703T130000Z
+SUMMARY:2027 Resica Falls Scouts BSA Resident Camp – Week 1
+LOCATION:Resica Falls Scout Reservation\, East Stroudsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-116698\n\n\n\nGet Ready for Adventure at Resica Falls!\nWe are proud to
+  offer a well-rounded program and constantly strive to create an exciting
+  experience for all who attend. Start getting ready for an action-packed 
+ and fun-filled week of activities and advancement!\nWhether you are a fir
+ st-year camper or a seasoned veteran\, we are committed to meeting your i
+ ndividual needs and expectations. For more information regarding program 
+ features\, merit badges\, and detailed schedules\, please review our Prog
+ ram Guide\, 
+URL:https://global.scoutingevent.com/525-116698
+END:VEVENT
+BEGIN:VEVENT
+UID:266496@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T000000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 2 - Cub Scout Resident Camp
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:271945@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 2
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:266480@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T140000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Week 3
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ summercamp\n\nPosition-Specific Leader Training\n\nSummer Camp 2027 Adven
+ ture Begins at Sinoquipe\n2027 Schedule - Scouts BSA\nSession #1: June 13
+ -19\, 2027\nSession #2: June 20-26\, 2027\nSession #3: June 27- July 3\, 
+ 2027\nSession #4: July 4-10\, 2027\nSession #5: July 11-17\, 2027\nSessio
+ n #6: July 18-24\, 2027\nNOW OFFERING DINING HALL AND CAMPSITE PATROL COO
+ KING OPTIONS\nSAVE $25 EARLY BIRD DISCOUNT -\nYOUTH FEES\n2027 YOUTH FEE 
+ $550\n- regular summer camp\n$100 RESERVES YOUR SPACE FOR 2027\n2027 ADUL
+ T FEE $250\n- regular summer camp\nSPACE IS LIMITED TO 275 YOU
+URL:https://global.scoutingevent.com/598-summercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267236@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T170000Z
+DTEND:20270703T150000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 1
+LOCATION:Custaloga Town Scout Reservation\, Carlton\, Pennsylvania
+DESCRIPTION:French Creek Council\nhttps://global.scoutingevent.com/532-Sco
+ utsBSASummerCamp2027\n\n\n\nThis is the on-line registration system for S
+ couts BSA Resident Summer Camp at Custaloga Town Scout Reservation.\nRegi
+ stration is now open for units to request/reserve a site and make a $200 
+ deposit (four registrations @ $50 each). This estimate of Youth is needed
+  with this registration to secure a week and campsite. You can also chose
+  to patrol cook in your campsite\, or eat in the dining hall.\nClass sche
+ dules will be set by Feb 2027.\nPayments may be made by credit card\, ma
+ iling in a check\, deduc
+URL:https://global.scoutingevent.com/532-ScoutsBSASummerCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:261702@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T180000Z
+DTEND:20270703T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week 1
+LOCATION:Camp Tuckahoe\, Dillsburg\, Pennsylvania
+DESCRIPTION:New Birth of Freedom Council\nhttps://global.scoutingevent.com
+ /544-114330\n\n\n\nScouts BSA summer camp at Camp Tuckahoe is the pinnacl
+ e of an exciting Scouting year\, offering an unforgettable outdoor experi
+ ence. Scouts of all levels\, from the newest Tenderfoot to seasoned veter
+ ans\, immerse themselves in skill-building\, friendship\, and pure advent
+ ure—truly putting the “outing” in Scouting.\nAt Tuckahoe\, Scouts e
+ njoy a dynamic and traditional summer camp program enhanced by top-tier f
+ acilities\, including a climbing wall\, a pristine swimming pool\, and an
+  air-conditioned dining 
+URL:https://global.scoutingevent.com/544-114330
+END:VEVENT
+BEGIN:VEVENT
+UID:266494@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T190000Z
+DTEND:20270630T210000Z
+SUMMARY:2027 Camp Minsi Summer Camp – STEM Camp
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:267322@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270627T190000Z
+DTEND:20270703T160000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 2
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-11
+ 7403\n\nSafeguarding Youth / YPT\n\nTo secure your spot\, please complete
+  the registration form and pay a non-refundable $200 unit deposit - there
+  are no per participant deposit this year.\nAdult Attendance Discounts\nI
+ n an effort to help ensure Safeguarding Youth policies are followed\, 2 
+ free leaders per unit\, no minimum youth count!\nAdditional free leader d
+ iscounts starts at 10 youth. Units bringing 11-15 youth receive 1 additio
+ nal free adult registration\, and units bringing 16+ receive another free
+  adult registration.\nOur premier 
+URL:https://global.scoutingevent.com/528-117403
+END:VEVENT
+BEGIN:VEVENT
+UID:272652@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270628T040000Z
+DTEND:20270703T035900Z
+SUMMARY:Cub Scout Day Camp at HMSR – Week 2
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-12
+ 0295\n\n\n\nDive Into the Adventure!\nGet ready to make a\nsplash\nthis s
+ ummer at Hawk Mountain Scout Reservation!\nWith five weeks of Cub Scout D
+ ay Camp to choose from\, Scouts can spend their days exploring\, creating
+ \, climbing\, splashing\, and discovering something new around every corn
+ er. From range and target sports\, trolley rides\, and the bouldering wal
+ l to field games\, nature conservation\, pool time\, crafts\, STEM advent
+ ures\, and so much more\, there’s an adventure waiting for everyone!\nB
+ uild skills\, work tow
+URL:https://global.scoutingevent.com/528-120295
+END:VEVENT
+BEGIN:VEVENT
+UID:268984@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270703T130000Z
+DTEND:20270708T140000Z
+SUMMARY:2027 Camp Karoondinha Cub/Webelos Resident Camp – Session 2 - Cu
+ bs / Webelos
+LOCATION:Camp Karoondinha\, Millmont\, Pennsylvania
+DESCRIPTION:Susquehanna Council\nhttps://global.scoutingevent.com/533-2027
+ CampKCubWebResidentCamp\n\n\n\nWelcome to the online registration system 
+ for Camp Karoondinha 2027!\nThe highlight of a scout's year is summer c
+ amp!  With our new system\, signing up for this life changing experience
+  is easier than ever before!\nTo register for summer camp\, please click 
+ the green "Pre -Registration" button on the right for the week that you w
+ ant to attend.  You can then begin to build your contingent list of yout
+ h and adults. GIVE YOUR BEST ESTIMATE!  Create a profile so that you can
+  come back later to pay camp 
+URL:https://global.scoutingevent.com/533-2027CampKCubWebResidentCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:268876@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T160000Z
+DTEND:20270710T160000Z
+SUMMARY:Scouts BSA Resident Summer Camp 2027 – Scouts BSA Summer Camp Se
+ ssion #1
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 18197\n\n\n\nScouts BSA Camp 2027\nNOTE: MERIT BADGE SELECTIONS WILL BE A
+ VAILABLE ON BLACK PUG BEGINNING AT 10:00 AM ON MAY 1\, 2027 FOR ALL SCOUT
+ S REGISTERED AND FULLY PAID.\nContact\nWhen & Where\nRegister Here\nScout
+ s BSA Summer Camp Session #1\nSeven Mountains Scout Camp\nSunday 07-04-20
+ 27 12:00 PM ET to\nSaturday 07-10-2027 12:00 PM ET\nMore Information\nMap
+  of Session\n$\nView Pricing\nCoords: 40.7641792\, -77.6060256\n227 Sand 
+ Mountain Road\nSpring Mills\, Pennsylvania 16875\nPhone: 717-667-9236\nRe
+ gistration Closes:\n&nb
+URL:https://global.scoutingevent.com/497-118197
+END:VEVENT
+BEGIN:VEVENT
+UID:265944@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T163000Z
+DTEND:20270710T130000Z
+SUMMARY:2027 Resica Falls Scouts BSA Resident Camp – Week 2
+LOCATION:Resica Falls Scout Reservation\, East Stroudsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-116698\n\n\n\nGet Ready for Adventure at Resica Falls!\nWe are proud to
+  offer a well-rounded program and constantly strive to create an exciting
+  experience for all who attend. Start getting ready for an action-packed 
+ and fun-filled week of activities and advancement!\nWhether you are a fir
+ st-year camper or a seasoned veteran\, we are committed to meeting your i
+ ndividual needs and expectations. For more information regarding program 
+ features\, merit badges\, and detailed schedules\, please review our Prog
+ ram Guide\, 
+URL:https://global.scoutingevent.com/525-116698
+END:VEVENT
+BEGIN:VEVENT
+UID:266490@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T150000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 3 - Scouts\, BSA
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:271946@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 3
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:266481@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T140000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Week 4
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ summercamp\n\nPosition-Specific Leader Training\n\nSummer Camp 2027 Adven
+ ture Begins at Sinoquipe\n2027 Schedule - Scouts BSA\nSession #1: June 13
+ -19\, 2027\nSession #2: June 20-26\, 2027\nSession #3: June 27- July 3\, 
+ 2027\nSession #4: July 4-10\, 2027\nSession #5: July 11-17\, 2027\nSessio
+ n #6: July 18-24\, 2027\nNOW OFFERING DINING HALL AND CAMPSITE PATROL COO
+ KING OPTIONS\nSAVE $25 EARLY BIRD DISCOUNT -\nYOUTH FEES\n2027 YOUTH FEE 
+ $550\n- regular summer camp\n$100 RESERVES YOUR SPACE FOR 2027\n2027 ADUL
+ T FEE $250\n- regular summer camp\nSPACE IS LIMITED TO 275 YOU
+URL:https://global.scoutingevent.com/598-summercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267234@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T170000Z
+DTEND:20270710T150000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 2
+LOCATION:Custaloga Town Scout Reservation\, Carlton\, Pennsylvania
+DESCRIPTION:French Creek Council\nhttps://global.scoutingevent.com/532-Sco
+ utsBSASummerCamp2027\n\n\n\nThis is the on-line registration system for S
+ couts BSA Resident Summer Camp at Custaloga Town Scout Reservation.\nRegi
+ stration is now open for units to request/reserve a site and make a $200 
+ deposit (four registrations @ $50 each). This estimate of Youth is needed
+  with this registration to secure a week and campsite. You can also chose
+  to patrol cook in your campsite\, or eat in the dining hall.\nClass sche
+ dules will be set by Feb 2027.\nPayments may be made by credit card\, ma
+ iling in a check\, deduc
+URL:https://global.scoutingevent.com/532-ScoutsBSASummerCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:261909@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T180000Z
+DTEND:20270710T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week 2
+LOCATION:Camp Tuckahoe\, Dillsburg\, Pennsylvania
+DESCRIPTION:New Birth of Freedom Council\nhttps://global.scoutingevent.com
+ /544-114330\n\n\n\nScouts BSA summer camp at Camp Tuckahoe is the pinnacl
+ e of an exciting Scouting year\, offering an unforgettable outdoor experi
+ ence. Scouts of all levels\, from the newest Tenderfoot to seasoned veter
+ ans\, immerse themselves in skill-building\, friendship\, and pure advent
+ ure—truly putting the “outing” in Scouting.\nAt Tuckahoe\, Scouts e
+ njoy a dynamic and traditional summer camp program enhanced by top-tier f
+ acilities\, including a climbing wall\, a pristine swimming pool\, and an
+  air-conditioned dining 
+URL:https://global.scoutingevent.com/544-114330
+END:VEVENT
+BEGIN:VEVENT
+UID:267323@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270704T190000Z
+DTEND:20270710T160000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 3
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-11
+ 7403\n\nSafeguarding Youth / YPT\n\nTo secure your spot\, please complete
+  the registration form and pay a non-refundable $200 unit deposit - there
+  are no per participant deposit this year.\nAdult Attendance Discounts\nI
+ n an effort to help ensure Safeguarding Youth policies are followed\, 2 
+ free leaders per unit\, no minimum youth count!\nAdditional free leader d
+ iscounts starts at 10 youth. Units bringing 11-15 youth receive 1 additio
+ nal free adult registration\, and units bringing 16+ receive another free
+  adult registration.\nOur premier 
+URL:https://global.scoutingevent.com/528-117403
+END:VEVENT
+BEGIN:VEVENT
+UID:272653@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T040000Z
+DTEND:20270710T035900Z
+SUMMARY:Cub Scout Day Camp at HMSR – Week 3
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-12
+ 0295\n\n\n\nDive Into the Adventure!\nGet ready to make a\nsplash\nthis s
+ ummer at Hawk Mountain Scout Reservation!\nWith five weeks of Cub Scout D
+ ay Camp to choose from\, Scouts can spend their days exploring\, creating
+ \, climbing\, splashing\, and discovering something new around every corn
+ er. From range and target sports\, trolley rides\, and the bouldering wal
+ l to field games\, nature conservation\, pool time\, crafts\, STEM advent
+ ures\, and so much more\, there’s an adventure waiting for everyone!\nB
+ uild skills\, work tow
+URL:https://global.scoutingevent.com/528-120295
+END:VEVENT
+BEGIN:VEVENT
+UID:274379@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270705T220000Z
+DTEND:20270710T003000Z
+SUMMARY:Mainesburg Twilight Camp
+LOCATION:Sullivan Community Building\, Mainesburg\, Pennsylvania
+DESCRIPTION:Great Falls Council\nhttps://global.scoutingevent.com/375-1211
+ 59\n\nRange Officer / Shooting Instructor\n\nSCENIC TRAIL DISTRICT TWILIG
+ HT CAMP\nSULLIVAN COMMUNITY PARK - MAINESBURG\, PA\nJuly 5th - July 9th\n
+ 6:00pm - 8:30pm\nJoin us for a "dino-mite" experience at the Cub Scout Da
+ y Camp / Twilight Camp! We are heading back in time for four nights of ad
+ venture at Sullivan Community Building.\nTwilight Camp is an affordable w
+ eekday adventure open to children who will start 1st* through 5th grade
+ s in September. Sessions run Monday through Thursday and children will pa
+ rticipate in a wide variety of activities 
+URL:https://global.scoutingevent.com/375-121159
+END:VEVENT
+BEGIN:VEVENT
+UID:274366@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270707T140000Z
+DTEND:20270711T180000Z
+SUMMARY:Cub Scout Overnight Camp 2027 – Session 1
+LOCATION:Camp John H. Ware 3rd\, Peach Bottom\, Pennsylvania
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
+ 21155\n\n\n\nCub Scout Overnight Camp 2027\nCampsite Matrix\nDeerslayer C
+ ampsite\n(capacity: 10 units\, 100 attendees)\nSession 1\nHawkeye Campsit
+ e\n(capacity: 10 units\, 100 attendees)\nSession 1\nJubilee Campsite\n(ca
+ pacity: 10 units\, 100 attendees)\nSession 1\nLeatherstocking Campsite\n(
+ capacity: 10 units\, 100 attendees)\nSession 1\nMohican Campsite\n(capaci
+ ty: 10 units\, 100 attendees)\nSession 1\nPathfinder Campsite\n(capacity:
+  10 units\, 75 attendees)\nSession 1\nTrapper Campsite\n(capacity: 10 uni
+ ts\, 100 attendees)\nSession 1\n
+URL:https://global.scoutingevent.com/539-121155
+END:VEVENT
+BEGIN:VEVENT
+UID:267237@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T040000Z
+DTEND:20270718T035900Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 3
+LOCATION:Custaloga Town Scout Reservation\, Carlton\, Pennsylvania
+DESCRIPTION:French Creek Council\nhttps://global.scoutingevent.com/532-Sco
+ utsBSASummerCamp2027\n\n\n\nThis is the on-line registration system for S
+ couts BSA Resident Summer Camp at Custaloga Town Scout Reservation.\nRegi
+ stration is now open for units to request/reserve a site and make a $200 
+ deposit (four registrations @ $50 each). This estimate of Youth is needed
+  with this registration to secure a week and campsite. You can also chose
+  to patrol cook in your campsite\, or eat in the dining hall.\nClass sche
+ dules will be set by Feb 2027.\nPayments may be made by credit card\, ma
+ iling in a check\, deduc
+URL:https://global.scoutingevent.com/532-ScoutsBSASummerCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:268875@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T160000Z
+DTEND:20270717T160000Z
+SUMMARY:Scouts BSA Resident Summer Camp 2027 – Scouts BSA Summer Camp Se
+ ssion #2
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 18197\n\n\n\nScouts BSA Camp 2027\nNOTE: MERIT BADGE SELECTIONS WILL BE A
+ VAILABLE ON BLACK PUG BEGINNING AT 10:00 AM ON MAY 1\, 2027 FOR ALL SCOUT
+ S REGISTERED AND FULLY PAID.\nContact\nWhen & Where\nRegister Here\nScout
+ s BSA Summer Camp Session #1\nSeven Mountains Scout Camp\nSunday 07-04-20
+ 27 12:00 PM ET to\nSaturday 07-10-2027 12:00 PM ET\nMore Information\nMap
+  of Session\n$\nView Pricing\nCoords: 40.7641792\, -77.6060256\n227 Sand 
+ Mountain Road\nSpring Mills\, Pennsylvania 16875\nPhone: 717-667-9236\nRe
+ gistration Closes:\n&nb
+URL:https://global.scoutingevent.com/497-118197
+END:VEVENT
+BEGIN:VEVENT
+UID:265945@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T163000Z
+DTEND:20270717T130000Z
+SUMMARY:2027 Resica Falls Scouts BSA Resident Camp – Week 3
+LOCATION:Resica Falls Scout Reservation\, East Stroudsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-116698\n\n\n\nGet Ready for Adventure at Resica Falls!\nWe are proud to
+  offer a well-rounded program and constantly strive to create an exciting
+  experience for all who attend. Start getting ready for an action-packed 
+ and fun-filled week of activities and advancement!\nWhether you are a fir
+ st-year camper or a seasoned veteran\, we are committed to meeting your i
+ ndividual needs and expectations. For more information regarding program 
+ features\, merit badges\, and detailed schedules\, please review our Prog
+ ram Guide\, 
+URL:https://global.scoutingevent.com/525-116698
+END:VEVENT
+BEGIN:VEVENT
+UID:267461@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:2027 Camp Karoondinha Scouts BSA Resident Camp – Session 1 - Sco
+ uts BSA / Venturing
+LOCATION:Camp Karoondinha\, Millmont\, Pennsylvania
+DESCRIPTION:Susquehanna Council\nhttps://global.scoutingevent.com/533-2027
+ CampKScoutsResidentCamp\n\n\n\nWelcome to the online registration system 
+ for Camp Karoondinha 2027!\nThe highlight of a scout's year is summer c
+ amp!\nTo register for summer camp\, please click the green "Pre -Registra
+ tion" button on the right for the week that you want to attend.  You can
+  then begin to build your contingent list of youth and adults.\nGIVE YOUR
+  BEST ESTIMATE!\nCreate a profile so that you can come back later to pay 
+ camp balances and register for program sessions.\nOn September 16th\, the
+  Registration Contact will be 
+URL:https://global.scoutingevent.com/533-2027CampKScoutsResidentCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:266491@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T150000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 4 - Scouts\, BSA
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:271947@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 4
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:266482@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T170000Z
+DTEND:20270717T140000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Week 5
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ summercamp\n\nPosition-Specific Leader Training\n\nSummer Camp 2027 Adven
+ ture Begins at Sinoquipe\n2027 Schedule - Scouts BSA\nSession #1: June 13
+ -19\, 2027\nSession #2: June 20-26\, 2027\nSession #3: June 27- July 3\, 
+ 2027\nSession #4: July 4-10\, 2027\nSession #5: July 11-17\, 2027\nSessio
+ n #6: July 18-24\, 2027\nNOW OFFERING DINING HALL AND CAMPSITE PATROL COO
+ KING OPTIONS\nSAVE $25 EARLY BIRD DISCOUNT -\nYOUTH FEES\n2027 YOUTH FEE 
+ $550\n- regular summer camp\n$100 RESERVES YOUR SPACE FOR 2027\n2027 ADUL
+ T FEE $250\n- regular summer camp\nSPACE IS LIMITED TO 275 YOU
+URL:https://global.scoutingevent.com/598-summercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:261910@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T180000Z
+DTEND:20270717T140000Z
+SUMMARY:2027 Scouts BSA Summer Camp – Week 3
+LOCATION:Camp Tuckahoe\, Dillsburg\, Pennsylvania
+DESCRIPTION:New Birth of Freedom Council\nhttps://global.scoutingevent.com
+ /544-114330\n\n\n\nScouts BSA summer camp at Camp Tuckahoe is the pinnacl
+ e of an exciting Scouting year\, offering an unforgettable outdoor experi
+ ence. Scouts of all levels\, from the newest Tenderfoot to seasoned veter
+ ans\, immerse themselves in skill-building\, friendship\, and pure advent
+ ure—truly putting the “outing” in Scouting.\nAt Tuckahoe\, Scouts e
+ njoy a dynamic and traditional summer camp program enhanced by top-tier f
+ acilities\, including a climbing wall\, a pristine swimming pool\, and an
+  air-conditioned dining 
+URL:https://global.scoutingevent.com/544-114330
+END:VEVENT
+BEGIN:VEVENT
+UID:267324@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270711T190000Z
+DTEND:20270717T160000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 4
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-11
+ 7403\n\nSafeguarding Youth / YPT\n\nTo secure your spot\, please complete
+  the registration form and pay a non-refundable $200 unit deposit - there
+  are no per participant deposit this year.\nAdult Attendance Discounts\nI
+ n an effort to help ensure Safeguarding Youth policies are followed\, 2 
+ free leaders per unit\, no minimum youth count!\nAdditional free leader d
+ iscounts starts at 10 youth. Units bringing 11-15 youth receive 1 additio
+ nal free adult registration\, and units bringing 16+ receive another free
+  adult registration.\nOur premier 
+URL:https://global.scoutingevent.com/528-117403
+END:VEVENT
+BEGIN:VEVENT
+UID:272651@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T120000Z
+DTEND:20270716T220000Z
+SUMMARY:Cub Scout Day Camp at HMSR – Week 4
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-12
+ 0295\n\n\n\nDive Into the Adventure!\nGet ready to make a\nsplash\nthis s
+ ummer at Hawk Mountain Scout Reservation!\nWith five weeks of Cub Scout D
+ ay Camp to choose from\, Scouts can spend their days exploring\, creating
+ \, climbing\, splashing\, and discovering something new around every corn
+ er. From range and target sports\, trolley rides\, and the bouldering wal
+ l to field games\, nature conservation\, pool time\, crafts\, STEM advent
+ ures\, and so much more\, there’s an adventure waiting for everyone!\nB
+ uild skills\, work tow
+URL:https://global.scoutingevent.com/528-120295
+END:VEVENT
+BEGIN:VEVENT
+UID:270867@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270712T130000Z
+DTEND:20270716T200000Z
+SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 1: 
+ July 12-16
+LOCATION:Camp Garrison\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-2027MADC\n\nArchery\, Engineering\, Fishing\n\nGet ready for an unforge
+ ttable summer of adventure\, discovery\, and hands-on fun at Musser Scout
+  Reservation!\nMusser Adventure Day Camps are open to all youth entering 
+ 1st through 8th grade in Fall 2027—you do not need to be a registered S
+ cout to attend! Whether your child is already part of Scouting or is look
+ ing for an exciting new summer experience\, our Adventure Day Camps offer
+  something for everyone.\n2027 Camp Dates\nCub Adventure Day Camp – Wee
+ k 1\nJuly 12–16\, 2027\nCub Adventure Day Camp – We
+URL:https://global.scoutingevent.com/525-2027MADC
+END:VEVENT
+BEGIN:VEVENT
+UID:274367@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270714T140000Z
+DTEND:20270718T180000Z
+SUMMARY:Cub Scout Overnight Camp 2027 – Session 2
+LOCATION:Camp John H. Ware 3rd\, Peach Bottom\, Pennsylvania
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
+ 21155\n\n\n\nCub Scout Overnight Camp 2027\nCampsite Matrix\nDeerslayer C
+ ampsite\n(capacity: 10 units\, 100 attendees)\nSession 1\nHawkeye Campsit
+ e\n(capacity: 10 units\, 100 attendees)\nSession 1\nJubilee Campsite\n(ca
+ pacity: 10 units\, 100 attendees)\nSession 1\nLeatherstocking Campsite\n(
+ capacity: 10 units\, 100 attendees)\nSession 1\nMohican Campsite\n(capaci
+ ty: 10 units\, 100 attendees)\nSession 1\nPathfinder Campsite\n(capacity:
+  10 units\, 75 attendees)\nSession 1\nTrapper Campsite\n(capacity: 10 uni
+ ts\, 100 attendees)\nSession 1\n
+URL:https://global.scoutingevent.com/539-121155
+END:VEVENT
+BEGIN:VEVENT
+UID:276727@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T160000Z
+DTEND:20270722T160000Z
+SUMMARY:Specialty Merit Badge Camp 2027 – Specialty Merit Badge Camp
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 22316\n\nFarm Mechanics\, Fly Fishing\, Golf\, Health Care Professions\, 
+ Horsemanship\, Landscape Architecture\, Law\, Mining in Society\, Motorbo
+ ating\, Nuclear Science\, Radio\, Railroading\, Surveying\n\nSpecialty Me
+ rit Badge Camp\nExciting NEW offering!  Even better than a Merit Badge U
+ niversity!\nThe Seven Mountains Scout Camp Specialty Merit Badge Resident
+  Camp Program will consist of individually run merit badge classes in-per
+ son at Seven Mountains Scout Camp. The offered merit badges are best expe
+ rienced in locations other than camp and include transportation of the 12
+  or less class members to complete portions of the requirements. Scouts w
+ ill be required to complete all assigned pre-requisit
+URL:https://global.scoutingevent.com/497-122316
+END:VEVENT
+BEGIN:VEVENT
+UID:265946@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T163000Z
+DTEND:20270724T130000Z
+SUMMARY:2027 Resica Falls Scouts BSA Resident Camp – Week 4
+LOCATION:Resica Falls Scout Reservation\, East Stroudsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-116698\n\n\n\nGet Ready for Adventure at Resica Falls!\nWe are proud to
+  offer a well-rounded program and constantly strive to create an exciting
+  experience for all who attend. Start getting ready for an action-packed 
+ and fun-filled week of activities and advancement!\nWhether you are a fir
+ st-year camper or a seasoned veteran\, we are committed to meeting your i
+ ndividual needs and expectations. For more information regarding program 
+ features\, merit badges\, and detailed schedules\, please review our Prog
+ ram Guide\, 
+URL:https://global.scoutingevent.com/525-116698
+END:VEVENT
+BEGIN:VEVENT
+UID:268971@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:2027 Camp Karoondinha Scouts BSA Resident Camp – Session 2 - Sco
+ uts BSA / Venturing
+LOCATION:Camp Karoondinha\, Millmont\, Pennsylvania
+DESCRIPTION:Susquehanna Council\nhttps://global.scoutingevent.com/533-2027
+ CampKScoutsResidentCamp\n\n\n\nWelcome to the online registration system 
+ for Camp Karoondinha 2027!\nThe highlight of a scout's year is summer c
+ amp!\nTo register for summer camp\, please click the green "Pre -Registra
+ tion" button on the right for the week that you want to attend.  You can
+  then begin to build your contingent list of youth and adults.\nGIVE YOUR
+  BEST ESTIMATE!\nCreate a profile so that you can come back later to pay 
+ camp balances and register for program sessions.\nOn September 16th\, the
+  Registration Contact will be 
+URL:https://global.scoutingevent.com/533-2027CampKScoutsResidentCamp
+END:VEVENT
+BEGIN:VEVENT
+UID:266492@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T150000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 5 - Scouts\, BSA
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:271948@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 5
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:266483@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T140000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Scouts BSA Week 6
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ summercamp\n\nPosition-Specific Leader Training\n\nSummer Camp 2027 Adven
+ ture Begins at Sinoquipe\n2027 Schedule - Scouts BSA\nSession #1: June 13
+ -19\, 2027\nSession #2: June 20-26\, 2027\nSession #3: June 27- July 3\, 
+ 2027\nSession #4: July 4-10\, 2027\nSession #5: July 11-17\, 2027\nSessio
+ n #6: July 18-24\, 2027\nNOW OFFERING DINING HALL AND CAMPSITE PATROL COO
+ KING OPTIONS\nSAVE $25 EARLY BIRD DISCOUNT -\nYOUTH FEES\n2027 YOUTH FEE 
+ $550\n- regular summer camp\n$100 RESERVES YOUR SPACE FOR 2027\n2027 ADUL
+ T FEE $250\n- regular summer camp\nSPACE IS LIMITED TO 275 YOU
+URL:https://global.scoutingevent.com/598-summercamp
+END:VEVENT
+BEGIN:VEVENT
+UID:267235@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T170000Z
+DTEND:20270724T150000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 4
+LOCATION:Custaloga Town Scout Reservation\, Carlton\, Pennsylvania
+DESCRIPTION:French Creek Council\nhttps://global.scoutingevent.com/532-Sco
+ utsBSASummerCamp2027\n\n\n\nThis is the on-line registration system for S
+ couts BSA Resident Summer Camp at Custaloga Town Scout Reservation.\nRegi
+ stration is now open for units to request/reserve a site and make a $200 
+ deposit (four registrations @ $50 each). This estimate of Youth is needed
+  with this registration to secure a week and campsite. You can also chose
+  to patrol cook in your campsite\, or eat in the dining hall.\nClass sche
+ dules will be set by Feb 2027.\nPayments may be made by credit card\, ma
+ iling in a check\, deduc
+URL:https://global.scoutingevent.com/532-ScoutsBSASummerCamp2027
+END:VEVENT
+BEGIN:VEVENT
+UID:267325@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270718T190000Z
+DTEND:20270724T160000Z
+SUMMARY:Scouts BSA Summer Camp 2027 – Week 5
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-11
+ 7403\n\nSafeguarding Youth / YPT\n\nTo secure your spot\, please complete
+  the registration form and pay a non-refundable $200 unit deposit - there
+  are no per participant deposit this year.\nAdult Attendance Discounts\nI
+ n an effort to help ensure Safeguarding Youth policies are followed\, 2 
+ free leaders per unit\, no minimum youth count!\nAdditional free leader d
+ iscounts starts at 10 youth. Units bringing 11-15 youth receive 1 additio
+ nal free adult registration\, and units bringing 16+ receive another free
+  adult registration.\nOur premier 
+URL:https://global.scoutingevent.com/528-117403
+END:VEVENT
+BEGIN:VEVENT
+UID:272654@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T040000Z
+DTEND:20270724T035900Z
+SUMMARY:Cub Scout Day Camp at HMSR – Week 5
+LOCATION:Hawk Mountain Scout Reservation\, Schuylkill Haven\, Pennsylvania
+DESCRIPTION:Hawk Mountain Council\nhttps://global.scoutingevent.com/528-12
+ 0295\n\n\n\nDive Into the Adventure!\nGet ready to make a\nsplash\nthis s
+ ummer at Hawk Mountain Scout Reservation!\nWith five weeks of Cub Scout D
+ ay Camp to choose from\, Scouts can spend their days exploring\, creating
+ \, climbing\, splashing\, and discovering something new around every corn
+ er. From range and target sports\, trolley rides\, and the bouldering wal
+ l to field games\, nature conservation\, pool time\, crafts\, STEM advent
+ ures\, and so much more\, there’s an adventure waiting for everyone!\nB
+ uild skills\, work tow
+URL:https://global.scoutingevent.com/528-120295
+END:VEVENT
+BEGIN:VEVENT
+UID:270868@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270719T130000Z
+DTEND:20270723T200000Z
+SUMMARY:2027 Musser Adventure Day Camp – Cub Adventure Day Camp Week 2: 
+ July 19-23
+LOCATION:Camp Garrison\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-2027MADC\n\nArchery\, Engineering\, Fishing\n\nGet ready for an unforge
+ ttable summer of adventure\, discovery\, and hands-on fun at Musser Scout
+  Reservation!\nMusser Adventure Day Camps are open to all youth entering 
+ 1st through 8th grade in Fall 2027—you do not need to be a registered S
+ cout to attend! Whether your child is already part of Scouting or is look
+ ing for an exciting new summer experience\, our Adventure Day Camps offer
+  something for everyone.\n2027 Camp Dates\nCub Adventure Day Camp – Wee
+ k 1\nJuly 12–16\, 2027\nCub Adventure Day Camp – We
+URL:https://global.scoutingevent.com/525-2027MADC
+END:VEVENT
+BEGIN:VEVENT
+UID:274368@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270721T140000Z
+DTEND:20270725T180000Z
+SUMMARY:Cub Scout Overnight Camp 2027 – Session 3
+LOCATION:Camp John H. Ware 3rd\, Peach Bottom\, Pennsylvania
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
+ 21155\n\n\n\nCub Scout Overnight Camp 2027\nCampsite Matrix\nDeerslayer C
+ ampsite\n(capacity: 10 units\, 100 attendees)\nSession 1\nHawkeye Campsit
+ e\n(capacity: 10 units\, 100 attendees)\nSession 1\nJubilee Campsite\n(ca
+ pacity: 10 units\, 100 attendees)\nSession 1\nLeatherstocking Campsite\n(
+ capacity: 10 units\, 100 attendees)\nSession 1\nMohican Campsite\n(capaci
+ ty: 10 units\, 100 attendees)\nSession 1\nPathfinder Campsite\n(capacity:
+  10 units\, 75 attendees)\nSession 1\nTrapper Campsite\n(capacity: 10 uni
+ ts\, 100 attendees)\nSession 1\n
+URL:https://global.scoutingevent.com/539-121155
+END:VEVENT
+BEGIN:VEVENT
+UID:265947@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T163000Z
+DTEND:20270731T130000Z
+SUMMARY:2027 Resica Falls Scouts BSA Resident Camp – Week 5
+LOCATION:Resica Falls Scout Reservation\, East Stroudsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-116698\n\n\n\nGet Ready for Adventure at Resica Falls!\nWe are proud to
+  offer a well-rounded program and constantly strive to create an exciting
+  experience for all who attend. Start getting ready for an action-packed 
+ and fun-filled week of activities and advancement!\nWhether you are a fir
+ st-year camper or a seasoned veteran\, we are committed to meeting your i
+ ndividual needs and expectations. For more information regarding program 
+ features\, merit badges\, and detailed schedules\, please review our Prog
+ ram Guide\, 
+URL:https://global.scoutingevent.com/525-116698
+END:VEVENT
+BEGIN:VEVENT
+UID:266493@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T150000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 6 - Scouts\, BSA
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:271949@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T170000Z
+DTEND:20270731T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 6
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:266500@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270725T190000Z
+DTEND:20270731T010000Z
+SUMMARY:2027 Camp Minsi Summer Camp – Week 6 - AOL Pioneer Camp
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-202
+ 7CampMinsiSummer\n\n\n\nCamp Minsi\, located in the heart of the Pocono m
+ ountains\, has been serving Scouts for over 100 years. The regional Scou
+ t summer camp encompasses more than 1\,200 acres of beautiful and pristin
+ e Pennsylvanian woodlands along the shores of the 314-acre Stillwater Lak
+ e.\nIn the summer of 2026 Scouts from more than 100 different packs\, tr
+ oops and crews visited Camp Minsi (with representation from over 27 diffe
+ rent BSA councils\, 9 US states\, and 4 countries) and enjoyed a week ful
+ l of swimming\, sailing
+URL:https://global.scoutingevent.com/502-2027CampMinsiSummer
+END:VEVENT
+BEGIN:VEVENT
+UID:275687@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270726T123000Z
+DTEND:20270730T193000Z
+SUMMARY:2027 Musser Adventure Day Camp – STEM Adventure Day Camp: July
+LOCATION:Camp Garrison\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-2027MADC\n\nArchery\, Engineering\, Fishing\n\nGet ready for an unforge
+ ttable summer of adventure\, discovery\, and hands-on fun at Musser Scout
+  Reservation!\nMusser Adventure Day Camps are open to all youth entering 
+ 1st through 8th grade in Fall 2027—you do not need to be a registered S
+ cout to attend! Whether your child is already part of Scouting or is look
+ ing for an exciting new summer experience\, our Adventure Day Camps offer
+  something for everyone.\n2027 Camp Dates\nCub Adventure Day Camp – Wee
+ k 1\nJuly 12–16\, 2027\nCub Adventure Day Camp – We
+URL:https://global.scoutingevent.com/525-2027MADC
+END:VEVENT
+BEGIN:VEVENT
+UID:274369@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270728T140000Z
+DTEND:20270801T180000Z
+SUMMARY:Cub Scout Overnight Camp 2027 – Session 4
+LOCATION:Camp John H. Ware 3rd\, Peach Bottom\, Pennsylvania
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
+ 21155\n\n\n\nCub Scout Overnight Camp 2027\nCampsite Matrix\nDeerslayer C
+ ampsite\n(capacity: 10 units\, 100 attendees)\nSession 1\nHawkeye Campsit
+ e\n(capacity: 10 units\, 100 attendees)\nSession 1\nJubilee Campsite\n(ca
+ pacity: 10 units\, 100 attendees)\nSession 1\nLeatherstocking Campsite\n(
+ capacity: 10 units\, 100 attendees)\nSession 1\nMohican Campsite\n(capaci
+ ty: 10 units\, 100 attendees)\nSession 1\nPathfinder Campsite\n(capacity:
+  10 units\, 75 attendees)\nSession 1\nTrapper Campsite\n(capacity: 10 uni
+ ts\, 100 attendees)\nSession 1\n
+URL:https://global.scoutingevent.com/539-121155
+END:VEVENT
+BEGIN:VEVENT
+UID:265948@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T163000Z
+DTEND:20270807T130000Z
+SUMMARY:2027 Resica Falls Scouts BSA Resident Camp – Week 6
+LOCATION:Resica Falls Scout Reservation\, East Stroudsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-116698\n\n\n\nGet Ready for Adventure at Resica Falls!\nWe are proud to
+  offer a well-rounded program and constantly strive to create an exciting
+  experience for all who attend. Start getting ready for an action-packed 
+ and fun-filled week of activities and advancement!\nWhether you are a fir
+ st-year camper or a seasoned veteran\, we are committed to meeting your i
+ ndividual needs and expectations. For more information regarding program 
+ features\, merit badges\, and detailed schedules\, please review our Prog
+ ram Guide\, 
+URL:https://global.scoutingevent.com/525-116698
+END:VEVENT
+BEGIN:VEVENT
+UID:271950@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270801T170000Z
+DTEND:20270807T140000Z
+SUMMARY:Bashore Summer Camp 2027 – Week 7
+LOCATION:Bashore Scout Reservation\, Jonestown\, Pennsylvania
+DESCRIPTION:Pennsylvania Dutch Council\nhttps://global.scoutingevent.com/5
+ 24-summer2027\n\nAquatics (Lifeguard / Water Rescue)\, Leave No Trace\, P
+ osition-Specific Leader Training\n\nBashore Scout Reservation offers one 
+ of the finest Scouting America summer camp programs. The camp offers fres
+ h and exciting programs that appeal to Scouts of all ranks and experience
+  levels\, as well as training opportunities and special programs for adul
+ t leaders. There’s something for everyone! Here’s just a small overvi
+ ew of what we offer:\nBlue Mountaineers\n— A superb program tailored to
+  the needs of the first-year campers and recent Arrow of Light crossover
+ s.\nGreen Bar Program\n— Designed for
+URL:https://global.scoutingevent.com/524-summer2027
+END:VEVENT
+BEGIN:VEVENT
+UID:270995@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270802T120000Z
+DTEND:20270806T210000Z
+SUMMARY:2027 Merit Badge Day Camp
+LOCATION:Musser Scout Reservation\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-119342\n\nArt\, Astronomy\, Bird Study\, Chemistry\, Disabilities Aware
+ ness\, Electronics\, Emergency Preparedness\, Environmental Science\, Fir
+ e Safety\, First Aid\, Fishing\, Insect Study\, Model Design and Building
+ \, Nuclear Science\, Painting\, Scouting Heritage\, Soil and Water Conser
+ vation\, Traffic Safety\n\nJoin us for another week of Merit Badge Day Ca
+ mp!\nThis camp will be a fun\, hands-on week of learning and adventure! S
+ couts will have the opportunity to work toward a variety of merit badges 
+ led by experienced counselors\, engage in skill-building activities\, and
+  explore new interests in an outdoor setting. Whether they’re discoveri
+ ng a new hobby or advancing on their Scouting journey\, participants will
+  leave with new knowledge\, new confidence\, and great memories from a we
+ ek packed with achievemen
+URL:https://global.scoutingevent.com/525-119342
+END:VEVENT
+BEGIN:VEVENT
+UID:280008@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270809T160000Z
+DTEND:20270814T230000Z
+SUMMARY:NYLT 2027 – Session 1
+LOCATION:Custaloga Town Scout Reservation\, Carlton\, Pennsylvania
+DESCRIPTION:French Creek Council\nhttps://global.scoutingevent.com/532-FCC
+ NYLT2027\n\nNYLT\n\nNational Youth Leadership Training\nCustaloga Town\nA
+ ugust 9th - 14th\, 2027\nNational Youth Leadership Training (NYLT) is an 
+ exciting\, action-packed program designed to provide youth with leadershi
+ p skills and experience that they can apply within their troops and in ot
+ her situations requiring leadership of self and others.\nNYLT is a six-da
+ y course that emphasizes hands-on learning in a fun\, engaging environmen
+ t. Through a blend of activities\, presentations\, challenges\, discussio
+ ns\, and games\, part
+URL:https://global.scoutingevent.com/532-FCCNYLT2027
+END:VEVENT
+BEGIN:VEVENT
+UID:265228@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270827T210000Z
+DTEND:20270829T140000Z
+SUMMARY:Venturing Phenomenon – 2027 Phenomenon
+LOCATION:Camp Sinoquipe Scout Reservation\, Fort Littleton\, Pennsylvania
+DESCRIPTION:Shenandoah Area Council\nhttps://global.scoutingevent.com/598-
+ phenomenon\n\nLeave No Trace\n\nPhenomenon - is a themed older youth we
+ ekend program for Crews\, Ships\, and Scouts BSA members ages 14+\, plann
+ ed by the older youth in the Shenandoah Area Council and other nearby CST
+  12 Councils\, and is based on the Venturing ALPS model.\n2026 Phenomeno
+ n Details\nWHO:\nFor adults and youth ages 14 and older\nRegistration Ope
+ ns:\nJuly 6\, 2026\nLate Fee Begins:\nAugust 7\, 2026 (12:00 AM)\nRegistr
+ ation Closes:\nAugust 14\, 2026 (11:59 PM)\nWHEN:\nFriday\, August 28 -
+  Sunday\, August 30\, 2026\nWHERE:\nCamp Sinoquip
+URL:https://global.scoutingevent.com/598-phenomenon
+END:VEVENT
+BEGIN:VEVENT
+UID:271286@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270911T130000Z
+DTEND:20270911T190000Z
+SUMMARY:Anawanna Trails Merit Badge Day – Automotive Maintence
+LOCATION:Camp Anawanna\, Amity\, Pennsylvania
+DESCRIPTION:Laurel Highlands Council\nhttps://global.scoutingevent.com/527
+ -119546\n\nAmerican Business\, Art\, Digital Technology\, Farm Mechanics\
+ , Game Design\, Metalwork\n\nMore information to come. Can't wait to see 
+ you all at camp!\nContact\nWhen & Where\nSave the Date\nAmerican Business
+  (AM) & Digital Technology (PM)\nCamp Anawanna\nSaturday 09-11-2027\n9:00
+  AM ET to 3:00 PM ET\nMore Information\nMap of Session\nCoords: 40.031554
+ \, -80.2383091\n155 Plumsock Rd\nAmity\, Pennsylvania 15311\nRegistration
+  Closes:\n&nbsp09-04-2027 11:59 PM\nSave the Date\nArt Merit Badge\nCamp 
+ Anawanna\nSaturday 09-11-2027\n9:00 AM ET to 3:00 PM ET\nMore Information
+ \nMap of Session\nCoords: 40.031554\, -80.2
+URL:https://global.scoutingevent.com/527-119546
+END:VEVENT
+BEGIN:VEVENT
+UID:259033@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270911T130000Z
+DTEND:20270911T170000Z
+SUMMARY:Range and Target Activities Day – Morning RATA Session
+LOCATION:Camp John H. Ware 3rd\, Peach Bottom\, Pennsylvania
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-1
+ 12837\n\n\n\nAnnual Health and Medical Record Parts A and B Required\nTig
+ ers\, Wolves\, Bears\, Webelos and Arrows of Light!\nJoin us for a Range 
+ and Target Activities Day at Camp Ware on Saturday September 11th.\nChoos
+ e between the morning (9am - 1pm) and afternoon (2pm-6pm) sessions.\nEarn
+  Archery\, BB\, and Slingshot Beltloop Adventures.\nBring your own lunch\
+ , snacks\, water bottle.\nUnfortunately Lions are unable to participate.\
+ nContact\nWhen & Where\nRegistration Opens 03-31-2027 12:00 AM\nMorning R
+ ATA Session\nCamp Jo
+URL:https://global.scoutingevent.com/539-112837
+END:VEVENT
+BEGIN:VEVENT
+UID:266589@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270917T113000Z
+DTEND:20270919T210000Z
+SUMMARY:2027 Minsi Trails Council Wood Badge Adult Training Experience –
+  2027 MInsi Trails Council Wood Badge Experience
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-MTC
+ WB2027\n\nWood Badge\n\nDO YOU WANT A MOUNTAIN TOP LEADERSHIP TRAINING EX
+ PERIENCE?\nREGISTER FOR THE 2027 WOOD BADGE COURSE TODAY!\nIn 1911\, Bade
+ n-Powell took the first steps in training Scouting’s adult leaders by o
+ rganizing a series of lectures for Scouters.  He made great strides in t
+ he years that followed\, culminating in 1919 with the establishment of Wo
+ od Badge training.  Wood Badge recipients number more than 100\,000 and 
+ can be found in all corners of the world.\nA Scouter participating in Woo
+ d Badge has the opportu
+URL:https://global.scoutingevent.com/502-MTCWB2027
+END:VEVENT
+BEGIN:VEVENT
 UID:276389@scout-event-finder
-DTSTAMP:20261125T203656Z
+DTSTAMP:20261126T200111Z
 DTSTART:20270918T130000Z
 DTEND:20270918T200000Z
 SUMMARY:2027 BB & Archery Rangemaster Trainings – September 18th Trainin
@@ -1445,5 +2674,187 @@ DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
   at district and council-operated events\, and may NOT be conducted at th
  e pack or den level.\nThis training does NOT certify s
 URL:https://global.scoutingevent.com/525-122111
+END:VEVENT
+BEGIN:VEVENT
+UID:275128@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20270924T223000Z
+DTEND:20270925T203000Z
+SUMMARY:BALOO Cub Leader Training Fall 2027
+LOCATION:Camp Bucoco\, Slippery Rock\, Pennsylvania
+DESCRIPTION:Moraine Trails Council\nhttps://global.scoutingevent.com/500-B
+ ALOOFall2027\n\nBALOO\, Position-Specific Leader Training\n\nThe Basic Ad
+ ult Leader Outdoor Orientation (BALOO) is a two-day training event that i
+ ntroduces leaders to the skills needed to plan and conduct Pack outdoor a
+ ctivities\, particularly Pack camping. BALOO includes information on prep
+ aration\, site selection\, parent involvement\, health and safety\, equip
+ ment\, food\, and outdoor skills.\nMoraine Trails Council will be using t
+ he new BALOO training syllabus\, which now includes an overnight campout\
+ , and also incorporates OWL (Outdoor Webelos Leader) trainin
+URL:https://global.scoutingevent.com/500-BALOOFall2027
+END:VEVENT
+BEGIN:VEVENT
+UID:279856@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271009T120000Z
+DTEND:20271010T150000Z
+SUMMARY:BALOO – Basic Adult Leader Outdoor Orientation Fall 2027: BALOO 
+ Fall 2026
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 23951\n\nBALOO\n\nBALOO: Basic Adult Leader Outdoor Orientation\n“Who s
+ hould take this training: Cub Scout leaders who will be helping with out
+ door experiences.  At least one BALOO trained leader is required for all
+  Cub Camping Events.”\n“Why should I take this training:  BALOO trai
+ ning covers topics from health and safety\, to the logistics of planning 
+ and running a successful camping trip for your pack. You'll learn about m
+ eal preparation\, camping\, cooking\, camping gear selection\, water safe
+ ty\, and campfire progra
+URL:https://global.scoutingevent.com/497-123951
+END:VEVENT
+BEGIN:VEVENT
+UID:279855@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271009T120000Z
+DTEND:20271010T150000Z
+SUMMARY:IOLS – Introduction to Outdoor Leader Skills Fall 2027: IOLS
+LOCATION:Seven Mountains Scout Camp\, Spring Mills\, Pennsylvania
+DESCRIPTION:Juniata Valley Council\nhttps://global.scoutingevent.com/497-1
+ 23950\n\nIOLS\, Position-Specific Leader Training\, Safeguarding Youth / 
+ YPT\n\nIOLS: Introduction to Outdoor Leader Skills\n“Who should take th
+ is training: For Scouting America leaders (especially new Scoutmasters 
+ and Assistant Scoutmasters)\, Venturing leaders\, and Cub Scout leaders t
+ hat want more outdoor experience. The course gives you experience working
+  as part of a Patrol and upon completion\, leaders will feel comfortable 
+ teaching Scouts the basic skills required to obtain the ranks up to First
+  Class.”\n“Why should I take this training:  Scouting’s outdoor pr
+ ogram is a c
+URL:https://global.scoutingevent.com/497-123950
+END:VEVENT
+BEGIN:VEVENT
+UID:266590@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271016T113000Z
+DTEND:20271017T210000Z
+SUMMARY:2027 Minsi Trails Council Wood Badge Adult Training Experience –
+  2027 MInsi Trails Council Wood Badge Experience Mandatory Second Weekend
+LOCATION:Camp Minsi\, Pocono Summit\, Pennsylvania
+DESCRIPTION:Minsi Trails Council\nhttps://global.scoutingevent.com/502-MTC
+ WB2027\n\nWood Badge\n\nDO YOU WANT A MOUNTAIN TOP LEADERSHIP TRAINING EX
+ PERIENCE?\nREGISTER FOR THE 2027 WOOD BADGE COURSE TODAY!\nIn 1911\, Bade
+ n-Powell took the first steps in training Scouting’s adult leaders by o
+ rganizing a series of lectures for Scouters.  He made great strides in t
+ he years that followed\, culminating in 1919 with the establishment of Wo
+ od Badge training.  Wood Badge recipients number more than 100\,000 and 
+ can be found in all corners of the world.\nA Scouter participating in Woo
+ d Badge has the opportu
+URL:https://global.scoutingevent.com/502-MTCWB2027
+END:VEVENT
+BEGIN:VEVENT
+UID:271647@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271105T220000Z
+DTEND:20271107T150000Z
+SUMMARY:CourageCon 2027
+LOCATION:Heritage Reservation\, Farmington\, Pennsylvania
+DESCRIPTION:Laurel Highlands Council\nhttps://global.scoutingevent.com/527
+ -CourageCon27\n\n\n\nLet your geek out at CourageCon! CourageCon will be 
+ a weekend of fun and fellowship through gaming. Scouts and Scouters will 
+ gather at Heritage Reservation's Pathfinder Lodge to play games\, learn n
+ ew games\, and make new friends.\nWhy gaming? Gaming teaches creativity\,
+  problem-solving\, sportsmanship\, teamwork\, communication\, leadership\
+ , critical thinking\, and much more! On top of all that\, it's just plain
+  fun.\nWhen\n:\nNovember 5-7\, 2027\nWhere:\nHeritage Reservation’s Pat
+ hfinder Lodge - 300 Heritage 
+URL:https://global.scoutingevent.com/527-CourageCon27
+END:VEVENT
+BEGIN:VEVENT
+UID:270392@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271106T040000Z
+DTEND:20271114T045900Z
+SUMMARY:Scouting for Food 2027
+LOCATION:Oscar Lasko PARC\, Exton\, Pennsylvania
+DESCRIPTION:Chester County Council\nhttps://global.scoutingevent.com/539-S
+ coutingforFood2027\n\n\n\nNov 6th-13th\, 2027\nCollect nonperishable food
+  items for families in need! It’s simple….\nRegister your Pack or Tr
+ oop here.\nPickup door hangers beginning October 25\, 2027 at PARC.\nPl
+ an to collect food November 13th\nDISTRIBUTE DOOR HANGERS A WEEK PRIOR T
+ O THE COLLECTION DATE TO GIVE FAMILIES TIME TO COLLECT FOOD!\nRECORD WHER
+ E YOU DISTRIBUTE THEM TO ENSURE YOU RETURN TO ALL OF THOSE HOMES!\nCollec
+ t food and deliver to your local food bank by November 20th.\nShare your
+  total collected food weight and o
+URL:https://global.scoutingevent.com/539-ScoutingforFood2027
+END:VEVENT
+BEGIN:VEVENT
+UID:279911@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20271112T230000Z
+DTEND:20271114T160000Z
+SUMMARY:Kuskitannee Fall Fellowship 2027
+LOCATION:Camp Bucoco\, Slippery Rock\, Pennsylvania
+DESCRIPTION:Moraine Trails Council\nhttps://global.scoutingevent.com/500-1
+ 23990\n\n\n\nThis weekend is for brothers of all honors. This weekend is 
+ an excellent time for Ordeal Members to seal their membership in the Orde
+ r of the Arrow. This weekend has service opportunities and activities bas
+ ed on a theme. During this weekend\, Silver Chief and Founder’s Award n
+ ominations and voting take place. It is packed full of fun and fellowship
+  for everyone.\nPayment required upon registering. No walk ins or pay at 
+ the doors allowed. If you have any questions or need assistance\, please 
+ reach o
+URL:https://global.scoutingevent.com/500-123990
+END:VEVENT
+BEGIN:VEVENT
+UID:269817@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280304T130000Z
+DTEND:20280304T210000Z
+SUMMARY:Eagle Valley Merit Badge University
+LOCATION:California University of Pennsylvania\, California\, Pennsylvania
+DESCRIPTION:Laurel Highlands Council\nhttps://global.scoutingevent.com/527
+ -118669\n\n\n\nSave the Date for Eagle Valley District's annual Merit Bad
+ ge University.\nPenn West University\, California Campus\, on Saturday Ma
+ rch 5\, 2028.\nWhen & Where\nSave the Date\nCalifornia University of Penn
+ sylvania\nSaturday 03-04-2028\n8:00 AM ET to 4:00 PM ET\nMore Information
+ \nMap of Event\nCoords: 40.0656021\, -79.8859011\n250 University Ave\nCal
+ ifornia\, Pennsylvania 15419\nRegistration Closes:\n&nbsp02-26-2028 11:59
+  PM\nContact
+URL:https://global.scoutingevent.com/527-118669
+END:VEVENT
+BEGIN:VEVENT
+UID:278823@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280428T113000Z
+DTEND:20280430T210000Z
+SUMMARY:Wood Badge – Wood Badge Weekend #1
+LOCATION:Camp Hart\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-123464\n\nBALOO\, IOLS\, Wood Badge\n\nScouting’s premier leadership 
+ training program for adults!\nThis is a two weekend event and you must at
+ tend both weekends.\nAny Scouter currently registered with Scouting Ameri
+ ca (from any district or council) who has completed the basic leadership 
+ training for their registered position is encouraged to attend.\nGet full
+  details at:\nhttps://scoutingphilly.org/training/woodbadge/\nHave you ta
+ ken a BALOO or IOLS course in the Cradle of Liberty Council in the last 1
+ 8 months?  If so\, you're entitled to 
+URL:https://global.scoutingevent.com/525-123464
+END:VEVENT
+BEGIN:VEVENT
+UID:278824@scout-event-finder
+DTSTAMP:20261126T200111Z
+DTSTART:20280520T120000Z
+DTEND:20280520T210000Z
+SUMMARY:Wood Badge – Wood Badge Weekend #2
+LOCATION:Camp Hart\, Pennsburg\, Pennsylvania
+DESCRIPTION:Cradle of Liberty Council\nhttps://global.scoutingevent.com/52
+ 5-123464\n\nBALOO\, IOLS\, Wood Badge\n\nScouting’s premier leadership 
+ training program for adults!\nThis is a two weekend event and you must at
+ tend both weekends.\nAny Scouter currently registered with Scouting Ameri
+ ca (from any district or council) who has completed the basic leadership 
+ training for their registered position is encouraged to attend.\nGet full
+  details at:\nhttps://scoutingphilly.org/training/woodbadge/\nHave you ta
+ ken a BALOO or IOLS course in the Cradle of Liberty Council in the last 1
+ 8 months?  If so\, you're entitled to 
+URL:https://global.scoutingevent.com/525-123464
 END:VEVENT
 END:VCALENDAR
